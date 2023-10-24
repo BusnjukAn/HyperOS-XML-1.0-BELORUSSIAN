@@ -3,6 +3,6 @@
 # HyperOS BELORUSSIAN  translation for xiaomi.eu builds 
 
 ##### Credits:
-- BusnjukAn
 - ingbrzy
+- IgorEisberg
 - kacskrz

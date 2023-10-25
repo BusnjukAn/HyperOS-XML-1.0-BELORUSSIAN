@@ -1186,4 +1186,7 @@ ID:%s
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="passport_input_email_vcode_hint">Увядзіце код</string>
   <string name="passport_vcode_email_send_prompt"><Data>Ваш код пацверджання быў адпраўлены на &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
+  <string name="empty_device_list">Тут яшчэ нічога няма</string>
+  <string name="user_agreement_read_phone_permission_desc">Для ўваходу ў сістэму з выкарыстаннем нумара тэлефона</string>
+  <string name="user_agreement_read_phone_permission_title">Чытаць нумары тэлефонаў</string>
 </resources>

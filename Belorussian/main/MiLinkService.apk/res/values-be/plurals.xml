@@ -120,4 +120,16 @@
         <item quantity="few">%d новых апавяшчэння</item>
         <item quantity="many">%d новых апавяшчэнняў</item>
     </plurals>
+   <plurals name="car_map_hour">
+    <item quantity="one">%d г.</item>
+    <item quantity="other">%d г.</item>
+  </plurals>
+  <plurals name="car_map_minute">
+    <item quantity="one">%d хв.</item>
+    <item quantity="other">%d хв.</item>
+  </plurals>
+  <plurals name="controller_auth_count_down">
+    <item quantity="one">Увядзіце код ад %1$s (%2$d сек.)</item>
+    <item quantity="other">Увядзіце код ад %1$s (%2$d сек.)</item>
+  </plurals>
 </resources>

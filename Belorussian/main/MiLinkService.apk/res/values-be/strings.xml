@@ -962,7 +962,7 @@
   <string name="cast_auth_count_down">Увядзіце код з \"%1$s\", каб пачаць трансляцыю (%2$ds)</string>
   <string name="circulate_card_disconnect">Адключыць</string>
   <string name="circulate_card_loading_title_audio_stereo">Стэрэасістэма</string>
-  <string name="circulate_card_loading_title_band">Гурт</string>
+  <string name="circulate_card_loading_title_band">Бранзалет</string>
   <string name="circulate_card_loading_title_bluetooth">Прылада Bluetooth</string>
   <string name="circulate_card_loading_title_headset">Навушнікі</string>
   <string name="circulate_card_loading_title_screen_sound">Смарт-дынамік Xiaomi</string>
@@ -1018,7 +1018,7 @@
   <string name="circulate_phone_card_use_desktop">Прагляд працоўнага стала тэлефона</string>
   <string name="circulate_phone_card_using_camera">Выкарыстанне камеры тэлефона…</string>
   <string name="circulate_phone_card_using_desktop">Прагляд працоўнага стала тэлефона…</string>
-  <string name="circulate_sport_device_find_band">Пошук гэтага гурта</string>
+  <string name="circulate_sport_device_find_band">Пошук гэтага бранзалета</string>
   <string name="circulate_sport_device_find_start">Пошук гэтай прылады…</string>
   <string name="circulate_sport_device_find_start_failed">Немагчыма знайсці гэту прыладу. Паспрабуйце яшчэ раз.</string>
   <string name="circulate_sport_device_find_stop">Спыніць</string>
@@ -1187,5 +1187,5 @@
   <string name="unlock_screen_to_authorize_camera">%s хоча выкарыстоўваць камеру гэтай прылады</string>
   <string name="upgrade_edit_mijia">Рэдагаваць</string>
   <string name="watch_more_setting">Дадатковыя параметры</string>
-  <string name="window_card_ml_find_null">Гэтай прылады можа быць не паблізу</string>
+  <string name="window_card_ml_find_null">Гэтай прылады можа не быць паблізу</string>
 </resources>

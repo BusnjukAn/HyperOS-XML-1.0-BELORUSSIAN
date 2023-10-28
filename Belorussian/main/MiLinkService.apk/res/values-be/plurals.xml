@@ -132,4 +132,22 @@
     <item quantity="one">Увядзіце код ад %1$s (%2$d сек.)</item>
     <item quantity="other">Увядзіце код ад %1$s (%2$d сек.)</item>
   </plurals>
+  <plurals name="car_map_kilometre">
+        <item quantity="other">%d км.</item>
+        <item quantity="one">%d км.</item>
+        <item quantity="few">%d км.</item>
+        <item quantity="many">%d км.</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f км.</item>
+        <item quantity="one">%.1f км.</item>
+        <item quantity="few">%.1f км.</item>
+        <item quantity="many">%.1f км.</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d м.</item>
+        <item quantity="one">%d м.</item>
+        <item quantity="few">%d м.</item>
+        <item quantity="many">%d м.</item>
+    </plurals>
 </resources>

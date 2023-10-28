@@ -10,52 +10,52 @@
   </string-array>
   <string-array name="settings_search_connect_car">
         <item>Спалучэнне праграм</item>
-        <item>Узаемасувязь/аб\'яднанне праграм</item>
+        <item>Узаемазлучальнасць/аб\'яднанне праграм</item>
         <item>Функцыі аўтамабіля</item>
     </string-array>
     <string-array name="settings_search_connection_home">
-        <item>Узаемасувязь</item>
-        <item>Узаемасувязь/Узаемасувязь</item>
-        <item>Узаемасувязь прылад, сэрвісы ўзаемасувязі прылад, Xiaomi, Xiaomi AIoT, AIoT, Комбинация экранов, смарт-злучэнне, Mi Smart Hub, узаемасувязь, Duo, тэлефон Xiaomi, ноўтбук Xiaomi, Multiscreen, Duet, кастынг, аб\'яднанне праграм, перадача перадачы, перадача праграмы , Люстэрка, экасістэма Xiaomi, падлучэнне прылады</item>
+        <item>Узаемазлучальнасць</item>
+        <item>Узаемазлучальнасць/Узаемазлучальнасць</item>
+        <item>Узаемазлучальнасць прылад, сэрвісы ўзаемазлучальнасці прылад, Xiaomi, Xiaomi AIoT, AIoT, смарт-злучэнне, Mi Smart Hub, узаемазлучальнасць, Duo, тэлефон Xiaomi, ноўтбук Xiaomi, Multiscreen, Duet, кастынг, аб\'яднанне праграм, перадача перадачы, перадача праграмы , Люстэрка, экасістэма Xiaomi, падлучэнне прылады</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Прыватнасць</item>
-        <item>Узаемасувязь/Прыватнасць</item>
-        <item>Прыватнасць і ўзаемасувязь, прыватнасць</item>
+        <item>Узаемазлучальнасць/Прыватнасць</item>
+        <item>Прыватнасць і ўзаемазлучальнасц, прыватнасць</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Сэрвісы ўзаемасувязі</item>
-        <item>Узаемасувязь/сэрвісы ўзаемасувязі</item>
-        <item>Сэрвісы ўзаемасувязі</item>
+        <item>Сэрвісы ўзаемазлучальнасці</item>
+        <item>Узаемазлучальнасць/сэрвісы ўзаемазлучальнасці</item>
+        <item>Сэрвісы ўзаемазлучальнасці</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Перадача праграмы</item>
-        <item>Узаемасувязь/перадача праграмы</item>
+        <item>Узаемазлучальнасць/перадача праграмы</item>
         <item>Перадача праграм, перадача, перадача</item>
     </string-array>
     <string-array name="settings_search_relay_call">
         <item>Выклікі</item>
-        <item>Узаемасувязь/Выклікі</item>
+        <item>Узаемазлучальнасць/Выклікі</item>
         <item>Выклікі</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Сеткавая дапамога</item>
-        <item>Узаемасувязь/Сеткавая дапамога</item>
+        <item>Узаемазлучальнасць/Сеткавая дапамога</item>
         <item>Сеткавая дапамога, прывязванне, сумеснае выкарыстанне пункту доступу</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Працоўны стол+</item>
-        <item>Узаемасувязь/Працоўны стол+</item>
+        <item>Узаемазлучальнасць/Працоўны стол+</item>
         <item>Працоўны стол+, Цэнтр трансляцыi, агульны экран</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Буфер абмену</item>
-        <item>Узаемасувязь/буфер абмену</item>
+        <item>Узаемазлучальнасць/буфер абмену</item>
         <item>Буфер абмену</item>
     </string-array>
     <string-array name="settings_search_share_notify">
         <item>Апавяшчэнні на розных прыладах</item>
-        <item>Узаемасувязь/Апавяшчэнні</item>
+        <item>Узаемазлучальнасць/Апавяшчэнні</item>
         <item>Апавяшчэнні на розных прыладах</item>
     </string-array>
 </resources>

@@ -21,7 +21,7 @@
     <string-array name="settings_search_connection_privacy">
         <item>Прыватнасць</item>
         <item>Узаемазлучальнасць/Прыватнасць</item>
-        <item>Прыватнасць і ўзаемазлучальнасц, прыватнасць</item>
+        <item>Прыватнасць і ўзаемазлучальнасць, прыватнасць</item>
     </string-array>
     <string-array name="settings_search_connection_service">
         <item>Сэрвісы ўзаемазлучальнасці</item>

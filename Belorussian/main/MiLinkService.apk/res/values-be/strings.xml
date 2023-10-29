@@ -960,7 +960,7 @@
   <string name="car_card_seat_warm">Падагрэў сядзенняў</string>
   <string name="car_crad_air_control_text">Кандыцыянер</string>
   <string name="car_seat_can_not_use">Недаступна</string>
-  <string name="cast_auth_count_down">Увядзіце код з \"%1$s\", каб пачаць трансляцыю (%2$ds)</string>
+  <string name="cast_auth_count_down">Увядзіце код з \"%1$s\", каб пачаць трансляцыю (%2$d сек.)</string>
   <string name="circulate_card_disconnect">Адключыць</string>
   <string name="circulate_card_loading_title_audio_stereo">Стэрэасістэма</string>
   <string name="circulate_card_loading_title_band">Бранзалет</string>
@@ -1113,12 +1113,12 @@
   <string name="privacy_confirm_revoke_and_exit_btn">Адклікаць</string>
   <string name="privacy_give_up_revoke_btn">Скасаваць</string>
   <string name="privacy_i_know_btn">Працягнуць</string>
-  <string name="privacy_phone_read_theme_privacy_policy"><Data>"Я прачытаў і згодны з \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Заявай аб адкліканні згоды на палітыку прыватнасці Xiaomi Interconnectivity&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_phone_read_theme_privacy_policy"><Data>"Я прачытаў і згодны з \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Заявай аб адкліканні згоды на палітыку прыватнасці Ўзаемазлучальнасць Xiaomi&lt;/a>&lt;/font>\"."</Data></string>
   <string name="privacy_read_statement">Спачатку пагадзіцеся з умовамі</string>
   <string name="privacy_revoke_agree_detail_content">%1$d. Пераканайцеся, што ў вас ёсць права адклікаць згоду, перш чым працягваць.\n%2$d. Пасля таго, як вы адклікаеце згоду, ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з дзеючымі законамі і правіламі, калі не патрабуецца іншае. Паколькі паслугі ўзаемазлучальнасцi прадастаўляюцца на аснове збору неабходнай асабістай інфармацыі, ваша адкліканне згоды будзе расцэньвацца як адмова прыняць паслугі ўзаемазлучальнасцi. Ваш адклік згоды не паўплывае на нармальнае выкарыстанне іншых функцый і сэрвісаў.\n%3$d. Адкліканне згоды - незваротнае дзеянне. Памятайце, што пасля адклікання вашай згоды вы не зможаце перагледзець сваё рашэнне.</string>
-  <string name="privacy_revoke_agree_detail_prompt">Заява аб адкліканні згоды на палітыку прыватнасці Xiaomi Interconnectivity</string>
-  <string name="privacy_revoke_agree_detail_title">Прачытайце і згадзіцеся з \"Заявай аб адкліканні згоды на Палітыку прыватнасці Xiaomi Interconnectivity\", перш чым адклікаць сваю згоду.</string>
-  <string name="privacy_revoke_agree_introduce">Калі вы працягнеце, вы адклікаеце сваю згоду з Палітыкай прыватнасці Xiaomi Interconnectivity. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з дзеючымі законамі і правіламі, калі не патрабуецца іншае. Паколькі паслугі ўзаемазлучальнасцi прадастаўляюцца на аснове збору неабходнай асабістай інфармацыі, ваша адкліканне згоды будзе расцэньвацца як адмова прыняць паслугі ўзаемазлучальнасцi. Ваш адклік згоды не паўплывае на нармальнае выкарыстанне іншых функцый і сэрвісаў.</string>
+  <string name="privacy_revoke_agree_detail_prompt">Заява аб адкліканні згоды на палітыку прыватнасці Ўзаемазлучальнасць Xiaomi</string>
+  <string name="privacy_revoke_agree_detail_title">Прачытайце і згадзіцеся з \"Заявай аб адкліканні згоды на Палітыку прыватнасці Ўзаемазлучальнасць Xiaomi\", перш чым адклікаць сваю згоду.</string>
+  <string name="privacy_revoke_agree_introduce">Калі вы працягнеце, вы адклікаеце сваю згоду з Палітыкай прыватнасці Ўзаемазлучальнасць Xiaomi. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з дзеючымі законамі і правіламі, калі не патрабуецца іншае. Паколькі паслугі ўзаемазлучальнасцi прадастаўляюцца на аснове збору неабходнай асабістай інфармацыі, ваша адкліканне згоды будзе расцэньвацца як адмова прыняць паслугі ўзаемазлучальнасцi. Ваш адклік згоды не паўплывае на нармальнае выкарыстанне іншых функцый і сэрвісаў.</string>
   <string name="privacy_revoke_agree_warning_map_text">Увага</string>
   <string name="privacy_revoke_succeed">Згода паспяхова адклікана</string>
   <string name="privacy_revoking_warning">Адкліканне згоды…</string>

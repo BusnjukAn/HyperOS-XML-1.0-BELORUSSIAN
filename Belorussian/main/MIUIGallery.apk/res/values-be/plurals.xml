@@ -773,4 +773,55 @@
         <item quantity="other">Абярыце да %d элементаў для адпраўкі</item>
         <item quantity="one">Абярыце да %d элемента для адпраўкі</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="one">%1d чалавек перад вамі</item>
+        <item quantity="other">%1d чалавек перад вамі</item>
+        <item quantity="few">%1d чалавека перад вамі</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="one">Час чакання: %s гадз.</item>
+        <item quantity="other">Час чакання: %s гадз.</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="one">Час чакання: %s хв.</item>
+        <item quantity="other">Час чакання: %s хв.</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="one">Стварэнне… | Час чакання: %d сек.</item>
+        <item quantity="other">Стварэнне… | Час чакання: %d сек.</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="one">Стварэнне… | %d чалавек перад вамі</item>
+        <item quantity="other">Стварэнне… | %d чалавек перад вамі</item>
+        <item quantity="few">Стварэнне… | %d чалавека перад вамі</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="one">Час чакання: %d хв.</item>
+        <item quantity="other">Час чакання: %d хв.</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="one">Стварэнне… | Засталося %d сек.</item>
+        <item quantity="other">Стварэнне… | Засталося %d сек.</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="one">%s гадз.</item>
+        <item quantity="other">%s гадз.</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="one">Адзін чалавек можа стварыць да %d выявы ШI.</item>
+        <item quantity="other">Адзін чалавек можа стварыць да %d выяв ШI.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="one">%d хв.</item>
+        <item quantity="other">%d хв.</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="one">Выбар фатаграфій (засталося %d сек.)…</item>
+        <item quantity="other">Выбар фатаграфій (засталося %d сек.)…</item>
+    </plurals>
+    <plurals name="search_title_ai">
+        <item quantity="one">Знойдзены %d элемент</item>
+        <item quantity="other">Знойдзена %d элементаў</item>
+        <item quantity="few">Знойдзена %d элемента</item>
+    </plurals>
 </resources>

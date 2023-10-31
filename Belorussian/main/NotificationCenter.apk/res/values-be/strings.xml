@@ -172,8 +172,8 @@
   <string name="notification_keyguard_show_content">Паказваць цалкам</string>
   <string name="notification_keyguard_show_nothing">Не паказваць</string>
   <string name="notification_manager">Апавяшчэннi праграм</string>
-  <string name="notification_style_android">Android</string>
-  <string name="notification_style_miui">MIUI</string>
+  <string name="notification_style_android">Андроід</string>
+  <string name="notification_style_miui">Класічны</string>
   <string name="off">Выкл.</string>
   <string name="on">Укл.</string>
   <string name="pm">ПП</string>
@@ -303,7 +303,7 @@
   <string name="feedback_tip_cancel">Дадзеныя апавяшчэнняў не будуць збірацца.</string>
   <string name="feedback_tip_msg">Для больш дакладнай групоўкі апавяшчэнняў нам неабходна ажыццяўляць збор інфармацыі пра назву праграмы, загаловак і апісанне апавяшчэння, а таксама пра час, у якое было атрымана апавяшчэнне. Адправіць водгук?</string>
   <string name="feedback_tip_title">Водгук аб катэгорыях апавяшчэнняў</string>
-  <string name="float_notification_snooze_summary_1_min">Правядзіце ўверх па ўсплывальным апавяшчэнні, каб схаваць маючыя адбыцца апавяшчэннi на %d</string>
+  <string name="float_notification_snooze_summary_1_min">Правядзіце ўверх па ўсплывальным апавяшчэнні, каб схаваць маючыя адбыцца апавяшчэннi на %d хв.</string>
   <string name="float_notification_snooze_summary_always_float">Заўсёды паказваць усплывальныя апавяшчэнні</string>
   <string name="float_notification_snooze_summary_until_unlock">Правядзіце ўверх па ўсплывальным апавяшчэнні, каб схаваць маючыя адбыцца, пакуль прылада будзе заблакаванаz</string>
   <string name="icon_content_description">Абразок дыялогу</string>

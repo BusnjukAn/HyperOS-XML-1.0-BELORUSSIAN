@@ -120,4 +120,11 @@
   <string name="wifi_direct">Wi-Fi Direct</string>
   <string name="wps_convert_error_toast_text">Не атрымалася пераўтварыць файл з-за памылкі фармату</string>
   <string name="wps_convert_too_large_and_wait_toast_text">Пераўтварэнне можа заняць больш часу з-за большага памеру файла. Пераўтварэнне…</string>
+  <string name="call_notification_answer_action">Адказаць</string>
+  <string name="call_notification_answer_video_action">Відэа</string>
+  <string name="call_notification_decline_action">Адхіліць</string>
+  <string name="call_notification_hang_up_action">Завяршыць</string>
+  <string name="call_notification_incoming_text">Уваходны выклік</string>
+  <string name="call_notification_ongoing_text">Бягучы выклік</string>
+  <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
 </resources>

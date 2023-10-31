@@ -3717,4 +3717,5 @@
   <string name="segment_send">Адправіць</string>
   <string name="segment_send_processing">Падрыхтоўка да адпраўкі…</string>
   <string name="text_segment">Выразанне з фота</string>
+  <string name="added_to_clipboard_description">Гэтае відэа не было спампована на вашу прыладу. Спампаваць і скапіяваць у буфер абмену?</string>
 </resources>

@@ -242,4 +242,9 @@
         <item quantity="few">Пераматаць назад на %d секунды</item>
         <item quantity="many">Пераматаць назад на %d секунд</item>
     </plurals>
+    <plurals name="manual_picture_style_desc_custom_add_max">
+     <item quantity="one">Дадайце не больш за %d перадусталёўку</item>
+     <item quantity="other">Дадайце не больш за %d перадусталёвак</item>
+     <item quantity="few">Дадайце не больш за %d перадусталёўкi</item>
+    </plurals>
 </resources>

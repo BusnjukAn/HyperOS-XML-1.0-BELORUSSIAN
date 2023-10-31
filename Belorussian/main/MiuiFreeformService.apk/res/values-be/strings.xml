@@ -404,4 +404,8 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">С</string>
   <string name="yesterday">Учора</string>
+  <string name="freeform_recommend_open_switch_summary_fold">У некаторых выпадках рэкамендаваныя праграмы будуць адкрывацца ў плаваючым акне на вонкавым экране, і ў плаваючым акне або ў раздзеленым экране на ўнутраным экране</string>
+  <string name="freeform_recommend_open_switch_summary_phone">У некаторых выпадках рэкамендаваныя праграмы будуць адкрывацца ў плаваючым акне</string>
+  <string name="pin_toast">Ссуньце ўверх і націсніце, каб адмацаваць гэту праграму</string>
+  <string name="pin_toast_nav">Націсніце i утрымлівайце кнопкі \"Назад\" і \"Прагляд\", каб адмацаваць гэту праграму.</string>
 </resources>

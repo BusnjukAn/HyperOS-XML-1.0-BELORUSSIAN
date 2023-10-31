@@ -258,4 +258,5 @@
   <string name="super_clipboard_alert_dialog_sure_button">ОК</string>
   <string name="super_clipboard_send_file">Уставіць файл з буфера абмену?</string>
   <string name="super_clipboard_send_image">Уставіць выяву з буфера абмену?</string>
+  <string name="phrase_network_tip_summary">Каб мець магчымасць сінхранізаваць вашы частыя выразы з воблакам і выкарыстоўваць іх на сваіх прыладах, дазвольце гэтай праграме падлучыцца да Інтэрнэту.</string>
 </resources>

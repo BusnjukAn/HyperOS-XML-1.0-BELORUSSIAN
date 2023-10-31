@@ -107,7 +107,7 @@
   <string name="error_send_file_not_found">Не атрымалася знайсці файл. Паспрабуйце яшчэ раз.</string>
   <string name="error_send_file_service_disabled">Адмененая выходная перадача</string>
   <string name="error_send_transfer_error">Немагчыма адправіць элементы. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
-  <string name="error_send_transfer_pc_error">Тайм-аўт перадачы. Абновіце праграму для абмену файламі на сваім кампутары і паспрабуйце ізноў.</string>
+  <string name="error_send_transfer_pc_error">Час чакання перадачы скончыўся. Абнавіце Xiaomi PC Manager да апошняй версіі і паўтарыце спробу.</string>
   <string name="error_slave_wifi_in_use">Абмен файламі немагчыма выкарыстоўваць, калі уключаны двухдыяпазонны Wi-Fi. Адключыце функцыю ў Наладах і паспрабуйце зноў.</string>
   <string name="error_slave_wifi_in_use_china">Абмен файламі немагчыма выкарыстоўваць, калі уключаны двухдыяпазонны Wi-Fi. Адключыце функцыю ў Наладах і паспрабуйце зноў.</string>
   <string name="error_timeout">Час сеансу скончыўся. Пачакайце хвіліну ці дзве, і паспрабуйце зноў.</string>
@@ -457,8 +457,8 @@
   <string name="nfc_connecting">Падлучэнне…</string>
   <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Каб злучыць прылады, спачатку ўключыце Wi-Fi і Bluetooth на гэтай прыладзе. Уключыць зараз?</string>
   <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Каб злучыць прылады, спачатку ўключыце Wi-Fi і Bluetooth на гэтай прыладзе. Уключыць зараз?</string>
-  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Немагчыма падлучыцца да камп\'ютара. Упэўніцеся, што вы ўключылі Wi-Fi і Bluetooth як на мабільнай прыладзе, так і на камп\'ютары, і што на вашым камп\'ютары працуе Mi Smart Hub.</string>
-  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Немагчыма падлучыцца да камп\'ютара. Упэўніцеся, што вы ўключылі Wi-Fi і Bluetooth як на мабільнай прыладзе, так і на камп\'ютары, і што на вашым камп\'ютары працуе Mi Smart Hub.</string>
+  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Немагчыма падлучыцца да кампутара. Упэўніцеся, што вы ўключылі Wi-Fi і Bluetooth як на мабільнай прыладзе, так і на кампутары, і што на вашым кампутары запушчаны Xiaomi PC Manager.</string>
+  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Немагчыма падлучыцца да кампутара. Упэўніцеся, што вы ўключылі Wi-Fi і Bluetooth як на мабільнай прыладзе, так і на кампутары, і што на вашым кампутары запушчаны Xiaomi PC Manager.</string>
   <string name="nfc_share">Абмен файламі праз NFC</string>
   <string name="nfc_wifi_and_bluetooth">Уключыць Wi-Fi і Bluetooth</string>
   <string name="nfc_wifi_and_bluetooth_china">Уключыць Wi-Fi і Bluetooth</string>
@@ -479,7 +479,7 @@
   <string name="send_one_zip_dialog_desc_receiving">Атрыманне %2$d ZIP-файла \"%3$s\" ад %1$s</string>
   <string name="sub_title_turbo_mode">Супер хуткія перадачы паміж тэлефонамі і планшэтамі Xiaomi. Падчас перадачы сетка будзе адключана.</string>
   <string name="sub_title_withdraw_privacy_policy_consent">Адкліканне згоды на Палітыку канфідэнцыяльнасці таксама адключыць Абмен файламі</string>
-  <string name="transfer_to_pc_summary_new_plus"><Data>Настольная версія Mi Smart Hub цяпер падтрымлівае Абмен файламі! Вы можаце знайсці спіс падтрымоўваных мадэляў камп\'ютараў &lt;a href=%1$s>тут&lt;/a>. Калі ў вас яшчэ няма гэтай функцыі, вы можаце спампаваць яе праз Mi PC Suite.</Data></string>
+  <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager цяпер падтрымлівае Абмен файламі! Вы можаце знайсці спіс падтрымоўваных мадэляў кампутараў &lt;a href=%1$s>тут&lt;/a>.</Data></string>
   <string name="withdraw">Адклікаць</string>
   <string name="withdraw_consent_message">Калі вы працягнеце, вы адклікаеце сваю згоду на Палітыку прыватнасці Абмена файламі. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з дзеючымі законамі і правіламі, калі не патрабуецца іншае. Паколькі Абмен файламі прадастаўляе свае паслугі на аснове збору неабходнай асабістай інфармацыі, ваш адкліканне згоды будзе разглядацца як адмова ад прыняцця паслуг Абмена файламі.</string>
   <string name="withdraw_consent_title">Адкліканне згоды</string>

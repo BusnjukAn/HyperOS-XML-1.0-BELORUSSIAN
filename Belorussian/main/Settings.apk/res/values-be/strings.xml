@@ -3438,9 +3438,9 @@
   <string name="face_data_manage_unlock_slide_msg">Замяніць дзеянні слайдера разблакаваннем па твару</string>
   <string name="face_data_manage_unlock_title">Разблакоўка па твару</string>
   <string name="face_data_siggesstion_next">Далей</string>
-  <string name="face_data_siggesstion_next_cn">ОК</string>
+  <string name="face_data_siggesstion_next_cn">Згодны</string>
   <string name="face_data_siggesstion_next_time">Далей (%d сек.)</string>
-  <string name="face_data_siggesstion_next_time_cn">ОК (%d сек.)</string>
+  <string name="face_data_siggesstion_next_time_cn">Згодны (%d сек.)</string>
   <string name="face_data_suggesstion_first">Разблакаванне па твару менш бяспечная, чым PIN-код, пароль або графічны ключ. Ваша прылада можа быць разблакаваная вашай фатаграфіяй, а таксама  людзьмі з падобнай знешнасцю.</string>
   <string name="face_data_suggesstion_first_cn">Каб вы маглі выкарыстоўваць разблакаванне па твару, нам неабходна сабраць дадзеныя пра ваш твар. Гэтыя дадзеныя будуць захоўвацца лакальна на гэтай прыладзе.</string>
   <string name="face_data_suggesstion_first_cn_highlight">Разблакаванне па твару менш бяспечнае, чым PIN-код, пароль, графічны ключ або адбітак пальца. Прылада можа быць разблакавана з дапамогай вашай фатаграфіі, а таксама людзьмі з падобнай знешнасцю.</string>
@@ -7612,7 +7612,7 @@
   <string name="search_preferred_network_type_title">Тып пераважнай сеткі;Пераважная сетка;Тып сеткі</string>
   <string name="search_privacy_policy">Палітыка прыватнасцi</string>
   <string name="search_privacy_settings">Рэзерваванне і скід;Рэзерваванне і скід;Рэзерваванне;Стварэнне рэзервовай копіі</string>
-  <string name="search_result_feedback_text">Не ўдалося знайсці вынікі</string>
+  <string name="search_result_feedback_text">Не ўдалося знайсці вынікі? Націсніце, каб паведаміць.</string>
   <string name="search_ring_volume_option_title">Гучнасць;гучнасць;Мелодыя і апавяшчэннi;мелодыя;Будзільнік;Музыка</string>
   <string name="search_ringtone_title">Мелодыя званка;мелодыі</string>
   <string name="search_screen_effect">Колеры і насычанасць;Колеры і кантраснасць;колер;насычанасць колеру;кантраснасць</string>
@@ -10799,4 +10799,7 @@
   <string name="zone_menu_by_region">Абраць паводле рэгіёна</string>
   <string name="zone_time_type_dst">Летні час</string>
   <string name="zone_time_type_standard">Стандартны час</string>
+  <string name="view_face_privacy_policy"><Data>Прачытайце і згадзіцеся з &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>Заявай аб прыватнасці \"Дадзеныя твару і блакаванне экрана\"&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="view_fingerprint_privacy_policy"><Data>Прачытайце і згадзіцеся з &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>Заявай аб прыватнасці \"Адбіткі пальцаў і блакаванне экрана\"&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="bluetooth_audio_share_replace_request">Пасля падлучэння бягучыя навушнікі будуць заменены, каб працягнуць праслухоўванне</string>
 </resources>

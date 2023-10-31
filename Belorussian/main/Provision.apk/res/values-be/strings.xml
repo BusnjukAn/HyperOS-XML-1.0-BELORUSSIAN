@@ -42,7 +42,7 @@
   <string name="agree_terms_input_method_kika">Я прачытаў і прымаю Палітыку прыватнасцi Kika.</string>
   <string name="agreement_declare_use_network_and_location_china">"Акрамя таго, наступныя службы будуць падлучацца да сеткі і атрымліваць доступ да вашага месцазнаходжанні: "</string>
   <string name="agreement_declare_use_network_china">будуць падлучацца да сеткі.</string>
-  <string name="ai_button_desc">Кнопка AI дазваляе запускаць Mi ШI і выкарыстоўваць цэтлікі Mi ШI.</string>
+  <string name="ai_button_desc">Кнопка ШI дазваляе запускаць Mi ШI і выкарыстоўваць цэтлікі Mi ШI.</string>
   <string name="ai_button_double_press">Падвоены націск</string>
   <string name="ai_button_double_press_desc">Двойчы націсніце кнопку ШI для выканання карыстальніцкіх задач</string>
   <string name="ai_button_long_press">Націск і ўтрыманне</string>
@@ -71,7 +71,7 @@
   <string name="carousel_setting">Наладзьце экран блакавання</string>
   <string name="carousel_setting_sub">Карусель шпалер будзе паказваць вам свежыя гісторыі кожны раз, калі вы разблакуеце сваю прыладу</string>
   <string name="carrier_introduction_china">Для прадастаўлення вам лепшых паслуг прылада можа перыядычна адпраўляць інфармацыю аб версіі прылады, ідэнтыфікацыйныя дадзеныя прылады (у тым ліку IMEI/IMSI/MSISDN/MAC-адрас, Meid/ICCID) і інфармацыю аб прыблізным месцазнаходжанні (уключаючы ідэнтыфікатар базавай станцыі) аператару праз Wi- Fi, сетку мабільных дадзеных або ў бясплатным SMS. Аператар абяцае аналізаваць адпаведную інфармацыю толькі для лепшага аказання ці прадастаўленні спецыялізаваных паслуг або тэхналогій, а таксама не будзе раскрываць адпаведную інфармацыю трэцім асобам у любой форме, якая дазваляе вызначыць вашу асобу. Канкрэтная заява аператара мае пераважную сілу. Звярніцеся да свайго аператару за звесткамі аб кошце выкарыстання дадзенай паслугі.</string>
-  <string name="check_box_label"><Data>\"Уключаючы гэтую функцыю, вы згаджаецеся з &lt;a href=%1$s>Палітыкай прыватнасці службаў міжсеткавага ўзаемадзеяння Xiaomi&lt;/a>.\"</Data></string>
+  <string name="check_box_label">"<Data>Уключаючы гэтую функцыю, вы згаджаецеся з яе &lt;a href=%1$s>Палітыкай прыватнасці&lt;/a>.</Data>"</string>
   <string name="chinese_digit_zero">〇</string>
   <string name="clearable_edittext_clear_description">Ачысціць</string>
   <string name="clock_introduction">Вы можаце ўжываць этe праграму для прагляду часу. Яна таксама змяшчае таймер, сусветны час, секундамер і дазваляе ўсталёўваць будзільнікі і рабіць многае іншае.</string>
@@ -132,7 +132,7 @@
   <string name="evening">Поўдзень</string>
   <string name="expand_button_title">Дадаткова</string>
   <string name="fast_application_introduction">Абалонка «Хуткія праграмы» дазваляе ствараць і прадастаўляць паслугі ў Хуткіх праграмах.</string>
-  <string name="fast_pairing_introduction">Mi Link дазваляе вашай прыладзе падлучацца да Bluetooth-прылад паблізу з дапамогай паслугі MIUI Bluetooth. Для пошуку прылад паблізу дазволіце сэрвісу MIUI Bluetooth падключацца да Інтэрнэту.</string>
+  <string name="fast_pairing_introduction">Mi Link дазваляе вашай прыладзе падлучацца да Bluetooth-прылад паблізу.</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -180,8 +180,8 @@
   <string name="font_settings_title">Настройкі шрыфтоў</string>
   <string name="font_use_case_text_example">Цела</string>
   <string name="font_use_case_title_example">Загаловак</string>
-  <string name="framework_introduction">Mi Services Framework дазваляе выкарыстоўваць Xiaomi акаўнт, Mi Push, Mi Статыстыку і бізнес-аналітыку MIUI.</string>
-  <string name="framwork_base_service">Для прадастаўлення вам гэтых паслуг Mi Services Framework (Xiaomi акаўнт, Mi Push, Mi Статыстыка, Бізнес-аналітыка MIUI) патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, нумары тэлефон, IMEI і IMSI. Вы такэже павінны дазволіць вашай прыладзе атрымліваць push-апавяшчэнні</string>
+  <string name="framework_introduction">Xiaomi Services Framework дазваляе выкарыстоўваць Xiaomi акаўнт, Mi Push, Статыстыку і бізнес-аналітыку.</string>
+  <string name="framwork_base_service">Для прадастаўлення вам гэтых паслуг Xiaomi Services Framework (Xiaomi акаўнт, Mi Push, Статыстыка, Бізнес-аналітыка ) патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, нумары тэлефон, IMEI і IMSI. Вы такэже павінны дазволіць вашай прыладзе атрымліваць push-апавяшчэнні.</string>
   <string name="friday">Пятніца</string>
   <string name="friday_short">Птн</string>
   <string name="friday_shortest">П</string>
@@ -318,7 +318,7 @@
   <string name="other_settings">Базавыя налады</string>
   <string name="other_settings_ad_dialog_agree">Уключыць</string>
   <string name="other_settings_ad_dialog_content">Пасля адключэння гэтай функцыі вы больш не будзеце атрымліваць персаналізаваную рэкламу. Аднак вы ўсё роўна ўбачыце рэкламу, якая не мае дачынення да вашых інтарэсаў. Вы можаце даведацца больш пра персаналізаванай рэкламе ў Палітыцы прыватнасці Xiaomi.\nУсё роўна адключыць персаналізаваную рэкламу?</string>
-  <string name="other_settings_ad_dialog_content_for_global">Калі персаналізаваныя рэкламныя рэкамендацыі адключаныя, вы па-ранейшаму будзеце бачыць такую ж колькасць рэкламы ў сістэмных праграмах MIUI, як і пры ўключанай функцыі. Аднак рэклама ад Xiaomi і іншых платформ будзе больш не актуальная, паколькі яна не будуць грунтавацца на вашых асабістых перавагах.</string>
+  <string name="other_settings_ad_dialog_content_for_global">Калі персаналізаваныя рэкламныя рэкамендацыі адключаныя, вы па-ранейшаму будзеце бачыць такую ж колькасць рэкламы ў сістэмных праграмах, як і пры ўключанай функцыі. Аднак рэклама ад Xiaomi і іншых платформ будзе больш не актуальная, паколькі яна не будуць грунтавацца на вашых асабістых перавагах.</string>
   <string name="other_settings_ad_dialog_disagree">Выключыць</string>
   <string name="other_settings_ad_disable_summary">Уключыць персаналізаваную рэкламу</string>
   <string name="other_settings_ad_enable">Персаналізаваны рэклама</string>
@@ -328,8 +328,8 @@
   <string name="other_settings_alarm_assistance_summary">Вы можаце аўтаматычна адпраўляць інфармацыю аб сваім месцазнаходжанні ў паліцыю з дапамогай SMS або мабільных дадзеных, калі тэлефануеце па нумары 110, 120, 119 або 122. Прачытайце і прыміце нашы &lt;a href=\"%1$s\">Карыстальніцкую дамову&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a> перад выкарыстаннем гэтай функцыі.</string>
   <string name="other_settings_alarm_assistance_user">Карыстальніцкая дамова</string>
   <string name="other_settings_auto_update">Аўтаматычнае абнаўленне сістэмы</string>
-  <string name="other_settings_auto_update_summary">MIUI абярэ зручны час для загрузкі і ўстаноўкі абнаўленняў. Ваша прылада будзе аўтаматычна перазагружана для ўжывання зменаў.</string>
-  <string name="other_settings_auto_update_summary_v1">Дазволіць MIUI выбіраць лепшы час для загрузкі і ўсталёўкі абнаўленняў. Ваша прылада будзе аўтаматычна перазагружана, каб змены набылі моц.</string>
+  <string name="other_settings_auto_update_summary">Сiстэма абярэ зручны час для загрузкі і ўстаноўкі абнаўленняў. Ваша прылада будзе аўтаматычна перазагружана для ўжывання зменаў.</string>
+  <string name="other_settings_auto_update_summary_v1">Дазволіць сiстэме выбіраць лепшы час для загрузкі і ўсталёўкі абнаўленняў. Ваша прылада будзе аўтаматычна перазагружана, каб змены набылі моц.</string>
   <string name="other_settings_enhanced_lockscreen">Карусель шпалер</string>
   <string name="other_settings_enhanced_lockscreen_for_india">Glance для Mi</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Палітыка прыватнасці</string>
@@ -339,9 +339,9 @@
   <string name="other_settings_get_apps_summary">Абнавіце сістэму і праграмы пабочных партнёраў праз GetApps, каб мець магчымасць выкарыстоўваць іх найноўшыя функцыі.\nВы можаце адключыць аўтаматычныя абнаўленні ў GetApps > Налады > Аўтаабнаўленні.</string>
   <string name="other_settings_location">Месцазнаходжанне</string>
   <string name="other_settings_location_summary">Дазволіць праграмам і вэб-сайтам атрымліваць доступ да інфармацыі аб вашым месцазнаходжанні для прадастаўлення паслуг на аснове месцазнаходжання</string>
-  <string name="other_settings_quality_service">Дазволы дэмана MIUI</string>
-  <string name="other_settings_quality_service_summary">Дэман MIUI выкарыстоўваецца для павышэння стабільнасці і прадукцыйнасці сістэмы. Для нармальнай працы гэтай службе неабходны дазволы на доступ і захаванне элементаў у сховішча прылады.</string>
-  <string name="other_settings_upload_debug_log_detail">Дапамажыце палепшыць працу вашай прылады MIUI, аўтаматычна адпраўляючы дыягнастычныя дадзеныя, дадзеныя аб выкарыстанні прылады і праграм у Xiaomi. Гэта дапаможа павялічыць час аўтаномнай працы, павысіць стабільнасць сістэмы і праграм MIUI і многае іншае.\nДадзеныя будуць утрымліваць агульную інфармацыю аб вашай прыладзе і пра тое, як вы яе выкарыстоўваеце (напрыклад, аб узроўні зарада батарэі, актыўнасці сістэмы і праграм, а таксама пра памылкі). Дадзеныя будуць выкарыстаны для паляпшэння прылад MIUI.\nАдключэнне гэтай функцыі не ўплывае на здольнасць вашага прылады адпраўляць інфармацыю, неабходную для асноўных службаў, такіх як абнаўлення сістэмы і бяспеку.\nВы можаце кіраваць гэтай функцыяй, выбраўшы \"Налады\" - \"Паролі і бяспека\" - \"Прыватнасць\" - \"Аўтаматычная адпраўка дыягнастычных дадзеных \".</string>
+  <string name="other_settings_quality_service">Дазволы дэмана сiстэмы</string>
+  <string name="other_settings_quality_service_summary">Дэман сiстэмы выкарыстоўваецца для павышэння стабільнасці і прадукцыйнасці сістэмы. Для нармальнай працы гэтай службе неабходны дазволы на доступ і захаванне элементаў у сховішча прылады.</string>
+  <string name="other_settings_upload_debug_log_detail">Дапамажыце палепшыць працу вашай прылады, аўтаматычна адпраўляючы дыягнастычныя дадзеныя, дадзеныя аб выкарыстанні прылады і праграм у Xiaomi. Гэта дапаможа павялічыць час аўтаномнай працы, павысіць стабільнасць сістэмы і праграм MIUI і многае іншае.\nДадзеныя будуць утрымліваць агульную інфармацыю аб вашай прыладзе і пра тое, як вы яе выкарыстоўваеце (напрыклад, аб узроўні зарада батарэі, актыўнасці сістэмы і праграм, а таксама пра памылкі). Дадзеныя будуць выкарыстаны для паляпшэння прылад MIUI.\nАдключэнне гэтай функцыі не ўплывае на здольнасць вашага прылады адпраўляць інфармацыю, неабходную для асноўных службаў, такіх як абнаўлення сістэмы і бяспеку.\nВы можаце кіраваць гэтай функцыяй, выбраўшы \"Налады\" - \"Паролі і бяспека\" - \"Прыватнасць\" - \"Аўтаматычная адпраўка дыягнастычных дадзеных \".</string>
   <string name="other_settings_upload_debug_log_summary">Статыстыка выкарыстання, якая дапамагае нам знайсці і вырашыць праблемы, можа ўтрымліваць вашу асабістую інфармацыю</string>
   <string name="other_settings_upload_debug_log_title">Адпраўляць дыягнастычныя дадзеныя аўтаматычна</string>
   <string name="other_settings_user_experience">Праграма паляпшэння якасці</string>
@@ -393,7 +393,7 @@
   <string name="permission_make_a_call">Здзяйсняць выклікі</string>
   <string name="permission_make_a_call_fast_application_summary">Для дазволу хуткім праграмам здзяйсняць выклікі;</string>
   <string name="permission_message_introduction">Для адпраўкі паведамленняў заблакаваным кантактам</string>
-  <string name="permission_MIUIDaemon_introduction">Дэман MIUI дазваляе перадаваць дадзеныя з вашай прылады, калі яе экран пашкоджаны.</string>
+  <string name="permission_MIUIDaemon_introduction">Дэман сiстэмы дазваляе перадаваць дадзеныя з вашай прылады, калі яе экран пашкоджаны.</string>
   <string name="permission_phone_imei_device">Для доступу да IMEI з мэтай ідэнтыфікацыі прылад</string>
   <string name="permission_phone_network">Для доступу да звестак пра тып сеткі з мэтай аптымізацыі і налады аб\'ектаў, якія можна спампаваць</string>
   <string name="permission_phone_service">Доступ да нумара тэлефона, IMEI і IMSI</string>
@@ -524,7 +524,7 @@
   <string name="service_name_location">Геалакацыйныя службы</string>
   <string name="service_name_lockscreen">Чаргаванне тэмаў</string>
   <string name="service_name_message">Абмен паведамленнямі</string>
-  <string name="service_name_MIUIDaemon">Дэман MIUI</string>
+  <string name="service_name_MIUIDaemon">Дэман сiстэмы</string>
   <string name="service_name_note">Нататкі</string>
   <string name="service_name_recorder">Дыктафон</string>
   <string name="service_name_screen_recording">Запіс экрана</string>
@@ -535,12 +535,12 @@
   <string name="service_policy_adjust_content">Палітыка прыватнасці Xunlei</string>
   <string name="service_policy_download"><Data>Прачытайце і прыміце &lt;a href=%1$s>Палітыку прыватнасці Xunlei&lt;/a> i &lt;a href=%1$s>Пагадненне сеткавых службаў Xunlei&lt;/a> перш чым працягнуць.</Data></string>
   <string name="service_privacy_index">Палітыка прыватнасці</string>
-  <string name="service_security_over_r"><Data>Прачытайце і прыміце нашу &lt;a href=%1$s>Палітыку прыватнасцi&lt;/a>.&lt;br/>&lt;br/>У адпаведнасці са стандартамі Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>, аднаразовы дазвол будзе адкліканы на працягу ўсталяванага перыяду часу (каля &lt;xliff:g example=5 сек. id=short>%3$s&lt;/xliff:g>) пасля таго, як адпаведная праграма спыніць працу. Калі вы адкрыеце праграму на працягу гэтага кароткага перыяду часу, дазвол будзе адкліканы.</Data></string>
+  <string name="service_security_over_r"><Data>Прачытайце і прыміце нашу &lt;a href=%1$s>Палітыку прыватнасцi&lt;/a>.</Data></string>
   <string name="service_sim_activation">Актывацыя SIM-карты</string>
   <string name="servicestate_title">Заяву аб асноўных паслугах</string>
   <string name="setting_locale">Налады рэгіёна…</string>
   <string name="shut_down">Адключэнне</string>
-  <string name="sim_activation_introduction">Служба актывацыі SIM-карты правярае інфармацыю аб устаўленай ў дадзены момант SIM-карце, каб пераканацца, што службы MIUI могуць працаваць нармальна. Гэтыя паслугі ўключаюць у сябе пошук прылады, Mi паведамленнi, стварэнне уліковых запісаў Mi з выкарыстаннем тэлефонных нумароў, а таксама сінхранізацыю паведамленняў і гісторыі выклікаў.</string>
+  <string name="sim_activation_introduction">Служба актывацыі SIM-карты правярае інфармацыю аб устаўленай ў дадзены момант SIM-карце, каб пераканацца, што службы сiстэмы могуць працаваць нармальна. Гэтыя паслугі ўключаюць у сябе пошук прылады, Mi паведамленнi, стварэнне уліковых запісаў Xiaomi з выкарыстаннем тэлефонных нумароў, а таксама сінхранізацыю паведамленняў і гісторыі выклікаў.</string>
   <string name="sim_card_detecting">Праверка SIM-карты…</string>
   <string name="sim_card_detecting_check">SIM-карта не знойдзена. Пераканайцеся, што SIM-карта ўстаноўлена правільна і на балансе дастаткова сродкаў.</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Дазволіць злучэння з мабільнымі сеткамі перадачы дадзеных? Усталяваная SIM-карта будзе выкарыстоўвацца для злучэння з мабільнымі сеткамі перадачы дадзеных.</string>
@@ -615,8 +615,8 @@
   <string name="terms_of_use_label_mab">MAB</string>
   <string name="terms_of_use_label_mi_account">Кампаненты Xiaomi акаўнта</string>
   <string name="terms_of_use_label_Mistore">Сістэмная ўбудова Mi Store</string>
-  <string name="terms_of_use_label_miuiDaemon">Дэман MIUI</string>
-  <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+  <string name="terms_of_use_label_miuiDaemon">Дэман сiстэмы</string>
+  <string name="terms_of_use_label_miuisdk">SDK сiстэмы</string>
   <string name="terms_of_use_label_MSA">MSA</string>
   <string name="terms_of_use_label_os">Налада ШІ АС</string>
   <string name="terms_of_use_label_package">Усталёўнік пакетаў</string>
@@ -634,8 +634,8 @@
   <string name="terms_of_use_label_translation">Служба перакладу</string>
   <string name="terms_of_use_label_unionplay_security">Элемент бяспекі UnionPay TSM (версія для Xiaomi)</string>
   <string name="terms_of_use_label_updater">Абнаўленне</string>
-  <string name="terms_of_use_label_use_location_and_network_global">Перад выкарыстаннем MIUI вы павінны прачытаць і прыняць наша Пагадненне карыстальніка і Палітыку прыватнасці. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з адпаведнымі законамі, пастановамі і палітыкамі прыватнасці. Калі ваша прылада будзе актывавана, наступныя службы падключацца да сеткі і атрымаюць доступ да вашага месцазнаходжання:</string>
-  <string name="terms_of_use_label_use_network_china">Перад выкарыстаннем MIUI вы павінны прачытаць і прыняць наша Пагадненне карыстальніка і Палітыку прыватнасці. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з адпаведнымі законамі, пастановамі і палітыкамі прыватнасці. Калі ваша прылада будзе актывавана, да сеткі будуць падлучаныя наступныя службы:</string>
+  <string name="terms_of_use_label_use_location_and_network_global">Перад выкарыстаннем сiстэмы вы павінны прачытаць і прыняць наша Пагадненне карыстальніка і Палітыку прыватнасці. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з адпаведнымі законамі, пастановамі і палітыкамі прыватнасці. Калі ваша прылада будзе актывавана, наступныя службы падключацца да сеткі і атрымаюць доступ да вашага месцазнаходжання:</string>
+  <string name="terms_of_use_label_use_network_china">Перад выкарыстаннем сiстэмы вы павінны прачытаць і прыняць наша Пагадненне карыстальніка і Палітыку прыватнасці. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з адпаведнымі законамі, пастановамі і палітыкамі прыватнасці. Калі ваша прылада будзе актывавана, да сеткі будуць падлучаныя наступныя службы:</string>
   <string name="terms_of_use_label_wallpaper">Шпалеры</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">\n\nПерад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку прыватнасцi Facemoji.</string>
   <string name="terms_of_use_lable_default_input_method_kika">\n\nПерад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку прыватнасцi Kika.</string>
@@ -720,4 +720,31 @@
   <string name="withdraw_consent">Калі вы адмовіцеся ад згоды, службы Каруселі шпалер будуць адключаныя.</string>
   <string name="yesterday">Учора</string>
   <string name="zone_picker_title">Выберыце часавы пояс</string>
+  <string name="after_sales_support">Пасляпродажная падтрымка</string>
+  <string name="after_sales_support_introduction">Гэта паслуга дазваляе вам атрымаць падтрымку і дапамогу адносна набытых прылад.</string>
+  <string name="authority_introduction">Менеджэр дазволаў - гэта асноўны сэрвіс, які дазваляе вам кіраваць дазволамі праграм на гэтай прыладзе.</string>
+  <string name="device_information_usage_desc">Гэты сэрвіс дазваляе праглядаць інфармацыю аб прыладзе, падлучаць прыладу да сетак і наладжваць яе функцыі.</string>
+  <string name="disagreement_service_not_working_properly_settings">"Калі вы не згаджаецеся даць гэтыя дазволы, гэты сэрвіс не зможа нармальна працаваць."</string>
+  <string name="get_imei_information">Доступ да IMEI</string>
+  <string name="get_imei_information_settings">Доступ да ўнікальнага ідэнтыфікатара прылады (IMEI)</string>
+  <string name="miui_settings">Налады</string>
+  <string name="permission_authority_describe">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
+  <string name="permission_authority_describe_applist_summary">Для кіравання дазволамі праграмы</string>
+  <string name="permission_get_imei_information_summary">Для вызначэння часу актывацыі прылады</string>
+  <string name="permission_get_imei_information_summary_settings">Для адлюстравання звестак і спецыфікацый прылады</string>
+  <string name="permission_number">Доступ да нумара тэлефона</string>
+  <string name="permission_number_introduction">Для ўстанаўлення Bluetooth-злучэння з аўтамабільнымі сістэмамі і Bluetooth-навушнікамі</string>
+  <string name="permission_qualcomm_describe_summary">Для дынамічнага размеркавання сістэмных рэсурсаў розным праграмам і арганізацыі іх працоўных працэсаў</string>
+  <string name="permission_quality_describe_summary">Для збору інфармацыі аб збоях праграмы</string>
+  <string name="phone_service_introduction">Тэлефанія - гэта базавая паслуга, якая дазваляе вашай прыладзе здзяйсняць выклiкі, адпраўляць і атрымліваць паведамленні і падлучацца да сеткі.</string>
+  <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier - гэта служба, якая кіруе сістэмнымі працэсамі.</string>
+  <string name="require_base_authority_statement">"Каб прадастаўляць асноўныя паслугі, патрабуюцца наступныя дазволы:
+\u0009\u0009\u0009Доступ да IMEI і IMSI"</string>
+  <string name="require_basic_applist_and_authority_statement">Каб прадастаўляць асноўныя паслугі, патрабуюцца наступныя дазволы:</string>
+  <string name="require_device_information_statement">Каб мець магчымасць прадастаўляць асноўныя паслугі, патрабуюцца наступныя дазволы:</string>
+  <string name="service_name_authority">Менеджэр дазволаў</string>
+  <string name="service_name_phone_service">Тэлефанія</string>
+  <string name="system_update_statement">Каб выканаць абнаўленне сістэмы, нам трэба сабраць IMEI прылады, IMSI прылады, ідэнтыфікатары прылады (OAID і зашыфраваны ідэнтыфікатар Android), уліковы запіс Xiaomi, вытворцу прылады, мадэль прылады, аператара сеткі, версію аперацыйнай сістэмы, рэгіён, мову, падлучэнне, тып сеткі і IP-адрас.</string>
+  <string name="system_update_title">Абнаўленні сістэмы</string>
+  <string name="terms_of_use_label_system_quality_monitoring">Маніторынг якасці сістэмы</string>
 </resources>

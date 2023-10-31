@@ -566,4 +566,5 @@
   <string name="lyra_auto_connect_title">Аўтаматычнае ўключэнне пункту доступу</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
+  <string name="fast_connect_device_reset_audio_share">Калі ласка, націсніце і ўтрымлівайце 2 секунды для скіду</string>
 </resources>

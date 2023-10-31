@@ -112,7 +112,7 @@
   <string name="grant_dialog_button_allow_all">Дазволіць усе</string>
   <string name="grant_dialog_button_allow_always">Заўсёды дазваляць</string>
   <string name="grant_dialog_button_allow_foreground">Толькі падчас выкарыстання</string>
-  <string name="grant_dialog_button_allow_onetime">Адзін раз</string>
+  <string name="grant_dialog_button_allow_onetime">Толькі на гэты раз</string>
   <string name="grant_dialog_button_allow_selected_photos">Абярыце некалькі</string>
   <string name="grant_dialog_button_deny">Забараніць</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Забараніць і больш не пытацца</string>
@@ -120,7 +120,7 @@
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">Толькі падчас выкарыстання</string>
   <string name="grant_dialog_button_only_allow_foreground_locate">Абмежаваць зараз</string>
   <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Заўсёды абмяжоўваць</string>
-  <string name="grant_dialog_storage_gallery_title">Галерэя</string>
+  <string name="grant_dialog_storage_gallery_title">Фота і відэа, зробленыя камерай</string>
   <string name="grant_dialog_storage_sociality_title">Паведамленнi ў праграмах сацыяльных сетак</string>
   <string name="group_audio">Музыка і аўдыё</string>
   <string name="group_call">Тэлефон</string>
@@ -140,8 +140,8 @@
   <string name="HIPS_Action_Accept_This">Дазволіць ў гэты раз</string>
   <string name="HIPS_Action_Reject">Забараніць</string>
   <string name="HIPS_Action_Reject_Once">Забараніць зараз</string>
-  <string name="HIPS_Perm_Access_Gallery">Доступ да галерэі</string>
-  <string name="HIPS_Perm_Access_Gallery_Desc">Дазволіць гэтай праграме доступ да элементаў у вашай галерэі</string>
+  <string name="HIPS_Perm_Access_Gallery">Доступ да фота і відэа, зробленых камерай</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Дазволіць гэтай праграме доступ да фота і відэа, знятых сістэмнай праграмай Камера</string>
   <string name="HIPS_Perm_add_voicemail">Галасавыя паведамленні</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Дадаваць сістэмныя галасавыя паведамленні</string>
   <string name="HIPS_Perm_AudioRecorder">Запіс аўдыя</string>
@@ -167,7 +167,7 @@
   <string name="HIPS_Perm_deamon_notification">Пастаянныя апавяшчэннi</string>
   <string name="HIPS_Perm_deamon_notification_Desc">Паказваць пастаянныя апавяшчэннi</string>
   <string name="HIPS_Perm_External_Storage">Доступ і змяненне файлаў ва ўнутраным сховішчы</string>
-  <string name="HIPS_Perm_External_Storage_Desc">Дадаванне і выдаленне файлаў ва ўнутраным сховішчы</string>
+  <string name="HIPS_Perm_External_Storage_Desc">Атрымліваць доступ і захоўваць фота, відэа, аўдыё і файлы на прыладзе</string>
   <string name="HIPS_Perm_get_accounts">Доступ да акаўнтаў на прыладзе</string>
   <string name="HIPS_Perm_get_accounts_Desc">Кіраванне акаўнтамі</string>
   <string name="HIPS_Perm_get_installed_apps">Доступ да спісу ўсталяваных праграм</string>
@@ -342,7 +342,7 @@
   <string name="permdesc_read_phone_numbers">Дазволіць %1$s чытаць тэлефонныя нумары на гэтай прыладзе?</string>
   <string name="permdesc_read_phone_state">Дазволіць %1$s доступ да статусу прылады і інфармацыі аб мабільнай сетцы?</string>
   <string name="permdesc_read_sms">Дазволіць %1$s чытаць тэкставыя і мультымедыйныя паведамленні?</string>
-  <string name="permdesc_read_storage">Дазволіць %1$s доступ да файлаў і фота на гэтай прыладзе?</string>
+  <string name="permdesc_read_storage">Дазволіць %1$s доступ да фота, відэа, аўдыё і файлаў на вашай прыладзе?</string>
   <string name="permdesc_receive_sms">Дазволіць %1$s атрымліваць SMS і MMS?</string>
   <string name="permdesc_recognition">Дазволіць %1$s доступ да інфармацыі аб вашых дзеяннях?</string>
   <string name="permdesc_send_sms">Дазволіць %1$s адпраўляць тэкставыя паведамленні?</string>
@@ -352,7 +352,7 @@
   <string name="permdesc_write_calendar">Дазволіць %1$s рэдагаваць падзеі календара?</string>
   <string name="permdesc_write_call_log">Дазволіць %1$s рэдагаваць гісторыю выклікаў?</string>
   <string name="permdesc_write_contacts">Дазволіць %1$s рэдагаваць кантакты?</string>
-  <string name="permdesc_write_storage">Дазволіць %1$s захоўваць файлы і фота на гэтую прыладу?</string>
+  <string name="permdesc_write_storage">Дазволіць %1$s захоўваць фота, відэа, аўдыё і файлы на вашу прыладу?</string>
   <string name="permgroupdesc_calendar">Дазволіць %1$s доступ да падзей календара?</string>
   <string name="permgroupdesc_calllog">Дазволіць %1$s доступ да гісторыі выклікаў і яе захаванне?</string>
   <string name="permgroupdesc_camera">Дазволіць %1$s рабіць фота і запісваць відэа?</string>

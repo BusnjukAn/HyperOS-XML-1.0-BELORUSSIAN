@@ -1006,6 +1006,6 @@
   <string name="size_tera_byte">Тб</string>
   <string name="screen_fps_unit_string">%s Гц</string>
   <string name="app_use">Час экрана праграмы</string>
-  <string name="mi_transfer_banner_summary">Націсніце, каб адкрыць Mi Трансфер</string>
+  <string name="mi_transfer_banner_summary">Падтрымліваюцца розныя маркі прылад</string>
   <string name="mi_transfer_banner_title">Перадача элементаў са старой прылады</string>
 </resources>

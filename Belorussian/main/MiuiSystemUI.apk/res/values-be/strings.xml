@@ -1949,4 +1949,6 @@
   <string name="wind_direction_7">Паўн.Зах. вецер</string>
   <string name="wind_direction_7_f">Паўн.Зах. вецер</string>
   <string name="wind_format">%1$s | Узровень %2$s</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">Немагчыма пераключацца паміж прасторамі ў рэжыме працоўнай станцыі</string>
+  <string name="kg_color_value_editor_title">Рэдагаваць колер</string>
 </resources>

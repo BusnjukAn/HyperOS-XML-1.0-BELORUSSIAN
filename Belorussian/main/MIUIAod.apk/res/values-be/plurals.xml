@@ -169,4 +169,45 @@
     <plurals name="health_chart_step_count_schedule_format_desc">
         <item quantity="other">Крокаў: %1$s, мэта: %2$s</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Ціск: %s мм.рт.сл.</item>
+        <item quantity="one">Ціск: %s мм.рт.сл.</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Спалена калорый: %1$s</item>
+        <item quantity="one">Спалена калорый: %1$s</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Мэта калорый: %1$s</item>
+        <item quantity="one">Мэта па калорыях: %1$s</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Час актыўнасці: %1$s хв.</item>
+        <item quantity="one">Час актыўнасці: %1$s хв.</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Мэта актыўнасці: %1$s хв.</item>
+        <item quantity="one">Мэта актыўнасці: %1$s хв.</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Уставалі на працягу %1$s гадзін</item>
+        <item quantity="one">Уставалі на працягу %1$s гадзіны</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Бягучая мэта: %1$s гадзін</item>
+        <item quantity="one">Бягучая мэта: %1$s гадзіна</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Бягучая колькасць крокаў: %1$s</item>
+        <item quantity="one">Бягучая колькасць крокаў: %1$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Мэта па кроках: %1$s</item>
+        <item quantity="one">Мэта па кроках: %1$s</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Тэмпература: %1$s градусаў, %2$s</item>
+        <item quantity="one">Тэмпература: %1$s градус, %2$s</item>
+        <item quantity="few">Тэмпература: %1$s градуса, %2$s</item>
+    </plurals>
 </resources>

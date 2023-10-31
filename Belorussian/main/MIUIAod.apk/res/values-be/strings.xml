@@ -720,4 +720,22 @@
   <string name="miui_lock_screen_large_date_12">EEE\nd.M</string>
   <string name="miui_vertical_time_format_12">hh\nmm</string>
   <string name="miui_vertical_time_format_24">HH\nmm</string>
+  <string name="aqi_format_desc">Індэкс якасці паветра: %s</string>
+  <string name="format_day_desc">Дзень месяца: %s</string>
+  <string name="format_day_week_desc">Дзень месяца: %1$s, %2$s</string>
+  <string name="format_lunar_calendar_month_day_desc">Дата паводле традыцыйнага кітайскага календара: %s</string>
+  <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, дата паводле традыцыйнага кітайскага календара: %3$s, свята: %4$s</string>
+  <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, дата паводле традыцыйнага кітайскага календара: %4$s</string>
+  <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, свята: %4$s</string>
+  <string name="format_solar_lunar_calendar_month_day_desc">Свята: %1$s, дата паводле традыцыйнага кітайскага календара: %2$s</string>
+  <string name="format_week_day_style1_desc">%1$s, дзень месяца: %2$s</string>
+  <string name="health_no_data">Няма даных аб стане здароўя</string>
+  <string name="health_sleep_desc">Працягласць сну %1$s, якасць сну: %2$s</string>
+  <string name="kg_color_value_editor_title">Рэдагаваць колер</string>
+  <string name="rain_probability_desc">Верагоднасць ападкаў: %s</string>
+  <string name="sunrise_time_format_desc">Час узыходу: %s</string>
+  <string name="sunrise_time_format_tomorrow_desc">Час заўтрашняга ўзыходу: %s</string>
+  <string name="sunset_time_format_desc">Час заходу: %s</string>
+  <string name="uvi_format_desc">УФ-індэкс: %1$s, %2$s</string>
+  <string name="weather_no_data">Няма дадзеных аб надвор\'i</string>
 </resources>

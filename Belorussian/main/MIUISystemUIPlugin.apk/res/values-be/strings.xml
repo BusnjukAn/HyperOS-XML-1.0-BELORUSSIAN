@@ -573,4 +573,5 @@
   <string name="qs_customize_entry_button_text">Змяніць</string>
   <string name="qs_customize_header_sub_title">Перацягнеце дададзеныя перамыкачы, каб змяніць іх размяшчэнне</string>
   <string name="qs_customize_header_title">Рэдагаванне і сартаванне</string>
+  <string name="quick_settings_aisubtitles_label">Субтытры MI ШI</string>
 </resources>

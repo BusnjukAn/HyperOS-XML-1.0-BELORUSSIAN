@@ -10802,4 +10802,39 @@
   <string name="view_face_privacy_policy"><Data>Прачытайце і згадзіцеся з &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>Заявай аб прыватнасці \"Дадзеныя твару і блакаванне экрана\"&lt;/a>, перш чым працягнуць.</Data></string>
   <string name="view_fingerprint_privacy_policy"><Data>Прачытайце і згадзіцеся з &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>Заявай аб прыватнасці \"Адбіткі пальцаў і блакаванне экрана\"&lt;/a>, перш чым працягнуць.</Data></string>
   <string name="bluetooth_audio_share_replace_request">Пасля падлучэння бягучыя навушнікі будуць заменены, каб працягнуць праслухоўванне</string>
+  <string name="allow_all_rotations_title">Дазволіць усе палажэнні</string>
+  <string name="auracast_add_source_code_error">Пароль няправільны, радыё слухаецца ненармальна. Калі ласка, далучайцеся зноў, каб паслухаць.</string>
+  <string name="auracast_add_source_conflict_broadcasting">Гэта прылада зараз вяшчае. Калі ласка, выключыце аўдыятрансляцыю, перш чым слухаць трансляцыі паблізу.</string>
+  <string name="auracast_add_source_conflict_listening">Спачатку завяршыце праслухоўванне бягучай перадачы</string>
+  <string name="charge_animation_style_lollipop">Паток</string>
+  <string name="charge_animation_style_none">Няма</string>
+  <string name="charge_animation_style_summary">Выбар віду анімацыі зарадкі</string>
+  <string name="charge_animation_style_title">Выгляд анімацыі</string>
+  <string name="charge_animation_style_video">Свячэнне</string>
+  <string name="charge_animation_style_wave">Хваля</string>
+  <string name="contributors_title">Удзельнікі</string>
+  <string name="control_panel_switch_side">Змянiць бок выклiку цэнтра кіравання</string>
+  <string name="default_vol_stream_title">Рэгулёўка гучнасці</string>
+  <string name="device_description_battery">Батарэя</string>
+  <string name="device_description_camera">Камера</string>
+  <string name="device_description_cpu">Працэсар</string>
+  <string name="device_description_ram">АЗП</string>
+  <string name="device_description_resolution">Раздзяляльнасць</string>
+  <string name="device_description_screen">Экран</string>
+  <string name="extended_power_menu">Пашыранае меню сiлкавання</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Налады цэтлікаў праграм на бакавой панэлі экрана блакавання</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Цэтлiкі бакавой панэлі</string>
+  <string name="modifier_keys_reset">Скінуць</string>
+  <string name="power_menu_under_keyguard_summary">Доступ да меню сiлкавання на экране блакавання</string>
+  <string name="power_menu_under_keyguard_title">Меню сiлкавання</string>
+  <string name="status_bar_icons_title">Абразкi ў радку стану</string>
+  <string name="status_bar_settings_notification_use_app_icon">Выкарыстоўваць абразкі праграм</string>
+  <string name="status_bar_settings_qs_layout">Выгляд сеткі перамыкачоў</string>
+  <string name="status_bar_settings_show_lte_for_4g">Паказваць LTE замест 4G</string>
+  <string name="unmute_sound_title">Гук адключэння рэжыму \"Без гуку\"</string>
+  <string name="var_font_switch_dialog_summary">Каб змяніць гэты параметр, вам трэба перазагрузіць прыладу.</string>
+  <string name="var_font_switch_dialog_title">Перазагрузіць прыладу?</string>
+  <string name="var_font_switch_title">Рэгулюемы шрыфт</string>
+  <string name="wifi_region_summary">Патрабуецца перазапуск Wi-Fi, каб прымяніць змены</string>
+  <string name="wifi_region_title">Рэгіён Wi-Fi</string>
 </resources>

@@ -1951,4 +1951,10 @@
   <string name="wind_format">%1$s | Узровень %2$s</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">Немагчыма пераключацца паміж прасторамі ў рэжыме працоўнай станцыі</string>
   <string name="kg_color_value_editor_title">Рэдагаваць колер</string>
+  <string name="gxzw_quick_open_add_note">Дадаць нататку</string>
+  <string name="gxzw_quick_open_add_note_sub">Нататкі</string>
+  <string name="gxzw_quick_open_dialer">Набор нумара</string>
+  <string name="gxzw_quick_open_dialer_sub">Тэлефон</string>
+  <string name="reboot_to_bootloader_title">Рэжым Fastboot</string>
+  <string name="reboot_to_recovery_title">Рэжым Recovery</string>
 </resources>

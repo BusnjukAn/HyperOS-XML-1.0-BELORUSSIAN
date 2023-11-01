@@ -2234,4 +2234,16 @@ Mi Відэа неабходна збіраць неабходную асабі�
   <string name="native_headline">Загаловак</string>
   <string name="native_media_view">Цэнтр мультымедыя</string>
   <string name="skip_ad">Прапусціць</string>
+  <string name="ad_click_to_play">Націсніце, каб прайграць</string>
+  <string name="local_push_random_title_1">Праверце самыя папулярныя відэа сёння</string>
+  <string name="local_push_random_title_2">Паглядзіце, што сёння адбываецца ў свеце</string>
+  <string name="local_push_random_title_3">Не прапусціце сённяшнія загалоўкі</string>
+  <string name="local_push_random_title_4">Прагляд самых папулярных відэа сёння ў вашым рэгіёне</string>
+  <string name="local_push_random_title_5">Не прапусціце самыя папулярныя відэа гэтага тыдня</string>
+  <string name="local_push_random_title_6">Зірніце на гэтыя новыя і папулярныя відэа</string>
+  <string name="local_push_random_title_7">Вы не зможаце спыніць прагляд лепшых кароткіх відэа гэтага тыдня!</string>
+  <string name="local_push_random_title_8">Праверце сённяшнія свежыя i вясёлыя новыя відэа</string>
+  <string name="local_push_random_title_9">Гэтыя відэа ўзрываюць!</string>
+  <string name="local_push_random_title_10">Глядзіце, карыстайцеся і дзяліцеся самымі папулярнымі відэа сёння</string>
+  <string name="notification_pupular_today_open_tip">Паказаць папулярныя відэа</string>
 </resources>

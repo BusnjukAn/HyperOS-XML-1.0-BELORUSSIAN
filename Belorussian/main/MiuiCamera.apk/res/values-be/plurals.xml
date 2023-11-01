@@ -247,4 +247,9 @@
      <item quantity="other">Дадайце не больш за %d перадусталёвак</item>
      <item quantity="few">Дадайце не больш за %d перадусталёўкi</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d новых апавяшчэнняў</item>
+    <item quantity="few">%d новых апавяшчэння</item>
+    <item quantity="one">%d новае апавяшчэнне</item>
+  </plurals>
 </resources>

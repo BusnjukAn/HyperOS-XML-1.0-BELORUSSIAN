@@ -1197,4 +1197,8 @@
   <string name="tutorial_music_song_title_next">Перапынкі (рэмікс Джоі Пекорара)</string>
   <string name="tutorial_music_song_title_pre">Ізаляцыйная мара</string>
   <string name="voice_assist">Mi ШI</string>
+  <string name="launch_accessibility_live_subtitles">Разумныя субтытры</string>
+  <string name="launch_accessibility_live_subtitles_full_screen">Поўнаэкранныя разумныя субтытры</string>
+  <string name="title_backup_and_recovery">Рэзервовае капіяванне і аднаўленне</string>
+  <string name="workbench_mode_not_support_maintenancemode_mode">Бягучы стан не падтрымлівае рэжым абслугоўвання. Калі ласка, выйдзіце з рэжыму і паўтарыце спробу.</string>
 </resources>

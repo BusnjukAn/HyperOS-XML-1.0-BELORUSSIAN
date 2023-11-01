@@ -1031,7 +1031,7 @@
   <string name="already_understand_the_risks">Я разумею, што гэты ўсталявальны пакет можа быць небяспечным</string>
   <string name="already_understand_the_risks_market_unknown">Разумею, што гэты ўсталявальны пакет не прайшоў праверку бяспекі</string>
   <string name="app_already_on_the_app_store">Праграма ужо ёсць у краме</string>
-  <string name="bundle_app_sure_description">Напрыклад, калі вы жадаеце спампаваць \"Надвор\'е\", увядзіце \"Надвор\'е\" у полі ніжэй.</string>
+  <string name="bundle_app_sure_description">%1$s можа быць не той праграмай, якую вам трэба ўсталяваць.</string>
   <string name="cannot_do_app_check">Не атрымалася праверыць бяспеку</string>
   <string name="click_tip_toast">Націсніце, каб праверыць і працягнуць усталёўку</string>
   <string name="discover_risk_app">Даведайцеся пра рызыку</string>
@@ -1040,7 +1040,7 @@
   <string name="install_apps_user_restriction_dlg_text">Гэтаму карыстальніку не дазволена ўсталёўваць праграмы</string>
   <string name="miuix_appcompat_edit">Змяніць</string>
   <string name="no_install_because_32bit">Крама праграм надала вам 64-бітную версію праграмы, калі ласка, усталюйце яе!</string>
-  <string name="Parse_error_dlg_text">Памылка разбору пакета. (%1$s)</string>
+  <string name="Parse_error_dlg_text">Памылка разбору пакета.</string>
   <string name="pref_key_app_appeal">Апеляцыя праграмы</string>
   <string name="pref_key_developer_services">Служба распрацоўніка</string>
   <string name="pref_key_shelf_app">Кантакты ў краме праграм Xiaomi</string>

@@ -1330,4 +1330,6 @@
   <string name="ad_text_btn_resume">Працягнуць</string>
   <string name="ad_text_introduce">Пра</string>
   <string name="lock_device_toast">Гэта прылада заблакавана. Разблакуйце, каб выкарыстоўваць Ачыстку.</string>
+  <string name="gps_prompt_context">Спампоўваць з дапамогай мабільнай сеткі?</string>
+  <string name="gps_prompt_title">Парады</string>
 </resources>

@@ -1890,4 +1890,10 @@
   <string name="lyrics_guide_two">Абярыце патрэбныя тэксты песень і скапіюйце іх</string>
   <string name="lyrics_popup_title">Націсніце, каб знайсці тэксты песень</string>
   <string name="select_lyrics_copy">Абярыце і скапіюйце тэкст песні</string>
+  <string name="add_songs_to_playlist">Дадаць у плэйліст</string>
+  <string name="hide_or_add_songs_manually">Прагляд схаваных песень</string>
+  <string name="hide_reason_folder">Схаваная тэчка</string>
+  <string name="hide_reason_other">Іншая прычына</string>
+  <string name="hide_reason_size">Больш за %1$s</string>
+  <string name="hide_songs_title">Схаваныя песні</string>
 </resources>

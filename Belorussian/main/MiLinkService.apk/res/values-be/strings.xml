@@ -202,6 +202,7 @@
   <string name="circulate_cta_agree">Згадзіцца</string>
   <string name="circulate_cta_app_name">Узаемазвязанасць Xiaomi</string>
   <string name="circulate_cta_desc_phone">Сэрвісы Ўзаемазвязанасцi Xiaomi дазваляюць вашым прыладам узаемадзейнічаць адна з адной па бесправадной сеткі. Для нармальнай працы гэтыя службы павінны падключыцца да Інтэрнэту і атрымаць наступныя дазволы:</string>
+  <string name="circulate_cta_desc_lite_phone">Сэрвісы Ўзаемазвязанасцi Xiaomi дазваляюць вашым прыладам узаемадзейнічаць адна з адной па бесправадной сеткі. Для нармальнай працы гэтыя службы павінны падключыцца да Інтэрнэту і атрымаць наступныя дазволы:</string>
   <string name="circulate_cta_exit">Не згаджацца</string>
   <string name="circulate_cta_premission_bluetooth_subtitle">Для злучэння прылад і перадачы дадзеных паміж імі</string>
   <string name="circulate_cta_premission_get_installed_apps_subtitle">Для доступу да спісу праграм, усталяваных на мабільнай прыладзе, і адлюстравання экрана на кампутарах</string>

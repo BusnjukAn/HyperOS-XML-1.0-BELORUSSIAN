@@ -259,4 +259,11 @@
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="send">Адправіць</string>
   <string name="ssl_error_untrusted">Сертыфікат не выпушчаны давераным цэнтрам сертыфікацыі. Усё роўна выкарыстоўваць?</string>
+  <string name="call_notification_answer_action">Адказаць</string>
+  <string name="call_notification_answer_video_action">Відэа</string>
+  <string name="call_notification_decline_action">Адхіліць</string>
+  <string name="call_notification_hang_up_action">Завяршыць</string>
+  <string name="call_notification_incoming_text">Уваходны выклік</string>
+  <string name="call_notification_ongoing_text">Бягучы выклік</string>
+  <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
 </resources>

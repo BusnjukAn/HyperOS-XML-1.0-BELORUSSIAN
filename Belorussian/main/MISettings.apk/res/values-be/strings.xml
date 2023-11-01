@@ -1008,4 +1008,9 @@
   <string name="app_use">Час экрана праграмы</string>
   <string name="mi_transfer_banner_summary">Падтрымліваюцца розныя маркі прылад</string>
   <string name="mi_transfer_banner_title">Перадача элементаў са старой прылады</string>
+  <string name="anti_flicker_mode_summary_new">Выкарыстоўвайце падаўленне мігацення ва ўмовах прыцемак, каб знізіць нагрузку на вочы</string>
+  <string name="footer_max_fps" formatted="false">\n%d. Частату абнаўлення можна падвысіць да %s Гц для падтрымоўваных праграм і гульняў.</string>
+  <string name="max_fps_string">Да %s Гц</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="summary_max_fps_for_intelligent">Дынамічна рэгуляваць частату абнаўлення да %s Гц у залежнасці ад сцэнарыяў, каб збалансаваць прадукцыйнасць і энергаспажыванне</string>
 </resources>

@@ -119,4 +119,27 @@
   <string name="wifi_tofu_invalid_cert_chain_message">Ланцужок сертыфікатаў сэрвэра несапраўдны</string>
   <string name="wifi_tofu_invalid_cert_chain_ok_text">ОК</string>
   <string name="wifi_tofu_invalid_cert_chain_title">Памылка падлучэння да %1$s</string>
+  <string name="apm_enabled_first_time_message">Ваша прылада запамінае, што Wi-Fi застаецца ўключаным у рэжыме палёту. Выключыце Wi-Fi, калі вы не хочаце, каб ён заставаўся ўключаным.</string>
+  <string name="apm_enabled_first_time_title">Wi-Fi застаецца ўключаным</string>
+  <string name="notification_channel_apm_alerts">Папярэджанні APM</string>
+  <string name="wifi_eap_error_message_code_16384">%1$s : памылка аўтэнтыфікацыі EAP 16384</string>
+  <string name="wifi_eap_error_message_code_16385">%1$s : памылка аўтэнтыфікацыі EAP 16385</string>
+  <string name="wifi_eap_error_message_code_32756">%1$s : памылка аўтэнтыфікацыі EAP 32756</string>
+  <string name="wifi_eap_error_message_code_32767">%1$s : памылка аўтэнтыфікацыі EAP 32767</string>
+  <string name="wifi_eap_error_message_unknown_error_code">%1$s : Памылка аўтэнтыфікацыі EAP, невядомы код памылкі</string>
+  <string name="wifi_enabled_apm_first_time_message">Калі вы пакінеце Wi-Fi уключаным, ваша прылада запомніць яго ўключаным у наступны раз, калі вы будзеце ў рэжыме палёту</string>
+  <string name="wifi_enabled_apm_first_time_title">Wi-Fi уключаны ў рэжыме палёту</string>
+  <string name="wifi_interface_priority_interface_name_ap">Пункт доступу Wi-Fi</string>
+  <string name="wifi_interface_priority_interface_name_ap_bridge">Пункт доступу Wi-Fi</string>
+  <string name="wifi_interface_priority_interface_name_nan">Wi-Fi Aware</string>
+  <string name="wifi_interface_priority_interface_name_p2p">Wi-Fi Direct</string>
+  <string name="wifi_interface_priority_interface_name_sta">STA</string>
+  <string name="wifi_network_disabled_by_admin_button">Закрыць</string>
+  <string name="wifi_network_disabled_by_admin_message">%1$s адключана вашым адміністратарам.</string>
+  <string name="wifi_network_disabled_by_admin_title">Недаступная сетка</string>
+  <string name="wifi_network_switch_dialog_negative_button">Не пераключацца</string>
+  <string name="wifi_network_switch_dialog_positive_button">Пераключыцца</string>
+  <string name="wifi_network_switch_dialog_title_bad_internet">%1$s нізкай якасці. Пераключыцца на %2$s?</string>
+  <string name="wifi_network_switch_dialog_title_no_internet">%1$s, здаецца, не падлучаны да Інтэрнэту. Пераключыцца на %2$s?</string>
+  <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Прыняць праз # сек.} other {Прыняць праз # сек.} }</string>
 </resources>

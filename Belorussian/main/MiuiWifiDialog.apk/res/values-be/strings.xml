@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accept">Прыняць</string>
+  <string name="decline">Адхіліць</string>
+  <string name="ok">ОК</string>
+  <string name="wifi_p2p_enter_pin_message">Увядзіце патрэбны PIN-код:</string>
+  <string name="wifi_p2p_from_message">Ад:</string>
+  <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Прыняць праз # сек.} other {Прыняць праз # сек.} }</string>
+  <string name="wifi_p2p_invitation_sent_title">Запрашэнне адпраўлена</string>
+  <string name="wifi_p2p_invitation_to_connect_title">Запрашэнне далучыцца</string>
+  <string name="wifi_p2p_show_pin_message">PIN-код</string>
+  <string name="wifi_p2p_to_message">Каму:</string>
+</resources>

@@ -3845,4 +3845,6 @@
   <string name="ai_use_photo_tip">Выкарыстаныя фатаграфіі</string>
   <string name="album_ai_creative">Партрэты ШI</string>
   <string name="search_title_ai_others">Праглядзець усе</string>
+  <string name="ai_free_creation_text_container_tips">Выява ствараецца вялікай мадэллю, і эфект нестабільны. Мы ўпарта працуем над яго аптымізацыяй.</string>
+  <string name="run_clip">Выканаць вектарны алгарытм пошуку ШI</string>
 </resources>

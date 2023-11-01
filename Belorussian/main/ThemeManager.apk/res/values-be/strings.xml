@@ -1753,4 +1753,5 @@
   <string name="wind_direction_7">Паўн.Зах. вецер</string>
   <string name="wind_direction_7_f">Паўн.Зах. вецер</string>
   <string name="wind_format">%1$s | Узровень %2$s</string>
+  <string name="aqi_format_desc">Індэкс якасці паветра: %s</string>
 </resources>

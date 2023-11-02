@@ -1087,4 +1087,6 @@
   <string name="miuix_navigator_navigator_switch_description">Схаваць бакавую панэль</string>
   <string name="pad_dialog_take_photo_by_device">Зрабіць фота з дапамогай %1$s</string>
   <string name="permission_xiaoai_desc_m"><Data>Каб прадастаўляць паслугі пераўтварэння прамовы ў тэкст, Mi ШІ павінен атрымаць доступ да аўдыёўваходу і ідэнтыфікатара вашай прылады. Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Заяву аб прадастаўленні дадзеных іншым вытворцам&lt;/a>, перш чым працягнуць. Вы таксама можаце даведацца больш, прачытаўшы Mi ШІ &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a>.</Data></string>
+  <string name="toolbar_voice_done_description">Спыніць</string>
+  <string name="toolbar_voice_mark_description">Пазнака</string>
 </resources>

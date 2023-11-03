@@ -33,7 +33,7 @@
   <string name="app_name">Запіс экрана</string>
   <string name="app_notification_channel_record_complete">Апавяшчаць аб завершаных запісах</string>
   <string name="app_notification_info">Запіс экрана працуе ў фонавым рэжыме</string>
-  <string name="app_notification_record_saved">Запіс паспяхова захаваная.\nНацісніце для прагляду.</string>
+  <string name="app_notification_record_saved">Запіс паспяхова захаваная. Націсніце для прагляду.</string>
   <string name="app_notification_title">Запіс экрана</string>
   <string name="auto_stop_title">Відэа паспяхова захаванае</string>
   <string name="battery_not_allowed_warning">Немагчыма зрабіць запіс, калі ўзровень зараду батарэі ніжэй %1$s. Упэўніцеся, што батарэя зараджана як мінімум на %2$s.</string>

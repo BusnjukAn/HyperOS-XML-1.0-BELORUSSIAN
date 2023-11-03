@@ -316,4 +316,6 @@
   <string name="operation_original">Параўнаць</string>
   <string name="operation_redo">Паўтарыць</string>
   <string name="operation_undo">Адмена</string>
+  <string name="acc_return">Назад</string>
+  <string name="miuix_appcompat_edit">Рэдагаваць</string>
 </resources>

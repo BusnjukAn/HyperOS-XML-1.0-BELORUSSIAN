@@ -67,8 +67,8 @@
   <string name="no_mirror">Усе люстэркі ў дадзены момант адключаныя, паспрабуйце пазней…</string>
   <string name="no_network">Сетка недаступная.</string>
   <string name="no_update">Устаноўлена апошняя версія</string>
-  <string name="no_xioamieu">"Усталяваная прашыўка не ад xiaomi.eu!
-Абнаўленні недаступныя!"</string>
+  <string name="no_xioamieu">"Вы не выкарыстоўваеце HyperOS Rom, створаны камандай Xiaomi.eu!
+Абнаўленні для вас недаступныя!"</string>
   <string name="notif_cancel">Адмена</string>
   <string name="notif_install">Усталяванне</string>
   <string name="notif_new_summary">Націсніце, каб атрымаць падрабязную інфармацыю</string>
@@ -84,7 +84,7 @@
   <string name="pick_title">Выкарыстоўваць:</string>
   <string name="recovery_desc">Прылада зараз будзе перазагружана ў Recovery. Працягнуць?</string>
   <string name="server_error">Сервер не даступны, праграма можа працаваць некарэктна!</string>
-  <string name="share_desc">Ваша версія MIUI была абноўлена да %1$s, інфармацыя аб апошніх зменах: %2$s</string>
+  <string name="share_desc">Ваша версія HyperOS была абноўлена да %1$s, інфармацыя аб апошніх зменах: %2$s</string>
   <string name="share_title">Падзяліцца з</string>
   <string name="stable">стабільная</string>
   <string name="unit" formatted="false">%1$s%</string>

@@ -1885,8 +1885,8 @@
   <string name="quick_settings_bt_state_change_message_on">Bluetooth уключаны</string>
   <string name="quick_settings_cellular_state_change_message_off">Мабільная перадача дадзеных выключана</string>
   <string name="quick_settings_cellular_state_change_message_on">Мабільная перадача дадзеных уключана</string>
-  <string name="quick_settings_dnd_state_change_message_off">Рэжым \\"Не турбаваць\\" выкл.</string>
-  <string name="quick_settings_dnd_state_change_message_on">Рэжым \\"Не турбаваць\\" укл.</string>
+  <string name="quick_settings_dnd_state_change_message_off">Рэжым \"Не турбаваць\" выкл.</string>
+  <string name="quick_settings_dnd_state_change_message_on">Рэжым \"Не турбаваць\" укл.</string>
   <string name="quick_settings_flashlight_state_change_message_off">Ліхтарык выключаны</string>
   <string name="quick_settings_flashlight_state_change_message_on">Ліхтарык уключаны</string>
   <string name="quick_settings_googlehome_label">Google Home</string>

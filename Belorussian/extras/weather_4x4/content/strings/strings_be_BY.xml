@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_null">Націсніце для абнаўлення дадзеных</string>
     <string name="date_format">EEEE, d MMMM</string>
@@ -38,4 +37,5 @@
     <string name="weather_type_22">Град</string>
     <string name="weather_type_23">Пыл</string>
     <string name="weather_type_24">Смуга</string>
+    <string name="weather_type_25">Шэрань</string>
 </resources>

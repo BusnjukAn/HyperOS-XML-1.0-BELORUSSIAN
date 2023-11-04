@@ -3998,7 +3998,7 @@
   <string name="gxzw_dialog_ok">Зразумела</string>
   <string name="gxzw_dialog_title">Пра экранны сканар адбіткаў</string>
   <string name="gxzw_enroll_again">Прыбярыце палец і зноў націсніце на сканар адбіткаў</string>
-  <string name="gxzw_lowlight_open_summary">Памяншэнне яркасці значка адбітка пальца ва ўмовах нізкай асветленасці. Калі гэтая функцыя ўключаная, ваша прылада можа разблакавацца павольней.</string>
+  <string name="gxzw_lowlight_open_summary">Памяншэнне яркасці абразка адбітка пальца ва ўмовах нізкай асветленасці. Калі гэтая функцыя ўключаная, ваша прылада можа разблакавацца павольней.</string>
   <string name="gxzw_lowlight_open_title">Разблакаванне пальцам пры слабым асвятленні</string>
   <string name="gxzw_quick_open_enable_summary">Выкарыстоўвайце цэтлікі для адкрыцця праграм або выкарыстання функцый праграм, калі ваша прылада будзе разблакавана</string>
   <string name="gxzw_quick_open_enable_title">Цэтлікі адбітка пальцаў</string>
@@ -4201,7 +4201,7 @@
   <string name="ingress_rate_limit_no_limit_entry">Без абмежаванняў</string>
   <string name="ingress_rate_limit_summary">Наладзьце абмежаванне ўваходнай паласы прапускання для ўсіх сетак, якія забяспечваюць падключэнне да інтэрнэту.</string>
   <string name="ingress_rate_limit_title">Абмежаванне хуткасці спампоўвання праз сетку</string>
-  <string name="inner_screen_and_resolution_title">Унутраны памер і раздзяленне экрана</string>
+  <string name="inner_screen_and_resolution_title">Памер і разрозненне унутранага экрана</string>
   <string name="input_assistance">Дапамога па ўводзе</string>
   <string name="input_device_category">Прылада ўводу</string>
   <string name="input_method">Клавіятура</string>
@@ -6402,8 +6402,8 @@
   <string name="other_settings_sync_settings">Сінхранізаваць</string>
   <string name="other_sound_settings_title">Дадатковыя налады</string>
   <string name="other_user_category_title">Іншыя карыстальнікі</string>
-  <string name="outer_screen_and_resolution_title">Знешні памер і раздзяленне экрана</string>
-  <string name="overlay_display_devices_title">Эмуляцыя другасных дысплэяў</string>
+  <string name="outer_screen_and_resolution_title">Памер і разрозненне вонкавага экрана</string>
+  <string name="overlay_display_devices_title">Эмуляцыя другасных экранаў</string>
   <string name="overlay_option_device_default">Стандартная налада</string>
   <string name="overlay_settings">Паказваць паверх іншых праграм</string>
   <string name="overlay_settings_summary">Дазволіць праграмам, якія могуць адлюстроўвацца па-над іншымi праграмамi, накладанне па-над Наладамi</string>
@@ -6572,8 +6572,8 @@
   <string name="please_connect_to_the_network">Падключыцеся да Wi-Fi або мабільнай перадачы дадзеных, каб завяршыць ачыстку даных eSIM.</string>
   <string name="please_connect_to_the_wifi">Падключыцеся да Wi-Fi, каб завяршыць ачыстку дадзеных eSIM.</string>
   <string name="please_select_phase2">Фаза 2 праверкі сапраўднасці</string>
-  <string name="please_stop_broadcast_audio">Калі ласка, спачатку завяршыце трансляцыю мясцовага аўдыё</string>
-  <string name="please_stop_listen_broadcast_audio">Калі ласка, скончыце праслухоўванне бягучай перадачы</string>
+  <string name="please_stop_broadcast_audio">Калі ласка, спачатку завяршыце трансляцыю лакальнага аўдыё</string>
+  <string name="please_stop_listen_broadcast_audio">Калі ласка, скончыце праслухоўванне бягучай трансляцыi</string>
   <string name="please_type_passphrase">Пароль</string>
   <string name="plmn_failure_radio_off">Збой выбару сеткі. Радыё-модуль выключаны ці недаступны.</string>
   <string name="pm">ПП</string>
@@ -7895,8 +7895,8 @@
   <string name="security_settings_udfps_enroll_left_edge_title">Прыкладзіце палец левым краем</string>
   <string name="security_settings_udfps_enroll_progress_a11y_message">Працэнт выканання задачы па даданні адбітка пальца: %d.</string>
   <string name="security_settings_udfps_enroll_repeat_a11y_message">Гэта дзеянне дапаможа атрымаць поўны адбітак пальца</string>
-  <string name="security_settings_udfps_enroll_repeat_message">Кожны раз падчас руху значка адбітка пальца ўтрымлівайце палец націснутым. Гэта дзеянне дапаможа атрымаць поўны адбітак пальца.</string>
-  <string name="security_settings_udfps_enroll_repeat_title_touch_icon">Сачыце за значком адбітка пальца</string>
+  <string name="security_settings_udfps_enroll_repeat_message">Кожны раз падчас руху абразка адбітка пальца ўтрымлівайце палец націснутым. Гэта дзеянне дапаможа атрымаць поўны адбітак пальца.</string>
+  <string name="security_settings_udfps_enroll_repeat_title_touch_icon">Сачыце за абразком адбітка пальца</string>
   <string name="security_settings_udfps_enroll_right_edge_title">Прыкладзіце палец правым краем</string>
   <string name="security_settings_udfps_enroll_start_message">Утрымлівайце палец на сканеры, пакуль не адчуеце вібрацыю</string>
   <string name="security_settings_udfps_enroll_title_one_more_time">Яшчэ адзін раз</string>
@@ -9039,7 +9039,7 @@
   <string name="title_smart_device_control">Элементы кіравання разумнай прыладай</string>
   <string name="title_special_features_health_global">Частата пульса</string>
   <string name="title_unavailable_locale">%s недаступны</string>
-  <string name="title_wordless_mode">Не паказваць цэтлікі значкоў</string>
+  <string name="title_wordless_mode">Не паказваць цэтлікі абразкоў</string>
   <string name="to_close">Выключыць</string>
   <string name="to_switch_networks_disconnect_ethernet">Каб падключыцца да сетак, выключыце Ethernet</string>
   <string name="toast_allows_restricted_settings_successfully">Для праграмы \"%s\" дазволены абмежаваныя налады</string>

@@ -19,22 +19,6 @@
     <item>Вельмі нездаровы</item>
     <item>Небяспечны</item>
   </string-array>
-  <string-array name="aqi_title">
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-  </string-array>
-  <string-array name="aqi_title_append">
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-  </string-array>
   <string-array name="aqi_title_prefix">
     <item>IЯП %1$s</item>
     <item>IЯП %1$s</item>
@@ -60,14 +44,14 @@
     <item>&lt;3.2 вз</item>
   </string-array>
   <string-array name="hot_city">
-    <item>Beijing</item>
-    <item>Shanghai</item>
-    <item>Hong Kong</item>
-    <item>Taipei City</item>
-    <item>Jakarta</item>
-    <item>Delhi</item>
-    <item>Mumbai</item>
-    <item>Moscow</item>
+    <item>Пекін</item>
+    <item>Шанхай</item>
+    <item>Ганконг</item>
+    <item>Тайбэй</item>
+    <item>Джакарта</item>
+    <item>Дэлі</item>
+    <item>Мумбаі</item>
+    <item>Масква</item>
     <item>Ченнаі</item>
     <item>Стамбул</item>
     <item>Рыо-дэ-Жанэйра</item>
@@ -169,21 +153,6 @@
     <item>ПдЗ</item>
     <item>З</item>
     <item>ПнЗ</item>
-  </string-array>
-  <string-array name="wind_power">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
   </string-array>
   <string-array name="wind_unit_detail">
     <item>Шкала Бафорта</item>

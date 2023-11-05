@@ -91,7 +91,7 @@
   <string name="date_time_picker_has_not_set_alarm">Напамін не усталяваны</string>
   <string name="date_time_picker_has_set_alarm">Напамін усталяваны</string>
   <string name="db_downgrade_clear_button">Ачысціць праграмныя дадзеныя</string>
-  <string name="db_downgrade_clear_date_reminder">Для перахода на наступную версію MIUI патрабуецца ачыстка дадзеных праграмы «Нататкі». Перад тым як гэта зрабіць, упэўніцеся, што вы захавалі свае нататкі ў воблаке.</string>
+  <string name="db_downgrade_clear_date_reminder">Для перахода на наступную версію сiстэмы патрабуецца ачыстка дадзеных праграмы «Нататкі». Перад тым як гэта зрабіць, упэўніцеся, што вы захавалі свае нататкі ў воблаке.</string>
   <string name="default_folder_name">Тэчка без назвы</string>
   <string name="delete_folder_dialog_tile">Выдаліць тэчку</string>
   <string name="dialog_privacy_revoke_tips">Пасля таго як вы адклічаце аўтарызацыю, праграма спыніць збор дадзеных, а таксама ўсе звязаныя з імі дадзеныя будуць выдалены з сервераў. Гэта можа зрабіць праграму практычна непрыдатнай для выкарыстання. Усё роўна адклікаць аўтарызацыю? Для таго каб гарантаваць бяспеку вашага акаўнта, увайдзіце ў i.mi.com, перш чым ануляваць аўтарызацыю на паслугі воблака.</string>
@@ -233,7 +233,7 @@
   <string name="menu_move_to">Перамясціць</string>
   <string name="menu_new_folder">Новая тэчка</string>
   <string name="menu_restore">Аднавіць</string>
-  <string name="menu_send_as_image">Адправіць як малюнак</string>
+  <string name="menu_send_as_image">Адправіць як выяву</string>
   <string name="menu_send_as_text">Адправіць як тэкст</string>
   <string name="menu_send_to_desktop">Змясціць на працоўны стол</string>
   <string name="menu_send_weibo">Адправіць у Weibo</string>
@@ -412,14 +412,14 @@
   <string name="sns_content_default">Падзяліцца фота</string>
   <string name="sns_desc_image_preview">Прагляд паведамлення</string>
   <string name="sns_desc_preview_weibo">Прагляд паведамлення Weibo</string>
-  <string name="sns_footer_text">Створана з дапамогай MIUI Нататак</string>
+  <string name="sns_footer_text">Створана з дапамогай Нататак Xiaomi</string>
   <string name="sns_hint_content">Увядзіце паведамленне</string>
   <string name="sns_hint_title">Тэма (неабавязкова)</string>
   <string name="sns_message_disconnect">Немагчыма злучыцца з сеткай. Праверце вашае злучэнне і паспрабуйце зноў.</string>
   <string name="sns_title_edit">Адправіць нататку</string>
   <string name="sns_title_send">Адправіць паведамленне</string>
   <string name="sns_toast_empty">Немагчыма адправіць пустое паведамленне</string>
-  <string name="sns_toast_over_limit">Адпраўлена як малюнак</string>
+  <string name="sns_toast_over_limit">Адпраўлена як выява</string>
   <string name="solar_term_autumn_begins">Пачатак восені</string>
   <string name="solar_term_autumn_equinox">Восеньскае раўнадзенства</string>
   <string name="solar_term_clear_and_bright">Ясна</string>
@@ -996,7 +996,7 @@
   <string name="warn_cannot_add_new_doodle">Немагчыма дадаць новую выяву, бо нататка занадта доўгая</string>
   <string name="warn_cannot_add_new_element">Немагчыма дадаць новы элемент, бо нататка занадта доўгая</string>
   <string name="warn_cannot_add_new_link_card">Немагчыма дадаць новую спасылку, бо нататка занадта доўгая</string>
-  <string name="warn_cannot_add_new_picture">Немагчыма дадаць новы малюнак, бо нататка занадта доўгая</string>
+  <string name="warn_cannot_add_new_picture">Немагчыма дадаць новую выяву, бо нататка занадта доўгая</string>
   <string name="warn_cannot_add_new_style">Немагчыма дадаць новы фармат, бо нататка занадта доўгая</string>
   <string name="warn_disable_edit_in_browse_mode">Вы не можаце рэдагаваць нататкі ў рэжыме толькі для чытання</string>
   <string name="warn_enter_browse_mode">Вы знаходзіцеся ў рэжыме толькі для чытання</string>

@@ -982,7 +982,7 @@
   <string name="toast_finish_delete_selected_call_log">Ачышчана паспяхова</string>
   <string name="toast_for_failed_saving_nickname">Не атрымалася захаваць змены</string>
   <string name="toast_for_saving_nickname">Змены захаваны</string>
-  <string name="toast_join_with_empty_contact">Пазначце імя кантакту, што жадаеце аб\'яднаць</string>
+  <string name="toast_join_with_empty_contact">Увядзіце імя кантакту перад аб\'яднаннем з іншым</string>
   <string name="toast_start_intent_failed">Няма праграмы для выканання гэтага дзеяння</string>
   <string name="toast_text_copied">Тэкст скапіяваны</string>
   <string name="today">Сёння</string>

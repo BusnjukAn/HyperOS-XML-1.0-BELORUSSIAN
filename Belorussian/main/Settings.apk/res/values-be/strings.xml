@@ -10837,4 +10837,5 @@
   <string name="var_font_switch_title">Рэгулюемы шрыфт</string>
   <string name="wifi_region_summary">Патрабуецца перазапуск Wi-Fi, каб прымяніць змены</string>
   <string name="wifi_region_title">Рэгіён Wi-Fi</string>
+  <string name="lock_password_checking">Праверка блакавання экрана…</string>
 </resources>

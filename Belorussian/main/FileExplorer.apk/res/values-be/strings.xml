@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="accessibility_shortcut_spoken_feedback">Каб карыстацца сэрвісам \"%1$s\", націсніце і ўтрымлівайце на працягу трох секунд абедзве клавішы гучнасці</string>
+  <string name="accessibility_shortcut_spoken_feedback">Каб карыстацца сэрвісам \"%1$s\", націсніце і ўтрымлівайце на працягу трох секунд абедзве клавішы гучнасці</string>
   <string name="ext_media_ready_notification_message">Для захоўвання фота, відэа, музыкі і іншага змесціва</string>
   <string name="ext_media_unsupported_notification_message">Дакраніцеся, каб наладзіць.</string>
   <string name="ext_media_unsupported_notification_title">Выяўлены носьбіт \"%s\"</string>
   <string name="select_keyboard_layout_notification_title">Налада %s</string>
-<string name="app_streaming_blocked_message">Не ўдаецца атрымаць доступ з прылады \"%1$s\". Паспрабуйце скарыстаць тэлефон.</string>
+  <string name="app_streaming_blocked_message">Не ўдаецца атрымаць доступ з прылады \"%1$s\". Паспрабуйце скарыстаць тэлефон.</string>
   <string name="app_streaming_blocked_message_for_fingerprint_dialog">Гэтай праграме патрабуецца дадатковая бяспека. Паспрабуйце скарыстаць тэлефон.</string>
   <string name="app_streaming_blocked_message_for_permission_dialog">Не ўдаецца атрымаць доступ з прылады \"%1$s\". Паспрабуйце скарыстаць тэлефон.</string>
   <string name="app_streaming_blocked_title">Недаступна: %1$s</string>
@@ -156,7 +156,7 @@
   <string name="app_name_downloadedrom">Пакеты</string>
   <string name="app_name_downloads">Спампоўкі</string>
   <string name="app_name_market">Mi Маркет</string>
-  <string name="app_name_miui">Рэсурсы</string>
+  <string name="app_name_miui">Сістэмныя рэсурсы</string>
   <string name="app_name_miuimusic">Музыка</string>
   <string name="app_name_miuiringtone">Мелодыя</string>
   <string name="app_name_miuiwallpaper">Шпалеры</string>

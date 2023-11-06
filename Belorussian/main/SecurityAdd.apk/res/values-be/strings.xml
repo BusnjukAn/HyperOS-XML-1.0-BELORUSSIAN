@@ -687,4 +687,9 @@
   <string name="wednesday_shortest">Сер</string>
   <string name="xunyou_pay_webview">Сэрвісы Xunyou</string>
   <string name="yesterday">Учора</string>
+  <string name="gb_pannel_control_frame_rate_dialog_message">Каб выкарыстоўваць гэтую функцыю, зменіце раздзяляльнасць экрана на WQHD+ у наладах.</string>
+  <string name="gb_pannel_control_frame_rate_dialog_positive">Налады</string>
+  <string name="gb_pannel_control_frame_rate_dialog_title">Змяніце раздзяляльнасць экрана</string>
+  <string name="gb_pannel_control_mode_frame_rate">Прыярытэт частаты кадраў</string>
+  <string name="gb_pannel_control_mode_picture">Прыярытэт выявы</string>
 </resources>

@@ -321,7 +321,7 @@
   <string name="qs_open_night_mode_alert_summary">Некаторыя налады экрана несумяшчальныя з цёмным рэжымам. Аднак яны будуць адноўлены пасля выключэння цёмнага рэжыму.</string>
   <string name="quick_controls_subtitle">Дадайце элементы кіравання для падлучаных прылад</string>
   <string name="quick_controls_title">Кіраванне прыладай</string>
-  <string name="quick_settings_aitranslate_label">Перакладчык MI ШІ</string>
+  <string name="quick_settings_aitranslate_label">Mi ШІ Пераклад</string>
   <string name="quick_settings_autobrightness_label">Аўтаяркасць</string>
   <string name="quick_settings_batterysaver_label">Эканомія зараду батарэі</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Няма падлучаных прылад</string>
@@ -573,6 +573,14 @@
   <string name="qs_customize_entry_button_text">Змяніць</string>
   <string name="qs_customize_header_sub_title">Перацягнеце дададзеныя перамыкачы, каб змяніць іх размяшчэнне</string>
   <string name="qs_customize_header_title">Рэдагаванне і сартаванне</string>
-  <string name="quick_settings_aisubtitles_label">Субтытры MI ШI</string>
+  <string name="quick_settings_aisubtitles_label">Разумныя субтытры</string>
   <string name="open_system_optimization">Спачатку ўключыце аптымізацыю сiстэмы</string>
+  <string name="miplay_bluetooth_share_des_text">"Карыстальнікам навушнікаў Xiaomi: адкрыйце футарал для зарадкі або націсніце і ўтрымлівайце кнопку футарала %d сек.
+Для карыстальнікаў навушнікаў, адрозных ад Xiaomi: скіньце налады навушнікаў у настройках Bluetooth, затым падключыцеся зноў."</string>
+  <string name="miplay_bluetooth_share_headphone_pairing">Дадайце навушнікі для трансляцыі аўдыё</string>
+  <string name="miplay_bluetooth_share_subTitle_text">Падзяліцца аўдыё на прыладзе з іншым чалавекам</string>
+  <string name="miplay_bluetooth_share_title_text">Падзяліцца аўдыё</string>
+  <string name="miplay_not_support_hint">"Гэтая функцыя не падтрымліваецца"</string>
+  <string name="miplay_switch_local_device_when_in_audio_share_hint">Завершыце трансляцыю аўдыё і паспрабуйце яшчэ раз</string>
+  <string name="miplay_tv_cast_retry_toast">Спыніце трансляцыю і паспрабуйце яшчэ раз</string>
 </resources>

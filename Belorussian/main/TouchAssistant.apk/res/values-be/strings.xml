@@ -283,4 +283,13 @@
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="screen_rotation_freeze_message">Арыентацыя экрана заблакавана ў ландшафтным рэжыме</string>
+  <string name="status_bar_toggle_data">Мабільныя дадзеныя</string>
+  <string name="status_bar_toggle_lock">Блакаванне</string>
+  <string name="status_bar_toggle_mute">Без гуку</string>
+  <string name="status_bar_toggle_rotate">Заблакаваць арыентацыю</string>
+  <string name="status_bar_toggle_screenshot">Здымак экрана</string>
+  <string name="status_bar_toggle_torch">Ліхтарык</string>
+  <string name="status_bar_toggle_vibrate">Вібрацыя</string>
+  <string name="status_bar_toggle_wifi_ap">Пункт доступу</string>
 </resources>

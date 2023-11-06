@@ -7046,4 +7046,7 @@
   <string name="power_wireless_update_error">Немагчыма абнавіць. Паспрабуйце яшчэ раз.</string>
   <string name="power_wireless_update_in_progress">Абнаўленне прашыўкі…</string>
   <string name="screen_share_warning_positive_button">Стоп</string>
+  <string name="gb_cooler_device_toast">"Візуальнае ўспрыманне палепшана за кошт
+Xiaomi Gaming Cooler"</string>
+  <string name="group_head_data_screen_shots_clipboard">Аўтаматычна капіяваць здымкі экрана ў буфер абмену</string>
 </resources>

@@ -1833,7 +1833,7 @@
   <string name="format_week_day_style1_desc">%2$s, %1$s</string>
   <string name="gxzw_quick_open_search_sub">Браўзер</string>
   <string name="health_chart_calories_unit">Калорыі</string>
-  <string name="health_chart_sleep_time_format">%1$s ч. %2$ мін.</string>
+  <string name="health_chart_sleep_time_format">%1$s г. %2$s хв.</string>
   <string name="health_chart_sleep_time_good">Дастаткова</string>
   <string name="health_chart_sleep_time_low">Недастаткова</string>
   <string name="health_chart_sleep_time_normal">Нармальна</string>

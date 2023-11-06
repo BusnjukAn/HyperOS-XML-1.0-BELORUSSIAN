@@ -7016,8 +7016,8 @@
   <string name="storage_ufs_msg">Вы можаце дадаць да %1$s сховішчаў на гэту прыладу, выкарыстоўваючы нашу тэхналогію пашырэння сховішча UFS і алгарытмы аптымізацыі сховішча.</string>
   <string name="storage_ufs_tip">Дадатковае сховішча</string>
   <string name="storage_ufs_title">Пашырэнне сховішчы UFS</string>
-  <string name="terminal_behavior_camera">%1 атрымала доступ да камеры гэтай прылады</string>
-  <string name="terminal_behavior_screen">%1 атрымала доступ да экрану гэтай прылады</string>
+  <string name="terminal_behavior_camera">%1s атрымала доступ да камеры гэтай прылады</string>
+  <string name="terminal_behavior_screen">%1s атрымала доступ да экрана гэтай прылады</string>
   <string name="wake_path_start_callee">Аўтазапуск %1$s</string>
   <string name="wakepath_all">Выдаліць усё дазволы</string>
   <string name="wakepath_allow_start_app">Праграмы %s могуць запускацца аўтаматычна</string>

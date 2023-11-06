@@ -25,7 +25,7 @@
   <string name="accessibility_shortcut_enabling_service">Клавішы гучнасці ўтрымліваліся націснутымі. Уключана служба \"%1$s\".</string>
   <string name="accessibility_shortcut_menu_item_status_off">ВЫКЛЮЧАНА</string>
   <string name="accessibility_shortcut_menu_item_status_on">УКЛЮЧАНА</string>
-  <string name="accessibility_shortcut_multiple_service_list">" • %1$\n"</string>
+  <string name="accessibility_shortcut_multiple_service_list">" • %1$s\n"</string>
   <string name="accessibility_shortcut_multiple_service_warning">Утрымліванне націснутымі абедзвюх клавіш гучнасці на працягу некалькіх секунд уключае спецыяльныя магчымасці. У выніку ваша прылада можа пачаць працаваць па-іншаму.\n\nБягучыя функцыі:\n%1$s\nВыбраныя функцыі можна змяніць у меню \"Налады > Спецыяльныя магчымасці\".</string>
   <string name="accessibility_shortcut_multiple_service_warning_title">Уключыць спецыяльныя магчымасці?</string>
   <string name="accessibility_shortcut_off">Не ўключаць</string>

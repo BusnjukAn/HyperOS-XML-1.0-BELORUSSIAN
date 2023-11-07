@@ -2928,4 +2928,16 @@
   <string name="pref_camera_zoom_mode_entry_telex_abbr">Знешні</string>
   <string name="tv_picturestyle_custom_vibrance">Вібрацыя</string>
   <string name="ultra_pixel_owl_toast">Апрацоўка фота…</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Збой Дыспетчара спамповак. Праверце стан Дыспетчара у кіраванні праграмамі.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Прадстаўляем версію %1$s
+Памер: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Прадстаўляем версію %1$s
+Памер дэльта-абнаўлення: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s абнаўленне!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Сховішча недаступна, праверце SD-карту.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Кб</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Нагадаць пазней</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
 </resources>

@@ -1340,7 +1340,7 @@
   <string name="bluetooth_audio_share_feature_notice_title">Перадача аўдыё</string>
   <string name="bluetooth_audio_share_request_disable">Вы абагульваеце аўдыя з іншай парай навушнікаў. Пераключэнне на іншую прыладу спыніць абагульванне аўдыя. Усё роўна пераключыцца?</string>
   <string name="bluetooth_audio_share_request_disable_title">Пераключыць прыладу?</string>
-  <string name="bluetooth_audio_share_request_disconnect">Калі вы адключыце зараз, вашы прылады не будуць аўтаматычна абагульваць аўдыя пры наступным падключэнні. Усё роўна адключыцца?</string>
+  <string name="bluetooth_audio_share_request_disconnect">Калі вы адключыцеся зараз, вашы прылады не будуць аўтаматычна абагульваць аўдыя пры наступным падлучэнні. Усё роўна адключыцца?</string>
   <string name="bluetooth_audoi_share">" | Абмен аўдыя"</string>
   <string name="bluetooth_auracast_assist_add_source">Слухаць</string>
   <string name="bluetooth_auracast_assist_leave_broadcast">Завяршыць</string>
@@ -1469,12 +1469,12 @@
   <string name="bluetooth_device_advanced_profile_header_title">Выкарыстоўваць для</string>
   <string name="bluetooth_device_advanced_rename_device">Перайменаваць</string>
   <string name="bluetooth_device_advanced_title">Падлучаная прылада Bluetooth</string>
-  <string name="bluetooth_device_audio_share_connecting">Ідзе падлучэнне…</string>
-  <string name="bluetooth_device_audio_share_message">Абагуліць аўдыя гэтай прылады з гэтай парай навушнікаў</string>
+  <string name="bluetooth_device_audio_share_connecting">Падлучэнне…</string>
+  <string name="bluetooth_device_audio_share_message">Абагуліць аўдыё гэтай прылады з гэтай парай навушнікаў</string>
   <string name="bluetooth_device_blacklist_tital">Чорны спіс Bluetooth</string>
   <string name="bluetooth_device_button_accept">ОК</string>
   <string name="bluetooth_device_button_accept_permission">Згаджаюся</string>
-  <string name="bluetooth_device_button_audio_share_success">Зразумеў</string>
+  <string name="bluetooth_device_button_audio_share_success">Зразумела</string>
   <string name="bluetooth_device_button_cancel">Адмена</string>
   <string name="bluetooth_device_button_enable_audio_share">Абагуліць</string>
   <string name="bluetooth_device_button_reject_permission">Не згаджаюся</string>
@@ -1497,9 +1497,9 @@
   <string name="bluetooth_device_name_summary">Бачная для іншых прылад як прылада \"^1\"</string>
   <string name="bluetooth_device_nearby_title">Бліжэйшыя прылады</string>
   <string name="bluetooth_device_searchable">Бачнасць</string>
-  <string name="bluetooth_device_title_audio_share">Слухайце разам з %1$s</string>
+  <string name="bluetooth_device_title_audio_share">Слухаць разам з %1$s</string>
   <string name="bluetooth_device_title_audio_share_fail">Немагчыма падлучыцца да %1$s. Паўтарыце спробу.</string>
-  <string name="bluetooth_device_title_audio_share_success">Слуханне разам з %1$s</string>
+  <string name="bluetooth_device_title_audio_share_success">Праслухоўванне разам з %1$s</string>
   <string name="bluetooth_devices">Прылады Bluetooth</string>
   <string name="bluetooth_devices_card_off_summary">Націсніце, каб уключыць</string>
   <string name="bluetooth_devices_card_off_title">Bluetooth выключаны</string>
@@ -10838,4 +10838,11 @@
   <string name="wifi_region_summary">Патрабуецца перазапуск Wi-Fi, каб прымяніць змены</string>
   <string name="wifi_region_title">Рэгіён Wi-Fi</string>
   <string name="lock_password_checking">Праверка блакавання экрана…</string>
+  <string name="assistant_add_fail">Цяпер немагчыма праслухаць, паспрабуйце пазней</string>
+  <string name="assistant_operate_timeout">Тайм-аўт аперацыі, паспрабуйце пазней</string>
+  <string name="bluetooth_auracast_source_and_assistant_text">Трансляваць лакальнае аўдыё, каб іншыя маглі яго слухаць, або шукаць аўдыётрансляцыі паблізу</string>
+  <string name="bluetooth_auracast_source_explain_summary">Пасля ўключэння трансляцыі людзі паблізу змогуць слухаць аўдыё гэтай прылады пасля праверкі</string>
+  <string name="bluetooth_auracast_source_opend_summary">Калі ласка, увядзіце код пацверджання пры праслухоўванні гэтай прылады:</string>
+  <string name="device_mall_card_title_new">Натыўныя правы</string>
+  <string name="password_check_fail">Няправільны ўвод кода пацверджання, немагчыма праслухаць</string>
 </resources>

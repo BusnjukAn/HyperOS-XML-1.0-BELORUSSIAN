@@ -228,7 +228,7 @@
   <string name="default_folder_title_security">Бяспека</string>
   <string name="default_folder_title_services">Сэрвісы</string>
   <string name="default_folder_title_telcel">Telcel</string>
-  <string name="default_folder_title_tools">Сістэмныя праграмы</string>
+  <string name="default_folder_title_tools">Інструменты</string>
   <string name="default_screen_preview_title">Усталяваць пачатковы экран</string>
   <string name="delete">Выдаліць</string>
   <string name="delete_category_dialog_content">Вы не зможаце аднавіць гэтую катэгорыю пасля выдалення. Усё роўна выдаліць?</string>
@@ -1154,4 +1154,5 @@
   <string name="setting_no_word">У любым месцы</string>
   <string name="setting_only_widget_no_word">На віджэтах</string>
   <string name="start_new_window">Новае акно</string>
+  <string name="new_default_folder_title_tools">Сістэмныя праграмы</string>
 </resources>

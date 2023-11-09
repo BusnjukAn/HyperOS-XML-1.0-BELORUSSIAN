@@ -692,4 +692,6 @@
   <string name="gb_pannel_control_frame_rate_dialog_title">Змяніце раздзяляльнасць экрана</string>
   <string name="gb_pannel_control_mode_frame_rate">Прыярытэт частаты кадраў</string>
   <string name="gb_pannel_control_mode_picture">Прыярытэт выявы</string>
+  <string name="gb_gpu_pannel_touch_ctl_dialog_message">Сэнсарнае кіраванне было абноўлена. Цяпер вы можаце знайсці адпаведныя функцыі ў раздзеле \"Цэтлікі гульняў\" > \"Палепшанае сэнсарнае кіраванне\" падчас гульні.</string>
+  <string name="gb_gpu_pannel_touch_ctl_dialog_title">Новае сэнсарнае кіраванне</string>
 </resources>

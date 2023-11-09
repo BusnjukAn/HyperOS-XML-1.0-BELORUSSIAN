@@ -2776,7 +2776,7 @@
   <string name="cinematic_flare_circle">Звычайны</string>
   <string name="cinematic_flare_oval">Шырокі</string>
   <string name="cinematic_focus_view_bg_tip">Сачыльны аўтафокус заблакаваны</string>
-  <string name="cinematic_guide_item1_des">Камера будзе аўтаматычна факусавацца на аб\'екце відэа падчас здымкі. Калі аб\'ект змяняецца, фокус таксама змяняецца аўтаматычна.</string>
+  <string name="cinematic_guide_item1_des">Фокус аўтаматычна будзе засяроджаны на аб\'екце відэа і будзе перамыкацца пры змене сцэны.</string>
   <string name="cinematic_guide_item1_title">Аўтафокус</string>
   <string name="cinematic_guide_item2_des">Падтрымліваючы як стандартныя, так і шырокаэкранныя эфекты размыцця, вы можаце рэгуляваць інтэнсіўнасць размыцця, каб надаць вашым відэа кінематаграфічны эфект глыбіні рэзкасці.</string>
   <string name="cinematic_guide_item2_title">Размыццё</string>
@@ -2940,4 +2940,5 @@
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
   <string name="xiaomi_update_sdk_update_dialog_cancel">Нагадаць пазней</string>
   <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
+  <string name="cinematic_guide_item1_des_new">Фокус аўтаматычна будзе засяроджаны на аб\'екце відэа і будзе перамыкацца пры змене сцэны. Двойчы дакраніцеся да аб\'екта, каб зафіксаваць на ім фокус. Вы можаце пераключыць заблакаваны фокус, двойчы націснуўшы іншы аб\'ект.</string>
 </resources>

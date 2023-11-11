@@ -243,7 +243,7 @@
   <string name="install_package_error_four">Гэта праграма была ўсталявана з парушэннем бяспекі сістэмы</string>
   <string name="install_package_error_four_des">Выдаліць ці адключыць дазвол \"Усталяванне з невядомых крыніц\"</string>
   <string name="install_source">Крыніца</string>
-  <string name="install_source_dialog_safe_title">Вы хочаце дазволіць \"%1$s\" усталёўваць праграмы?</string>
+  <string name="install_source_dialog_safe_title">Дазволіць ўсталеўку з \"%1$s\"?</string>
   <string name="install_source_dialog_safe_title_des">Ваша прылада і асабістыя дадзеныя больш уразлівыя для нападаў з боку невядомых праграм. Усталёўваючы праграмы з гэтай крыніцы, вы згаджаецеся несці адказнасць за шкоду вашай прыладзе або страту дадзеных, якія могуць узнікнуць у выніку выкарыстання гэтых праграм.</string>
   <string name="install_source_dialog_tip">Па скарзе карыстальніка і разгляду ў Краме праграм Xiaomi, праграма мае пагрозу бяспецы, і яе усталёўка была спынена. Звярніце ўвагу, што іншыя праграмы, якія прадстаўляюцца гэтым дадаткам, таксама могуць быць схільныя рызыцы.</string>
   <string name="install_source_no_credible">Крыніца недакладная</string>
@@ -708,13 +708,13 @@
   <string name="pure_introduction_title4">Абарона прыватнасці</string>
   <string name="pure_introduction_title5">Абарона ад махлярства</string>
   <string name="pure_mode_des">У бяспечным рэжыме будзе абмежавана ўсталеўка праграм, якія не былі правераны службай бяспекі Xiaomi.</string>
-  <string name="pure_mode_install_completed_setting"><u>Усталяваць дзеянні па кіраванню для гэтай праграмы</u></string>
-  <string name="pure_mode_install_completed_tip1">· Схаваць ідэнтыфікацыю асабістай прылады і прадухіліць адсочванне</string>
-  <string name="pure_mode_install_completed_tip2">· Незалежная ад праграм прастора для захоўвання для абароны прыватнасці</string>
-  <string name="pure_mode_install_completed_tip3">· Прадухіленне няправільнай усталёўкі і падахвочванне да ўсталёўкі праграм</string>
-  <string name="pure_mode_install_completed_tip4">· Прадухіленне выпадковага запуску і ланцужны запуск іншых праграм у фонавым рэжыме</string>
+  <string name="pure_mode_install_completed_setting"><u>Кіраванне гэтай праграмай</u></string>
+  <string name="pure_mode_install_completed_tip1">· Схаваць ідэнтыфікатары і забараніць адсочванне</string>
+  <string name="pure_mode_install_completed_tip2">· Захоўваць інфармацыю кожнай праграмы незалежна</string>
+  <string name="pure_mode_install_completed_tip3">· Прадухіліць прымусовую ўсталёўку праграм</string>
+  <string name="pure_mode_install_completed_tip4">· Прадухіліць выпадковы запуск праграм</string>
   <string name="pure_mode_open_toast">Mi Абарона ўключана</string>
-  <string name="pure_mode_tip_dialog_des">Пацвердзіце, што гэтая усталёўка з\'яўляецца вашым актыўным выбарам</string>
+  <string name="pure_mode_tip_dialog_des">Дазволіць праграме завяршыць усталёўку?</string>
   <string name="pure_mode_tip_dialog_elderly_des">Для забеспячэння бяспекі і прыватнасці, Mi Абарона блакуе ўсталёўку праграм з невядомых ці небяспечных крыніц.</string>
   <string name="pure_mode_tip_dialog_elderly_set">Калі ўпэўненыя, можаце ўсталяваць гэту праграму тут.</string>
   <string name="pure_mode_tip_dialog_elderly_set_click">тут</string>
@@ -995,7 +995,7 @@
   <string name="unknown_source_risk_not_credible">У крыніцы ўсталёўкі ёсць пагроза бяспецы</string>
   <string name="unknown_source_risk_not_credible_description">Калі вы ўсведамляеце магчымыя рызыкі і добраахвотна прымаеце на сябе магчымыя наступствы, вы можаце працягнуць аўтарызацыю гэтай усталёўкі</string>
   <string name="unlock_failed">Унутраная памылка</string>
-  <string name="untrusted_external_source_title">Дазволіць \"%1$s\" ўсталёўваць праграмы?</string>
+  <string name="untrusted_external_source_title">Дазволіць ўсталеўку з \"%1$s\"?</string>
   <string name="untrusted_external_source_warning_summary">Прылада і асабістыя дадзеныя могуць быць уразлівыя для нападаў праграм, устаноўленых з невядомых крыніц. Дазваляючы ўсталеўку праграмы з гэтай крыніцы, вы прымаеце на сябе адказнасць за любы шкоду або страту дадзеных, якія могуць паўстаць пры яе выкарыстанні.</string>
   <string name="update_start">Працягнуць</string>
   <string name="uri_no_permission">Немагчыма прачытаць файл, адмоўлена ў дазволе</string>

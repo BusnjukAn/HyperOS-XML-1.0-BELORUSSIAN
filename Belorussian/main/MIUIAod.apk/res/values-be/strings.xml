@@ -324,7 +324,7 @@
   <string name="kg_template_title_magazine">Часопіс</string>
   <string name="kg_template_title_mine">Экран блакавання</string>
   <string name="kg_template_title_rhombus">Ромб</string>
-  <string name="kg_tip_cant_get_third_party_wallpaper">Не ўдалося атрымаць шпалеры трэцяга боку</string>
+  <string name="kg_tip_cant_get_third_party_wallpaper">Немагчыма атрымаць доступ да старонніх шпалер</string>
   <string name="kg_wallpaper_scale_hint_text">Развядзіце пальцамі, каб абрэзаць</string>
   <string name="large_time">Вялікі гадзіннік</string>
   <string name="letter_space">Адлегласць паміж літарамі</string>
@@ -699,4 +699,5 @@
   <string name="wind_direction_7_f">Паўн.Зах. вецер</string>
   <string name="wind_format">%1$s | Узровень %2$s</string>
   <string name="yesterday">Учора</string>
+  <string name="kg_classic_item_weather_cloudy">Воблачна</string>
 </resources>

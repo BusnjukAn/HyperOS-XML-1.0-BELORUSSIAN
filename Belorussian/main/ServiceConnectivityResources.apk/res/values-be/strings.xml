@@ -2,7 +2,7 @@
 <resources>
   <string name="connectivityResourcesAppLabel">Рэсурсы падлучэння сістэмы</string>
   <string name="mobile_no_internet">Мабільная сетка не мае доступу ў інтэрнэт</string>
-  <string name="network_available_sign_in">Увайдзіце ў сетку</string>
+  <string name="network_available_sign_in">Уваход у сетку</string>
   <string name="network_partial_connectivity">%1$s мае абмежаваную магчымасць падлучэння</string>
   <string name="network_partial_connectivity_detailed">Націсніце, каб падключыцца</string>
   <string name="network_switch_metered">Выкананы пераход да %1$s</string>

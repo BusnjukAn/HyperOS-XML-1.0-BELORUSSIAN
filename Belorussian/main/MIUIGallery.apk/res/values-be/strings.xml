@@ -3822,7 +3822,7 @@
   <string name="ai_select_photo_guide_description">Запампаваць здымкі твару або паловы цела аднаго чалавека</string>
   <string name="ai_select_photo_guide_title">Як абраць фатаграфіі</string>
   <string name="ai_select_photo_manual">Абраць уручную</string>
-  <string name="ai_select_photo_need_select_manual">Недастаткова фатаграфій. Дадаць яшчэ.</string>
+  <string name="ai_select_photo_need_select_manual">Недастаткова фатаграфій. Дадайце яшчэ.</string>
   <string name="ai_select_photo_next_step">Далей</string>
   <string name="ai_select_photo_over_time_toast">Лепшыя здымкі былі абраны аўтаматычна. Дадайце больш фатаграфій уручную.</string>
   <string name="ai_select_photo_right_guide_angel">Некалькі ракурсаў</string>
@@ -3832,7 +3832,7 @@
   <string name="ai_select_photo_right_guide_multi_bg">Разнастайныя фоны</string>
   <string name="ai_select_photo_right_guide_multi_clothes">Рознае адзенне</string>
   <string name="ai_select_photo_right_guide_title">Правільна</string>
-  <string name="ai_select_photo_time_out">"Немагчыма абраць фатаграфіі аўтаматычна. Выберыце іх уручную."</string>
+  <string name="ai_select_photo_time_out">"Немагчыма абраць фатаграфіі аўтаматычна. Абярыце іх уручную."</string>
   <string name="ai_theme_scene_select">Абярыце сцэну</string>
   <string name="ai_theme_square_footer_tip">Сачыце за новымі сцэнамі!</string>
   <string name="ai_theme_square_title">Стварэнне партрэтаў</string>
@@ -3848,4 +3848,5 @@
   <string name="run_clip">Выканаць вектарны алгарытм пошуку ШI</string>
   <string name="ai_free_creation_text_container_tips">Наш генератар выяў ШІ пастаянна ўдасканальваецца. Калі вы не задаволены вынікамі, вы заўсёды можаце паспрабаваць яшчэ раз крыху пазней!</string>
   <string name="album_scanner_china">Сканар</string>
+  <string name="burst_photo_preview_thumbnail_content_description">Фота %d</string>
 </resources>

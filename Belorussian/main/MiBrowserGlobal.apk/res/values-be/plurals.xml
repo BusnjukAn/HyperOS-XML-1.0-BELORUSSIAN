@@ -466,4 +466,8 @@
         <item quantity="few">%s разы</item>
         <item quantity="many">%s разоў</item>
     </plurals>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d новых рэкамендаваных відэа</item>
+        <item quantity="one">%d новае рэкамендаванае відэа</item>
+    </plurals>
 </resources>

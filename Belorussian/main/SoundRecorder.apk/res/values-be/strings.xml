@@ -33,7 +33,7 @@
   <string name="alert_message_clear_records">Выдаліць выбраныя запісы?</string>
   <string name="alert_message_delete_local_record">Выдаліць запіс?</string>
   <string name="alert_message_delete_record">Выдаленне запісу з прылады таксама выдаліць яго і з Воблака Xiaomi. Выдаліць зараз?</string>
-  <string name="alert_message_delete_record_title">Выдаліць абраны запіс?</string>
+  <string name="alert_message_delete_record_title">Выдаліць запіс</string>
   <string name="am">ДП</string>
   <string name="app_name">Дыктафон</string>
   <string name="app_record">Запісы праграмы</string>
@@ -706,4 +706,7 @@
   <string name="toast_enter_silent_mode">Запіс. Бязгучны рэжым уключаны.</string>
   <string name="toast_exit_silent_mode">Запіс завершаны. Бязгучны рэжым выключаны.</string>
   <string name="trash_delete">Выдаліць</string>
+  <string name="permission_bluetooth">Доступ да стану злучэння Bluetooth</string>
+  <string name="permission_bluetooth_dialog_description">Дазволіць гэтай прыладзе падлучацца да прылад паблізу, каб мець магчымасць пераключаць прылады падчас прайгравання запісаў.</string>
+  <string name="permission_bluetooth_title">Патрабуюцца дазволы</string>
 </resources>

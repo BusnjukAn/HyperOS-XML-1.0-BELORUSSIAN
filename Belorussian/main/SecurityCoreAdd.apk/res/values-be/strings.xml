@@ -1201,4 +1201,6 @@
   <string name="launch_accessibility_live_subtitles_full_screen">Поўнаэкранныя разумныя субтытры</string>
   <string name="title_backup_and_recovery">Рэзервовае капіяванне і аднаўленне</string>
   <string name="workbench_mode_not_support_maintenancemode_mode">Бягучы стан не падтрымлівае рэжым абслугоўвання. Калі ласка, выйдзіце з рэжыму і паўтарыце спробу.</string>
+  <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Націсніце і ўтрымлівайце кнопкі \"Назад\" і \"Папярэдні прагляд\", каб адмацаваць гэту праграму</string>
+  <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Правядзіце пальцам уверх ад ніжняй часткі экрана і зрабіце паўзу, каб адмацаваць гэту праграму</string>
 </resources>

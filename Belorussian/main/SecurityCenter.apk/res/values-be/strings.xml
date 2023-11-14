@@ -4298,7 +4298,7 @@
   <string name="privacy_risk_uninstall_dialog_title">ОК</string>
   <string name="privacy_risk_uninstall_title">Выдаленне праграм</string>
   <string name="privacy_risk_work_encryption">Сацыяльныя сеткі і офісныя файлы не абароненыя</string>
-  <string name="see_all_app_behavior_record">Прагледзець усе дзеянні праграм</string>
+  <string name="see_all_app_behavior_record">Прагледзець усе запісы дазволаў</string>
   <string name="storage_category_title">Дадатковыя параметры</string>
   <string name="xiaomi_privacy_protection_measures">Меры абароны прыватнасці</string>
   <string name="abnormal_consume_disable_autostart">Абмежаваць аўтазапуск</string>
@@ -6139,7 +6139,7 @@
   <string name="permission_instruction_read_media_pic">Гэты дазвол дазваляе праграмам атрымліваць доступ да фатаграфій і відэа, якія захоўваюцца на гэтай прыладзе. Гэтыя элементы могуць змяшчаць асабістую інфармацыю.</string>
   <string name="permission_instruction_scoped">Новы механізм абароны сховішча дазваляе лепш кантраляваць, як сумяшчальныя праграмы выкарыстоўваюць правы доступу да сховішча</string>
   <string name="storage_compact_warning">Настройка некалькіх дазволаў</string>
-  <string name="storage_compact_warning_desc">Дазволы на доступ да фота, відэа і аўдыё для гэтай праграмы павінны быць зменены адначасова. Змена аднаго з гэтых дазволаў зменіць іх усё.</string>
+  <string name="storage_compact_warning_desc">Дазволы на фота і відэа, дазволы на музыку і аўдыё, а таксама дазволы на дакументы і файлы для гэтай праграмы павінны быць зменены адначасова. Перад тым, як працягнуць, пераканайцеся, што вы гатовыя змяніць некалькі дазволаў.</string>
   <string name="antivirus_detect_apps_dialog_content_text">Гэта праграма можа ўяўляць пагрозу бяспецы вашай асабістай інфармацыі</string>
   <string name="antivirus_detect_apps_dialog_message">Калі супрацоўнікі службы падтрымкі, прадстаўнікі ўлады ці людзі, якіх вы можаце ведаць, просяць вас выкарыстоўваць гэтую праграму, <Data>&lt;font color=#F22424>спачатку пераканайцеся ў іх асобе&lt;/font>.</Data></string>
   <string name="antivirus_detect_apps_dialog_message_reject_permission">Дазволы для гэтай праграмы былі абмежаваныя. Змяніць іх можна тут: %s.</string>
@@ -6779,8 +6779,8 @@
   <string name="blur_external_storage">Вонкавае сховішча</string>
   <string name="blur_key_words_oaid">Віртуальны ідэнтыфікатар</string>
   <string name="blur_key_words_permission_records">Запісы дзеяння праграмы</string>
-  <string name="blur_location_off">Адключыце, каб прыблізнае месцазнаходжанне было даступна толькі тым праграмам, якія яго ўжо выкарыстоўвалі</string>
-  <string name="blur_location_on">Уключыце параметр прыблізнага месцазнаходжання, каб зрабіць яго даступным для ўсіх праграм</string>
+  <string name="blur_location_off">Калі вы адключыце гэтую функцыю, толькі праграмы, якім вы спецыяльна падалі дазвол, змогуць атрымаць доступ да вашага прыблізнага месцазнаходжання.</string>
+  <string name="blur_location_on">Калі вы ўключыце гэтую функцыю і дасце дазвол адзін раз, усім праграмам будзе дазволены доступ да вашага прыблізнага месцазнаходжання.</string>
   <string name="blur_message">Паведамленні</string>
   <string name="blur_multiple_device_permissions">Дазволы для некалькіх прылад</string>
   <string name="blur_phone_book">Кантакты</string>
@@ -6869,7 +6869,7 @@
   <string name="invisible_mode_open_title_compact">Напамін аб дазволах</string>
   <string name="location">Месцазнаходжанне</string>
   <string name="mic">Мікрафон</string>
-  <string name="miui_blur_location">Прыблізнае месцазнаходжанне</string>
+  <string name="miui_blur_location">Дазволіць усім праграмам доступ да прыблізнага месцазнаходжання</string>
   <string name="new_result_sound_only">Гук</string>
   <string name="normal1">Абмежаваныя дазволы: %1s. Націсніце, каб змяніць.</string>
   <string name="normal2" formatted="false">Абмежаваныя дазволы: %1s, %2s. Націсніце, каб змяніць.</string>
@@ -6932,7 +6932,7 @@
   <string name="permission_usage_allow_device_sensor_once">%1$s | Гэта праграма мела доступ да датчыкаў руху і арыентацыі прылады</string>
   <string name="permission_usage_allow_files_once">%1$s | Гэта праграма мела доступ да файлаў і дакументаў</string>
   <string name="permission_usage_allow_get_installed_once">%1$s | Гэта праграма атрымала доступ да спісу праграм, устаноўленых на гэтай прыладзе</string>
-  <string name="permission_usage_allow_get_number_once">%1$s | Гэта праграма атрымала доступ да нумару тэлефона гэтай прылады</string>
+  <string name="permission_usage_allow_get_number_once">%1$s | Доступ да інфармацыі аб тэлефоне</string>
   <string name="permission_usage_allow_get_sms_once">%1$s | Гэта праграма чытае SMS</string>
   <string name="permission_usage_allow_location_once">%1$s | Гэта праграма атрымала доступ да вашага месцазнаходжання</string>
   <string name="permission_usage_allow_media_aural_once">%1$s | Гэта праграма мела доступ да музыцы і аўдыё</string>
@@ -6963,7 +6963,7 @@
   <string name="permission_usage_deny_device_sensor_once">%1$s | Гэтай праграме забаронены доступ да датчыкаў руху і арыентацыі прылады</string>
   <string name="permission_usage_deny_files_once">%1$s | Гэтай праграме забаронены доступ да файлаў і дакументаў</string>
   <string name="permission_usage_deny_get_installed_once">%1$s | Гэтай праграме забаронены доступ да спісу праграм, устаноўленых на гэтай прыладзе</string>
-  <string name="permission_usage_deny_get_number_once">%1$s | Гэтай праграме забаронены доступ да нумару тэлефона гэтай прылады</string>
+  <string name="permission_usage_deny_get_number_once">%1$s | Адмоўлена ў доступе да інфармацыі аб тэлефоне</string>
   <string name="permission_usage_deny_get_sms_once">%1$s | Гэтай праграме забаронена чытаць SMS</string>
   <string name="permission_usage_deny_location_once">%1$s | Гэтай праграме забаронены доступ да вашага месцазнаходжання</string>
   <string name="permission_usage_deny_media_aural_once">%1$s | Гэтай праграме забаронены доступ да музыцы і аўдыё</string>
@@ -7049,4 +7049,31 @@
   <string name="gb_cooler_device_toast">"Візуальнае ўспрыманне палепшана за кошт
 Xiaomi Gaming Cooler"</string>
   <string name="group_head_data_screen_shots_clipboard">Аўтаматычна капіяваць здымкі экрана ў буфер абмену</string>
+  <string name="activity_title_apps_settings">Праграмы</string>
+  <string name="clipboard_ai_allow_summary">Дазваляе сістэме вызначыць, ці можа праграма атрымаць доступ да змесціва буфера абмену, і нагадае вам, калі гэта адбудзецца</string>
+  <string name="i_know_time">Зразумела (%d)</string>
+  <string name="order_bh_net_empty">Тут пакуль нічога няма</string>
+  <string name="pc_keywords_fast_charge">Хуткая зарадка</string>
+  <string name="pc_keywords_low_power_consumption_save">Эканомія зарада батарэі</string>
+  <string name="pc_keywords_low_power_mode">Рэжым энергазберажэння</string>
+  <string name="pc_keywords_navigation_discharge">Адключыць зарадку падчас навігацыі</string>
+  <string name="pc_keywords_night_mode">Начны рэжым</string>
+  <string name="pc_keywords_night_protect">Абарона батарэі ў начны час</string>
+  <string name="pc_keywords_reverse_charge">Зваротная зарадка</string>
+  <string name="pc_keywords_sleep_mode">Спячы рэжым</string>
+  <string name="pc_keywords_sleep_protect">Абарона батарэі падчас сну</string>
+  <string name="pc_keywords_sleep_save_mode">Эканомія зарада батарэі ў начны час</string>
+  <string name="pc_keywords_summary_battery_protect">Каб паменшыць старэнне батарэі, сістэма вывучае вашу штодзённую працэдуру зарадкі, каб паменшыць непатрэбную бесперапынную зарадку</string>
+  <string name="pc_keywords_summary_low_power_consume">Паменшыце энергаспажыванне падлучэння 5G у пэўных сцэнарах</string>
+  <string name="pc_keywords_summary_navigation">Пры выкарыстанні навігацыйных праграм зарадка аўтаматычна спыняецца, калі зарад батарэі дасягае абранага ўзроўню</string>
+  <string name="pc_keywords_summary_night_save">Аўтаматычна адключаць некаторыя функцыі для эканоміі зарада батарэі пры выяўленні сну</string>
+  <string name="permission_action_virtual_common_summary">Прадастаўляе праграмам неабходныя дазволы, але вяртае пустыя паведамленні для абароны вашай канфідэнцыйнасці</string>
+  <string name="permission_instruction_mac_adress">Доступ да MAC-адрасу гэтай прылады</string>
+  <string name="permission_instruction_read_imei">Доступ да IMEI гэтай прылады</string>
+  <string name="permission_precision_location_sumary">Калі гэтая функцыя адключаная, праграмы змогуць атрымліваць доступ толькі да вашага прыблізнага месцазнаходжання</string>
+  <string name="permission_usage_media_aural_app">%1s атрымала доступ да музыкі і аўдыё</string>
+  <string name="permission_usage_media_visual_app">%1s атрымала доступ да фота і відэа</string>
+  <string name="permission_usage_projection_screen_use_app">%1s атрымала доступ або запісвала змесціва экрана</string>
+  <string name="unused_apps_switch">Прыпыніць актыўнасць праграмы, калі яна не выкарыстоўваецца</string>
+  <string name="unused_apps_switch_summary">Выдаліць дазволы, выдаліць часовыя файлы і адключыць апавяшчэнні</string>
 </resources>

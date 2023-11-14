@@ -1362,7 +1362,7 @@
   <string name="promo_post_install_title_no_default_xiaomi">Замяніць \"Mi Паведамленні\" праграмай больш высокай якасці ад Google</string>
   <string name="promo_post_install_title_with_default_xiaomi">Пачніце адпраўляць тэкставыя паведамленні больш высокай якасці прама цяпер з дапамогай \"Паведамленняў\" ад Google</string>
   <string name="promo_use_messages_btn_text">Выкарыстоўваць \"Паведамленні\"</string>
-  <string name="small_window_log_text">Камеру нельга выкарыстоўваць у шматваконны рэжыме</string>
+  <string name="small_window_log_text">Камера не падтрымлівае некалькі вокнаў</string>
   <string name="aim_show_card">Паказаць картку</string>
   <string name="aim_show_original">Паказаць паведамленне</string>
   <string name="cancel">Адмена</string>
@@ -1705,4 +1705,5 @@
   <string name="miuix_navigator_multiple_choice">Абраць</string>
   <string name="miuix_navigator_navigator_switch_description">Схаваць бакавую панэль</string>
   <string name="send_to_index_contact">Адпраўлена %1$s з %2$s…</string>
+  <string name="add_to_block_cta_failed">Падайце Бяспецы неабходныя дазволы для дадання элементаў у чорны спіс</string>
 </resources>

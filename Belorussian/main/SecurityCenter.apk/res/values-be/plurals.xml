@@ -1450,9 +1450,9 @@
         <item quantity="one">%1$s | Гэта праграма атрымлівала доступ да спісу ўсталяваных праграм %2$d раз</item>
     </plurals>
     <plurals name="permission_usage_allow_get_number">
-        <item quantity="other">%1$s| Гэта праграма атрымлівала доступ да нумара тэлефона гэтай прылады %2$d разоў</item>
-        <item quantity="few">%1$s| Гэта праграма атрымлівала доступ да нумара тэлефона гэтай прылады %2$d разы</item>
-        <item quantity="one">%1$s | Гэта праграма атрымлівала доступ да нумара тэлефона гэтай прылады %2$d раз</item>
+        <item quantity="other">%1$s | Доступ да інфармацыі аб тэлефоне %2$d разоў</item>
+        <item quantity="few">%1$s | Доступ да інфармацыі аб тэлефоне %2$d разы</item>
+        <item quantity="one">%1$s | Доступ да інфармацыі аб тэлефоне %2$d раз</item>
     </plurals>
     <plurals name="permission_usage_allow_get_sms">
         <item quantity="other">%1$s | Гэта праграма прачытала SMS %2$d разоў</item>
@@ -1605,9 +1605,9 @@
         <item quantity="one">%1$s | Гэтай праграме было адмоўлена ў доступе да спісу ўсталяваных праграм %2$d раз</item>
     </plurals>
     <plurals name="permission_usage_deny_get_number">
-        <item quantity="other">%1$s | Гэтай праграме было адмоўлена ў доступе да нумара тэлефона гэтай прылады %2$d разоў</item>
-        <item quantity="few">%1$s | Гэтай праграме было адмоўлена ў доступе да нумара тэлефона гэтай прылады %2$d разы</item>
-        <item quantity="one">%1$s | Гэтай праграме было адмоўлена ў доступе да нумара тэлефона гэтай прылады %2$d раз</item>
+        <item quantity="other">%1$s | Адмоўлена ў доступе да інфармацыі аб тэлефоне %2$d разоў</item>
+        <item quantity="few">%1$s | Адмоўлена ў доступе да інфармацыі аб тэлефоне %2$d разы</item>
+        <item quantity="one">%1$s | Адмоўлена ў доступе да інфармацыі аб тэлефоне %2$d раз</item>
     </plurals>
     <plurals name="permission_usage_deny_get_sms">
         <item quantity="other">%1$s | Гэтай праграме было забаронена чытаць SMS %2$d разоў</item>
@@ -1772,5 +1772,9 @@
         <item quantity="other">%1$s | Доступ да змесціва экрана або яго запіс %2$d разоў</item>
         <item quantity="one">%1$s | Доступ да змесціва экрана або яго запіс %2$d раз</item>
         <item quantity="few">%1$s | Доступ да змесціва экрана або яго запіс %2$d разы</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Рэдагаванне %1$d дазволаў</item>
+        <item quantity="one">Рэдагаванне %1$d дазволу</item>
     </plurals>
 </resources>

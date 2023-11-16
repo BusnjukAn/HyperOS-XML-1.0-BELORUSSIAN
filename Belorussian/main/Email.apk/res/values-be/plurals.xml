@@ -309,10 +309,7 @@
         <item quantity="many">Паўгадзіны таму</item>
     </plurals>
 	<plurals name="in_a_hour">
-        <item quantity="other">Праз %d гадзіну</item>
-        <item quantity="one">Праз %d гадзіну</item>
-        <item quantity="few">Праз %d гадзіну</item>
-        <item quantity="many">Праз %d гадзіну</item>
+        <item quantity="other">Праз 1 гадзіну</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Праз паўгадзіны</item>

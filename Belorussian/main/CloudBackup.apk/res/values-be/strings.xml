@@ -127,7 +127,7 @@
   <string name="cloud_backup_detail_manage">Кіраванне рэзервовымі копіямі</string>
   <string name="cloud_backup_detail_state">Аўтакапiяванне</string>
   <string name="cloud_backup_detail_state_summary">Стварыць рэзервовыя копіі аўтаматычна пры падлучэнні да Wi-Fi</string>
-  <string name="cloud_backup_detail_state_summary_china">Патрабуецца падлучэнне да Wi-Fi, зарад не менш за %s і заблакаваны экран.</string>
+  <string name="cloud_backup_detail_state_summary_china">Прылада павінна быць падлучана да Wi-Fi, зараджана і заблакавана.</string>
   <string name="cloud_backup_detail_time">Апошняя рэзервовая копія: %1$s</string>
   <string name="cloud_backup_detail_title">Рэзервовае капіяванне элементаў</string>
   <string name="cloud_backup_have_data">Знойдзена рэзервовая копія ў Воблака Xiaomi</string>

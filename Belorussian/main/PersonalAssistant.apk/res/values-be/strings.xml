@@ -1042,4 +1042,16 @@
   <string name="pa_picker_widget_select_upgrade_description">%1$s, даступна абнаўленне</string>
   <string name="pa_setting_new_simplify_title_bar">Стужка віджэтаў</string>
   <string name="pa_widget_advert_loading_dialog_message">Загрузка...</string>
+  <string name="pa_accessibility_picker_home_maml_slected_no_drag">%1$s, %2$s, \nНацісніце двойчы, каб перайсці на старонку звестак</string>
+  <string name="pa_accessibility_picker_home_widget_add">Дадаць віджэт %s у групу віджэтаў</string>
+  <string name="pa_accessibility_picker_home_widget_add_card_content_desc">Віджэт %s Ніжэй ёсць кнопка дадання. \nДвойчы націсніце, каб дадаць у групу віджэтаў</string>
+  <string name="pa_accessibility_picker_home_widget_add_card_content_desc_status">%1$s Статус усталёўкі віджэта %2$s Ніжэй ёсць кнопка дадання \nНацісніце двойчы, каб дадаць у групу віджэтаў</string>
+  <string name="pa_accessibility_picker_save">Захаваць</string>
+  <string name="pa_accessibility_picker_stack_widget_delete">Выдаліць, %1$s</string>
+  <string name="pa_accessibility_picker_stack_widget_double_click_drag_sort">Двойчы націсніце і ўтрымлівайце, каб перацягнуць %1$s для сартавання</string>
+  <string name="pa_accessibility_picker_stack_widget_drag_pa">Абярыце віджэт %1$s, двойчы націсніце і ўтрымлівайце, каб перацягнуць на экран віджэтаў</string>
+  <string name="pa_accessibility_stack_desc">Група віджэтаў. Правядзіце пальцам уверх і ўніз, каб пераключаць віджэты ў групе.</string>
+  <string name="pa_accessibility_stack_enter">Віджэт увайшоў у групу віджэтаў</string>
+  <string name="pa_accessibility_stack_page_down">На старонку ўніз, бягучы віджэт:</string>
+  <string name="pa_accessibility_stack_page_up">На старонку ўверх, бягучы віджэт:</string>
 </resources>

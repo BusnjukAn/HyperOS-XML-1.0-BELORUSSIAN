@@ -251,7 +251,7 @@
   <string name="install_version">Версія: %1$s</string>
   <string name="install_version_replace">Версія: %1$s -> %2$s</string>
   <string name="isntall_failed_verification">Немагчыма праверыць гэты ўсталявальны пакет. Гэта праграма можа быць несумяшчальная з бягучай версіяй Android.</string>
-  <string name="isntall_failed_verification_resolve_uggestion">Паспрабуйце знайсці замену гэтай праграме у GetApps</string>
+  <string name="isntall_failed_verification_resolve_uggestion">Паспрабуйце знайсці замену гэтай праграме у надзейнай крыніцы</string>
   <string name="item_view_role_description">Укладка</string>
   <string name="label">Пазнака</string>
   <string name="learn_bundle_app_install">Больш падрабязна аб усталёўцы пакетаў</string>
@@ -307,10 +307,10 @@
   <string name="miui_failed_solution_4">Вызваліце ​​сховішча ў Бяспека > Ачыстка і паспрабуйце зноў.</string>
   <string name="miui_failed_solution_5">Паспрабуйце выкарыстоўваць сумяшчальны установачны пакет.</string>
   <string name="miui_failed_solution_6">Выдаліце ​​ўжо ўсталяваную версію і паспрабуйце ўсталяваць зноў.</string>
-  <string name="miui_failed_solution_7">Спампуйце апошнюю версію гэтай праграмы ў GetApps.</string>
-  <string name="miui_failed_solution_8">Загрузіце праграму з GetApps.</string>
+  <string name="miui_failed_solution_7">Спампуйце апошнюю версію гэтай праграмы ў надзейнай крыніцы.</string>
+  <string name="miui_failed_solution_8">Спампуйце праграму з надзейнай крыніцы.</string>
   <string name="miui_failed_solution_retry_later">Пачакайце хвіліну ці дзве і паўтарыце спробу</string>
-  <string name="miui_failed_solution_to_market">Усталюйце гэту праграму з GetApps</string>
+  <string name="miui_failed_solution_to_market">Усталюйце гэту праграму з надзейнай крыніцы</string>
   <string name="miui_failed_system_incompatible">Несумяшчальны установачны пакет</string>
   <string name="miui_failed_update_incompatible">Канфлікт подпісаў праграм</string>
   <string name="miui_failed_version_downgrade">Не ўдаецца знізіць версію праграмы</string>

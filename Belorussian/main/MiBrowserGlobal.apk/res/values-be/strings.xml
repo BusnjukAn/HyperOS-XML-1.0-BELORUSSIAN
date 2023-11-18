@@ -2179,7 +2179,7 @@
   <string name="continue_reading">Працягнуць чытанне</string>
   <string name="core_functions_of_browser">Асноўныя функцыі ў вас пад рукой</string>
   <string name="data_traffic_prompt_title">Працягнуць прайграванне відэа?</string>
-  <string name="deeplink_intrercept_hint">У гэтым усплывальным акне будзе прапанавана адкрыць праграму.</string>
+  <string name="deeplink_intrercept_hint">У гэтым усплываючым акне будзе прапанавана адкрыць праграму.</string>
   <string name="deeplink_intrercept_second_hint">Вэб-сайт збіраецца адкрыць праграму. Пакуль гэтае дзеянне прыпыненае.</string>
   <string name="deeplink_permission_name">Адкрыць</string>
   <string name="deeplink_permission_name_hint">Адкрыць %s</string>
@@ -2189,7 +2189,7 @@
   <string name="doc_viewer_label">Чытанне (Mi Браўзэр)</string>
   <string name="doc_viewer_open_out_file_prompt">Каб адкрыць і прагледзець файл, атрыманы з вонкавай крыніцы, праграме патрабуецца стварыць копію файла. Працягнуць?</string>
   <string name="download_exist">Гэты файл ужо знаходзіцца ў вашай чарзе спампоўкі</string>
-  <string name="download_intrercept_hint">У гэтым усплывальным акне будзе прапанавана спампоўка праграмы.</string>
+  <string name="download_intrercept_hint">У гэтым усплываючым акне будзе прапанавана спампоўка праграмы.</string>
   <string name="download_intrercept_second_hint">Вэб-сайт збіраецца спампаваць праграму. Пакуль спампоўка прыпыненая.</string>
   <string name="download_permission_name">Спампаваць</string>
   <string name="download_permission_name_hint">Спампаваць %s</string>

@@ -368,7 +368,7 @@
   <string name="connection_failed">Не атрымалася падлучыць камеру</string>
   <string name="console_guide_btn_got_it">Зразумела</string>
   <string name="console_guide_subtitle_hang_up">Не перапыняйце трансляцыю, калі экран тэлефона выключаны. Гэтая функцыя можа павялічыць энергаспажыванне.</string>
-  <string name="console_guide_subtitle_private">Ня перадавайце усплывальныя паведамленнi, паведамленнi аб ўваходзячых выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
+  <string name="console_guide_subtitle_private">Ня перадавайце усплываючыя паведамленнi, паведамленнi аб ўваходзячых выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
   <string name="console_guide_subtitle_small_window">Схавайце акно, якое транслюецца, каб мець магчымасць выкарыстоўваць іншыя функцыі вашага тэлефона падчас трансляцыі</string>
   <string name="controller_auth_cancel">Адмена</string>
   <string name="controller_auth_title">Праверце дыстанцыйнае кіраванне</string>
@@ -968,7 +968,7 @@
   <string name="screen_projection_characteristics_hang_up_summary_new">Выключайце экран мабільнай прылады падчас трансляцыі, каб зэканоміць батарэю і пазбегнуць перагрэву</string>
   <string name="screen_projection_characteristics_off_screen_summary">Вы можаце працягваць трансляцыю, калі экран вашай прылады выключаны. Гэтая функцыя зніжае энергаспажыванне.</string>
   <string name="screen_projection_characteristics_off_screen_title">Трансляцыя пры выключаным экране</string>
-  <string name="screen_projection_characteristics_privacy_protect_summary">Не паказваць усплывальныя вокны, паведамленнi аб ўваходных выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">Не паказваць усплываючыя вокны, паведамленнi аб ўваходных выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
   <string name="screen_projection_characteristics_privacy_protect_title">Не паказваць асабістую інфармацыю</string>
   <string name="screen_projection_characteristics_private_summary_new">Абараніце вашу канфідэнцыяльнасць: падчас трансляцыі ваша прылада не будзе адлюстроўваць плаваючыя апавяшчэнні, уваходныя выклікі і іншыя прыватныя элементы</string>
   <string name="screen_projection_characteristics_small_window_summary">Не паказваць акно, якое транслюецца, каб працягнуць выкарыстоўваць іншыя функцыі вашага тэлефона.</string>

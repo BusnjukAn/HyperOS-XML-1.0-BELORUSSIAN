@@ -42,11 +42,11 @@
   <string name="date_picker_lunar">Месяцовы каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="default_list_type">Сартаваць па часу атрымання</string>
-  <string name="disable_float_notification">Усплывальныя апавяшчэннi не дазволены</string>
+  <string name="disable_float_notification">Усплываючыя апавяшчэннi не дазволены</string>
   <string name="disable_lockscreen_notification">Апавяшчэннi на экране блакавання не дазволены</string>
   <string name="disable_show_badge_notification">Значкі апавяшчэнняў не дазволены</string>
   <string name="early_morning">ДП</string>
-  <string name="enable_float_notification">Усплывальныя апавяшчэннi дазволены</string>
+  <string name="enable_float_notification">Усплываючыя апавяшчэннi дазволены</string>
   <string name="enable_lockscreen_notification">Апавяшчэннi на экране блакавання дазволены</string>
   <string name="enable_show_badge_notification">Значкі апавяшчэнняў дазволены</string>
   <string name="evening">ПП</string>
@@ -213,10 +213,10 @@
   <string name="solar_term_winter_begins">Пачатак зімы</string>
   <string name="solar_term_winter_solstice">Зімовае сонцастаянне</string>
   <string name="status_bar_setting">Радок стану</string>
-  <string name="summary_disable_float_notification">Усплывальныя апавяшчэннi не дазволены</string>
+  <string name="summary_disable_float_notification">Усплываючыя апавяшчэннi не дазволены</string>
   <string name="summary_disable_lockscreen_notification">Апавяшчэннi на экране блакавання не дазволены</string>
   <string name="summary_disable_show_badge_notification">Значкі апавяшчэнняў не дазволены</string>
-  <string name="summary_enable_float_notification">Усплывальныя апавяшчэннi дазволены</string>
+  <string name="summary_enable_float_notification">Усплываючыя апавяшчэннi дазволены</string>
   <string name="summary_enable_lockscreen_notification">Апавяшчэннi на экране блакавання дазволены</string>
   <string name="summary_enable_show_badge_notification">Значкі апавяшчэнняў дазволены</string>
   <string name="summary_float_enable_notification_first">Дазвольце апавяшчэнням уключаць плаваючыя апавяшчэннi</string>
@@ -304,7 +304,7 @@
   <string name="feedback_tip_msg">Для больш дакладнай групоўкі апавяшчэнняў нам неабходна ажыццяўляць збор інфармацыі пра назву праграмы, загаловак і апісанне апавяшчэння, а таксама пра час, у якое было атрымана апавяшчэнне. Адправіць водгук?</string>
   <string name="feedback_tip_title">Водгук аб катэгорыях апавяшчэнняў</string>
   <string name="float_notification_snooze_summary_1_min">Правядзіце ўверх па ўсплывальным апавяшчэнні, каб схаваць маючыя адбыцца апавяшчэннi на %d хв.</string>
-  <string name="float_notification_snooze_summary_always_float">Заўсёды паказваць усплывальныя апавяшчэнні</string>
+  <string name="float_notification_snooze_summary_always_float">Заўсёды паказваць усплываючыя апавяшчэнні</string>
   <string name="float_notification_snooze_summary_until_unlock">Правядзіце ўверх па ўсплывальным апавяшчэнні, каб схаваць маючыя адбыцца, пакуль прылада будзе заблакаванаz</string>
   <string name="icon_content_description">Абразок дыялогу</string>
   <string name="menu_setting_aggregatation_feedback">Опцыі групоўкі</string>

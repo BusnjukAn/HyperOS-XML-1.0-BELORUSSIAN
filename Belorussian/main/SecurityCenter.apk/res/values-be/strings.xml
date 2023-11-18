@@ -871,8 +871,8 @@
   <string name="first_aid_card_consume_power_summary4">Адключыце GPS, каб зэканоміць батарэю</string>
   <string name="first_aid_card_consume_power_title">Выкарыстанне батарэі</string>
   <string name="first_aid_card_float_window_button">Абмежаваць</string>
-  <string name="first_aid_card_float_window_summary">%s можа адлюстроўвацца некарэктна. Абмяжуйце усплывальныя паведамленнi.</string>
-  <string name="first_aid_card_float_window_title">Вы дазволілі усплывальныя паведамленнi</string>
+  <string name="first_aid_card_float_window_summary">%s можа адлюстроўвацца некарэктна. Абмяжуйце усплываючыя паведамленнi.</string>
+  <string name="first_aid_card_float_window_title">Вы дазволілі усплываючыя паведамленнi</string>
   <string name="first_aid_card_kadun_button1">Вызваліць</string>
   <string name="first_aid_card_kadun_button2">Абмежаваць</string>
   <string name="first_aid_card_kadun_button3">Адключыць</string>
@@ -980,8 +980,8 @@
   <string name="gamebox_display_4">Яркасць і насычанасць</string>
   <string name="gamebox_display_set">"Паляпшэнне выявы: "</string>
   <string name="gamebox_dnd">Не турбаваць</string>
-  <string name="gamebox_func_antimsg_close">Усплывальныя апавяшчэнні ўключаны</string>
-  <string name="gamebox_func_antimsg_open">Усплывальныя апавяшчэнні адключаны</string>
+  <string name="gamebox_func_antimsg_close">Усплываючыя апавяшчэнні ўключаны</string>
+  <string name="gamebox_func_antimsg_open">Усплываючыя апавяшчэнні адключаны</string>
   <string name="gamebox_func_immersion_close">Рэжым пагружэння зараз адключаны</string>
   <string name="gamebox_func_immersion_open">Рэжым пагружэння зараз уключаны</string>
   <string name="gamebox_func_switch_simcard">Пераключана на SIM-карту %1$d для дадзеных</string>
@@ -1866,7 +1866,7 @@
   <string name="pref_special_package_setting_summary">Кіраванне бясплатным трафікам, пакетамі папаўнення і мэтавым трафікам</string>
   <string name="pref_summary_upload_data_usage">Паведаміце інфармацыю аб выкарыстанні дадзеных, каб дапамагчы нам палепшыць нашы прадукты і паслугі. Працэс паведамлення будзе ажыццяўляцца ў адпаведнасці з нашай Палітыкай прыватнасцi.</string>
   <string name="pref_title_declaration">Адмова ад адказнасці</string>
-  <string name="pref_title_diagnostics_show_float_notification">Усплывальныя апавяшчэнні</string>
+  <string name="pref_title_diagnostics_show_float_notification">Усплываючыя апавяшчэнні</string>
   <string name="pref_title_manual_check_virus_db_update">Праверыць абнаўленні</string>
   <string name="pref_title_over_traffic_limit_warning">Калі перавышана</string>
   <string name="pref_title_traffic_limit_number">Памер</string>
@@ -4020,7 +4020,7 @@
   <string name="permission_instruction_add_voicemail">Гэты дазвол дазваляе праграмам дадаваць галасавую пошту ў сістэму.</string>
   <string name="permission_instruction_answer_phone_call">Гэты дазвол дазваляе праграмам адказваць ці завяршаць выклікі без вашай згоды.</string>
   <string name="permission_instruction_auto_start">Гэты дазвол дазваляе праграмам аўтаматычна запускацца без вашага пацверджання. Прадастаўленне гэтага дазволу некалькім праграмам можа запаволіць працу вашай прылады. Шкоднасныя праграмы выкарыстоўваюць гэты дазвол для збору вашай асабістай інфармацыі без вашага ведама.</string>
-  <string name="permission_instruction_background_start">Гэты дазвол дазваляе праграмам адлюстроўваць усплывальныя вокны без вашага пацверджання. Гэтыя усплывальныя вокны могуць цалкам зачыняць ваш экран, што перашкаджае нармальнаму выкарыстанню.</string>
+  <string name="permission_instruction_background_start">Гэты дазвол дазваляе праграмам адлюстроўваць усплываючыя вокны без вашага пацверджання. Гэтыя усплываючыя вокны могуць цалкам зачыняць ваш экран, што перашкаджае нармальнаму выкарыстанню.</string>
   <string name="permission_instruction_bluetooth_admin">Гэты дазвол дазваляе праграмам уключаць і выключаць Bluetooth без вашага пацверджання.</string>
   <string name="permission_instruction_body_sensors">Гэты дазвол дазваляе праграмам атрымліваць доступ да інфармацыі аб вашым целе, сабранай датчыкамі (напрыклад, частаце пульса).</string>
   <string name="permission_instruction_call_phone">Гэты дазвол дазваляе праграмам выконваць незапрошенной выклікі, якія могуць прыводзіць да дадатковых выдаткаў. Звярніце ўвагу, што гэты дазвол не дазваляе праграмам тэлефанаваць па нумарах тэлефонаў экстранных службаў. Шкоднасныя праграмы могуць выкарыстоўваць гэты дазвол для ажыццяўлення платных выклікаў без вашай згоды.</string>
@@ -4973,7 +4973,7 @@
   <string name="privacy_input_mode_version_supported">Абнавіце клавіятуру, каб можна было выкарыстоўваць гэтую функцыю</string>
   <string name="privacy_input_model_guide_choose">Загрузіць аўтаномны галасавы ўвод</string>
   <string name="privacy_input_model_guide_text">Гэтая функцыя абараняе вашу прыватнасць пры ўводзе тэксту. Калі гэтая функцыя ўключаная, некаторыя сеткавыя функцыі (напрыклад, параметры персаналізацыі, інтэлектуальны увод) будуць недаступныя.</string>
-  <string name="privacy_input_model_tips">Абаронены ўвод уключаны. Ваша клавіятура не можа адлюстроўваць усплывальныя вокны або атрымліваць доступ да кантактаў, інфармацыі пра месцазнаходжанне і гісторыі выклікаў.</string>
+  <string name="privacy_input_model_tips">Абаронены ўвод уключаны. Ваша клавіятура не можа адлюстроўваць усплываючыя вокны або атрымліваць доступ да кантактаў, інфармацыі пра месцазнаходжанне і гісторыі выклікаў.</string>
   <string name="protect_data_security">Ізаляваныя дадзеныя</string>
   <string name="protect_data_security_detail">Дадзеныя, якія генерыруюцца клавіятурай, будуць ізаляваныя і недаступныя для іншых праграм.</string>
   <string name="protect_screen_information">Ваш экран абаронены</string>

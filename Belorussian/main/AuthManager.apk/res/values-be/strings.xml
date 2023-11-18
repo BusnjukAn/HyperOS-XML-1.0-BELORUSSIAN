@@ -148,8 +148,8 @@
   <string name="HIPS_Perm_AudioRecorder_Desc">Доступ да запісу гуку</string>
   <string name="HIPS_Perm_AutoStart">Аўтазапуск</string>
   <string name="HIPS_Perm_AutoStart_Desc">Аўтазапуск</string>
-  <string name="HIPS_Perm_background_start_activity">Адлюстроўваць усплывальныя вокны падчас працы ў фонавым рэжыме</string>
-  <string name="HIPS_Perm_background_start_activity_Desc">Адлюстроўваць усплывальныя вокны падчас працы ў фонавым рэжыме</string>
+  <string name="HIPS_Perm_background_start_activity">Адлюстроўваць усплываючыя вокны падчас працы ў фонавым рэжыме</string>
+  <string name="HIPS_Perm_background_start_activity_Desc">Адлюстроўваць усплываючыя вокны падчас працы ў фонавым рэжыме</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Змяняць падлучэнне Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Уключэнне/адключэнне Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Датчыкі цела</string>
@@ -227,8 +227,8 @@
   <string name="HIPS_Perm_Settings_Desc">Доступ да налад сістэмы</string>
   <string name="HIPS_Perm_show_when_locked">Паказаць на экране блакавання</string>
   <string name="HIPS_Perm_show_when_locked_Desc">Будзе адлюстраваным на экране блакавання</string>
-  <string name="HIPS_Perm_SystemAlert">Усплывальныя вокны</string>
-  <string name="HIPS_Perm_SystemAlert_Desc">Адлюстроўваць усплывальныя вокны</string>
+  <string name="HIPS_Perm_SystemAlert">Усплываючыя вокны</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Адлюстроўваць усплываючыя вокны</string>
   <string name="HIPS_Perm_tencentControl">Доступ да паведамленняў у праграмах сацыяльных сетак</string>
   <string name="HIPS_Perm_tencentControl_Desc">Дазволіць гэтай праграме доступ да вашых паведамленняў у WeChat і QQ</string>
   <string name="HIPS_Perm_use_sip">Відэа сэрвісы</string>

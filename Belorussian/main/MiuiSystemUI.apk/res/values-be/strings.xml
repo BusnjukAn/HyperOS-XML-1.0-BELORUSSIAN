@@ -325,15 +325,15 @@
   <string name="bubble_dismiss_text">Зачыніць</string>
   <string name="bubble_overflow_button_content_description">Дадатковае меню</string>
   <string name="bubble_overflow_empty_subtitle">Нядаўнія і адхіленыя ўсплывальныя апавяшчэнні будуць паказаны тут</string>
-  <string name="bubble_overflow_empty_title">Няма нядаўніх усплывальных апавяшчэнняў</string>
+  <string name="bubble_overflow_empty_title">Няма нядаўніх усплываючых апавяшчэнняў</string>
   <string name="bubbles_app_settings">Налады \"%1$s\"</string>
   <string name="bubbles_dont_bubble_conversation">Не паказваць размову ў выглядзе ўсплывальных апавяшчэнняў</string>
   <string name="bubbles_settings_button_description">Налады ўсплывальных апавяшчэнняў ад праграмы \"%1$s\"</string>
   <string name="bubbles_user_education_description">Новыя размовы будуць паказвацца як рухомыя значкі ці ўсплывальныя апавяшчэнні. Націсніце, каб адкрыць усплывальнае апавяшчэнне. Перацягніце яго, каб перамясціць.</string>
   <string name="bubbles_user_education_got_it">Зразумела</string>
-  <string name="bubbles_user_education_manage">Каб выключыць усплывальныя апавяшчэнні з гэтай праграмы, націсніце \"Кіраваць\"</string>
+  <string name="bubbles_user_education_manage">Каб выключыць усплываючыя апавяшчэнні з гэтай праграмы, націсніце \"Кіраваць\"</string>
   <string name="bubbles_user_education_manage_title">Кіруйце ўсплывальнымі апавяшчэннямі ў любы час</string>
-  <string name="bubbles_user_education_title">Усплывальныя апавяшчэнні</string>
+  <string name="bubbles_user_education_title">Усплываючыя апавяшчэнні</string>
   <string name="build_number_clip_data_label">Нумар зборкі</string>
   <string name="build_number_copy_toast">Нумар зборкі скапіраваны ў буфер абмену.</string>
   <string name="call_from_work_profile_action">Пераключыцца на працоўны профіль</string>
@@ -572,7 +572,7 @@
   <string name="fingerprint_try_again_msg">Не атрымалася праверыць адбітак пальца, паспрабуйце яшчэ раз.</string>
   <string name="fingerprint_try_again_text">Паспрабаваць зноў</string>
   <string name="float_button_text">Зрабіць рухомым акном</string>
-  <string name="float_notification_snooze_strategy">Часова схаваць усплывальныя апавяшчэннi</string>
+  <string name="float_notification_snooze_strategy">Часова схаваць усплываючыя апавяшчэннi</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -1164,7 +1164,7 @@
   <string name="notification_channel_tv_pip">Відарыс у відарысе</string>
   <string name="notification_conversation_bubble">Паказаць усплывальнае апавяшчэнне</string>
   <string name="notification_conversation_summary_low">Паказваецца без гуку ці вібрацыі ў раздзеле размоў</string>
-  <string name="notification_conversation_unbubble">Выдаліць усплывальныя апавяшчэнні</string>
+  <string name="notification_conversation_unbubble">Выдаліць усплываючыя апавяшчэнні</string>
   <string name="notification_delegate_header">Праксіраванае апавяшчэнне</string>
   <string name="notification_disclosure_vpn_text">Праз %1$s</string>
   <string name="notification_group_collapse_button_text">Згарнуць</string>

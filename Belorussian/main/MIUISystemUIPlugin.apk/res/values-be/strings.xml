@@ -67,7 +67,7 @@
   <string name="clearable_edittext_clear_description">Ачысціць</string>
   <string name="close">Закрыць</string>
   <string name="close_invisible_mode_dialog_cancel">Адмена</string>
-  <string name="close_invisible_mode_dialog_message">Цяпер немагчыма выкарыстоўваць Mi Smart Play. Адключыце рэжым інкогніта ў наладах, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="close_invisible_mode_dialog_message">Цяпер гэта немагчыма выкарыстоўваць. Адключыце рэжым інкогніта ў наладах, каб выкарыстоўваць гэтую функцыю.</string>
   <string name="close_invisible_mode_dialog_ok">Налады</string>
   <string name="close_invisible_mode_dialog_title">Вы інкогніта</string>
   <string name="control_center_notification_switch_guide">Правядзіце пальцам для пераключэння паміж Цэнтрам кіравання і панэллю апавяшчэнняў</string>

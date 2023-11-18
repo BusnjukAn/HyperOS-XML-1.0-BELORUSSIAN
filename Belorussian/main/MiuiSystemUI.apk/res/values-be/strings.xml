@@ -1274,7 +1274,7 @@
   <string name="qs_user_switch_dialog_title">Выбар карыстальніка</string>
   <string name="quick_controls_title">Элементы кіравання прыладай</string>
   <string name="quick_settings_autobrightness_label">Аўтаяркасць</string>
-  <string name="quick_settings_batterysaver_label">Эканомія зараду батарэі</string>
+  <string name="quick_settings_batterysaver_label">Эканомія зараду</string>
   <string name="quick_settings_bluetooth_connected_tip">Паспяховае падлучэнне праз Bluetooth</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Няма падлучаных прылад</string>
   <string name="quick_settings_bluetooth_disconnected_tip">Сёння ўсе прылады Bluetooth застануцца адключанымі</string>
@@ -1842,7 +1842,7 @@
   <string name="health_no_data">Няма даных аб стане здароўя</string>
   <string name="health_sleep_desc">Працягласць сну %1$s, якасць сну %2$s</string>
   <string name="humidity_format">Вільготнасць %s</string>
-  <string name="keyguard_editor_super_save_mode_toast">Немагчыма рэдагаваць экран блакавання, калі ўключана Ультраэканомія батарэі</string>
+  <string name="keyguard_editor_super_save_mode_toast">Немагчыма рэдагаваць экран блакавання, калі ўключана Максімальнае энергазберажэнне</string>
   <string name="keyguard_loading_to_editor_tips">Адкрыццё рэдактара экрана блакавання…</string>
   <string name="keyguard_widget_12_hours_format">h:mm</string>
   <string name="keyguard_widget_24_hours_format">kk:mm</string>
@@ -1851,7 +1851,7 @@
   <string name="kg_prompt_unattended_update_password">Увядзіце пароль, каб усталяваць абнаўленне пазней</string>
   <string name="kg_prompt_unattended_update_pin">Увядзіце PIN-код, каб усталяваць абнаўленне пазней</string>
   <string name="media_output_broadcast_edit_hint_no_more_than_max">Выкарыстоўвайце менш за %1$d сімвалаў</string>
-  <string name="media_transfer_default_device_name">Падключаная прылада</string>
+  <string name="media_transfer_default_device_name">Падлучаная прылада</string>
   <string name="media_transfer_dock_speaker_device_name">Док-дынамік</string>
   <string name="media_transfer_external_device_name">Знешняя прылада</string>
   <string name="miui_clock_time_format_12">hh:mm</string>
@@ -1879,14 +1879,14 @@
   <string name="quick_settings_airplane_state_change_message_on">Рэжым палёту ўключаны</string>
   <string name="quick_settings_auto_rotate_state_change_message_off">Аўтаматычны паварот выключаны</string>
   <string name="quick_settings_auto_rotate_state_change_message_on">Аўтаматычны паварот уключаны</string>
-  <string name="quick_settings_autobrightness_state_change_message_off">Аўтаматычная яркасць выключана</string>
-  <string name="quick_settings_autobrightness_state_change_message_on">Аўтаматычная яркасць уключана</string>
+  <string name="quick_settings_autobrightness_state_change_message_off">Аўтаяркасць выключана</string>
+  <string name="quick_settings_autobrightness_state_change_message_on">Аўтаяркасць уключана</string>
   <string name="quick_settings_bt_state_change_message_off">Bluetooth выключаны</string>
   <string name="quick_settings_bt_state_change_message_on">Bluetooth уключаны</string>
   <string name="quick_settings_cellular_state_change_message_off">Мабільная перадача дадзеных выключана</string>
   <string name="quick_settings_cellular_state_change_message_on">Мабільная перадача дадзеных уключана</string>
-  <string name="quick_settings_dnd_state_change_message_off">Рэжым \"Не турбаваць\" выкл.</string>
-  <string name="quick_settings_dnd_state_change_message_on">Рэжым \"Не турбаваць\" укл.</string>
+  <string name="quick_settings_dnd_state_change_message_off">Рэжым \"Не турбаваць\" выключаны</string>
+  <string name="quick_settings_dnd_state_change_message_on">Рэжым \"Не турбаваць\" уключаны</string>
   <string name="quick_settings_flashlight_state_change_message_off">Ліхтарык выключаны</string>
   <string name="quick_settings_flashlight_state_change_message_on">Ліхтарык уключаны</string>
   <string name="quick_settings_googlehome_label">Google Home</string>
@@ -1895,8 +1895,8 @@
   <string name="quick_settings_hotspot_state_change_message_on">Пункт доступу ўключаны</string>
   <string name="quick_settings_location_state_change_message_off">Доступ да месцазнаходжання выключаны</string>
   <string name="quick_settings_location_state_change_message_on">Доступ да месцазнаходжання ўключаны</string>
-  <string name="quick_settings_mute_state_change_message_off">Бясшумны рэжым выключаны</string>
-  <string name="quick_settings_mute_state_change_message_on">Бясшумны рэжым уключаны</string>
+  <string name="quick_settings_mute_state_change_message_off">Рэжым \"Без гуку\" выключаны</string>
+  <string name="quick_settings_mute_state_change_message_on">Рэжым \"Без гуку\" уключаны</string>
   <string name="quick_settings_nfc_state_change_message_off">NFC выключаны</string>
   <string name="quick_settings_nfc_state_change_message_on">NFC уключаны</string>
   <string name="quick_settings_night_state_change_message_off">Цёмны рэжым выключаны</string>

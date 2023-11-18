@@ -1240,4 +1240,9 @@
     <item>Хуткасць анімацыі 5х</item>
     <item>Хуткасць анімацыі 10х</item>
   </string-array>
+  <string-array name="smart_device_control_entries">
+     <item>@string/mi_smart_hub_entry_title</item>
+     <item>Разумны дом</item>
+     <item>Няма</item>
+    </string-array>
 </resources>

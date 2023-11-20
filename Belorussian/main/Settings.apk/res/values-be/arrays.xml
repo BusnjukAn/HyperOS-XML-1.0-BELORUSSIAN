@@ -600,6 +600,14 @@
     <item>Узровень 4</item>
     <item>Узровень 5</item>
   </string-array>
+  <string-array name="ingress_rate_limit_entries">
+    <item>Без абмежаванняў</item>
+    <item>128 кб/сек</item>
+    <item>256 кб/сек</item>
+    <item>1 Мб/сек</item>
+    <item>5 Мб/сек</item>
+    <item>15 Мб/сек</item>
+  </string-array>
   <string-array name="keyguard_notification_status_entries">
     <item>Не ўключаць экран</item>
     <item>Уключыць экран</item>
@@ -949,6 +957,11 @@
     <item>8 гадзін</item>
   </string-array>
   <string-array name="smart_home_entries">
+    <item>Разумны дом</item>
+    <item>Няма</item>
+  </string-array>
+  <string-array name="smart_device_control_entries">
+    <item>Цэнтр трансляцыi</item>
     <item>Разумны дом</item>
     <item>Няма</item>
   </string-array>

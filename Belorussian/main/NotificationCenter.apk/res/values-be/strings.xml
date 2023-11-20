@@ -354,7 +354,6 @@
   <string name="notification_aggregate_title">Групаваць апавяшчэннi</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
   <string name="setting_menu_success">Паспяхова наладжана</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_aggregate_default">Рэкламныя і push-апавяшчэннi буду згрупаваныя</string>
   <string name="summary_aggregate_home">Push-апавяшчэннi не будуць згрупаваны</string>
   <string name="swipe_to_delete">Ссуньце ў бок для выдалення</string>

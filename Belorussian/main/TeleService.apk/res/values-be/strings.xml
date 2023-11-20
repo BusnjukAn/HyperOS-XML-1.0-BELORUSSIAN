@@ -2054,7 +2054,6 @@
   <string name="time_end_minute">хвіліна заканчэння часу</string>
   <string name="time_formate_am">ДП</string>
   <string name="time_formate_pm">ПП</string>
-  <string name="time_interval_char">:</string>
   <string name="time_next_day">на наступны дзень</string>
   <string name="time_picker_dialog_title">Усталяваць час</string>
   <string name="time_picker_label_hour">Г</string>

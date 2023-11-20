@@ -1704,6 +1704,5 @@
   <string name="miuix_navigator_content_switch_description">Паказаць бакавую панэль</string>
   <string name="miuix_navigator_multiple_choice">Абраць</string>
   <string name="miuix_navigator_navigator_switch_description">Схаваць бакавую панэль</string>
-  <string name="send_to_index_contact">Адпраўлена %1$s з %2$s…</string>
   <string name="add_to_block_cta_failed">Падайце Бяспецы неабходныя дазволы для дадання элементаў у чорны спіс</string>
 </resources>

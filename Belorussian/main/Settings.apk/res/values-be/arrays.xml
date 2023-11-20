@@ -592,14 +592,6 @@
     <item>Правяраць толькі DRM кантэнт</item>
     <item>Заўсёды правяраць</item>
   </string-array>
-  <string-array name="ingress_rate_limit_entries">
-    <item>@string/ingress_rate_limit_no_limit_entry</item>
-    <item>128 кб/сек</item>
-    <item>256 кб/сек</item>
-    <item>1 Мб/сек</item>
-    <item>5 Мб/сек</item>
-    <item>15 Мб/сек</item>
-  </string-array>
   <string-array name="inputdebuglog_select_level_entries">
     <item>Узровень 0</item>
     <item>Узровень 1</item>
@@ -1240,9 +1232,4 @@
     <item>Хуткасць анімацыі 5х</item>
     <item>Хуткасць анімацыі 10х</item>
   </string-array>
-  <string-array name="smart_device_control_entries">
-     <item>@string/mi_smart_hub_entry_title</item>
-     <item>Разумны дом</item>
-     <item>Няма</item>
-    </string-array>
 </resources>

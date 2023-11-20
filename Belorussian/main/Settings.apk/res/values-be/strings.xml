@@ -4625,7 +4625,6 @@
   <string name="lights_title">Святлодыёдны індыкатар</string>
   <string name="line_breaking_summary">Выправіць разрывы радкоў абзаца</string>
   <string name="line_breaking_title">Аптымізацыя тэксту</string>
-  <string name="link_speed">%1$d Мбіт/с</string>
   <string name="link_to_windows_setting_off">Выкл.</string>
   <string name="link_to_windows_setting_on">Укл.</string>
   <string name="link_to_windows_settings_title">Спасылка на Windows</string>
@@ -6936,7 +6935,6 @@
   <string name="privileged_action_disable_sub_dialog_title">Адключыць аператара \"%1$s\"?</string>
   <string name="privileged_action_disable_sub_dialog_title_without_carrier">Адключыць SIM-карту?</string>
   <string name="process_dex2oat_label">Аптымізацыя праграм</string>
-  <string name="process_kernel_label">АС Android</string>
   <string name="process_mediaserver_label">Сервер медыя</string>
   <string name="process_network_tethering">Мадэм</string>
   <string name="process_provider_in_use_description">Выкарыстоўваецца пастаўшчык паслуг %1$s.</string>

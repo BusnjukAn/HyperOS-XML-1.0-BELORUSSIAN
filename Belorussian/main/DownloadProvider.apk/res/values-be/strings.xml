@@ -133,5 +133,4 @@
   <string name="retry_download">Паспрабаваць яшчэ раз</string>
   <string name="toast_net_error">Немагчыма падлучыцца да сеткі. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="today_download">Загружана сёння</string>
-  <string name="download_running_percent">У працэсе, %d%%</string>
 </resources>

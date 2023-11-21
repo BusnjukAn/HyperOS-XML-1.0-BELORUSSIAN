@@ -486,7 +486,7 @@
   <string name="new_britem_other">Іншае</string>
   <string name="new_britem_pic">Выявы</string>
   <string name="new_britem_video">Відэа</string>
-  <string name="new_confirm_enable_encrypt_content">MIUI звязвае зашыфраваныя рэзервовыя копіі з вашым Xiaomi акаўнтам. Вы павінны ўвайсці ў свой акаўнт, каб аднавіць элементы з такіх рэзервовых копій.</string>
+  <string name="new_confirm_enable_encrypt_content">Сістэма звязвае зашыфраваныя рэзервовыя копіі з вашым Xiaomi акаўнтам. Вы павінны ўвайсці ў свой акаўнт, каб аднавіць элементы з такіх рэзервовых копій.</string>
   <string name="new_confirm_enable_encrypt_title">Шыфраваць</string>
   <string name="new_local_button_backup">Рэзервовае капіяванне</string>
   <string name="new_local_button_restore">Аднаўленне</string>

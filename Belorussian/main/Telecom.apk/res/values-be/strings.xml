@@ -1065,7 +1065,7 @@
   <string name="call_streaming_notification_action_hang_up">Завяршыць</string>
   <string name="call_streaming_notification_action_switch_here">Пераключыцца</string>
   <string name="call_streaming_notification_body">Струменевае аўдыё на іншую прыладу</string>
-  <string name="default_dialer_reset_prompt">Здаецца, пры выкарыстанні %s адбылося некалькі памылак. Зрабіць нумаранабіральнік MIUI сваёй тэлефоннай праграмай па змаўчанні?</string>
+  <string name="default_dialer_reset_prompt">Здаецца, пры выкарыстанні %s адбылося некалькі памылак. Зрабіць нумаранабіральнік сiстэмы сваёй тэлефоннай праграмай па змаўчанні?</string>
   <string name="notification_channel_call_streaming">Струменевая перадача выклікаў</string>
   <string name="redirect_system_dialer_toast">Адбылася памылка з %s. Пераключэнне на сістэмную праграму для набору нумара.</string>
 </resources>

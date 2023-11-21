@@ -692,7 +692,7 @@
   <string name="setting">Налады</string>
   <string name="setting_about_calendar_version">Версія каляндара:</string>
   <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">Версія MIUI:</string>
+  <string name="setting_about_miui_version">Версія АС:</string>
   <string name="setting_about_summary">Версія:</string>
   <string name="setting_accounts">Акаўнты каляндара</string>
   <string name="setting_change_language">Выберыце мову Каляндара</string>
@@ -1031,7 +1031,7 @@
   <string name="joke_card_click_toast">Утрымлівайце для капіявання</string>
   <string name="joke_card_icon_text">Жарты: %1$s</string>
   <string name="joke_card_long_click_toast">Скапіявана</string>
-  <string name="joke_card_paste_suffix">[каляндар MIUI]</string>
+  <string name="joke_card_paste_suffix">[каляндар Xiaomi]</string>
   <string name="life_assistant_group_title">Памочнік</string>
   <string name="life_card_credit_primary">Аплата крэдытнай картай (апошнія лічбы %1$s)</string>
   <string name="life_card_credit_primary_no_account">Аплата крэдытнай картай</string>

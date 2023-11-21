@@ -1643,7 +1643,7 @@
   <string name="local_diversion_manage_local_video">Кіраванне файламі</string>
   <string name="local_diversion_open_mivideo">Глядзіце Mi Відэа,\nкаб атрымаць найлепшыя ўражанні ад прагляду</string>
   <string name="local_diversion_recommend_title">Папулярнае</string>
-  <string name="pip_not_supported_toast">Абнавіце MIUI, каб можна было выкарыстоўваць рэжым \"Выява ў вяыве\".</string>
+  <string name="pip_not_supported_toast">Абнавіце сiстэму, каб можна было выкарыстоўваць рэжым \"Выява ў вяыве\".</string>
   <string name="popup_pip_activate_button">Налады</string>
   <string name="popup_pip_not_activated">Спачатку дазвольце Mi Відэа выкарыстоўваць рэжым \"Выява ў вяыве\".</string>
   <string name="pro_prize_popup_style_one">Выдаліце рэкламу за %s</string>

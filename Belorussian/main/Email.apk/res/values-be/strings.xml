@@ -477,7 +477,7 @@
   <string name="feedback_body">Паведамленне</string>
   <string name="feedback_sent">Дзякуй за ваш водгук</string>
   <string name="feedback_user_edit_hint">Апішыце праблему тут. Мы адкажам вам на электронную пошту пасля таго, як разгледзім яе.</string>
-  <string name="feedback_user_edit_tag">Ад MIUI</string>
+  <string name="feedback_user_edit_tag">Ад Xiaomi</string>
   <string name="fetch_bank_sender_list_failure">Немагчыма атрымаць інфармацыю</string>
   <string name="fetching_attachment">Атрымаць прымацаванне</string>
   <string name="file_defailt_save_path">Па змаўчанні прымацаванні захаваны ў тэчцы %s. Вы можаце змяніць тэчку ў меню Налады.</string>
@@ -1376,7 +1376,7 @@
   <string name="wps_card_button_tips">Адкрыць дакумент WPS Office</string>
   <string name="wps_card_tips">Знойдзеная спасылка для агульнага доступу ад %s</string>
   <string name="wps_card_title">Дакумент WPS Office</string>
-  <string name="app_uninstall_content">\"Пошта\" - гэта сістэмная праграма MIUI. Пасля выдалення вы не зможаце дадаваць ўліковыя запісы электроннай пошты, адпраўляць і атрымліваць электронныя лісты і сінхранізаваць расклады электроннай пошты.</string>
+  <string name="app_uninstall_content">\"Пошта\" - гэта сістэмная праграма. Пасля выдалення вы не зможаце дадаваць ўліковыя запісы электроннай пошты, адпраўляць і атрымліваць электронныя лісты і сінхранізаваць расклады электроннай пошты.</string>
   <string name="app_uninstall_title">Выдаліць \"Пошту\"?</string>
   <string name="open_pdf_error">Не атрымалася адкрыць PDF файл. Загрузіце іншыя праграмы для адкрыцця PDF-файлаў і паўтарыце спробу пазней.</string>
   <string name="sms_not_found_tip">Немагчыма запусціць сістэмную праграму SMS. Запусціце праграму SMS ўручную і адпраўце праверачнае SMS.</string>

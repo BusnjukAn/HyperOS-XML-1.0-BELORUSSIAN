@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="antispam_marked_count">
-    <item quantity="other">Паведаміла %d карыстальнікаў MIUI</item>
-    <item quantity="one">Паведаміл %d карыстальнік MIUI</item>
-    <item quantity="few">Паведаміла %d карыстальніка MIUI</item>
-    <item quantity="many">Паведаміла %d карыстальнікаў MIUI</item>
+    <item quantity="other">Паведаміла %d карыстальнікаў Xiaomi</item>
+    <item quantity="one">Паведаміл %d карыстальнік Xiaomi</item>
+    <item quantity="few">Паведаміла %d карыстальніка Xiaomi</item>
+    <item quantity="many">Паведаміла %d карыстальнікаў Xiaomi</item>
   </plurals>
   <plurals name="call_recording_notification_complete">
     <item quantity="other">Запісаны %d выклікаў.</item>

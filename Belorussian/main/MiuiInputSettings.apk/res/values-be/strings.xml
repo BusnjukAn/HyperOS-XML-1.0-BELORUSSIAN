@@ -82,7 +82,7 @@
   <string name="double_click_volume_down_when_lock">Падвойны націск кнопкі памяншэння гучнасці ў спячым рэжыме</string>
   <string name="double_knock">Падвойны націск косткай</string>
   <string name="dump_log">Сабраць журналы праблем</string>
-  <string name="dump_log_summary">Гэтая функцыя прызначана для стварэння журнала %s ў бэта-версіі MIUI. Выкарыстоўвайце яе з асцярогай.\nВы можаце праглядаць створаныя журналы ў Мэнэджару файлаў.</string>
+  <string name="dump_log_summary">Гэтая функцыя прызначана для стварэння журнала %s ў бэта-версіі сiстэмы. Выкарыстоўвайце яе з асцярогай.\nВы можаце праглядаць створаныя журналы ў Мэнэджару файлаў.</string>
   <string name="dump_log_title">Пра гэту функцыю</string>
   <string name="early_morning">Раніца</string>
   <string name="edge_mode_state_summary">Вобласць вакол выгнутых краёў не будзе рэагаваць на дотыкі</string>

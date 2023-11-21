@@ -449,7 +449,7 @@
   <string name="csd_lowered_title">Гучнасць зніжана да больш бяспечнага ўзроўню</string>
   <string name="csd_system_lowered_text">Гучнасць навушнікаў была высокай даўжэй рэкамендаванага</string>
   <string name="dark_mode_power_save_alert_dialog_confirm">Зразумела</string>
-  <string name="dark_mode_power_save_alert_dialog_message">Калі вы адключыце аптымізацыю MIUI і ўключыце энергазберажэнне, цёмны рэжым будзе ўключаны аўтаматычна.\nКаб адключыць цёмны рэжым, выключыце рэжым энергазберажэння або ўключыце аптымізацыю MIUI у меню «Налады» > «Для распрацоўшчыкаў» > «Аптымізацыя MIUI».</string>
+  <string name="dark_mode_power_save_alert_dialog_message">Калі вы адключыце аптымізацыю сiстэмы і ўключыце энергазберажэнне, цёмны рэжым будзе ўключаны аўтаматычна.\nКаб адключыць цёмны рэжым, выключыце рэжым энергазберажэння або ўключыце аптымізацыю MIUI у меню «Налады» > «Для распрацоўшчыкаў» > «Аптымізацыя MIUI».</string>
   <string name="dark_mode_power_save_alert_dialog_title">Цёмны рэжым</string>
   <string name="data_connection_no_internet">Няма злучэння з інтэрнэтам</string>
   <string name="data_connection_roaming">Роўмінг</string>

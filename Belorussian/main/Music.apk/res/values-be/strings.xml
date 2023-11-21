@@ -646,7 +646,7 @@
   <string name="metered_serious_allow">Прайграць усё роўна</string>
   <string name="middle_sound_quality">Стандартны</string>
   <string name="midnight">АМ</string>
-  <string name="milink_unavaliable_please_update">Функцыя Milink недаступна. Патрабуецца абнавіць сістэму MIUI.</string>
+  <string name="milink_unavaliable_please_update">Функцыя Milink недаступна. Патрабуецца абнавіць сістэму.</string>
   <string name="missing_title">&lt;Без назвы&gt;</string>
   <string name="miuishare_account_login_ok">Увайці</string>
   <string name="miuishare_no_network">Не атрымліваецца злучыцца з сеткай.</string>
@@ -972,7 +972,7 @@
   <string name="settings_search_path_main">Сістэмныя праграмы/Музыка</string>
   <string name="settings_search_path_normal">Сістэмныя праграмы/Музыка/Паслугі і налады</string>
   <string name="settings_search_title_notification">Апавяшчэнні Музыкі</string>
-  <string name="share_append_text">З @MIUI</string>
+  <string name="share_append_text">З @Xiaomi</string>
   <string name="share_chooser_title">Падзяліцца з дапамогаю</string>
   <string name="share_description">Ад Mi Music</string>
   <string name="share_end_note">Ад Mi Music</string>

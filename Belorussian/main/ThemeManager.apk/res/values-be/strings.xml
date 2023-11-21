@@ -355,7 +355,7 @@
   <string name="incall_show_remove_success">Відэа на выклік паспяхова выдаленае</string>
   <string name="incall_show_title">Відэа на выклік</string>
   <string name="incompatible_dialog_cancel">Не прымяняць</string>
-  <string name="incompatible_dialog_message">Гэта тэма несумяшчальна з версiяй MIUI, усталяванай на вашай прыладзе. Некаторыя кампаненты могуць працаваць некарэктна.</string>
+  <string name="incompatible_dialog_message">Гэта тэма несумяшчальна з версiяй АС, усталяванай на вашай прыладзе. Некаторыя кампаненты могуць працаваць некарэктна.</string>
   <string name="incompatible_dialog_ok">OK</string>
   <string name="incompatible_dialog_title">Праблемы сумяшчальнасці</string>
   <string name="install_failed">Не атрымалася ўсталяваць</string>
@@ -559,7 +559,7 @@
   <string name="online_precust_scenery">Пейзажы</string>
   <string name="online_search_hint">Пошук анлайн-рэсурсаў</string>
   <string name="order_list">Гісторыя пакупак</string>
-  <string name="ota_recovery_theme_dialog_message">Некаторыя элементы раней выкарыстанай тэмы могуць быць несумяшчальныя з новай версіяй MIUI. Несумяшчальныя элементы будуць замененыя параметрамі па змаўчанні.</string>
+  <string name="ota_recovery_theme_dialog_message">Некаторыя элементы раней выкарыстанай тэмы могуць быць несумяшчальныя з новай версіяй АС. Несумяшчальныя элементы будуць замененыя параметрамі па змаўчанні.</string>
   <string name="ota_recovery_theme_dialog_title">Аднаўленне арыгінальнай тэмы</string>
   <string name="ota_recovery_theme_notity_btn">Аднавіць</string>
   <string name="ota_recovery_theme_notity_content">Вы можаце вярнуцца да тэмы, якую вы выкарыстоўвалі да абнаўлення</string>
@@ -700,7 +700,7 @@
   <string name="resource_exchange_hint">Увядзіце свой падарункавы код</string>
   <string name="resource_exchange_purchase_unkown_error">Аяй! Адбылася невядомая памылка. Увайдзіце на http://market.xiaomi.com, каб прагледзець стан аплаты.</string>
   <string name="resource_exchange_share_code_content">Вы атрымалі падарункавы код (%2$s) на тэму \"%1$s\" у Тэмах MIUI. Каб скарыстацца з яго, націсніце тут %3$s.</string>
-  <string name="resource_exchange_share_code_dlg_content">Падарункавы код, які вы набылі для тэмы \"%1$s\": %2$s. Калі вы адправіце код іншаму карыстальніку MIUI, ён зможа выкарыстаць яго для спампоўкі гэтай тэмы.</string>
+  <string name="resource_exchange_share_code_dlg_content">Падарункавы код, які вы набылі для тэмы \"%1$s\": %2$s. Калі вы адправіце код іншаму карыстальніку Xiaomi, ён зможа выкарыстаць яго для спампоўкі гэтай тэмы.</string>
   <string name="resource_exchange_share_code_dlg_title">Адпраўка</string>
   <string name="resource_exchange_success">Карыстайцеся! :)</string>
   <string name="resource_exchange_unavailable">Тэма, звязаная з гэтым кодам, недаступна.</string>
@@ -1633,7 +1633,7 @@
   <string name="ad_sub_textview_privacy">Прыватнасць</string>
   <string name="warning_miui_optimization_closed_dialog_agree">Налады</string>
   <string name="warning_miui_optimization_closed_dialog_disagree">Ужыць</string>
-  <string name="warning_miui_optimization_closed_dialog_message">Здаецца, вы не ўключылі аптымізацыю MIUI. Без яе гэтая тэма не будзе працаваць належным чынам пры прымяненні. Вы можаце прымяніць яе ў любым выпадку або ўключыць аптымізацыю MIUI у наладах.</string>
+  <string name="warning_miui_optimization_closed_dialog_message">Здаецца, вы не ўключылі аптымізацыю сiстэмы. Без яе гэтая тэма не будзе працаваць належным чынам пры прымяненні. Вы можаце прымяніць яе ў любым выпадку або ўключыць аптымізацыю сiстэмы у Наладах.</string>
   <string name="warning_miui_optimization_closed_dialog_title">Увага</string>
   <string name="ad_sub_textview_introduction">Уводзіны</string>
   <string name="ad_sub_textview_version_with_colon">Версія：</string>

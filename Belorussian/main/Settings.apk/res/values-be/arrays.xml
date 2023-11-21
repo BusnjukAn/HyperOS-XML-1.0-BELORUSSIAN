@@ -758,8 +758,8 @@
     <item>Налады</item>
   </string-array>
   <string-array name="notification_style_entries">
-    <item>MIUI</item>
-    <item>Android</item>
+    <item>Класічны</item>
+    <item>Андроід</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Няма</item>

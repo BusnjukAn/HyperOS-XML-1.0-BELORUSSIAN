@@ -320,7 +320,7 @@
   <string name="local_ocr_recognition_str">Пераключана на аўтаномны пераклад</string>
   <string name="logistics">Экспрэс-дастаўка</string>
   <string name="logout_service">Адклікаць згоду</string>
-  <string name="low_version_tip">Каб скарыстацца Сканарам абнавіце MIUI да апошняй версіі.</string>
+  <string name="low_version_tip">Каб скарыстацца Сканарам абнавіце сiстэму да апошняй версіі.</string>
   <string name="midnight">Ноч</string>
   <string name="mihome_goto_install">Усталяваць</string>
   <string name="mihome_goto_update">Абнавіць</string>
@@ -376,7 +376,7 @@
   <string name="monday_short">Пан</string>
   <string name="monday_shortest">Пан</string>
   <string name="monitor_low_android">Версія ANDROID занадта нізкая</string>
-  <string name="monitor_low_miui">Версія MIUI занадта нізкая</string>
+  <string name="monitor_low_miui">Версія сiстэмы занадта нізкая</string>
   <string name="monitor_result_option_delete">Выдаліць відэа</string>
   <string name="monitor_result_option_rename">Перайменаваць</string>
   <string name="monitor_result_switch_text">Запіс выніку</string>

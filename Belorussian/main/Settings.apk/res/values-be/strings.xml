@@ -10844,4 +10844,7 @@
   <string name="device_mall_card_title_new">Натыўныя правы</string>
   <string name="password_check_fail">Няправільны код</string>
   <string name="auracast_scan_not_support">Не падлучаны да сумяшчальных навушнікаў. Немагчыма знайсці бліжэйшыя трансляцыі.</string>
+  <string name="bluetooth_disable_toast">Немагчыма ўключыць Bluetooth. Падобна, што функцыянальнасць Bluetooth абмежаваная.</string>
+  <string name="nfc_notification_mode_title">Нагадванні аб счытванні карт NFC</string>
+  <string name="toast_bluetooth_disable">Немагчыма ўключыць Bluetooth. Падобна, што модуль Bluetooth быў пераўсталяваны або доступ да Bluetooth быў абмежаваны.</string>
 </resources>

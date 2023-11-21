@@ -106,7 +106,7 @@
   <string name="document_file_size">Памер файла: %s</string>
   <string name="document_preview_cancel_text">Спыніць спампоўку</string>
   <string name="document_preview_download_failed">Не атрымалася спампаваць. Паспрабуйце яшчэ раз.</string>
-  <string name="download_done">Спампована паспяхова</string>
+  <string name="download_done">Спампоўка завершана</string>
   <string name="download_done_info_for_sys_title">Спампована паспяхова. Націсніце для прагляду.</string>
   <string name="download_fail">Не атрымалася спампаваць</string>
   <string name="download_list">Спампоўкі</string>
@@ -333,7 +333,7 @@
   <string name="update_no_network">Не атрымалася падлучыцца да сеткі. Праверце налады сеткі і паспрабуйце ізноў.</string>
   <string name="update_no_update">Абнаўленні адсутнічаюць</string>
   <string name="update_progress_dialog_content">Спампоўка…</string>
-  <string name="upload_done">Запампована паспяхова</string>
+  <string name="upload_done">Запампоўка завершана</string>
   <string name="upload_done_info_for_sys_title">Запампована паспяхова. Націсніце для прагляда.</string>
   <string name="upload_fail">Не атрымалася запампаваць</string>
   <string name="upload_file_list_is_empty">Выберыце элементы для запампоўкi</string>

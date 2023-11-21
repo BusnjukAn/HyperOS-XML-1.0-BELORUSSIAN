@@ -67,7 +67,7 @@
   <string name="call_progress_info_user_busy">Іншы чалавек зараз заняты. Калі ласка, ператэлефануйце пазней.</string>
   <string name="call_progress_info_user_call_rejected">Ваш нумар у цяперашні час не абслугоўваецца</string>
   <string name="call_record_wait_label">Чаканне</string>
-  <string name="call_recording_deny_permission_msg">Вы не далі дазволу на запіс, запіс немагчымы.</string>
+  <string name="call_recording_deny_permission_msg">Немагчыма выканаць запіс. Спачатку падайце дазволы ў Наладах.</string>
   <string name="call_recording_error_low_storage">Не хапае месца на захоўванне.</string>
   <string name="call_recording_error_privacy">Немагчыма запісваць, калі вы знаходзіцеся ў гасцявым рэжыме</string>
   <string name="call_recording_error_sd_access">Няма доступу да SD-карты</string>
@@ -467,4 +467,6 @@
   <string name="xiaoai_assistant">Асістэнт выклікаў Mi ШІ</string>
   <string name="yesterday">Учора</string>
   <string name="focus_notification_on_ringing">Уваходны выклік</string>
+  <string name="satellite_diable_earpiece">Немагчыма выкарыстоўваць навушнікі падчас спадарожнікавых выклікаў</string>
+  <string name="satellite_state_connecting">Падлучэнне… (%d сек.)</string>
 </resources>

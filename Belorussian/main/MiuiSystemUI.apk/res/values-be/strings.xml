@@ -1957,4 +1957,12 @@
   <string name="gxzw_quick_open_dialer_sub">Тэлефон</string>
   <string name="reboot_to_bootloader_title">Рэжым Fastboot</string>
   <string name="reboot_to_recovery_title">Рэжым Recovery</string>
+  <string name="miui_restart_button_description">Перазапусціце для лепшага адлюстравання</string>
+  <string name="screen_pinning_description_gesture_mode">Гэта праграма застанецца ў спісе \"Нядаўнія\", пакуль вы не адмацуеце яе, правёўшы пальцам уверх ад ніжняй часткі экрана і зрабіўшы паўзу.</string>
+  <string name="screen_pinning_description_navigation_mode">Гэта праграма застанецца ў спісе \"Нядаўнія\", пакуль вы не адмацуеце яе, націснуўшы і ўтрымліваючы кнопкі \"Назад\" і \"Папярэдні прагляд\".</string>
+  <string name="screen_pinning_title_gesture_mode">Гэта праграма замацаваная</string>
+  <string name="screen_pinning_title_navigation_mode">Гэта праграма замацаваная</string>
+  <string name="screen_pinning_toast_gesture_mode">Правядзіце пальцам уверх ад ніжняй часткі экрана і зрабіце паўзу, каб адмацаваць гэту праграму</string>
+  <string name="screen_pinning_toast_navigation_mode">Націсніце і ўтрымлівайце кнопкі \"Назад\" і \"Папярэдні прагляд\", каб адмацаваць гэту праграму</string>
+  <string name="screen_pinning_toast_start">Гэта праграма замацаваная</string>
 </resources>

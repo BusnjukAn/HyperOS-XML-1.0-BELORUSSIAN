@@ -928,4 +928,5 @@
   <string name="unit_data_short_time_us">мкс</string>
   <string name="unit_data_short_time_week">тыд.</string>
   <string name="unit_data_short_time_yr">г.</string>
+  <string name="finance_interest">Працэнтная стаўка (%s)</string>
 </resources>

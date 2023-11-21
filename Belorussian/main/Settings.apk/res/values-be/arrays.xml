@@ -1245,4 +1245,12 @@
     <item>Хуткасць анімацыі 5х</item>
     <item>Хуткасць анімацыі 10х</item>
   </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+       <item>Карты аплаты, доступу і разумнага дома</item>
+       <item>Спалучэнне Bluetooth, бесправадное злучэнне і карты разумнага дома</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+       <item>Усе карты</item>
+       <item>Карты, якія распазнаюцца сістэмай</item>
+    </string-array>
 </resources>

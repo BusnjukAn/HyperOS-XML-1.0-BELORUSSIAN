@@ -1054,4 +1054,8 @@
   <string name="pa_accessibility_stack_enter">Віджэт увайшоў у групу віджэтаў</string>
   <string name="pa_accessibility_stack_page_down">На старонку ўніз, бягучы віджэт:</string>
   <string name="pa_accessibility_stack_page_up">На старонку ўверх, бягучы віджэт:</string>
+  <string name="pa_widget_menu_improve_edit">Змяніць</string>
+  <string name="pa_widget_menu_improve_remove">Выдаліць</string>
+  <string name="pa_widget_menu_improve_remove_card_in_stack">Выдаліць \"%s\"</string>
+  <string name="pa_widget_menu_improve_replace">Замяніць</string>
 </resources>

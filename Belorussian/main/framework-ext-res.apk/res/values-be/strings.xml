@@ -638,4 +638,6 @@
   <string name="xspace_resolver_activity_title">Абярыце праграму</string>
   <string name="zone_volume_automatic_change_optimization_text">Звярніцеся ў службу падтрымкі для рамонту. Адключыць кнопкі гучнасці і ўсталяваць гучнасць па змаўчанні зараз?</string>
   <string name="zone_volume_automatic_change_optimization_title">Памылка кнопкі гучнасці</string>
+  <string name="wallpaper_floral_arrangement_title">Кветкавая кампазіцыя</string>
+  <string name="wallpaper_gradient_title">Градыент</string>
 </resources>

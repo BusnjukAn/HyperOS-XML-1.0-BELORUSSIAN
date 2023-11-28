@@ -2856,4 +2856,11 @@
   <string name="video_report_submit">Адправіць</string>
   <string name="video_select_report_reason">Абярыце прычыну</string>
   <string name="withdraw_dia_content">Калі вы адклікаеце сваю згоду з Палітыкай прыватнасці Цэнтра кантэнту, гэтая функцыя спыніць збор вашай асабістай інфармацыі. Любая асабістая інфармацыя, раней сабраная і загружаная на нашы серверы, будзе выдалена. Пасля таго як вы адклікаеце сваю згоду, вы больш не зможаце выкарыстоўваць Цэнтр кантэнту. Адклікаць згоду?</string>
+  <string name="news_video_history">Гісторыя</string>
+  <string name="news_video_history_empty">Тут пакуль нічога няма</string>
+  <string name="news_video_invisible_item">Немагчыма праглядзець гэтае відэа</string>
+  <string name="news_video_no_more_videos">Пакуль што ўсё</string>
+  <string name="video_feedback_description">Мы збіраем і выкарыстоўваем інфармацыю, якую вы ўвялі вышэй, каб палепшыць ваш карыстацкі досвед. Каб даведацца больш пра тое, як мы збіраем і апрацоўваем вашу асабістую інфармацыю, звярніцеся да нашай Палітыкі прыватнасці.</string>
+  <string name="video_feedback_description_title">Гэтая інфармацыя будзе выкарыстоўвацца толькі для рэкамендацый кантэнту</string>
+  <string name="video_feedback_not_sumbit_toast">Абярыце адказ перад адпраўкай</string>
 </resources>

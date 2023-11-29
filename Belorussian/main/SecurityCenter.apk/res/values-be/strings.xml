@@ -7076,4 +7076,26 @@ Xiaomi Gaming Cooler"</string>
   <string name="permission_usage_projection_screen_use_app">%1s атрымала доступ або запісвала змесціва экрана</string>
   <string name="unused_apps_switch">Прыпыніць актыўнасць праграмы, калі яна не выкарыстоўваецца</string>
   <string name="unused_apps_switch_summary">Выдаліць дазволы, выдаліць часовыя файлы і адключыць апавяшчэнні</string>
+  <string name="app_manager_share_apk">Падзяліцца</string>
+  <string name="game_balance_more_setting_title">Дадатковыя налады</string>
+  <string name="game_balance_vision_enhance_subtitle">Павялічце кантраснасць і палепшыце дэталізацыю гульняў</string>
+  <string name="game_balance_vision_enhance_title">Палепшаная графіка</string>
+  <string name="game_performance_wild_mode">Максімальны рэжым</string>
+  <string name="game_performance_wild_mode_tips">"Уключыце, каб павысіць прадукцыйнасць прылады.
+(Ваша прылада будзе награвацца і спажываць больш энергіі)"</string>
+  <string name="gb_all_hight_display">Высокая частата абнаўлення</string>
+  <string name="gb_all_hight_display_sub_title">120 Гц для ўсіх сцэнараў</string>
+  <string name="gb_performance_enhance">Высокая прадукцыйнасць</string>
+  <string name="gb_performance_enhance_sub_title">Прыярытэт прадукцыйнасці над энергаспажываннем</string>
+  <string name="gb_wild_mode_game_performance_enhance">Павысьце прадукцыйнасць у гульнях</string>
+  <string name="gtb_guide_gtb_line_wilde_mode">Паспрабуйце Максімальны рэжым у Паскарэнні гульняў, каб падняць свае гульні на новы ўзровень</string>
+  <string name="performance_frame_insert_super_display_tips">Разумная частата кадраў і суперраздзяляльнасць не могуць дзейнічаць адначасова. Уключэнне аднаго рэжыму прывядзе да адключэння іншага.</string>
+  <string name="vb_default_mode">Карыстацкі</string>
+  <string name="vb_dolby_effect">Dolby Atmos</string>
+  <string name="vb_dult_effect">3D LUT адлюстраванне</string>
+  <string name="vb_immerse_voice">Імерсіўны гук</string>
+  <string name="vb_movie_mode">Рэжым \"Тэатр\"</string>
+  <string name="vb_movie_subtitle">Патрабуецца высокая прадукцыйнасць</string>
+  <string name="vb_theatre_switch_guide">Націсніце, каб пераключыцца ў рэжым \"Тэатр\"</string>
+  <string name="vb_voice_adjust">Тэатральны гук</string>
 </resources>

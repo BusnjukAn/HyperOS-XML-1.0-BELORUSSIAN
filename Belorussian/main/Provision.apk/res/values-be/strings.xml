@@ -747,4 +747,8 @@
   <string name="system_update_statement">Каб выканаць абнаўленне сістэмы, нам трэба сабраць IMEI прылады, IMSI прылады, ідэнтыфікатары прылады (OAID і зашыфраваны ідэнтыфікатар Android), уліковы запіс Xiaomi, вытворцу прылады, мадэль прылады, аператара сеткі, версію аперацыйнай сістэмы, рэгіён, мову, падлучэнне, тып сеткі і IP-адрас.</string>
   <string name="system_update_title">Абнаўленні сістэмы</string>
   <string name="terms_of_use_label_system_quality_monitoring">Маніторынг якасці сістэмы</string>
+  <string name="disagreement_service_not_working_properly_with_media_storage">Калі вы вырашыце не прадастаўляць гэтыя дазволы, служба не зможа працаваць нармальна.</string>
+  <string name="media_storage_devices">Прылады захоўвання мультымедыя</string>
+  <string name="media_storage_introduction">Гэтая служба дазваляе праграмам атрымліваць доступ да фота, відэа, аўдыё і файлаў і захоўваць іх.</string>
+  <string name="permission_media_storage_summary">Для праверкі таго, як праграмы выкарыстоўваюць дазволы, звязаныя з прыватнасцю, пры доступе да файлаў</string>
 </resources>

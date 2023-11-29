@@ -1865,7 +1865,7 @@
   <string name="bt_aac_pre_title">AAC</string>
   <string name="bt_absVolume_open_dialog_summary">З-за праблем сумяшчальнасці некаторыя Bluetooth-прылады могуць мець анамальныя ўзроўні гучнасці, якія можна ліквідаваць, адключыўшы гэтую функцыю.</string>
   <string name="bt_absVolume_open_dialog_title">Увага</string>
-  <string name="bt_absVolume_pre_title">Абсалютны ўзровень гучнасці</string>
+  <string name="bt_absVolume_pre_title">Падтрымліваць пастаянную гучнасць</string>
   <string name="bt_absVolume_summary">Узгадненне узроўняў гучнасці Bluetooth-прылад і тэлефона. Вы можаце ўключаць і выключаць гэтую функцыю, калі мультымедыя не прайграваецца ў фонавым рэжыме.</string>
   <string name="bt_always_show_icon">Не паказваць абразок Bluetooth у радку стану</string>
   <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive забяспечыць высакаякаснае прайграванне і паменшыць затрымку гуку для гульняў і відэа пры адначасовым павелічэнні энергаспажывання. Прайграванне можа перарывацца з-за апаратных абмежаванняў Bluetooth і перашкод навакольнага асяроддзя.</string>

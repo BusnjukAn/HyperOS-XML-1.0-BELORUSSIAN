@@ -10847,4 +10847,5 @@
   <string name="bluetooth_disable_toast">Немагчыма ўключыць Bluetooth. Падобна, што функцыянальнасць Bluetooth абмежаваная.</string>
   <string name="nfc_notification_mode_title">Нагадванні аб счытванні карт NFC</string>
   <string name="toast_bluetooth_disable">Немагчыма ўключыць Bluetooth. Падобна, што модуль Bluetooth быў пераўсталяваны або доступ да Bluetooth быў абмежаваны.</string>
+  <string name="photography_handle_title">Ручка камеры</string>
 </resources>

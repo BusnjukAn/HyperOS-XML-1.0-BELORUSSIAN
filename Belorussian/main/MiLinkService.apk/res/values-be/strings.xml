@@ -325,8 +325,8 @@
   <string name="clipboard_cancel_sync">Адмена</string>
   <string name="clipboard_loading">Устаўка з %1$s</string>
   <string name="close">Закрыць</string>
-  <string name="close_auxiliary_wifi_hint">Выключыце \"Паскарэнне Wi-Fi\", каб мець магчымасць трансляваць</string>
-  <string name="close_auxiliary_wifi_hint_china">Выключыце \"Паскарэнне Wi-Fi\", каб мець магчымасць трансляваць</string>
+  <string name="close_auxiliary_wifi_hint">Адключыце \"Паскарэнне двухдыяпазоннага Wi-Fi\", каб мець магчымасць трансляваць.</string>
+  <string name="close_auxiliary_wifi_hint_china">Адключыце \"Паскарэнне двухдыяпазоннага Wi-Fi\", каб мець магчымасць трансляваць.</string>
   <string name="close_hotspot_hint">Адключыце прункт доступу перад трансляцыяй</string>
   <string name="close_hotspot_hint_DFS">Каб трансляваць відэа на тэлевізар, спачатку выключыце пункт доступу</string>
   <string name="close_invisible_mode_dialog_cancel">Адмена</string>
@@ -1184,4 +1184,14 @@
   <string name="wifi_username_et_hint">Ідэнтыфікатар акаўнта</string>
   <string name="window_card_ml_find_null">Гэтай прылады можа не быць паблізу</string>
   <string name="yesterday">Учора</string>
+  <string name="close_dp_casting_hint">Адключыце кабель і паспрабуйце яшчэ раз</string>
+  <string name="dialog_close">Адключыць</string>
+  <string name="dialog_scanning_close_dual_wifi_china">Адключыце \"Паскарэнне двухдыяпазоннага Wi-Fi\", каб мець магчымасць трансляваць. Адключыць зараз?</string>
+  <string name="dialog_scanning_close_dual_wifi_global">Адключыце \"Паскарэнне двухдыяпазоннага Wi-Fi\", каб мець магчымасць трансляваць. Адключыць зараз?</string>
+  <string name="dialog_scanning_close_tethering">Адключыце пункт доступу, каб мець магчымасць трансляваць. Адключыць зараз?</string>
+  <string name="dp_casting_start_hint">Падлучана праз кабель. Трансляцыя завершана.</string>
+  <string name="head_toast_connecting">Падлучэнне…</string>
+  <string name="head_toast_fail">Не ўдалося падлучыцца</string>
+  <string name="head_toast_success">Паспяхова падлучана</string>
+  <string name="sever_stream_push_state_idle2">Папярэдні прагляд выключаны</string>
 </resources>

@@ -2218,4 +2218,6 @@
   <string name="xcap_setting_title">Налады службы выклікаў</string>
   <string name="xiaoai_assistant_setting_title">Асістэнт выклікаў Mi ШІ</string>
   <string name="yesterday">Учора</string>
+  <string name="can_not_use">Немагчыма выкарыстоўваць</string>
+  <string name="msim_select_default_last">Выкарыстоўвалася нядаўна</string>
 </resources>

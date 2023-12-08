@@ -1011,4 +1011,15 @@
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не цяпер</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
+  <string name="PRD_summary_1">Калі вы перанесяце дадзеныя з гэтых праграм са старой прылады на новую, дадзеныя на новай прыладзе (уключаючы гісторыю чата) будуць перазапісаныя.</string>
+  <string name="PRD_summary_4">Адключэнне Wi-Fi або пераключэнне сетак Wi-Fi падчас працэсу перадачы можа прывесці да збою працэсу перадачы.</string>
+  <string name="PRD_summary_4_china">Адключэнне Wi-Fi або пераключэнне сетак Wi-Fi падчас працэсу перадачы можа прывесці да збою працэсу перадачы.</string>
+  <string name="PRD_summary_5">Высакахуткасная перадача можа прывесці да таго, што ваша прылада нагрэецца больш, чым звычайна. Упэўніцеся, што ваша прылада астыне пасля завяршэння перадачы.</string>
+  <string name="PRD_title_1">1. Наступныя праграмы ўжо маюць дадзеныя на вашай новай прыладзе:</string>
+  <string name="PRD_title_4">2. Будзьце асцярожныя падчас працэсу перадачы</string>
+  <string name="PRD_title_5">3. Ваша прылада можа нагрэцца падчас працэсу перадачы</string>
+  <string name="require_permission">Націсніце, каб даць дазвол на перадачу элементаў.</string>
+  <string name="scanner_subtitle_prd">Уважліва прачытайце наступную інфармацыю перад праверкай кожнага элемента і пачаткам працэсу перадачы.</string>
+  <string name="scanner_title_prd">Важная інфармацыя</string>
+  <string name="settings_photo">Налады Галерэі</string>
 </resources>

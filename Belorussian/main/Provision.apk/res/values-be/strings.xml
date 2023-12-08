@@ -599,7 +599,7 @@
   <string name="term_condition_detail">Штодня атрымлівайце цудоўныя выявы і захапляльныя гісторыі на экране блакавання. Гэтая функцыя не будзе выкарыстоўваць вашыя дадзеныя для персаналізацыі без вашага згоды. Прачытайце і пагадзіцеся з &lt;a href =%1$s>Палітыкай прыватнасці&lt;/a> і &lt;a href =%2$s>Карыстацкай дамовай&lt;/a> іншага пастаўшчыка кантэнту і пагадзіцеся з імі перад выкарыстаннем гэтай функцыі.</string>
   <string name="terms_of_use">Умовы і палажэнні</string>
   <string name="terms_of_use_label_ai_assistant">Памочнік ШІ</string>
-  <string name="terms_of_use_label_app_vault">Стужка віджэтаў</string>
+  <string name="terms_of_use_label_app_vault">Трансляцыя</string>
   <string name="terms_of_use_label_back">Служба рэзервовага капіявання</string>
   <string name="terms_of_use_label_ble">Пастаўшчык аб\'яднанага месцазнаходжаньня</string>
   <string name="terms_of_use_label_cloud">Воблака Xiaomi</string>

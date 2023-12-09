@@ -2863,4 +2863,10 @@
   <string name="video_feedback_description">Мы збіраем і выкарыстоўваем інфармацыю, якую вы ўводзіце вышэй, каб палепшыць вашыя ўражанні ад выкарыстання. Каб даведацца больш пра тое, як мы збіраем і апрацоўваем вашу асабістую інфармацыю, азнаёмцеся з нашай Палітыкай прыватнасці.</string>
   <string name="video_feedback_description_title">Гэтая інфармацыя будзе выкарыстоўвацца толькі для рэкамендацый кантэнту</string>
   <string name="video_feedback_not_sumbit_toast">Абярыце адказ перад адпраўкай</string>
+  <string name="browser_slide_video_history">Нядаўнія</string>
+  <string name="browser_slide_video_like">Спадабалася</string>
+  <string name="browser_slide_video_my">Профіль</string>
+  <string name="load_failure">Немагчыма спампаваць</string>
+  <string name="video_feedback_thanks">Дзякуй за ваш водгук</string>
+  <string name="web_app_center">Міні-праграмы</string>
 </resources>

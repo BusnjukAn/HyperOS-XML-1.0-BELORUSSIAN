@@ -343,7 +343,7 @@
   <string name="satellite_guide_searching_floating">Ідзе пошук…</string>
   <string name="satellite_guide_up">Нахіліце прыладу ўверх\nкаб пакласці шар у сінюю вобласць</string>
   <string name="satellite_incall_tip">Дынамік уключаны</string>
-  <string name="satellite_service_provider">Прадастаўлена China Telecom</string>
+  <string name="satellite_service_provider">Паслуга прадастаўляецца China Telecom</string>
   <string name="satellite_state">Не перамяшчайце прыладу</string>
   <string name="satellite_state_connected">Падлучаны да спадарожніка. Не перамяшчайце прыладу.</string>
   <string name="satellite_state_connected_floating">Не перамяшчайце прыладу</string>
@@ -469,4 +469,8 @@
   <string name="focus_notification_on_ringing">Уваходны выклік</string>
   <string name="satellite_diable_earpiece">Немагчыма выкарыстоўваць навушнікі падчас спадарожнікавых выклікаў</string>
   <string name="satellite_state_connecting">Падлучэнне… (%d сек.)</string>
+  <string name="app_disable_description_text">Калі вы адключыце гэту праграму, вы не зможаце здзяйсняць і прымаць выклікі, а таксама карыстацца іншымі звязанымі функцыямі. Гэта сістэмная праграма не можа быць выдалена.</string>
+  <string name="app_disable_title_text">Адключыць праграму</string>
+  <string name="satellite_state_auto_exit">Выхад (%d сек.)</string>
+  <string name="satellite_state_retry">Працягваць спрабаваць</string>
 </resources>

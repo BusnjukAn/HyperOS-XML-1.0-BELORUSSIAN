@@ -193,4 +193,10 @@
         <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$s гадоў назад</item>
         <item quantity="one">Вы тэлефанавалі па гэтым нумары %1$s год таму</item>
     </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">"Прайшло %d сек. без падлучэння да спадарожніка.
+Вы можаце працягваць спробы або выйсці зараз."</item>
+        <item quantity="one">"Прайшла %d сек. без падлучэння да спадарожніка.
+Вы можаце працягваць спробы або выйсці зараз."</item>
+    </plurals>
 </resources>

@@ -700,4 +700,5 @@
   <string name="wind_format">%1$s | Узровень %2$s</string>
   <string name="yesterday">Учора</string>
   <string name="kg_classic_item_weather_cloudy">Воблачна</string>
+  <string name="aod_notification_use_app_icon">Выкарыстоўваць абразкі праграм для апавяшчэнняў</string>
 </resources>

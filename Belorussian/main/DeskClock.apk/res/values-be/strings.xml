@@ -762,13 +762,13 @@ dd.MM"</string>
   <string name="alarm_in_furture_new">Да сігналу будзільніка засталося менш за %d хвіліну</string>
   <string name="alarm_set_new">Будзільнік зазвініць праз менш за %d хвіліну.</string>
   <string name="auto_silence_entries1">Ніколі</string>
-  <string name="auto_silence_entries2">&lt;xliff id=\"MINUTES\" refersto=\"1\">%d&lt;/xliff> хвіліна</string>
-  <string name="auto_silence_entries3">&lt;xliff id=\"MINUTES\" refersto=\"5\">%d&lt;/xliff> хвілін</string>
-  <string name="auto_silence_entries4">&lt;xliff id=\"MINUTES\" refersto=\"10\">%d&lt;/xliff> хвілін</string>
-  <string name="auto_silence_entries5">&lt;xliff id=\"MINUTES\" refersto=\"15\">%d&lt;/xliff> хвілін</string>
-  <string name="auto_silence_entries6">&lt;xliff id=\"MINUTES\" refersto=\"20\">%d&lt;/xliff> хвілін</string>
-  <string name="auto_silence_entries7">&lt;xliff id=\"MINUTES\" refersto=\"25\">%d&lt;/xliff> хвілін</string>
-  <string name="auto_silence_entries8">&lt;xliff id=\"MINUTES\" refersto=\"30\">%d&lt;/xliff> хвілін</string>
+  <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> хвіліна</string>
+  <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> хвілін</string>
+  <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> хвілін</string>
+  <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> хвілін</string>
+  <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> хвілін</string>
+  <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> хвілін</string>
+  <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> хвілін</string>
   <string name="bedtime_sleep_time_remind_new">Вы атрымаеце напамін пра тое, што трэба легчы спаць, за %d хвілін(-ы) да гэтага часу</string>
   <string name="life_post_setting_open_summary_new">Уключыць інфармацыю аб надвор\'і ў першы выключаны будзільнік паміж %1$s і %2$s</string>
   <string name="module_weather_ringtone_download_data_new">Будзільнік з надвор\'ем выбірае розныя мелодыі ў залежнасці ад бягучага надвор\'я. Для яго працы Гадзінніку патрабуецца спампаваць ≈%d Мб аўдыё. Спампаваць яго?</string>
@@ -780,9 +780,9 @@ dd.MM"</string>
   <string name="module_white_noise_download_data_new">Гадзінніку патрэбна спампаваць аўдыёфайлы таймераў з гукамі навакольнага шуму. Для запампоўкі спатрэбіцца ≈%d Мб мабільнага трафіку. Спампаваць іх зараз?</string>
   <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Для загрузкі аўдыёфайлаў таймераў з гукамі навакольнага шуму (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> Мб) і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашыя &lt;a href=\"%2$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%3$s\">Палітыку прыватнасці&lt;/a>. Выкарыстоўваецца мабільны інтэрнэт. Вы згодны?</Data></string>
   <string name="notification_adv_time_entries1">У вызначаны час</string>
-  <string name="notification_adv_time_entries2">&lt;xliff id=\"MINUTES\" refersto=\"15\">%d&lt;/xliff> хвілін загадзя</string>
-  <string name="notification_adv_time_entries3">&lt;xliff id=\"MINUTES\" refersto=\"30\">%d&lt;/xliff> хвілін загадзя</string>
-  <string name="notification_adv_time_entries4">&lt;xliff id=\"HOUR\" refersto=\"1\">%d&lt;/xliff> гадзіну загадзя</string>
+  <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> хвілін загадзя</string>
+  <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> хвілін загадзя</string>
+  <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> гадзіну загадзя</string>
   <string name="notification_adv_time_entries5">Няма</string>
   <string name="sleep_duration_recommendation_new" formatted="false">Большасці людзей патрабуецца ад %d да %d гадзін сну ноччу</string>
   <string name="alarm_alert_close_entrance">Адключыць</string>

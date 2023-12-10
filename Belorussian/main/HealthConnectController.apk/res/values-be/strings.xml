@@ -342,13 +342,13 @@
   <string name="height_write_content_description">Запісваць дадзеныя пра рост</string>
   <string name="help">Даведка</string>
   <string name="help_and_feedback">Даведка і водгукі</string>
-  <string name="help_feedback_label">Дапамога і зваротная сувязь</string>
+  <string name="help_feedback_label">Даведка і водгукі</string>
   <string name="high_intensity_interval_training">Інтэнсіўная інтэрвальная трэніроўка</string>
   <string name="hiking">Пешы турызм</string>
-  <string name="hip_circumference_lowercase_label">акружнасць клубоў</string>
-  <string name="hip_circumference_read_content_description">Счытваць дадзеныя пра акружнасць клубоў</string>
-  <string name="hip_circumference_uppercase_label">Акружнасць клубоў</string>
-  <string name="hip_circumference_write_content_description">Запісваць дадзеныя пра акружнасць клубоў</string>
+  <string name="hip_circumference_lowercase_label">акружнасць сцёгнаў</string>
+  <string name="hip_circumference_read_content_description">Счытваць дадзеныя пра акружнасць сцёгнаў</string>
+  <string name="hip_circumference_uppercase_label">Акружнасць сцёгнаў</string>
+  <string name="hip_circumference_write_content_description">Запісваць дадзеныя пра акружнасць сцёгнаў</string>
   <string name="hip_thrust">Штуршкі сцёгнамі</string>
   <string name="home_subtitle">Кіруйце на тэлефоне дадзенымі пра здароўе і фізічную актыўнасць і доступам праграм да гэтай інфармацыі</string>
   <string name="hour_duration">%1$s гадз</string>
@@ -363,7 +363,7 @@
   <string name="ice_skating">Катанне на каньках</string>
   <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="inactive_apps">Неактыўныя праграмы</string>
-  <string name="inactive_apps_message">Гэтыя праграмы больш не могуць запісваць дадзеныя тыпу \"%s\", аднак у Здароўі і спорце па-ранейшаму захоўваюцца іх дадзеныя</string>
+  <string name="inactive_apps_message">Гэтыя праграмы больш не могуць запісваць дадзеныя тыпу \"%s\", аднак у праграме \"Здароўе і спорт\" па-ранейшаму захоўваюцца іх дадзеныя</string>
   <string name="inactive_apps_section_message">У гэтых праграм больш няма доступу да праграмы \"Здароўе і спорт\", аднак іх дадзеныя па-ранейшаму там захоўваюцца</string>
   <string name="inactive_apps_section_title">Неактыўныя праграмы</string>
   <string name="install_type_instant">Праграма з імгненным запускам</string>
@@ -382,7 +382,7 @@
   <string name="kj">{count,plural, =1{1 кДж}one{# кДж}few{# кДж}many{# кДж}other{# кДж}}</string>
   <string name="kj_long">{count,plural, =1{1 кіладжоўль}one{# кіладжоўль}few{# кіладжоўлі}many{# кіладжоўляў}other{# кіладжоўля}}</string>
   <string name="lat_pull_down">Цяга верхняга блока ўніз</string>
-  <string name="lateral_raise">Пад\'ём праз бакі</string>
+  <string name="lateral_raise">Бакавы ўздым</string>
   <string name="lean_body_mass_lowercase_label">мышачная маса цела</string>
   <string name="lean_body_mass_read_content_description">Счытваць дадзеныя пра мышачную масу цела</string>
   <string name="lean_body_mass_uppercase_label">Мышачная маса цела</string>
@@ -396,15 +396,15 @@
   <string name="loading">Загрузка…</string>
   <string name="lunge">Выпады</string>
   <string name="magnesium">Магній</string>
-  <string name="manage_data_section">Кіраваць дадзенымі</string>
-  <string name="manage_permissions">Кіраваць дазволамі</string>
+  <string name="manage_data_section">Кіраванне дадзенымі</string>
+  <string name="manage_permissions">Кіраванне дазволамі</string>
   <string name="manage_permissions_learn_more">Азнаёміцца з палітыкай прыватнасці</string>
   <string name="manage_permissions_manage_app_header">Кіраванне праграмай</string>
   <string name="manage_permissions_rationale">Дадзеныя, якія вы абагульваеце з праграмай \"%1$s\", падпадаюць пад дзеянне палітыкі прыватнасці</string>
   <string name="manage_permissions_read_header">Дазволена счытваць</string>
   <string name="manage_permissions_time_frame">%1$s можа счытваць дадзеныя, дададзеныя пасля %2$s</string>
   <string name="manage_permissions_write_header">Дазволена запісваць</string>
-  <string name="manage_your_settings">Кіруйце наладамі і прыватнасцю</string>
+  <string name="manage_your_settings">Кіраванне наладамі і прыватнасцю</string>
   <string name="manage_your_settings_description">У любы час змяняйце дазволы праграм і кіруйце сваімі дадзенымі</string>
   <string name="manganese">марганец</string>
   <string name="martial_arts">Баявыя мастацтвы</string>
@@ -454,7 +454,7 @@
   <string name="migration_more_space_needed_screen_details">Праграме \"Здароўе і спорт\" патрабуецца %1$s месца ў сховішчы тэлефона, каб працягнуць інтэграцыю.\n\nАчысціце месца на тэлефоне, а потым паўтарыце спробу.</string>
   <string name="migration_more_space_needed_screen_title">Патрабуецца больш месца</string>
   <string name="migration_not_complete_dialog_button">OK</string>
-  <string name="migration_not_complete_dialog_content">Вы атрымаеце апавяшчэнне, калі яно стане даступным зноў.</string>
+  <string name="migration_not_complete_dialog_content">Вы атрымаеце апавяшчэнне, калі яна стане даступнай зноў.</string>
   <string name="migration_not_complete_dialog_seen">Міграцыя не завершана</string>
   <string name="migration_not_complete_dialog_title">Не ўдалося выканаць інтэграцыю праграмы \"Здароўе і спорт\"</string>
   <string name="migration_not_complete_notification_action">Чытаць далей</string>
@@ -470,11 +470,11 @@
   <string name="migration_pending_permissions_dialog_content_apps">Праграма \"Здароўе і спорт\" гатовая да інтэграцыі з сістэмай Android. Калі вы дасце праграмам доступ зараз, некаторыя функцыі не будуць працаваць, пакуль не завершыцца інтэграцыя.</string>
   <string name="migration_pending_permissions_dialog_title">Інтэграцыя праграмы \"Здароўе і спорт\"</string>
   <string name="migration_update_needed_notification_action">Абнавіць</string>
-  <string name="migration_update_needed_notification_content">Запусціце гэтае абнаўленне, каб праграма \"Здароўе і спорт\" працягнула абнаўленне з наладамі вашай сістэмы</string>
-  <string name="migration_update_needed_screen_details">Праграма \"Здароўе і спорт\" інтэгруецца з сістэмай Android, таму ў вас ёсць доступ да яе непасрэдна з налад.</string>
+  <string name="migration_update_needed_notification_content">Запусціце гэтае абнаўленне, каб праграма \"Здароўе і спорт\" працягнула абнаўленне з Наладамі вашай сістэмы</string>
+  <string name="migration_update_needed_screen_details">Праграма \"Здароўе і спорт\" інтэгруецца з сістэмай Android, таму ў вас ёсць доступ да яе непасрэдна з Налад.</string>
   <string name="migration_update_needed_screen_title">Патрабуецца абнаўленне</string>
   <string name="migration_whats_new_dialog_button">OK</string>
-  <string name="migration_whats_new_dialog_content">Цяпер у вас ёсць доступ да праграмы \"Здароўе і спорт\" непасрэдна з налад. Праграму \"Здароўе і спорт\" можна выдаліць у любы час.</string>
+  <string name="migration_whats_new_dialog_content">Цяпер у вас ёсць доступ да праграмы \"Здароўе і спорт\" непасрэдна з Налад. Праграму \"Здароўе і спорт\" можна выдаліць у любы час.</string>
   <string name="migration_whats_new_dialog_title">Што новага</string>
   <string name="millimoles_per_liter">{count,plural, =1{1 ммоль/л}one{# ммоль/л}few{# ммоль/л}many{# ммоль/л}other{# ммоль/л}}</string>
   <string name="millimoles_per_liter_long">{count,plural, =1{1 мілімоль на літр}one{# мілімоль на літр}few{# мілімолі на літр}many{# мілімоляў на літр}other{# мілімоля на літр}}</string>

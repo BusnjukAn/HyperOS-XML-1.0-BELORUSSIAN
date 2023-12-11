@@ -68,12 +68,12 @@
     <item>Карычневы</item>
   </string-array>
   <string-array name="no_word_model_entries">
-     <item>Адкл.</item>
+     <item>Адключана</item>
      <item>У любым месцы</item>
      <item>На віджэтах</item>
   </string-array>
   <string-array name="no_word_model_entries_not_support_only_widget_no_word">
-    <item>Адкл.</item>
+    <item>Адключана</item>
     <item>У любым месцы</item>
   </string-array>
 </resources>

@@ -4194,7 +4194,7 @@
   <string name="indeterminate">Выбрана часткова</string>
   <string name="infinity_display_settings">Поўнаэкранны рэжым</string>
   <string name="infinity_display_slogan">Інавацыі на поўны экран</string>
-  <string name="infinity_display_title">Поўнаэкранная навігацыя</string>
+  <string name="infinity_display_title">Сiстэмная навігацыя</string>
   <string name="information_dialog_button_text">Зразумела</string>
   <string name="information_label">Інфармацыя</string>
   <string name="ingress_rate_limit_dialog_title">Наладзьце абмежаванне хуткасці спампоўвання праз сетку</string>
@@ -5880,7 +5880,7 @@
   <string name="my_device_real_camera">Задняя камера</string>
   <string name="n_cacrts">Сертыфікаты ЦС: %d</string>
   <string name="natural_haptic">Рэалістычны вібраводгук</string>
-  <string name="natural_haptic_summary">Новыя шаблоны вібраводгука прыўносяць дадатковае вымярэнне ва ўсё, што вы бачыце і да чаго датыкаецеся на экране</string>
+  <string name="natural_haptic_summary">Новыя шаблоны вібраводгука прыўносяць дадатковае вымярэнне ва ўсё, што вы бачыце і да чаго дакранаецеся на экране</string>
   <string name="natural_scroll">Натуральная пракрутка</string>
   <string name="nature_color">Па змаўчанні</string>
   <string name="navigation_guide_app_quick_switch_hide_line_summary">Правядзіце уверх ад ніжняй частцы экрана, затым улева ці ўправа</string>

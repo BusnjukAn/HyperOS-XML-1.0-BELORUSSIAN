@@ -603,7 +603,7 @@
   <string name="online_wallpaper">Анлайн</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Скасаваць</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Адключыць</string>
-  <string name="open_personal_assistant_dialog_desc">Пасля выключэння Стужкі віджэтаў вы не зможаце ўбачыць віджэты або выкарыстоўваць іх. Абноўленыя версіі віджэтаў таксама не будуць даступныя для вас. Усё роўна выключыць?</string>
+  <string name="open_personal_assistant_dialog_desc">Пасля адключэння Стужкі віджэтаў вы не зможаце ўбачыць віджэты або выкарыстоўваць іх. Абноўленыя версіі віджэтаў таксама не будуць даступныя для вас. Усё роўна адключыць?</string>
   <string name="open_personal_assistant_dialog_desc_international">Пасля адключэння гэтай функцыі вы не зможаце выкарыстоўваць карткі Стужкі віджэтаў (Акцыі, Цэтлікі і г. д.) і атрымліваць абнаўлення.</string>
   <string name="open_personal_assistant_dialog_title">Адключыць стужку віджэтаў</string>
   <string name="open_personal_assistant_settings">Налады Стужкі віджэтаў</string>
@@ -649,8 +649,8 @@
   <string name="preferences_general_title">Дадатковыя налады</string>
   <string name="preferences_title">Налады працоўнага стала</string>
   <string name="preferred_app_settings_not_selected">Не выбрана</string>
-  <string name="privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у «Нядаўніх»</string>
-  <string name="privacy_thumbnail_blur_title">Размываць папярэднi прагляд</string>
+  <string name="privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у \"Нядаўніх\"</string>
+  <string name="privacy_thumbnail_blur_title">Размыццё папярэдняга прагляду</string>
   <string name="quick_app">Хуткія праграмы</string>
   <string name="recent_apps">Нядаўнія</string>
   <string name="recent_menu_item_info">Звесткі</string>
@@ -667,9 +667,9 @@
   <string name="recents_exit_multi_window_mode">Выхад</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Нельга выкарыстоўваць падзел экрана падчас трансляцыі</string>
   <string name="recents_incompatible_app_message">Праграма не падтрымлівае падзелены экран</string>
-  <string name="recents_layout_style">Спарадкаваць элементы ў «Нядаўніх»</string>
-  <string name="recents_layout_style_horizontal">Гарызантальна</string>
-  <string name="recents_layout_style_vertical">Вертыкальна</string>
+  <string name="recents_layout_style">Прагляд элементаў у \"Нядаўніх\"</string>
+  <string name="recents_layout_style_horizontal">Гарызантальны</string>
+  <string name="recents_layout_style_vertical">Вертыкальны</string>
   <string name="recents_smallwindow_drag_text">Перацягніце сюды, каб замацаваць</string>
   <string name="recents_smallwindow_text">Адпусціце для дадання</string>
   <string name="recents_task_screening">Трансляцыя</string>
@@ -1090,8 +1090,8 @@
   <string name="intelligent_exposed_button_summary_text">Выкарыстоўваць прапановы, заснаваныя на дадзеных аб выкарыстанні праграм, для вылучэння праграм у павялічаных тэчках.</string>
   <string name="jeejen_description">Павялічаныя элементы.\nСпрошчаныя выклікі.\nУзмоцненая бяспека.</string>
   <string name="menu_only_widget_no_word">Схаваць подпісы віджэтаў</string>
-  <string name="open_personal_assistant_settings_off">Выкл.</string>
-  <string name="open_personal_assistant_settings_on">Укл.</string>
+  <string name="open_personal_assistant_settings_off">Адключана</string>
+  <string name="open_personal_assistant_settings_on">Уключана</string>
   <string name="open_personal_assistant_settings_simplified">Стужка віджэтаў</string>
   <string name="recent_menu_item_add_pair">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
   <string name="recent_menu_item_add_pair_first_toast">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
@@ -1147,7 +1147,7 @@
   <string name="branch_key">Branch Key</string>
   <string name="keyguard_multi_window_tip">Гэтая старонка можа адлюстроўвацца толькі ў поўнаэкранным рэжыме</string>
   <string name="new_open_personal_assistant_settings_simplified">Стужка віджэтаў</string>
-  <string name="new_privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у Апошніх</string>
+  <string name="new_privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у \"Нядаўніх\"</string>
   <string name="new_recents_config_title">Іншае</string>
   <string name="service_double_attention">Служба пашыранага пошуку прадастаўляецца Branch Metrics Inc. Для правільнай працы гэтай функцыі нам патрабуецца перадаваць вашыя пошукавыя запыты, рэкламны ідэнтыфікатар Google і IP-адрасы Branch Metrics Inc. Перад выкарыстаннем гэтай функцыі азнаёмцеся і пагадзіцеся з &lt;font color="#B3000000">&lt;a href="http://url1">Умовамі выкарыстання Discovery&lt;/a>&lt;/font> і &lt;font color="#B3000000">&lt;a href="http://url2">Палітыкай прыватнасці Branch Discovery&lt;/a>&lt;/font>.</string>
   <string name="setting_close">Адкл.</string>

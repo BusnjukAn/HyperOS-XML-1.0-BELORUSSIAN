@@ -591,8 +591,8 @@
   <string name="fs_gesture_back_ready_title">Вярнуцца назад</string>
   <string name="fs_gesture_final_over">Гатова</string>
   <string name="fs_gesture_final_restart">Паўтарыць</string>
-  <string name="fs_gesture_final_see_more">Праглядзіце іншыя дэманстрацыі ў Наладах > Працоўны стол > Стандартныя > Спосабы навігацыі</string>
-  <string name="fs_gesture_final_summary">Вы можаце вярнуцца да выкарыстання клавіш у раздзеле Налады - Дадаткова - Поўнаэкранная навігацыя</string>
+  <string name="fs_gesture_final_see_more">Праглядзіце іншыя дэманстрацыі ў Налады > Працоўны стол > Сiстэмная навігацыя</string>
+  <string name="fs_gesture_final_summary">Вы можаце вярнуцца да выкарыстання клавіш у раздзеле Налады - Дадатковыя налады - Сiстэмная навігацыя</string>
   <string name="fs_gesture_final_title">Усё гатова!</string>
   <string name="fs_gesture_finish">Цудоўна!</string>
   <string name="fs_gesture_left_back_ready_summary">Правядзіце ўправа ад краю экрана</string>

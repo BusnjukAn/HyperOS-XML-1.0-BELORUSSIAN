@@ -1579,8 +1579,8 @@
   <string name="status_bar">Панэль стану</string>
   <string name="status_bar_airplane">Палёт</string>
   <string name="status_bar_alarm">Будзільнік</string>
-  <string name="status_bar_clock_date_format">EE, d MMMM</string>
-  <string name="status_bar_clock_date_format_12">EE, d MMMM</string>
+  <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
+  <string name="status_bar_clock_date_format_12">EEEE, dd MMMM</string>
   <string name="status_bar_clock_date_time_format">H:mm EE, d MMMM</string>
   <string name="status_bar_clock_date_time_format_12">h:mm aa, EE, d MMMM</string>
   <string name="status_bar_ethernet">Ethernet</string>
@@ -1865,7 +1865,7 @@
   <string name="miui_notification_menu_msg_unfocus">Вы збіраецеся выключыць пражэктар апавяшчэнняў для %1$s. Гэтыя апавяшчэнні будуць адлюстроўвацца звычайна. Выключыць зараз?</string>
   <string name="miui_notification_menu_unfocus">Выключыць пражэктар апавяшчэнняў</string>
   <string name="miui_rhombus_clock_date">dd MMMM</string>
-  <string name="miui_rhombus_clock_week">EEE</string>
+  <string name="miui_rhombus_clock_week">EEEE</string>
   <string name="miui_rhombus_clock_week_full">EEEE</string>
   <string name="miui_smart_frame_clock_date">d.M</string>
   <string name="miui_smart_frame_clock_week">EEE</string>

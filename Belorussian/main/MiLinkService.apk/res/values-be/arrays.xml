@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="debug_mode_protocol_entries">
+    <item>Па змаўчанні</item>
+    <item>MiPlay</item>
+    <item>Miracast</item>
+    <item>AirKan</item>
+    <item>LeLink</item>
+    <item>DLNA</item>
+  </string-array>
+  <string-array name="settings_search_connect_car">
+        <item>Спалучэнне праграм</item>
+        <item>Узаемазвязанасць/аб\'яднанне праграм</item>
+        <item>Функцыі аўтамабіля</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Узаемазвязанасць</item>
+        <item>Узаемазвязанасць/Узаемазвязанасць</item>
+        <item>Узаемазвязанасць прылад, сэрвісы ўзаемазвязанасці прылад, Xiaomi, Xiaomi AIoT, AIoT, смарт-злучэнне, Mi Smart Hub, узаемазвязанасць, Duo, тэлефон Xiaomi, ноўтбук Xiaomi, Multiscreen, Duet, кастынг, аб\'яднанне праграм, перадача перадачы, перадача праграмы , Люстэрка, экасістэма Xiaomi, падлучэнне прылады</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Прыватнасць</item>
+        <item>Узаемазвязанасць/Прыватнасць</item>
+        <item>Прыватнасць і ўзаемазвязанасць, прыватнасць</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Сэрвісы ўзаемазвязанасці</item>
+        <item>Узаемазвязанасць/Сэрвісы ўзаемазвязанасці</item>
+        <item>Сэрвісы ўзаемазвязанасці</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Перадача праграмы</item>
+        <item>Узаемазвязанасць/Перадача праграмы</item>
+        <item>Перадача праграм, перадача, перадача</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Выклікі</item>
+        <item>Узаемазвязанасць/Выклікі</item>
+        <item>Выклікі</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Сеткавая дапамога</item>
+        <item>Узаемазвязанасць/Сеткавая дапамога</item>
+        <item>Сеткавая дапамога, прывязванне, сумеснае выкарыстанне пункту доступу</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Працоўны стол+</item>
+        <item>Узаемазвязанасць/Працоўны стол+</item>
+        <item>Працоўны стол+, Цэнтр трансляцыi, агульны экран</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Буфер абмену</item>
+        <item>Узаемазвязанасць/Буфер абмену</item>
+        <item>Буфер абмену</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Апавяшчэнні на розных прыладах</item>
+        <item>Узаемазвязанасць/Апавяшчэнні</item>
+        <item>Апавяшчэнні на розных прыладах</item>
+    </string-array>
+</resources>

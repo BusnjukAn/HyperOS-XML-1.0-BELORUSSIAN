@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="cdma_system_select_choices">
+    <item>Толькі дома</item>
+    <item>Аўтаматычна</item>
+  </string-array>
+  <string-array name="list_language_entries">
+    <item>Англійская</item>
+    <item>Французская</item>
+    <item>Іспанская</item>
+    <item>Японская</item>
+    <item>Карэйская</item>
+    <item>Кітайская</item>
+    <item>Іўрыт</item>
+  </string-array>
+</resources>

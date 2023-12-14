@@ -204,7 +204,7 @@
   <string name="friday_short">Птн</string>
   <string name="friday_shortest">П</string>
   <string name="health_chart_calories_unit">Калорыі</string>
-  <string name="health_chart_sleep_time_format">%1$s г. %2$ хв.</string>
+  <string name="health_chart_sleep_time_format">%1$s г. %2$s хв.</string>
   <string name="health_chart_sleep_time_good">Дастаткова</string>
   <string name="health_chart_sleep_time_low">Недастаткова</string>
   <string name="health_chart_sleep_time_normal">Нармальна</string>

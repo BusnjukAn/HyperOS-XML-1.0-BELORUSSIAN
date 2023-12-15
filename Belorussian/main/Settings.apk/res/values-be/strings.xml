@@ -5730,7 +5730,7 @@
   <string name="month_september_shortest">В</string>
   <string name="more">Больш</string>
   <string name="more_account_settings_title">Іншыя акаўнты</string>
-  <string name="more_connection">Дадатковыя налады падлучэнняў</string>
+  <string name="more_connection">Налады падлучэнняў</string>
   <string name="more_dangerous_option_hint">Уключаны небяспечныя функцыі, у тым ліку \"%1$s\". Націсніце для змены налад.</string>
   <string name="more_dark_mode_settings">Дадатковыя параметры</string>
   <string name="more_font_pref_title">Іншыя шрыфты</string>
@@ -10848,4 +10848,12 @@
   <string name="nfc_notification_mode_title">Нагадванні аб счытванні карт NFC</string>
   <string name="toast_bluetooth_disable">Немагчыма ўключыць Bluetooth. Падобна, што модуль Bluetooth быў пераўсталяваны або доступ да Bluetooth быў абмежаваны.</string>
   <string name="photography_handle_title">Ручка камеры</string>
+  <string name="auto_silent_info">Гэтая функцыя перастане працаваць, калі вы пераключыцеся ў рэжым \"Не турбаваць\" уручную</string>
+  <string name="photography_handle_button_function_settings">Наладзіць кнопку ручкі</string>
+  <string name="photography_handle_launch_and_take_photo">Зрабіць фота</string>
+  <string name="photography_handle_launch_camera">Адкрыць камеру</string>
+  <string name="photography_handle_long_press_camera_key_enter_camera">Націсніце і ўтрымлівайце кнопку спуску засаўкі, каб выканаць дзеянне</string>
+  <string name="photography_handle_quick_launch_camera_title">Хуткі запуск</string>
+  <string name="wifi_stx_logs_disabled">Часопісы Wi-Fi STx адключаныя</string>
+  <string name="wifi_stx_logs_enabled">Часопісы Wi-Fi STx уключаныя</string>
 </resources>

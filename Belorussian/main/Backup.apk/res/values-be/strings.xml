@@ -257,7 +257,7 @@
   <string name="findlost_contact">Аднавіць кантакты</string>
   <string name="findlost_contact_online">Аднавіць кантакты з Воблака Xiaomi</string>
   <string name="flash_drive_backup_btn">Рэзерваваць на USB</string>
-  <string name="flash_drive_backup_note">Рэзерваванне праграм на USB-сховішча.\nПераканайцеся, што на USB-сховішчы дастаткова вольнага месца.</string>
+  <string name="flash_drive_backup_note">Выканайце рэзервовае капіяванне змесціва на USB-назапашвальнік.\nПерш чым пачаць, пераканайцеся, што на USB-назапашвальніку дастаткова месца.</string>
   <string name="flash_drive_backup_restore">Рэзерваванне на USB</string>
   <string name="flash_drive_connection_failed">USB назапашвальнік адключаны</string>
   <string name="flash_drive_restore_btn">Аднавіць з USB</string>
@@ -486,7 +486,7 @@
   <string name="new_britem_other">Іншае</string>
   <string name="new_britem_pic">Выявы</string>
   <string name="new_britem_video">Відэа</string>
-  <string name="new_confirm_enable_encrypt_content">Сістэма звязвае зашыфраваныя рэзервовыя копіі з вашым Xiaomi акаўнтам. Вы павінны ўвайсці ў свой акаўнт, каб аднавіць элементы з такіх рэзервовых копій.</string>
+  <string name="new_confirm_enable_encrypt_content">Зашыфраваныя рэзервовыя копіі звязаныя з вашым акаўнтам Xiaomi. Вам неабходна ўвайсці ў свой акаўнт Xiaomi, каб аднавіць элементы з такіх рэзервовых копій.</string>
   <string name="new_confirm_enable_encrypt_title">Шыфраваць</string>
   <string name="new_local_button_backup">Рэзервовае капіяванне</string>
   <string name="new_local_button_restore">Аднаўленне</string>
@@ -526,7 +526,7 @@
   <string name="new_tab_pc_backup">Рэзервовае капіяванне</string>
   <string name="new_tab_pc_restore">Аднаўленне</string>
   <string name="new_task_finished">Гатова</string>
-  <string name="new_usb_detail_description">Заўвага:\n%1$d. Гэты метад дазваляе ствараць рэзервовыя копіі ўсталяваных праграм і iх дадзеных.\n%2$d. Пераканайцеся, што на USB-назапашвальніку досыць месцы для захоўвання рэзервовых копій.</string>
+  <string name="new_usb_detail_description">Заўвага:\n%1$d. Рэзервовае капіяванне змесціва на USB-назапашвальнік.\n%2$d. Перш чым пачаць, пераканайцеся, што на USB-назапашвальніку дастаткова месца.</string>
   <string name="new_usb_disconnect_dialog_message">Спачатку падлучыце USB-назапашвальнік.</string>
   <string name="new_usb_disconnect_dialog_title">Не атрымалася знайсці USB-назапашвальнік</string>
   <string name="new_usb_select_data_no_space">Толькі %s сховішчы даступна на вашым USB-назапашвальніку. Вызваліце ​​месца для захоўвання.</string>

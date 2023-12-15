@@ -1098,4 +1098,6 @@
   <string name="view_mode_grid">Сетка</string>
   <string name="view_mode_list">Спіс</string>
   <string name="view_type_mode">Макет</string>
+  <string name="decompress_fail_contains_special_characters">Немагчыма сціснуць. Імёны сціснутых файлаў не могуць змяшчаць спецыяльныя сімвалы.</string>
+  <string name="operation_delete_confirm_dcim_message_folder">DCIM - гэта тэчка Галерэі. Калі вы выдаліце гэтую тэчку, усе элементы ў ёй таксама будуць беззваротна выдалены з Галерэі. Усё роўна выдаліць гэтую тэчку?</string>
 </resources>

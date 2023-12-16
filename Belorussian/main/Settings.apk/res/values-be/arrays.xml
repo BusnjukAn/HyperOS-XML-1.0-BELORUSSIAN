@@ -1253,4 +1253,12 @@
        <item>Усе карты</item>
        <item>Карты, якія распазнаюцца сістэмай</item>
     </string-array>
+    <string-array name="default_vol_stream_entries">
+     <item>Выклiк</item>
+     <item>Мультымедыя</item>
+   </string-array>
+   <string-array name="status_bar_settings_qs_layout_entries">
+     <item>Па змаўчанні</item>
+     <item>Кампактны</item>
+   </string-array>
 </resources>

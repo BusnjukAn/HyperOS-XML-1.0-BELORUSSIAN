@@ -831,7 +831,7 @@
   <string name="pa_pad_setting_privacy_logout_summary">Адмяніць паслугі віджэтаў працоўнага стала</string>
   <string name="pa_pad_setting_privacy_revoke_cta_summary">Адклікаць сваю згоду з Палітыкай канфідэнцыйнасці віджэтаў працоўнага стала</string>
   <string name="pa_picker_empty">У гэтай версіі праграмы віджэты недаступныя.\nЗаставайцеся з намі!</string>
-  <string name="pa_picker_list_recommend">Рэкамендуемае</string>
+  <string name="pa_picker_list_recommend">Рэкамендаваныя</string>
   <string name="pa_shopping_dialog_privacy_authorize_message">Сардэчна запрашаем у віджэт \"Гандлёвыя прапановы\", дзе вы можаце праглядаць прапановы тавараў. Калі ласка, прачытайце і пагадзіцеся з нашым «Заявай аб паслугах» і «Палітыкай прыватнасці».</string>
   <string name="pa_shopping_dialog_privacy_authorize_title">Умовы і прыватнасць</string>
   <string name="pa_shopping_dialog_privacy_desc">Палітыка прыватнасці</string>

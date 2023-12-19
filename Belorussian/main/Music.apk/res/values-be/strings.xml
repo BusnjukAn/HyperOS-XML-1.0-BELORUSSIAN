@@ -1896,5 +1896,24 @@
   <string name="hide_reason_size">Больш за %1$s</string>
   <string name="hide_songs_title">Схаваныя песні</string>
   <string name="ad_flag_text">Рэклама</string>
-  <string name="youtube_tab_trend">Папулярнае</string>
+  <string name="youtube_tab_trend">У трэндзе</string>
+  <string name="app_notify_dialog_btn_desc">Налады</string>
+  <string name="app_notify_dialog_check_desc">Уключыце віджэт Панэлі апавяшчэнняў, але не дазваляйце пастаянныя апавяшчэнні</string>
+  <string name="app_notify_dialog_path">Налады &gt; Апавяшчэнні і панэль стану &gt; Апавяшчэнні праграм &gt; Музыка</string>
+  <string name="app_notify_dialog_path_8">Налады &gt; Апавяшчэнні і панэль стану &gt; Апавяшчэнні праграм &gt; Музыка</string>
+  <string name="app_notify_dialog_path_10">Налады &gt; Апавяшчэнні і панэль стану &gt; Апавяшчэнні праграм &gt; Музыка</string>
+  <string name="app_notify_dialog_subtitle">Уключыце апавяшчэння для Mi Музыкі, каб кіраваць прайграваннем музыкі ў Панэлі апавяшчэнняў.</string>
+  <string name="app_notify_dialog_title">Патрабуюцца дазволы</string>
+  <string name="app_resident_push_switch">Дазволіць пастаянныя апавяшчэнні</string>
+  <string name="google_download_music">Спампаваць %1$s з дапамогай Google</string>
+  <string name="hgm_has_offline">Немагчыма прайграць музыку, прадастаўленую hungama</string>
+  <string name="hot_recommend">Папулярна зараз</string>
+  <string name="joox_category_unvip">Бясплатны VIP</string>
+  <string name="youtube_delete_dialog_cancel">Адмена</string>
+  <string name="youtube_delete_dialog_desc">Выдаліць гэтую песню з абранага зараз?</string>
+  <string name="youtube_delete_dialog_ok">Выдаліць</string>
+  <string name="youtube_delete_dialog_title">Выдаліць з абранага</string>
+  <string name="youtube_store_dialog_desc">Тут вы можаце знайсці анлайн-відэа, якія вы дадалі ў абранае. Калі відэа ўжо загружалася раней, вам не трэба будзе выкарыстоўваць мабільны інтэрнэт, каб паглядзець яго зноў у наступны раз.</string>
+  <string name="youtube_store_dialog_ok">Зразумела</string>
+  <string name="youtube_tab_popular">Папулярнае</string>
 </resources>

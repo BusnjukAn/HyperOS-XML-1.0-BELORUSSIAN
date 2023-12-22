@@ -473,4 +473,6 @@
   <string name="app_disable_title_text">Адключыць праграму</string>
   <string name="satellite_state_auto_exit">Выхад (%d сек.)</string>
   <string name="satellite_state_retry">Працягваць спрабаваць</string>
+  <string name="calibrate_rotate_again">Паўтарыце спробу</string>
+  <string name="calibrate_rotate_tip">Рэзка нахіліце прыладу, каб шарык круціўся па крузе</string>
 </resources>

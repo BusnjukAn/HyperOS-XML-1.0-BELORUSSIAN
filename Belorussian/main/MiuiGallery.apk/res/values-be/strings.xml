@@ -3849,4 +3849,24 @@
   <string name="ai_free_creation_text_container_tips">Наш генератар выяў ШІ пастаянна ўдасканальваецца. Калі вы не задаволены вынікамі, вы заўсёды можаце паспрабаваць яшчэ раз крыху пазней!</string>
   <string name="album_scanner_china">Сканар</string>
   <string name="burst_photo_preview_thumbnail_content_description">Фота %d</string>
+  <string name="ai_continue_upload_photo">Працягнуць</string>
+  <string name="ai_create_image_fail_by_illegal_photo">"Падобна на тое, што загружаныя вамі фатаграфіі парушаюць стандарты нашай супольнасці.
+Паспрабуйце стварыць ШІ-выяву з розных фатаграфій."</string>
+  <string name="ai_create_image_fail_by_net">Не атрымалася стварыць выяву ШІ. Нашы сэрверы зараз занадта занятыя. Паспрабуйце яшчэ раз.</string>
+  <string name="ai_cta_agree_btn">Дазволіць</string>
+  <string name="ai_cta_dialog_message">Дазвольце Галерэі падлучацца да Інтэрнэту, каб мець магчымасць ствараць партрэты з дапамогай ШІ.</string>
+  <string name="ai_cta_dialog_title">Патрабуюцца дазволы</string>
+  <string name="ai_cta_refuse_btn">Не, дзякуй</string>
+  <string name="ai_download_filter_photo_so_confirm_btn">Спампаваць</string>
+  <string name="ai_download_filter_photo_so_downloading">Загрузка плагіна…</string>
+  <string name="ai_download_filter_photo_so_message">Каб мець магчымасць выкарыстоўваць усе функцыі ШІ-партрэта, спачатку спампуйце плагін.</string>
+  <string name="ai_download_filter_photo_so_title">Спампаваць плагін</string>
+  <string name="ai_download_filter_so_fail_toast">Не атрымалася спампаваць плагін. Паспрабуйце яшчэ раз.</string>
+  <string name="ai_free_creation_illegal_text_toast">Гэты тэкст парушае стандарты нашай супольнасці. Перапішыце сваё паведамленне.</string>
+  <string name="ai_photos_upload_fail_tip">%s фота яшчэ не загружаныя. Вы можаце працягваць загрузку фатаграфій.</string>
+  <string name="ai_recreate_image_cancel_text_btn">Працягнуць</string>
+  <string name="ai_recreate_image_confirm_text_btn">Выбраць</string>
+  <string name="ai_recreate_image_dialog_msg">Вы можаце працягнуць загрузку фатаграфій або выбраць новыя.</string>
+  <string name="ai_recreate_image_dialog_title">%s фота не былі загружаныя</string>
+  <string name="ai_select_photo_no_result_toast">Немагчыма стварыць ШІ-выяву на аснове гэтых фатаграфій. Замест гэтага абярыце іншыя фатаграфіі.</string>
 </resources>

@@ -751,4 +751,11 @@
   <string name="media_storage_devices">Прылады захоўвання мультымедыя</string>
   <string name="media_storage_introduction">Гэтая служба дазваляе праграмам атрымліваць доступ да фота, відэа, аўдыё і файлаў і захоўваць іх.</string>
   <string name="permission_media_storage_summary">Для праверкі таго, як праграмы выкарыстоўваюць дазволы, звязаныя з прыватнасцю, пры доступе да файлаў</string>
+  <string name="aquire_device_info">Доступ да інфармацыі аб прыладзе</string>
+  <string name="permission_application_scope_description">Мы выкарыстоўваем гэтыя дазволы толькі пры праверцы бяспекі і не будзем выкарыстоўваць іх для якіх-небудзь іншых мэт.</string>
+  <string name="read_application_info">Доступ да інфармацыі аб праграме</string>
+  <string name="safe_open_service">Бяспечныя адкрытыя сэрвісы</string>
+  <string name="safe_open_service_introduction">Бяспечныя адкрытыя сэрвісы дапамагаюць распрацоўшчыкам і даюць магчымасці бяспекі на ўзроўні сістэмы для абароны карыстальнікаў і іх прыватнасці.</string>
+  <string name="verify_application_security">Для праверкі бяспекі праграмы</string>
+  <string name="verify_device_security">Для праверкі бяспекі прылады</string>
 </resources>

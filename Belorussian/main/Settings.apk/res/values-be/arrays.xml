@@ -1261,4 +1261,16 @@
      <item>Па змаўчанні</item>
      <item>Кампактны</item>
    </string-array>
+   <string-array name="select_gpo_version_summaries">
+        <item>Адкл.</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="select_gpo_version_titles">
+        <item>Адкл.</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
 </resources>

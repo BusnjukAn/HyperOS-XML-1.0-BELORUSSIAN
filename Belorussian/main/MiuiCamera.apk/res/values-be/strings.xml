@@ -3016,4 +3016,8 @@
   <string name="mimoji_yellow_dog_accessibility">Здымак галавы сабакі</string>
   <string name="mimoji_yellowhat_accessibility">Здымак галавы жанчыны ў жоўтым капелюшы</string>
   <string name="mimoji_yellowhat_human_accessibility">Здымак жанчыны ў жоўтым капелюшы ў поўны рост</string>
+  <string name="cine_image_modify_layout_content_description">Пераключыць макет</string>
+  <string name="cine_screen_prompt">Выключыць экран праз %d хв.</string>
+  <string name="connect_view_sub_title_new2" formatted="false">Налада мультыкамеры выкарыстоўвае вялікую прапускную здольнасць для памяншэння затрымкі. Мы рэкамендуем падлучацца да сетак Wi-Fi %1s Ггц, якія падтрымліваюць стандарт шостага пакалення. 4K %2s FPS не падтрымліваецца.</string>
+  <string name="track_focus_mutex_truecolor_setting_tips_new">Сачыльны аўтафокус не падтрымліваецца для відэа Dolby Vision/8K/відэа з высокай частатой кадраў</string>
 </resources>

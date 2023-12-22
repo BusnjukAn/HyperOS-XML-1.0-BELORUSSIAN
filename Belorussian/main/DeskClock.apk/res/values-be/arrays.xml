@@ -16,13 +16,13 @@
         <item>Працоўныя дні</item>
         <item>Выхадныя дні</item>
         <item>З ПН па ПТ</item>
-        <item>Свая</item>
+        <item>Абраць дні</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Аднаразова</item>
         <item>Штодня</item>
         <item>З ПН па ПТ</item>
-        <item>Усталяваць сваю</item>
+        <item>Абраць дні</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Спрацуе менш чым праз хвіліну.</item>
@@ -32,7 +32,7 @@
         <item>Спрацуе праз %3$s.</item>
         <item>Спрацуе праз %1$s і %3$s.</item>
         <item>Спрацуе праз %2$s і %3$s.</item>
-        <item>БСпрацуе праз %1$s %2$s і %3$s.</item>
+        <item>Спрацуе праз %1$s %2$s і %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Добры</item>

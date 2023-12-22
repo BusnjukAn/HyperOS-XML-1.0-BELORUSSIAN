@@ -208,7 +208,7 @@
   <string name="call_recording_notification_title_error">Не атрымалася запісаць выклік</string>
   <string name="call_recording_notification_toggle_title">Апавяшчаць пра запіс выкліку</string>
   <string name="call_recording_setting">Запіс выклікаў</string>
-  <string name="call_settings">Налады выклікаў</string>
+  <string name="call_settings">Тэлефон</string>
   <string name="call_settings_admin_user_only">Налады выклікаў можа змяніць толькі адміністратар.</string>
   <string name="call_settings_primary_user_only">Налады выклікаў можа змяніць толькі асноўны карыстальнік.</string>
   <string name="call_settings_with_label">Налады (%s)</string>

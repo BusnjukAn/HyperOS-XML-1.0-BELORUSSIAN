@@ -106,10 +106,10 @@
   <string name="cognition_permission_content_no">Яшчэ не</string>
   <string name="cognition_permission_content_phone_state">"Чытанне стану тэлефона: калі вы карыстаецеся такімі службамі, як выразанне смарт-карты NFC, вы можаце атрымаць інфармацыю аб стане тэлефона, уключыўшы дазвол на чытанне стану тэлефона. "</string>
   <string name="cognition_permission_content_set">Каб уключыць</string>
-  <string name="cognition_permission_content_top">Гэты сэрвіс прадастаўляецца механізмам Mi ШI і запытвае ў вас наступныя дазволы. Мы будзем строга выконваць адпаведныя законы для абароны вашай асабістай інфармацыі:</string>
+  <string name="cognition_permission_content_top">Гэты сэрвіс прадастаўляецца механізмам Mi ШI і запытвае ў вас наступныя дазволы. Мы будзем строга выконваць адпаведныя законы для абароны вашай асабістай інфармацыі: </string>
   <string name="cognition_permission_declaration">Падрабязнасці дазволаў</string>
-  <string name="cognition_permission_guidance_message">Каб Гіперрозум Xiaomi прадастаўляў вам больш дакладныя паслугі, перайдзіце на старонку кіравання дазволамі, каб уключыць %s</string>
-  <string name="cognition_permission_guidance_title">Дазволіць звязаныя з \"Гіперрозум Xiaomi\" дазволы</string>
+  <string name="cognition_permission_guidance_message">%s можа нармальна выкарыстоўваць функцыю, толькі калі яна заўсёды дазволена</string>
+  <string name="cognition_permission_guidance_title">Уключыце адпаведныя дазволы</string>
   <string name="cognition_permission_location">Інфармацыя пра месцазнаходжанне</string>
   <string name="cognition_permission_location_msg">Для доступу да вашага бягучага месцазнаходжання</string>
   <string name="cognition_permission_related">Дазволы</string>
@@ -680,4 +680,7 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="cognition_permission_location_name">Дазвол на дакладнае месцазнаходжанне</string>
+  <string name="cognition_permission_nearby_device_name">Дазвол на пошук прылады паблізу</string>
+  <string name="cognition_permission_phone_state_name">Дазвол на інфармацыю, звязаную з тэлефонам</string>
 </resources>

@@ -504,7 +504,6 @@
   <string name="ccc_temperature_warning_msg">Ваша прылада перагрэлась. Камера будзе зачынена праз %d секунд(-ы). Вашы фота або відэа будуць захаваны аўтаматычна.</string>
   <string name="ccc_temperature_warning_title">Прылада перагрэлася</string>
   <string name="center_mark">Пазнака цэнтра</string>
-  <string name="cine_image_modify_layout_content_description">змяніць макет</string>
   <string name="cinemaster_cancel">Адмена</string>
   <string name="cinemaster_confirm">Выйсці</string>
   <string name="cinemaster_connect_exit_message">Выйсці з налады мультыкамеры прама зараз?</string>

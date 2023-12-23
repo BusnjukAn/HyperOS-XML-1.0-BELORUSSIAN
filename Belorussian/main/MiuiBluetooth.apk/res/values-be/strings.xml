@@ -501,8 +501,8 @@
   <string name="bt_plugin_update_loading_dialog">Пачакайце…</string>
   <string name="bt_plugin_is_update_loading_dialog">Абнаўленне…</string>
   <string name="bt_plugin_update_failed_toast">Адбылася памылка. Не ўдалося загрузіць.</string>
-  <string name="lea_disable_successfully">Звычайны Bluetooth зараз выкарыстоўваецца для падлучэння навушнікаў і перадачы гуку</string>
-  <string name="lea_enable_successfully">LE Audio зараз выкарыстоўваецца для падлучэння навушнікаў і перадачы гуку</string>
+  <string name="lea_disable_successfully">Пераключана на звычайны Bluetooth</string>
+  <string name="lea_enable_successfully">Пераключана на Bluetooth LE Audio</string>
   <string name="tv_calibration_doing">Каліброўка…</string>
   <string name="tv_calibration_doing_text">Трымайце тэлефон заднім бокам да сярэдзіны экрана тэлевізара</string>
   <string name="tv_calibration_done">Каліброўка завершана</string>
@@ -512,9 +512,9 @@
   <string name="tv_calibration_start">Размясціце заднюю камеру тэлефона шчыльна да цэнтра экрана</string>
   <string name="tv_calibration_start_button">Пачаць</string>
   <string name="information_go_to_fitness">Вы можаце знайсці адпаведныя налады ў Mi Здароўе</string>
-  <string name="bluetooth_le_audio_profile_summary_connected">Падлучана да LE_AUDIO</string>
-  <string name="bluetooth_le_audio_profile_summary_use_for">Выкарыстоўваць для LE_AUDIO</string>
-  <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Падлучана да LE AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Выкарыстоўваць для LE AUDIO</string>
+  <string name="bluetooth_profile_le_audio">LE AUDIO</string>
   <string name="easy_tether_auto_connect_close">Выкл.</string>
   <string name="easy_tether_auto_connect_open">Укл.</string>
   <string name="easy_tether_auto_connect_summary">Аўтаматычна ўключаць мабільны пункт доступу і падлучацца, калі бліжэйшым прыладам з такім жа акаўнтам патрабуецца доступ да інтэрнэту.</string>
@@ -525,7 +525,7 @@
   <string name="easy_tether_connect_method_dialog">Адкрываецца ўсплывальнае акно</string>
   <string name="easy_tether_connect_method_manually">Злучэнне са спісам Wi-Fi</string>
   <string name="easy_tether_device_type_pad">Планшэт</string>
-  <string name="easy_tether_device_type_pc">Камп\'ютар</string>
+  <string name="easy_tether_device_type_pc">Кампутар</string>
   <string name="easy_tether_device_type_phone">Тэлефон</string>
   <string name="easy_tether_device_type_sound">Дынамік</string>
   <string name="easy_tether_device_type_tv">Тэлевізар</string>

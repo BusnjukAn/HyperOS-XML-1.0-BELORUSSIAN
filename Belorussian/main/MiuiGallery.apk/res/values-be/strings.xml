@@ -3869,4 +3869,6 @@
   <string name="ai_recreate_image_dialog_msg">Вы можаце працягнуць загрузку фатаграфій або выбраць новыя.</string>
   <string name="ai_recreate_image_dialog_title">%s фота не былі загружаныя</string>
   <string name="ai_select_photo_no_result_toast">Немагчыма стварыць ШІ-выяву на аснове гэтых фатаграфій. Замест гэтага абярыце іншыя фатаграфіі.</string>
+  <string name="media_type_cinematic">Рэжым фільма</string>
+  <string name="send_special_video_duration_more_than_40s">Апрацаваныя відэа працягласцю больш за %d хв. можна перадаваць толькі ў зыходным фармаце, які можа быць несумяшчальны з прымаючай прыладай. Усё роўна працягнуць?</string>
 </resources>

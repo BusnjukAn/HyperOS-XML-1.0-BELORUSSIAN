@@ -1194,4 +1194,35 @@
   <string name="head_toast_fail">Не ўдалося падлучыцца</string>
   <string name="head_toast_success">Паспяхова падлучана</string>
   <string name="sever_stream_push_state_idle2">Папярэдні прагляд выключаны</string>
+  <string name="copy_toast_msg">Спасылка скапіявана ў буфер абмену</string>
+  <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
+  <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
+  <string name="hm_always">Запомніць</string>
+  <string name="hm_conflict_title">Прыпынены шаблон: %1$s</string>
+  <string name="hm_conflict_toast">У вас канфліктуючы сцэнар разумнай хаты ці аўтаматызацыі. Спачатку адрэдагуйце яго ў праграме.</string>
+  <string name="hm_go_to_help">Даведка</string>
+  <string name="hm_go_to_login">Увайсці</string>
+  <string name="hm_go_to_open_setting">Уключыць</string>
+  <string name="hm_habit_info_describe">"Дазвольце прыладам адаптавацца да вашых патрэбаў
+даведаўшыся, як вы іх карыстаецеся"</string>
+  <string name="hm_habit_info_empty_describe">"Працягвайце выкарыстоўваць свае прылады
+каб Xiaomi Гіперразум мог вывучаць і ўдасканальваць шаблоны"</string>
+  <string name="hm_habit_info_list_empty">Шаблоны навучання…</string>
+  <string name="hm_help">Даведка</string>
+  <string name="hm_knew">Зразумела</string>
+  <string name="hm_pause_habit">Паўза</string>
+  <string name="hm_please_login_mi_account">Увайдзіце ў свой акаўнт Xiaomi, каб пачаць працу</string>
+  <string name="hm_remember">Запомніць</string>
+  <string name="hm_resume_habit">Працягнуць</string>
+  <string name="hm_setup">Налады</string>
+  <string name="hm_time_has_paused">Прыпынена</string>
+  <string name="hm_time_just_remembered">Даведаўся толькі што</string>
+  <string name="hm_time_long_ago">Даўно</string>
+  <string name="hm_time_not_executed">Пакуль не выкарыстоўваецца</string>
+  <string name="hm_time_recent_week">На гэтым тыдні</string>
+  <string name="hm_time_today">Сёння</string>
+  <string name="hm_time_yesterday">Учора</string>
+  <string name="hm_toast_log_in">Спачатку ўвайдзіце ў свой акаўнт Xiaomi</string>
+  <string name="try_multipurpose_equipment">Працягвайце выкарыстоўваць прылады, каб адаптаваць іх да сваіх патрэбаў</string>
 </resources>

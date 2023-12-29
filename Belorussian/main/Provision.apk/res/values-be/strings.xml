@@ -758,4 +758,7 @@
   <string name="safe_open_service_introduction">Бяспечныя адкрытыя сэрвісы дапамагаюць распрацоўшчыкам і даюць магчымасці бяспекі на ўзроўні сістэмы для абароны карыстальнікаў і іх прыватнасці.</string>
   <string name="verify_application_security">Для праверкі бяспекі праграмы</string>
   <string name="verify_device_security">Для праверкі бяспекі прылады</string>
+  <string name="interconnection_service_global_item_title">Узаемазвязанасць Xiaomi</string>
+  <string name="interconnection_service_global_label">"&lt;Data>Узаемазвязанасць Xiaomi дазваляе вашым прыладам узаемадзейнічаць адзін з адным па бесправадной сетцы. Улучыўшы гэты перамыкач, вы згаджаецеся з &lt;a href=%1$s>Палітыкай прыватнасцi Узаемазвязанасцi Xiaomi&lt;/a>.&lt;/Data>"</string>
+  <string name="interconnection_service_summary_global">Функцыі Узаемазвязанасцi Xiaomi могуць адрознівацца ў залежнасці ад мадэлі прылады і версіі сістэмы. Каб даведацца больш, наведайце афіцыйны сайт сістэмы.</string>
 </resources>

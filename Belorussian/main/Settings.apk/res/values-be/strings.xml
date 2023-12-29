@@ -10858,4 +10858,14 @@
   <string name="wifi_stx_logs_enabled">Часопісы Wi-Fi STx уключаныя</string>
   <string name="gaze_lock_screen_summary">Прылада застанецца разблакаванай пры выяўленні вашай прысутнасці і заблакуецца, калі вы адыдзеце ад экрана</string>
   <string name="gaze_lock_screen_title">Выяўленне прысутнасці</string>
+  <string name="camera_grip_firmware_need_update">Абнаўленне</string>
+  <string name="camera_grip_firmware_new_version">Абноўлена</string>
+  <string name="camera_grip_firmware_title_text">Абнавіць прашыўку</string>
+  <string name="camera_grip_firmware_update_faild">Немагчыма абнавіць</string>
+  <string name="camera_grip_firmware_update_ongoing">Абнаўленне…</string>
+  <string name="camera_grip_firmware_update_successful">Абноўлена паспяхова</string>
+  <string name="photography_handle_charge_protected">Аўтаадключэнне зарадкі ручкі</string>
+  <string name="photography_handle_charge_protected_summary">Калі ваша прылада распазнае, што вы выкарыстоўваеце ручку камеры, прылада спыніць зарадку і будзе падтрымліваць зарад батарэі на ўзроўні %1$s</string>
+  <string name="private_dns_host_name">Імя хаста DNS-правайдэра</string>
+  <string name="private_dns_title">Прыватны DNS</string>
 </resources>

@@ -150,4 +150,9 @@
         <item quantity="few">%d м.</item>
         <item quantity="many">%d м.</item>
     </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">Запомнена %1$d шаблонаў</item>
+        <item quantity="one">Запомнены %1$d шаблон</item>
+        <item quantity="few">Запомнена %1$d шаблона</item>
+    </plurals>
 </resources>

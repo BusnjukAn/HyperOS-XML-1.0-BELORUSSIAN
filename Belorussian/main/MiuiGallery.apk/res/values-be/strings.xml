@@ -447,7 +447,7 @@
   <string name="confirm_not_face">Няма супадзенняў</string>
   <string name="confirm_recommandation_face_is">Упэўнены, што гэта %1$s? Гэта фота будзе перамешчана ў альбом \"%2$s\".</string>
   <string name="confirm_recommandation_face_not">Упэўнены, што гэта не %1$s?</string>
-  <string name="confirm_recommandation_multiple_faces_are">Упэўнены, што гэта %1$s? Гэта фота будзе перамешчана ў альбом \"%2$s\".</string>
+  <string name="confirm_recommandation_multiple_faces_are">Упэўнены, што гэта %1$s? Гэтыя фота будуць перамешчаны ў альбом \"%2$s\".</string>
   <string name="confirm_recommandation_multiple_faces_not">Упэўнены, што гэта не %1$s?</string>
   <string name="contact_tip">Кантакт</string>
   <string name="context_menu_add_contact">Дадаць да кантакту</string>

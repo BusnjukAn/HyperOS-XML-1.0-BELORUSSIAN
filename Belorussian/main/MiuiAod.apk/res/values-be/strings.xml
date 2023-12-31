@@ -191,7 +191,7 @@
   <string name="format_month_day_desc">%2$s.%1$s</string>
   <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, дата паводле традыцыйнага кітайскага календара: %3$s, свята: %4$s</string>
   <string name="format_month_day_style1">dd MMMM</string>
-  <string name="format_month_day_style2">dd MMMM</string>
+  <string name="format_month_day_style2">dd.MM</string>
   <string name="format_month_day_week">dd MMMM, EEEE</string>
   <string name="format_month_day_week_desc">%3$s, %2$s %1$s</string>
   <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, дата паводле традыцыйнага кітайскага календара: %4$s</string>

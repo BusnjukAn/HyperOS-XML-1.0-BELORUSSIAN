@@ -59,8 +59,8 @@
   <string name="activate_popup_confirm_failed_receive_sms">Паспрабаваць зноў</string>
   <string name="activate_popup_confirm_failed_send_sms">Адправіць зноў</string>
   <string name="activate_popup_confirm_failed_server">Паспрабаваць зноў</string>
-  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Каб актываваць %2$s, будзе адпраўлена &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>міжнароднае платнае SMS&lt;/b>. Ваш аператар сувязі будзе спаганяць плату за гэтае паведамленне.</string>
-  <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Каб актываваць %2$s, будзе адпраўлена &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платнае SMS&lt;/b>. Ваш аператар сувязі будзе спаганяць плату за гэтае паведамленне.</string>
+  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Каб актываваць %2$s, будзе адпраўлена &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>міжнародных платных SMS&lt;/b>. Ваш аператар сувязі будзе спаганяць плату за гэтыя паведамленнi.</string>
+  <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Каб актываваць %2$s, будзе адпраўлена &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платных SMS&lt;/b>. Ваш аператар сувязі будзе спаганяць плату за гэтыя паведамленнi.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">Не ўдаецца знайсці ваш тэлефонны нумар. Пераканайцеся, што ваша SIM-карта актываваная.\nУвядзіце нумар тэлефона новай SIM-карты для паўторнай актывацыі %s.</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">Не ўдалося адправіць SMS для актывацыі. Пераканайцеся, што ваша SIM-карта актываваная.\nУвядзіце нумар тэлефона новай SIM-карты для паўторнай актывацыі %s.</string>
   <string name="activate_popup_desc_error_device">Несапраўдны IMEI. Націсніце, каб паўтарыць спробу.</string>

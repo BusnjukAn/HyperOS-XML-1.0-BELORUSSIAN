@@ -1917,6 +1917,6 @@
   <string name="youtube_store_dialog_ok">Зразумела</string>
   <string name="youtube_tab_popular">Папулярнае</string>
   <string name="app_third_privacy">Палітыкі прыватнасці трэціх асоб</string>
-  <string name="local_ad_title">Акцыя</string>
-  <string name="today_hot_playlist">Лепшы спіс прайгравання сёння</string>
+  <string name="local_ad_title">Прапанова</string>
+  <string name="today_hot_playlist">Лепшы плэйліст на сёння</string>
 </resources>

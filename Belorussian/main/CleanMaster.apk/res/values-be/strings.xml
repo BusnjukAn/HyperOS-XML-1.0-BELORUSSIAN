@@ -522,7 +522,7 @@
   <string name="junk_tag_RF_DemoVideo_Samsung">Дэма відэа Samsung</string>
   <string name="junk_tag_RF_DemoVideo_Sony">Дэма відэа Sony</string>
   <string name="junk_tag_RF_EmptyFolders">Пустыя тэчкі</string>
-  <string name="junk_tag_RF_ImageThumbnails">Эскізы галерэі</string>
+  <string name="junk_tag_RF_ImageThumbnails">Эскізы Галерэі</string>
   <string name="junk_tag_RF_LibsDirFiles">Смецце</string>
   <string name="junk_tag_RF_LogFiles">Логі</string>
   <string name="junk_tag_RF_LostDirFiles">Сістэмнае смецце</string>

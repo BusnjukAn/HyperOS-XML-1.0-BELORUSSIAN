@@ -233,10 +233,10 @@
   <string name="midnight">Ноч</string>
   <string name="mirror_call_closed">На гэты выклік адказалі з іншай прылады</string>
   <string name="mirror_have_been_opened">Працоўны стол+ уключаны</string>
-  <string name="mirror_to_settings_connectivity_remote_pad_content">Вы можаце уключыць службы міжсеткавага узаемадзеяння у наладах «Узаемадзеяння».</string>
-  <string name="mirror_to_settings_connectivity_remote_pad_title">Уключыць службы міжсеткавага узаемадзеяння на планшэце</string>
-  <string name="mirror_to_settings_connectivity_remote_pc_content">Вы можаце уключыць службы міжсеткавага узаемадзеяння у наладах «Узаемадзеяння».</string>
-  <string name="mirror_to_settings_connectivity_remote_pc_title">Уключыць службы міжсеткавага узаемадзеяння на кампутары</string>
+  <string name="mirror_to_settings_connectivity_remote_pad_content">Вы можаце ўключыць функцыю Узаемазвязанасць Xiaomi на планшэце ў раздзеле «Налады» > «Узаемазвязанасць».</string>
+  <string name="mirror_to_settings_connectivity_remote_pad_title">Узаемазвязанасць Xiaomi выключаная</string>
+  <string name="mirror_to_settings_connectivity_remote_pc_content">Вы можаце ўключыць функцыю Узаемазвязанасць Xiaomi на сваім кампутары ў меню «Налады» > «Узаемазвязанасць».</string>
+  <string name="mirror_to_settings_connectivity_remote_pc_title">Узаемазвязанасць Xiaomi выключаная</string>
   <string name="mirror_to_settings_phone_content">Уключыць Працоўны стол+ зараз?</string>
   <string name="mirror_to_settings_remote_pad_content">Вы можаце уключыць «Працоўны стол+» у наладах «Узаемадзеяння».</string>
   <string name="mirror_to_settings_remote_pad_title">Уключыць Працоўны стол+ на планшэце</string>
@@ -350,7 +350,7 @@
   <string name="notification_channel_name_download">Паказваць прагрэс загрузкі</string>
   <string name="notification_mirror">Іншы чалавек транслюе свой экран. Паўтарыце спробу пазней.</string>
   <string name="notification_state_cancel">Адключыць</string>
-  <string name="notification_state_content">Гэтая прылада падлучана да кампутара %1$s. Цяпер вы можаце абменьвацца прыладамі ўводу, файламі і выявамі.</string>
+  <string name="notification_state_content">Гэтая прылада падлучана да кампутара %1$s. Цяпер вы можаце абменьвацца файламі і выявамі, а таксама выкарыстоўваць элементы кіравання прыладамі.</string>
   <string name="notification_state_title">Падлучана паспяхова</string>
   <string name="notify_clip_action_browser">Наведаць</string>
   <string name="notify_clip_action_call">Патэлефанаваць</string>
@@ -376,7 +376,7 @@
   <string name="pad_pc_mirror_introduction_summary">Адлюструйце экран кампутара на планшэце</string>
   <string name="pad_pc_mirror_introduction_title">Люстэркавы экран</string>
   <string name="pad_pc_share_introduction_summary">Выкарыстоўваць мыш і клавіятуру кампутара з гэтым планшэтам</string>
-  <string name="pad_pc_share_introduction_title">Прылады ўводу</string>
+  <string name="pad_pc_share_introduction_title">Кіраванне прыладамі</string>
   <string name="pad_settings_bluetooth_enable_summary">Уключыце Bluetooth, каб мець магчымасць знаходзіць прылады паблізу. Уключыць?</string>
   <string name="pad_settings_bluetooth_enable_title">Уключыце Bluetooth</string>
   <string name="pad_settings_click_toast_msg">Падлучыцеся з дапамогай Xiaomi PC Manager на вашым кампутары</string>
@@ -549,8 +549,8 @@
   <string name="share_pc_folder_multi_error_dialog_ok">Зразумела</string>
   <string name="share_pc_folder_multi_error_dialog_title">Немагчыма перадаць усе элементы</string>
   <string name="share_stop_share_to_start_screen">Спыніце трансляцыю, каб мець магчымасць падзяліцца сваім экранам</string>
-  <string name="share_to_settings_phone_content">Уключыць службы міжсеткавага узаемадзеяння зараз?</string>
-  <string name="share_to_settings_title">Уключэнне службы міжсеткавага узаемадзеяння</string>
+  <string name="share_to_settings_phone_content">Уключыць Узаемазвязанасць Xiaomi?</string>
+  <string name="share_to_settings_title">Узаемазвязанасць Xiaomi</string>
   <string name="sink_pc_click_again_to_finish_extent">Націсніце яшчэ раз, каб адключыць пашырэнне экрана</string>
   <string name="sink_pc_click_again_to_finish_mirror">Націсніце яшчэ раз, каб спыніць дубляванне экрана</string>
   <string name="size_byte">Б</string>

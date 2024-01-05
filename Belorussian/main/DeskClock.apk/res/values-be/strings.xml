@@ -859,4 +859,6 @@ dd.MM"</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Пераключыцца ў рэжым уводу \"Тэкст\"</string>
   <string name="mtrl_picker_toggle_to_year_selection">Дакраніцеся, каб пераключыцца на выбар года</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
+  <string name="alarm_repeat_self_define">Наладзіць</string>
+  <string name="read_device_internal_storage">Доступ да сховішча</string>
 </resources>

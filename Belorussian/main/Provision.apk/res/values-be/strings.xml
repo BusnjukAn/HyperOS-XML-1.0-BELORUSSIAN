@@ -761,4 +761,9 @@
   <string name="interconnection_service_global_item_title">Узаемазвязанасць Xiaomi</string>
   <string name="interconnection_service_global_label">"&lt;Data>Узаемазвязанасць Xiaomi дазваляе вашым прыладам узаемадзейнічаць адзін з адным па бесправадной сетцы. Улучыўшы гэты перамыкач, вы згаджаецеся з &lt;a href=%1$s>Палітыкай прыватнасцi Узаемазвязанасцi Xiaomi&lt;/a>.&lt;/Data>"</string>
   <string name="interconnection_service_summary_global">Функцыі Узаемазвязанасцi Xiaomi могуць адрознівацца ў залежнасці ад мадэлі прылады і версіі сістэмы. Каб даведацца больш, наведайце афіцыйны сайт сістэмы.</string>
+  <string name="application_extension_service">Службы пашырэння праграм</string>
+  <string name="application_extension_service_introduction">Службы пашырэння праграм забяспечаць вам функцыі ўваходу і праверкі. Для прадастаўлення базавых сэрвісаў гэтай праграме неабходны наступныя дазволы:</string>
+  <string name="permission_not_agree_service_not_working">Калі вы не згодны з вышэйзгаданымі неабходнымі дазволамі, вы не зможаце выкарыстоўваць гэтыя сэрвісы.</string>
+  <string name="permission_sms_verification_code_login">Для прадастаўлення SMS-пацверджання для хуткага ўваходу</string>
+  <string name="read_sms_and_mms">Доступ да SMS і MMS</string>
 </resources>

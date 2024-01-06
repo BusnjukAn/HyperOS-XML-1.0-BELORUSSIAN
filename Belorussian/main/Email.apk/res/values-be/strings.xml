@@ -1861,4 +1861,5 @@
   <string name="save_sign_pdf">Захаваць на прыладзе</string>
   <string name="auto_start_open_prompt">Дазвольце праграме аўтаматычна запускацца, каб яна магла сінхранізаваць вашу электронную пошту. Вы можаце прадаставіць гэты дазвол у наладах.</string>
   <string name="sign_in_dialog_title">Абярыце метад уваходу</string>
+  <string name="notification_mutli_message_content">Націсніце для прагляду</string>
 </resources>

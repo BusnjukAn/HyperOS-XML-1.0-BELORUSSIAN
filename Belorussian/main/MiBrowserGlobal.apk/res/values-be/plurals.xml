@@ -470,4 +470,14 @@
         <item quantity="other">%d новых рэкамендаваных відэа</item>
         <item quantity="one">%d новае рэкамендаванае відэа</item>
     </plurals>
+   <plurals name="mggc_ins_back_seconds_remaining">
+    <item quantity="other">Засталося &lt;font color=#0D84FF>%1$d&lt;/font> сек.</item>
+    <item quantity="one">Засталося &lt;font color=#0D84FF>%1$d&lt;/font> сек.</item>
+  </plurals>
+  <plurals name="web_preload_hint_dialog_title">
+    <item quantity="other">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разоў!</item>
+    <item quantity="one">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d раз!</item>
+    <item quantity="few">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разы!</item>
+    <item quantity="many">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разоў!</item>
+  </plurals>
 </resources>

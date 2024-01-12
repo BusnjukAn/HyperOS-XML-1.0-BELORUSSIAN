@@ -3871,4 +3871,6 @@
   <string name="ai_select_photo_no_result_toast">Немагчыма стварыць ШІ-выяву на аснове гэтых фатаграфій. Замест гэтага абярыце іншыя фатаграфіі.</string>
   <string name="media_type_cinematic">Рэжым фільма</string>
   <string name="send_special_video_duration_more_than_40s">Апрацаваныя відэа працягласцю больш за %d хв. можна перадаваць толькі ў зыходным фармаце, які можа быць несумяшчальны з прымаючай прыладай. Усё роўна працягнуць?</string>
+  <string name="tip_leica_authentic">Leica аўтэнтычны</string>
+  <string name="tip_leica_vibrant">Leica яркі</string>
 </resources>

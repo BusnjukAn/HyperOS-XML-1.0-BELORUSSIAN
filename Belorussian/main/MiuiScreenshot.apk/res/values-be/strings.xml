@@ -51,7 +51,7 @@
   <string name="cta_agree_desc">Дазвольце гэтай праграме падлучацца да Інтэрнэту і падайце абавязковыя дазволы, пералічаныя вышэй.</string>
   <string name="cta_btn_agree">Згодзен</string>
   <string name="cta_btn_disagree">Не згодзен</string>
-  <string name="cta_main_purpose">Сардэчна запрашаем у рэдактар здымкаў экрана! Вы можаце выкарыстоўваць гэту праграму для абрэзкі і рэдагавання здымкаў экрана.</string>
+  <string name="cta_main_purpose">Сардэчна запрашаем у рэдактар здымкаў экрана! Вы можаце выкарыстоўваць гэту праграму для абрэзкі і рэдагавання здымкаў экрана. Каб прадастаўляць неабходныя паслугі, гэтай праграме неабходна падключыцца да Інтэрнэту і атрымаць доступ да аўдыя- і відэафайлаў на вашай прыладзе.</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для захавання здымкаў экрана</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>

@@ -237,8 +237,8 @@
   <string name="accessibility_power_button_ends_call_prerefence_title">\"Сілкаванне\" завяршае выклік</string>
   <string name="accessibility_preference_magnification_summary">Павялічыць маштаб экрана</string>
   <string name="accessibility_quick_settings_tooltip_dismiss">Закрыць</string>
-  <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Дадатковае памяншэнне яркасці дададзена ў хуткія налады. Праводзьце пальцам па экране ўніз, каб уключаць ці выключаць яго ў любы час.</string>
-  <string name="accessibility_reduce_bright_colors_qs_tooltip_content">Вы можаце дадаць дадатковае памяншэнне яркасці і ў хуткія налады, якія адкрываюцца ўверсе экрана</string>
+  <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Цэтлік Дадатковага памяншэння яркасці дададзены ў Панэль кіравання.</string>
+  <string name="accessibility_reduce_bright_colors_qs_tooltip_content">Вы таксама можаце дадаць Дадатковае памяншэнне яркасці ў Панэль кіравання</string>
   <string name="accessibility_ring_vibration_title">Вібрацыя пры выкліку</string>
   <string name="accessibility_screen_magnification_about_title">Пра павелічэнне</string>
   <string name="accessibility_screen_magnification_always_on_summary">Пры адкрыцці іншай праграмы не адключаць павелічэнне, а проста памяншаць памер да нармальнага. Калі трэба зноў павялічыць маштаб, дакраніцеся да экрана двума пальцамі і развядзіце іх.</string>
@@ -2131,7 +2131,7 @@
   <string name="change_security_lock">Іншыя спосабы разблакавання</string>
   <string name="change_storage">Змяніць сховішча</string>
   <string name="change_theme_reboot">Для змены тэмы патрабуецца перазагрузка.</string>
-  <string name="change_wifi_state_app_detail_summary">Дазволіць гэтай праграме ўключаць ці выключаць Wi-Fi, шукаць сеткі Wi-Fi і падлучацца да іх, дадаваць або выдаляць сеткі ці запускаць лакальны пункт доступу</string>
+  <string name="change_wifi_state_app_detail_summary">Дазволіць гэтай праграме ўключаць ці выключаць Wi-Fi, шукаць сеткі Wi-Fi і падлучацца да іх, дадаваць або выдаляць сеткі ці запускаць лакальны пункт доступу.</string>
   <string name="change_wifi_state_app_detail_switch">Дазволіць праграме кіраваць наладамі Wi-Fi</string>
   <string name="change_wifi_state_title">Кіраванне наладамі Wi-Fi</string>
   <string name="channel_group_notifications_off_desc">Па вашым запыце Android блакіруе дадзеную групу апавяшчэнняў на гэтай прыладзе</string>
@@ -7057,13 +7057,13 @@
   <string name="reduce_bright_colors_intensity_end_label">Ярчэй</string>
   <string name="reduce_bright_colors_intensity_preference_title">Інтэнсіўнасць</string>
   <string name="reduce_bright_colors_intensity_start_label">Цямней</string>
-  <string name="reduce_bright_colors_persist_preference_title">Працягнуць пасля перазапуску прылады</string>
+  <string name="reduce_bright_colors_persist_preference_title">Захоўваць пасля перазапуску прылады</string>
   <string name="reduce_bright_colors_preference_intro_text">Паменшыце яркасць экрана, каб вам было зручней чытаць</string>
-  <string name="reduce_bright_colors_preference_subtitle">Зацямніце экран, каб было зручней чытаць.&lt;br/>&lt;br/> Гэта можа быць карысным у наступных выпадках: &lt;ol> &lt;li> узровень стандартнай мінімальнай яркасці на вашым тэлефоне даволі высокі;&lt;/li> &lt;li> вы выкарыстоўваеце тэлефон ва ўмовах цемнаты, напрыклад ноччу ці ў цёмным памяшканні перад адыходам да сну.&lt;/li> &lt;/ol></string>
+  <string name="reduce_bright_colors_preference_subtitle">Паменшыце яркасць экрана, каб вам было зручней чытаць.&lt;br/>&lt;br/> Гэта можа быць карысным у наступных выпадках: &lt;ol> &lt;li> Узровень стандартнай мінімальнай яркасці на вашым тэлефоне даволі высокі;&lt;/li> &lt;li> Вы карыстаецеся тэлефонам у цёмных умовах, напрыклад, ноччу або ў цёмным пакоі перад сном.&lt;/li> &lt;/ol></string>
   <string name="reduce_bright_colors_preference_summary">Зрабіць экран тэлефона цямнейшым, чым пры мінімальным узроўні яркасці</string>
   <string name="reduce_bright_colors_preference_title">Дадатковае памяншэнне яркасці</string>
-  <string name="reduce_bright_colors_shortcut_title">Хуткая каманда для дадатковага памяншэння яркасці</string>
-  <string name="reduce_bright_colors_switch_title">Дадаткова паменшыць яркасць экрана</string>
+  <string name="reduce_bright_colors_shortcut_title">Хуткі запуск дадатковага памяншэння яркасці</string>
+  <string name="reduce_bright_colors_switch_title">Паменшыць яркасць экрана</string>
   <string name="refresh_group">Абнавіць групу</string>
   <string name="regional_preferences_main_page_sub_title">З мэтай персаналізацыі задайце для праграм рэгіянальныя налады.</string>
   <string name="regional_preferences_option_page_sub_title">Праграмы пры магчымасці будуць выкарыстоўваць вашы рэгіянальныя налады.</string>
@@ -10862,10 +10862,15 @@
   <string name="camera_grip_firmware_new_version">Абноўлена</string>
   <string name="camera_grip_firmware_title_text">Абнавіць прашыўку</string>
   <string name="camera_grip_firmware_update_faild">Немагчыма абнавіць</string>
-  <string name="camera_grip_firmware_update_ongoing">Абнаўленне…</string>
+  <string name="camera_grip_firmware_update_ongoing">Абнаўленне. Не адключайце ручку.</string>
   <string name="camera_grip_firmware_update_successful">Абноўлена паспяхова</string>
   <string name="photography_handle_charge_protected">Аўтаадключэнне зарадкі ручкі</string>
   <string name="photography_handle_charge_protected_summary">Калі ваша прылада распазнае, што вы выкарыстоўваеце ручку камеры, прылада спыніць зарадку і будзе падтрымліваць зарад батарэі на ўзроўні %1$s</string>
   <string name="private_dns_host_name">Імя хаста DNS-правайдэра</string>
   <string name="private_dns_title">Прыватны DNS</string>
+  <string name="camera_grip_firmware_update_describe">Трымайце ручку падключанай на працягу ўсяго працэсу абнаўлення.</string>
+  <string name="display_notification_icon_0">Няма</string>
+  <string name="display_notification_icon_1">%d абразок</string>
+  <string name="display_notification_icon_3">%d абразка</string>
+  <string name="title_show_notification_icon_count">Колькасць адлюстроўваемых абразкоў апавяшчэнняў</string>
 </resources>

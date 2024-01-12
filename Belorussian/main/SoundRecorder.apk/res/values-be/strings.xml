@@ -670,8 +670,8 @@
   <string name="high_bit_rate">MP3, ~%1$d кбіт/с, ~%2$d Мб/г</string>
   <string name="low_bit_rate">MP3, ~%1$d кбіт/с, ~%2$d Мб/г</string>
   <string name="middle_bit_rate">MP3, ~%1$d кбіт/с, ~%2$d Мб/г</string>
-  <string name="permission_notification_description">Для адпраўкі абвестак пры запісе, прайграванні і загрузцы кантэнту</string>
-  <string name="permission_notification_dialog_description">Для адпраўкі абвестак аб бягучым статусе праграмы</string>
+  <string name="permission_notification_description">Гэтай праграме патрабуецца дазвол на адпраўку апавяшчэнняў, каб мець магчымасць адпраўляць абвесткі пры запісе, прайграванні і загрузцы кантэнту.</string>
+  <string name="permission_notification_dialog_description">Гэтай праграме патрабуецца дазвол на адпраўку апавяшчэнняў, каб мець магчымасць адпраўляць абвесткі аб бягучым статусе праграмы.</string>
   <string name="permission_notification_title">Патрабуюцца дазволы</string>
   <string name="record_scenes_summaries_HD">Тэхналогія пашыранага дынамічнага дыяпазону дазваляе мікрафону ўлоўліваць больш дэталізаваны гук</string>
   <string name="record_scenes_summaries_interview">Змесціце тэлефон паміж %d людзьмі, каб дакладна запісаць іх размову</string>
@@ -692,9 +692,9 @@
   <string name="new_search_fm_records_hint">Пошук запісаў радыё</string>
   <string name="new_search_recorder_records_hint">Пошук у дыктафоне</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
-  <string name="pause_status_focus_notification">Паўза</string>
+  <string name="pause_status_focus_notification">Запіс прыпынены</string>
   <string name="recording_status_focus_notification">Запіс</string>
-  <string name="stop_status_focus_notification">Завершана</string>
+  <string name="stop_status_focus_notification">Запіс завершаны</string>
   <string name="btn_continue_record_description">Працягнуць запіс</string>
   <string name="chip_text">Тэкст чыпа</string>
   <string name="material_slider_range_end">Канец дыяпазону,</string>

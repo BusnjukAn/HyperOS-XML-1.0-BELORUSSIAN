@@ -962,7 +962,7 @@ ID:%s
   <string name="qrcode_login_entry_text"><Data>Увайшлі ў сістэму на іншай прыладзе? Скарыстайцеся &lt;a href=>хуткім уваходам&lt;/a></Data></string>
   <string name="qrcode_login_load_refresh"><Data>Тэрмін дзеяння QR-кода скончыўся. Націсніце, каб &lt;a href=>абнавіць&lt;/a>.</Data></string>
   <string name="qrcode_login_load_retry"><Data>Не атрымалася загрузіць. &lt;a href=>Паспрабуйце зноў&lt;/a>.</Data></string>
-  <string name="qrcode_login_message">Каб увайсці, адскануйце QR-код на тэлефоне або планшэце Xiaomi з дапамогай праграмы «Сканар», Xiaomi Home або іншай праграмы Xiaomi</string>
+  <string name="qrcode_login_message">Адскануйце код пры дапамозе праграмы Сканар або іншай праграмы Xiaomi, каб увайсці ў свой акаўнт Xiaomi</string>
   <string name="qrcode_login_title">Адскануйце, каб увайсці</string>
   <string name="confirm_bundled_phone_dialog_confirm">Пацвярджаю</string>
   <string name="confirm_bundled_phone_dialog_confirm_timer">Пацвярджаю (%d сек.)</string>
@@ -1189,4 +1189,27 @@ ID:%s
   <string name="empty_device_list">Тут яшчэ нічога няма</string>
   <string name="user_agreement_read_phone_permission_desc">Для ўваходу ў сістэму з выкарыстаннем нумара тэлефона</string>
   <string name="user_agreement_read_phone_permission_title">Чытаць нумары тэлефонаў</string>
+  <string name="go_to_setting">Налады</string>
+  <string name="account_auth_failed_message">Тэрмін дзеяння ўліковых дадзеных для ўваходу ў Xiaomi акаўнт %1$s скончыўся. Паспрабуйце яшчэ раз.</string>
+  <string name="fido2_client_for_fingerprint_auth">Націсніце, каб пацвердзіць з дапамогай адбітка пальца</string>
+  <string name="fido2_close_fingerprint_auth">Выключэнне</string>
+  <string name="fido2_close_fingerprint_auth_desc">Выключыць праверку адбітка пальца зараз?</string>
+  <string name="fido2_err_already_registered">Гэтая функцыя ўжо ўключаная ў гэтым акаўнце</string>
+  <string name="fido2_err_def">Адбылася памылка. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="fido2_err_not_regisetered">У гэтым акаўнце яшчэ не ўключаная гэтая функцыя</string>
+  <string name="fido2_err_not_support">Гэтая функцыя не падтрымліваецца на гэтай прыладзе</string>
+  <string name="fido2_err_security">Выяўлены пагрозы бяспекi. Немагчыма выкарыстоўваць гэтую функцыю.</string>
+  <string name="fido2_err_service_exception">Адбылася памылка сервера. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="fido2_err_timeout">Час чакання запыту скончыўся. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="fido2_fingerprint_auth">Праверка адбітка пальца</string>
+  <string name="fido2_fingerprint_auth_desc"><Data>Выкарыстоўвайце адбітак пальца, каб увайсці ў свой Xiaomi акаўнт і пацвердзіць сваю асобу &lt;a href=>Больш падрабязна&lt;/a></Data></string>
+  <string name="fido2_fingerprint_changed_and_afresh_register">Адбітак на вашай прыладзе змяніўся. Пацвердзіце свой акаўнт яшчэ раз, каб уключыць праверку па адбітку пальца.</string>
+  <string name="fido2_fingerprint_verify">Праверка адбітка пальца</string>
+  <string name="fido2_psw_changed_and_afresh_register">Ваш пароль змяніўся. Праверце свой адбітак пальца яшчэ раз.</string>
+  <string name="fido2_setting_ps_notify">Вам неабходна ўсталяваць пароль акаўнта, каб мець магчымасць выкарыстоўваць праверку па адбітку пальца. Гэта можна зрабіць у Наладах > Xiaomi акаўнт > Бяспека акаўнта > Пароль.</string>
+  <string name="fido2_verify_fingerprint">Праверыць адбітак пальца</string>
+  <string name="input_ps">Увядзіце пароль</string>
+  <string name="login_or_register_by_other_way">Выкарыстоўваць іншы метад</string>
+  <string name="reopen">Уключыць</string>
+  <string name="setting_ps">Налады пароля</string>
 </resources>

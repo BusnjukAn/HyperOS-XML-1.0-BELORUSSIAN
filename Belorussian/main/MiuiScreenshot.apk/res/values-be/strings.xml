@@ -420,4 +420,5 @@
   <string name="copy_dialog_confirm">Зразумела</string>
   <string name="copy_dialog_content">Здымкі экрана будуць аўтаматычна дададзены ў буфер абмену і могуць быць устаўлены. Вы можаце адключыць гэту функцыю ў наладах, выканаўшы пошук \"Дадаць элементы ў буфер абмену\".</string>
   <string name="copy_dialog_title">Увага</string>
+  <string name="screenshot_succeed">Здымак экрана зроблены</string>
 </resources>

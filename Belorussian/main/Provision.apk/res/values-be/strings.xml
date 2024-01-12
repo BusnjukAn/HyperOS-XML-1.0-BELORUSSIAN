@@ -766,4 +766,10 @@
   <string name="permission_not_agree_service_not_working">Калі вы не згодны з вышэйзгаданымі неабходнымі дазволамі, вы не зможаце выкарыстоўваць гэтыя сэрвісы.</string>
   <string name="permission_sms_verification_code_login">Для прадастаўлення SMS-пацверджання для хуткага ўваходу</string>
   <string name="read_sms_and_mms">Доступ да SMS і MMS</string>
+  <string name="access_calendar">Доступ да календара</string>
+  <string name="calendar_storage">Сховішча календара</string>
+  <string name="disagree_unable_serve">Калі вы не згодны з вышэйпаказанымі дазволамі, вы не зможаце выкарыстоўваць гэты сэрвіс.</string>
+  <string name="provide_date_management_service">Гэты сэрвіс дазваляе правяраць дату і кіраваць падзеямі.</string>
+  <string name="require_statement">Для прадастаўлення базавых паслуг нам неабходны наступныя дазволы:</string>
+  <string name="used_date_viewing">Для праверкі даты</string>
 </resources>

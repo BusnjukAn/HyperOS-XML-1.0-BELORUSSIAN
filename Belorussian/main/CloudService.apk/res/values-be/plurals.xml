@@ -299,4 +299,8 @@
     <item quantity="few">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграмы&lt;/font></item>
     <item quantity="many">Сховішча запоўнена. Не атрымалася сінхранізаваць &lt;font color=#F22424>%d праграм&lt;/font></item>
   </plurals>
+  <plurals name="provision_sync_items_status_off_title">
+      <item quantity="other">Сінхранізацыя не ўключана для %s элементаў</item>
+      <item quantity="one">Сінхранізацыя не ўключана для %s элемента</item>
+  </plurals>
 </resources>

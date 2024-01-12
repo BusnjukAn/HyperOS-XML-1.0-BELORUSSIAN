@@ -10872,5 +10872,7 @@
   <string name="display_notification_icon_0">Няма</string>
   <string name="display_notification_icon_1">%d абразок</string>
   <string name="display_notification_icon_3">%d абразка</string>
+  <string name="display_notification_icon_5">%d абразкоў</string>
+  <string name="display_notification_icon_7">%d абразкоў</string>
   <string name="title_show_notification_icon_count">Колькасць адлюстроўваемых абразкоў апавяшчэнняў</string>
 </resources>

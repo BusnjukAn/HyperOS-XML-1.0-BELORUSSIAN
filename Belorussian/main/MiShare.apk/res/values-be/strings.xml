@@ -118,7 +118,7 @@
   <string name="fail_in_send">Не атрымалася адправіць</string>
   <string name="file_cannot_print">Гэты кантэнт не падтрымлівае друк</string>
   <string name="file_cannot_screen_throw">Гэты кантэнт не падтрымлівае праекцыю экрана</string>
-  <string name="file_progress">%1$s%%</string>
+  <string name="file_progress">%1$s</string>
   <string name="file_receive_progress">Выканана: %1$d%%</string>
   <string name="file_receive_progress_title">Прагрэс</string>
   <string name="file_received_successfully_from_pc">Паспяхова атрымана больш за %2$d файлаў ад %1$s</string>

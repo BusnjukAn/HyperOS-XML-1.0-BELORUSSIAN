@@ -1776,7 +1776,8 @@
     <plurals name="storage_compact_warning">
         <item quantity="other">Рэдагаванне %1$d дазволаў</item>
         <item quantity="one">Рэдагаванне %1$d дазволу</item>
-        <plurals name="power_ntc_dialog_btn">
+    </plurals>
+   <plurals name="power_ntc_dialog_btn">
      <item quantity="other">Зразумела (%d)</item>
      <item quantity="one">Зразумела (%d)</item>
   </plurals>
@@ -1785,5 +1786,4 @@
      <item quantity="few">%d віруса ці небяспечныя праграмы</item>
      <item quantity="one">%d вірус ці небяспечная праграма</item>
   </plurals>
-    </plurals>
 </resources>

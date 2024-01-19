@@ -697,4 +697,9 @@
   <string name="gtb_dialog_privacy_voice_message">Вы збіраецеся выкарыстоўваць змену голасу ў гульнях ад Xunyou. Гэты сэрвіс збярэ ваш Xiaomi акаўнт для запісу працягласці вашага сяброўства.</string>
   <string name="gtb_dialog_privacy_voice_tips"><Data>Я прачытаў і згодны з &lt;a href=\"%1$s\">Палітыкай прыватнасці змены голасу ў гульнях ад Xunyou.&lt;/a></Data></string>
   <string name="gtb_dialog_privacy_voice_title">Змяненне голасу ў гульнях ад Xunyou</string>
+  <string name="migrate_btn_installed">Перайсці на новую версію Дзіцячай прасторы</string>
+  <string name="migrate_btn_uninstalled">Абнавіць</string>
+  <string name="migrate_dialog_message_installed">Дзіцячая прастора абноўлена да апошняй версіі з новым кантролем часу выкарыстання і іншымі функцыямі, якія можна выкарыстоўваць толькі пасля паўторнага адкрыцця налад.</string>
+  <string name="migrate_dialog_message_uninstalled">У Дзіцячую прастору дададзены новы кантроль часу выкарыстання і іншыя функцыі. Каб скарыстацца новымі функцыямі, абнавіце праграму да апошняй версіі</string>
+  <string name="migrate_dialog_title">Напамін аб абнаўленні</string>
 </resources>

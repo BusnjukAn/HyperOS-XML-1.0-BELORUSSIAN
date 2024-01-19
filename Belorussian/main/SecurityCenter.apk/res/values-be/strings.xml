@@ -1918,10 +1918,10 @@
   <string name="qucick_replay_instrument">Выкарыстоўвайце хуткія адказы ў апавяшчэннях выбраных праграм для паведамленняў (напрыклад, WhatsApp, WeChat, QQ)</string>
   <string name="quick_optimize_checking">Сканаванне</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Не атрымалася падоўжыць час працы</string>
-  <string name="quick_optimize_no_fix_issue_title">Не атрымалася вырашыць праблему з батарэяй</string>
+  <string name="quick_optimize_no_fix_issue_title">Не атрымалася аптымізаваць элементы з высокім энергаспажываннем</string>
   <string name="quick_optimize_no_issue">Няма праблем з батарэяй</string>
   <string name="quick_optimize_no_issue_subtitle">Усё выглядае цудоўна</string>
-  <string name="quick_optimize_no_issue_title">Праблем з батарэяй не выяўлена</string>
+  <string name="quick_optimize_no_issue_title">Няма элементаў з высокім энергаспажываннем</string>
   <string name="quick_optimize_sub_battery_text">Застаецца прыкладна %s</string>
   <string name="quick_optimize_sub_summary_text">Дададзена %s да жыцця батарэі</string>
   <string name="quick_optimize_sub_summary_with_battery_text">Дададзена %1$s, застаецца прыкладна %2$s</string>
@@ -3713,7 +3713,7 @@
   <string name="ew_guide_start">Уключыць</string>
   <string name="ew_guide_start_agree">Уключыць</string>
   <string name="ew_guide_start_find_area">Пошук вобласці</string>
-  <string name="ew_guide_start_warning_range">У цяперашні час папярэджанне аб землятрусах даступныя ў зоне пакрыцця Цэнтра папярэджання аб землятрусах Чэнду, Навукова-даследчага інстытута па зьмяншэньні небясьпекі стыхійных бедстваў. Канкрэтныя раёны можна знайсці ў раздзеле Кіраванне.</string>
+  <string name="ew_guide_start_warning_range"><Data>У цяперашні час папярэджанне аб землятрусах даступныя ў зоне пакрыцця Цэнтра папярэджання аб землятрусах Чэнду, Навукова-даследчага інстытута па зьмяншэньні небясьпекі стыхійных бедстваў. Канкрэтныя раёны можна знайсці &lt;a href=%s>тут&lt;/a>.</Data></string>
   <string name="ew_info_agreement">Адмова ад адказнасці</string>
   <string name="ew_info_other">Іншае</string>
   <string name="ew_info_range">Прадастаўляемыя паслугі</string>
@@ -4334,14 +4334,14 @@
   <string name="power_center_batteryrank_all">Выкарыстанне ўсяго зарада</string>
   <string name="power_center_batteryrank_hardware">Выкарыстанне батарэі абсталяваннем %s</string>
   <string name="power_center_batteryrank_software">Выкарыстанне батарэі праграмамі %s</string>
-  <string name="power_center_batteryscan_normal">Няма праблем з выкарыстаннем батарэі. Паглядзець вынікі.</string>
+  <string name="power_center_batteryscan_normal">Усё выглядае добра. Паглядзець вынікі.</string>
   <string name="power_center_charge_status">"Зарад   "</string>
   <string name="power_center_consume_fast">Хуткі разрад</string>
   <string name="power_center_list_item_haptic_feedback_summary">Жэсты і сістэмныя элементы кіравання не будуць суправаджацца вібрацыяй</string>
   <string name="power_center_list_item_set_lockscreen_time_summary">Больш хуткая блакіроўка прылады эканоміць зарад батарэі</string>
   <string name="power_center_list_item_wake_notification_summary">Уваходныя апавяшчэннi будуць адлюстроўвацца толькі пры ўключэнні экрана</string>
   <string name="power_center_optimize_title">Прапановы</string>
-  <string name="power_center_problem_title">Рашэнне праблем</string>
+  <string name="power_center_problem_title">Высокае энергаспажыванне</string>
   <string name="power_center_reduce_dpi_summary">QHD+ спажывае больш энергіі</string>
   <string name="power_center_reduce_resolution">Больш нізкая раздзяляльнасць экрана</string>
   <string name="power_center_used_time_Introduction">Час працы ад батарэі з моманту апошняй зарадкі больш, чым на %s</string>
@@ -4497,7 +4497,7 @@
   <string name="eras_ad">н. э.</string>
   <string name="eras_bc">да н. э.</string>
   <string name="evening">Поўдзень</string>
-  <string name="ew_guide_statement_text_new">Гэтая адмова ад адказнасці распаўсюджваецца на ўсіх карыстальнікаў (у далейшым названых «вы»), якія ўключаюць функцыю папярэджання пра землятрус. Згаджаючыся з гэтым адмовай ад адказнасці, вы складаеце юрыдычна абавязвае дамову з Xiaomi Inc. і яе афіляваныя асобамі (далей званымі «Xiaomi»). Вы пацвярджаеце, што прачыталі ўсе ўтрыманне гэтай адмовы ад адказнасці, цалкам разумееце і згаджаецеся з усімі палажэннямі і ўмовамі гэтага адмовы; у адваротным выпадку вам варта неадкладна адключыць функцыю папярэджання пра землятрус.\nУ адпаведнасці з адпаведнымі законамі і пастановамі Xiaomi прадаставіць вам паслугі ранняга папярэджання ў залежнасці ад вобласці маніторынгу ранняга папярэджання аб землятрусах, ахоплівае адпаведнымі агенцтвамі. Гэта значыць, калі вы уключыце функцыю папярэджання аб землятрусах, вы зможаце атрымліваць папярэджання аб землятрусах, выпушчаныя для пэўных абласцей. Вы можаце знайсці канкрэтныя зоны пакрыцця ў Наладах.\nГэтая функцыя дае вам функцыю папярэджання аб землятрусах. Вы павінны разумець, што інфармацыя пра землятрус прадастаўляецца Інстытутам памяншэння небяспекі стыхійных бедстваў Чэнду. Xiaomi не курыруе гэтую арганізацыю і не кантралюе яе.\nXiaomi ня абяцае і не гарантуе дакладнасць, дакладнасць і своечасовасць інфармацыі аб землятрусах, а таксама не гарантуе, што служба папярэджання аб землятрусах задаволіць усе вашыя патрэбы.\nДля атрымання папярэджанняў аб землятрусах неабходна, каб ваша прылада было падлучана да мабільнай сеткі. Збоі іншых ліній сувязі, тэхнічныя праблемы, збоі сеткі або канцавога абсталявання, нестабільнасць сістэмы і іншыя розныя форс-мажорныя абставіны могуць перашкодзіць вам атрымаць інфармацыю пра землятрус. Xiaomi не нясе адказнасці за любыя страты, выкліканыя такімі падзеямі.\nВы павінны разумець, што гэтая функцыя прадастаўлена толькі для даведкі. Папярэджанне можа з\'явіцца цягам некалькіх секунд да пачатку землятрусу. Вы несяце аднаасобную адказнасць за рызыкі і наступствы любых дзеянняў, якія вы выконваеце на падставе інфармацыі, прадстаўленай гэтай функцыяй.</string>
+  <string name="ew_guide_statement_text_new"><Data>Гэтая адмова ад адказнасці распаўсюджваецца на ўсіх карыстальнікаў (у далейшым названых «вы»), якія ўключаюць функцыю папярэджання пра землятрус. Згаджаючыся з гэтым адмовай ад адказнасці, вы складаеце юрыдычна абавязвае дамову з Xiaomi Inc. і яе афіляваныя асобамі (далей званымі «Xiaomi»). Вы пацвярджаеце, што прачыталі ўсе ўтрыманне гэтай адмовы ад адказнасці, цалкам разумееце і згаджаецеся з усімі палажэннямі і ўмовамі гэтага адмовы; у адваротным выпадку вам варта неадкладна адключыць функцыю папярэджання пра землятрус.\nУ адпаведнасці з адпаведнымі законамі і пастановамі Xiaomi прадаставіць вам паслугі ранняга папярэджання ў залежнасці ад вобласці маніторынгу ранняга папярэджання аб землятрусах, ахоплівае адпаведнымі агенцтвамі. Гэта значыць, калі вы уключыце функцыю папярэджання аб землятрусах, вы зможаце атрымліваць папярэджання аб землятрусах, выпушчаныя для пэўных абласцей. Вы можаце знайсці канкрэтныя зоны пакрыцця &lt;a href=%s>тут&lt;/a>.\nГэтая функцыя дае вам функцыю папярэджання аб землятрусах. Вы павінны разумець, што інфармацыя пра землятрус прадастаўляецца Інстытутам памяншэння небяспекі стыхійных бедстваў Чэнду. Xiaomi не курыруе гэтую арганізацыю і не кантралюе яе.\nXiaomi ня абяцае і не гарантуе дакладнасць, дакладнасць і своечасовасць інфармацыі аб землятрусах, а таксама не гарантуе, што служба папярэджання аб землятрусах задаволіць усе вашыя патрэбы.\nДля атрымання папярэджанняў аб землятрусах неабходна, каб ваша прылада было падлучана да мабільнай сеткі. Збоі іншых ліній сувязі, тэхнічныя праблемы, збоі сеткі або канцавога абсталявання, нестабільнасць сістэмы і іншыя розныя форс-мажорныя абставіны могуць перашкодзіць вам атрымаць інфармацыю пра землятрус. Xiaomi не нясе адказнасці за любыя страты, выкліканыя такімі падзеямі.\nВы павінны разумець, што гэтая функцыя прадастаўлена толькі для даведкі. Папярэджанне можа з\'явіцца цягам некалькіх секунд да пачатку землятрусу. Вы несяце аднаасобную адказнасць за рызыкі і наступствы любых дзеянняў, якія вы выконваеце на падставе інфармацыі, прадстаўленай гэтай функцыяй.</Data></string>
   <string name="file_confirm_start_activity">%s не дазволены доступ да вашай галерэі і праграмам сацыяльных сетак. Гэта праграма хоча атрымаць доступ да файлаў, якія захоўваюцца на гэтай прыладзе для абмену элементамі. Дазволіць?</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
   <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -4796,7 +4796,7 @@
   <string name="pp_privacy_lab_clipboard_summary">Сістэма будзе прымаць рашэнні аб прадастаўленні праграмам доступу да буфера абмену і апавяшчаць аб доступе</string>
   <string name="pp_privacy_protection_lab">Лабараторыя абароны прыватнасці</string>
   <string name="pp_privacy_protection_lab_summary">Забеспячэнне прыватнасці дадзеных</string>
-  <string name="settings_battery_power_save_suggest_title">Саветы і абвесткі па эканоміі зарада батарэі</string>
+  <string name="settings_battery_power_save_suggest_title">Парады па эканоміі зарада батарэі</string>
   <string name="app_predict_widget_empty">Загрузка...</string>
   <string name="app_predict_widget_name_2x4">Рэкамендацыі</string>
   <string name="app_predict_widget_name_2x5">Рэкамендацыі</string>
@@ -6684,7 +6684,7 @@
   <string name="pc_low_batterty_got_it">Зразумела</string>
   <string name="pc_low_battery_fast_charge">Паскарэнне зарадкі</string>
   <string name="pc_low_battery_fast_charge_summary">Падключыце прыкладзеную зарадную прыладу, каб паскорыць зарадку, калі экран выключаны і батарэя разраджана. Гэтая функцыя можа прывесці да нагрэву прылады.</string>
-  <string name="pc_smart_discharge_checkbox_summary">Пры выкарыстанні навігацыйных праграм зарадка аўтаматычна спыняецца, калі зарад батарэі дасягае абранага ўзроўня. Гэтая функцыя не будзе працаваць, калі ўключаны рэжым энергазберажэння або максімальнага энергазберажэння.</string>
+  <string name="pc_smart_discharge_checkbox_summary">Пры выкарыстанні навігацыйных праграм зарадка аўтаматычна спыняецца пры дасягненні абранага ўзроўня. Эканомія зарада батарэі будзе адключаная.</string>
   <string name="pc_smart_discharge_checkbox_title">Аўтаматычнае адключэнне зарадкі</string>
   <string name="pc_smart_discharge_drop_down_title">Налады аўтаматычнага адключэння</string>
   <string name="pc_smart_discharge_protect_notifi_summary">Для абароны батарэі зарадка аўтаматычна спыняецца на абраным узроўні пры выкарыстанні навігацыйных праграм</string>
@@ -7031,7 +7031,7 @@
   <string name="battery_and_property_important_notify">Важныя апавяшчэнні аб стане батарэі</string>
   <string name="battery_and_property_ordinary_notify">Звычайныя апавяшчэнні аб стане батарэі</string>
   <string name="conversation_summary_new">Паляпшэнні, субтытры і іншыя функцыі падчас аўдыё- і вiдэавыклiкаў</string>
-  <string name="pc_night_charge_protect_summary">Аўтаматычнае рэгуляванне працягласці зарадкі для падаўжэння тэрміна службы батарэі</string>
+  <string name="pc_night_charge_protect_summary">Аўтаматычнае рэгуляванне працягласці зарадкі, каб запаволіць старэнне батарэі</string>
   <string name="pc_night_charge_protect_title">Абарона ад зарадкі ў начны час</string>
   <string name="permgroupdesc_installapplist">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
   <string name="permgroupdesc_readmediafile">Доступ да фота, відэа і аўдыё, якія захоўваюцца на гэтай прыладзе</string>
@@ -7150,4 +7150,34 @@
   <string name="terminal_flars_recent_screen">Нядаўна атрымлівала доступ да экрана гэтай прылады</string>
   <string name="terminal_flars_recent_screen_camera">Нядаўна выкарыстоўвала камеру і экран гэтай прылады</string>
   <string name="vb_movie_power_hint">Рэжым \"Тэатр\" забяспечвае захапляльнае ўражанне ад прагляду.\nВаша прылада можа награвацца і спажываць больш энергіі.</string>
+  <string name="group_file_less_t">Доступ да файлаў і мультымедыя</string>
+  <string name="mic_noise_reduction_mode_standard">Стандарт</string>
+  <string name="mic_noise_reduction_mode_ultimate">Выбраць</string>
+  <string name="mic_noise_reduction_voiceprint_desc">Захоўваць аўдыё толькі ад указанага карыстальніка</string>
+  <string name="pc_button_go_to_setting">Налады</string>
+  <string name="pc_handle_battery_level">Ручка</string>
+  <string name="pc_phone_battery_level">Тэлефон</string>
+  <string name="pc_power_mode_has_performance">Прадукцыйны рэжым уключаны</string>
+  <string name="pc_reminder_always_protect_summary">Пераключыцеся на абмежаваную зарадку, каб паменшыць старэнне батарэі</string>
+  <string name="pc_wireless_charging_special_stand_summary1">Усталюйце прыладу на падстаўку, якая прыкладаецца да бесправадной зараднай прылады</string>
+  <string name="pc_wireless_charging_special_stand_summary2">Усталюйце прыладу на падстаўку, якая прыкладаецца да бесправадной зараднай прылады, для забеспячэння найлепшай прадукцыйнасці зарадкі</string>
+  <string name="pc_wireless_charging_special_stand_title">Выкарыстоўвайце прыкладзеную падстаўку для зарадкі</string>
+  <string name="pc_wireless_handle_connected">Прылада падлучана</string>
+  <string name="pc_wireless_handle_title">Бесправадная ручка камеры</string>
+  <string name="permission_group_file_less_t">Гэты дазвол дазваляе праграмам атрымліваць доступ да фатаграфій, відэа, аўдыё і іншых файлах, якія захоўваюцца на гэтай прыладзе.</string>
+  <string name="power_ntc_dialog_btn_finish">Зразумела</string>
+  <string name="power_ntc_dialog_msg">Адключыце зарадную прыладу. Ачысціце і высушыце порт зарадкі, перш чым выкарыстоўваць яго зноў.</string>
+  <string name="power_ntc_dialog_title">Знойдзены старонні прадмет або вадкасць</string>
+  <string name="pp_none_read_clipboard_item">Не апавяшчаць</string>
+  <string name="pp_protect_read_clipboard_item">Абараніць</string>
+  <string name="pp_toast_read_clipboard">Апавяшчаць, калі праграмы атрымліваюць доступ да элементаў у буферы абмену</string>
+  <string name="pp_toast_read_clipboard_item">Апавяшчаць</string>
+  <string name="privacy_risk_result_screen_shield_msg">Праграмы, якія змяшчаюць канфідэнцыйную асабістую інфармацыю, будуць адлюстроўвацца ў спісе «Нядаўнія», а іх папярэдні прагляд замаскіраваны</string>
+  <string name="recommend_type_random">Сістэма рэкамендуе без прычыны</string>
+  <string name="recommend_type_recent_used">Рэкамендуецца на аснове функцый, якія часта выкарыстоўваюцца</string>
+  <string name="recommend_type_server_config">Працоўная канфігурацыя</string>
+  <string name="recommend_type_user_set">Налады карыстальніка</string>
+  <string name="summary_virus_scan_model">Як мага хутчэй пазбавіцеся ад гэтых рызык бяспекі</string>
+  <string name="vb_mv_style_close_toast">Стыль адключаны</string>
+  <string name="vb_vison_dynamic_enhance_close_toast">Пашыраная анімацыя адключаная</string>
 </resources>

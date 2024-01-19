@@ -562,9 +562,9 @@
     <item quantity="few">Выяўлена %d бескарысных ўсталявальных пакета</item>
   </plurals>
   <plurals name="notification_power_consume_issue">
-    <item quantity="other">%d праблем з батарэяй</item>
-    <item quantity="one">%d праблема з батарэяй</item>
-    <item quantity="few">%d праблемы з батарэяй</item>
+    <item quantity="other">%d элементаў з высокім энергаспажываннем</item>
+    <item quantity="one">%d элемент з высокім энергаспажываннем</item>
+    <item quantity="few">%d элемента з высокім энергаспажываннем</item>
   </plurals>
   <plurals name="notification_power_consume_suggest">
     <item quantity="other">Аптымізуйце %d элементаў для эканоміі зарада батарэі</item>
@@ -776,9 +776,9 @@
     <item quantity="few">Выпраўце %d праблемы</item>
   </plurals>
   <plurals name="power_center_battery_problem_result">
-    <item quantity="other">Можна выправіць %d праблем</item>
-    <item quantity="one">Можна выправіць %d праблему</item>
-    <item quantity="few">Можна выправіць %d праблемы</item>
+    <item quantity="other">Вы можаце аптымізаваць энергаспажыванне для %d элементаў</item>
+    <item quantity="one">Вы можаце аптымізаваць энергаспажыванне для %d элемента</item>
+    <item quantity="few">Вы можаце аптымізаваць энергаспажыванне для %d элементаў</item>
   </plurals>
   <plurals name="power_center_battery_save_suggest">
     <item quantity="other">" %d элементаў можна аптымізаваць"</item>
@@ -950,10 +950,10 @@
     <item quantity="many">Знойдзена %d праблем з батарэяй, вырашыце іх</item>
   </plurals>
   <plurals name="quick_optimize_summary_text">
-    <item quantity="other">Вырашана %d праблем з батарэяй</item>
-    <item quantity="one">Вырашана %d праблема з батарэяй</item>
-    <item quantity="few">Вырашана %d праблемы з батарэяй</item>
-    <item quantity="many">Вырашана %d праблем з батарэяй</item>
+    <item quantity="other">Аптымізавана %d элементаў з высокім энергаспажываннем</item>
+    <item quantity="one">Аптымізаваны %d элемент з высокім энергаспажываннем</item>
+    <item quantity="few">Аптымізавана %d элемента з высокім энергаспажываннем</item>
+    <item quantity="many">Аптымізавана %d элементаў з высокім энергаспажываннем</item>
   </plurals>
   <plurals name="reset_data_dialog_ok_tick">
     <item quantity="other">Скід налад (%d с.)</item>
@@ -1776,5 +1776,14 @@
     <plurals name="storage_compact_warning">
         <item quantity="other">Рэдагаванне %1$d дазволаў</item>
         <item quantity="one">Рэдагаванне %1$d дазволу</item>
+        <plurals name="power_ntc_dialog_btn">
+     <item quantity="other">Зразумела (%d)</item>
+     <item quantity="one">Зразумела (%d)</item>
+  </plurals>
+  <plurals name="title_virus_scan_model">
+     <item quantity="other">%d вірусаў ці небяспечных праграм</item>
+     <item quantity="few">%d віруса ці небяспечныя праграмы</item>
+     <item quantity="one">%d вірус ці небяспечная праграма</item>
+  </plurals>
     </plurals>
 </resources>

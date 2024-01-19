@@ -615,4 +615,25 @@
   <string name="verify">Праверыць</string>
   <string name="vibrator_change">Вылучыце рэжым вібрацыі</string>
   <string name="waiting">Чакайце 4 секунды</string>
+  <string name="auto_bottom_left_high_speaker">Левы ніжні высокачастотны дынамік</string>
+  <string name="auto_bottom_left_low_speaker">Левы ніжні нізкачастотны дынамік</string>
+  <string name="auto_bottom_right_low_speaker">Правы ніжні нізкачастотны дынамік</string>
+  <string name="auto_top_left_high_speaker">Левы верхні высокачастотны дынамік</string>
+  <string name="auto_top_left_low_speaker">Левы верхні нізкачастотны дынамік</string>
+  <string name="auto_top_right_low_speaker">Правы верхні нізкачастотны дынамік</string>
+  <string name="cit_audio_lb_check_track_tip">Цяпер прайграваецца запіс, праверце, ці ёсць гук</string>
+  <string name="cit_audio_lb_mainmic_to_speaker_title">Праверка зваротнай сувязі асноўнага мікрафона</string>
+  <string name="cit_audio_lb_sidebottommic_to_speaker_title">Праверка зваротнай сувязі дынаміка з бакавым ніжнім мікрафонам</string>
+  <string name="cit_audio_lb_sidetopmic_to_speaker_title">Тэст зваротнай сувязі з бакавым верхнім мікрафонам</string>
+  <string name="cit_audio_lb_summary_mainmic_to_speaker">"Тэст зваротнай сувязі паміж асноўным мікрафонам і дынамікам.
+
+Кажыце ў асноўны мікрафон, вы павінны пачуць голас з дынаміка"</string>
+  <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Тэст зваротнай сувязі ад бакавога ніжняга мікрафона да дынаміка.
+
+Кажыце ў бакавой ніжні мікрафон, вы павінны пачуць голас з дынаміка"</string>
+  <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Тэст зваротнай сувязі ад бакавога верхняга мікрафона да дынаміка.
+
+Кажыце ў бакавой верхні мікрафон, вы павінны пачуць голас з дынаміка"</string>
+  <string name="test_integration_speaker">Інтэграцыйны тэст спікера</string>
+  <string name="test_integration_summary">Шэсць дынамікаў паслядоўна прайграваюць гук. Звярніце ўвагу на гук і вызначыце, ці з\'яўляецца ён ненармальным, захоўваючы пры гэтым вертыкальны стан экрана.</string>
 </resources>

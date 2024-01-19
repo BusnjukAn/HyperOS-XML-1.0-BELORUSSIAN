@@ -266,4 +266,6 @@
   <string name="call_notification_incoming_text">Уваходны выклік</string>
   <string name="call_notification_ongoing_text">Бягучы выклік</string>
   <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
+  <string name="security_for_pad">Бяспека</string>
+  <string name="security_for_phone">Бяспека</string>
 </resources>

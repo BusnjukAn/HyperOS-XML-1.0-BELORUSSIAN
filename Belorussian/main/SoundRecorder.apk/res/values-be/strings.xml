@@ -709,4 +709,5 @@
   <string name="permission_bluetooth">Доступ да стану злучэння Bluetooth</string>
   <string name="permission_bluetooth_dialog_description">Дазволіць гэтай прыладзе падлучацца да прылад паблізу, каб мець магчымасць пераключаць прылады падчас прайгравання запісаў.</string>
   <string name="permission_bluetooth_title">Патрабуюцца дазволы</string>
+  <string name="toast_stop">Запіс завершаны</string>
 </resources>

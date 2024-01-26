@@ -10875,4 +10875,5 @@
   <string name="display_notification_icon_5">%d абразкоў</string>
   <string name="display_notification_icon_7">%d абразкоў</string>
   <string name="title_show_notification_icon_count">Колькасць адлюстроўваемых абразкоў апавяшчэнняў</string>
+  <string name="small_window_not_support_add_data_toast">Немагчыма запісваць дадзеныя ў плаваючых вокнах. Пераключыцеся ў поўнаэкранны рэжым і паспрабуйце яшчэ раз.</string>
 </resources>

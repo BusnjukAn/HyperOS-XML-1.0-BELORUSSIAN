@@ -33,7 +33,7 @@
   <string name="accessibility_alarm_remind">Гукавы сігнал</string>
   <string name="accessibility_all_day">Увесь дзень</string>
   <string name="accessibility_pick_start_date">Дата пачатку</string>
-  <string name="accessibility_pick_time_zone">Часавы пояс</string>
+  <string name="accessibility_pick_time_zone">Гадзінны пояс</string>
   <string name="accessibility_remove_attendee">Выдаліць удзельніка</string>
   <string name="accessibility_repeats">Паўтарыць</string>
   <string name="accessibility_sync_cal">Сінхранізаваць каляндар</string>
@@ -610,12 +610,12 @@
   <string name="preferences_default_allday_reminder_title">Час напаміну (увесь дзень)</string>
   <string name="preferences_default_reminder_dialog">Час нагадвання па змаўчанні</string>
   <string name="preferences_default_reminder_title">Час нагадвання па змаўчанні</string>
-  <string name="preferences_home_tz_title">Мой часавы пояс</string>
+  <string name="preferences_home_tz_title">Мой гадзінны пояс</string>
   <string name="preferences_notification_ringtone_title">Гук</string>
   <string name="preferences_show_indic_date_title">Паказаць Індыйскі каляндар</string>
   <string name="preferences_title">Каляндар</string>
-  <string name="preferences_use_home_tz_descrip">Заўсёды паказваць ў каляндары час у зададзеным часавым поясе</string>
-  <string name="preferences_use_home_tz_title">Выкарыстоўваць хатні часавы пояс</string>
+  <string name="preferences_use_home_tz_descrip">Заўсёды паказваць ў каляндары час у зададзеным гадзінным поясе</string>
+  <string name="preferences_use_home_tz_title">Выкарыстоўваць хатні гадзінны пояс</string>
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Пачатак тыдня</string>
   <string name="preferences_week_start_day_title">Пачатак тыдня</string>
@@ -844,8 +844,8 @@
   <string name="time_picker_dialog_title">Выставіць час</string>
   <string name="time_picker_label_hour">Г</string>
   <string name="time_picker_label_minute">Х</string>
-  <string name="time_zone">Часавы пояс</string>
-  <string name="timezone_label">Часавы пояс</string>
+  <string name="time_zone">Гадзінны пояс</string>
+  <string name="timezone_label">Гадзінны пояс</string>
   <string name="title_click_record_menstruation">Запісаць месячныя</string>
   <string name="title_menstruation_predict_start_today">Верагодна, месячныя пачнуцца сёння</string>
   <string name="title_menstruation_predict_start_tomorrow">Верагодна, месячныя пачнуцца заўтра</string>

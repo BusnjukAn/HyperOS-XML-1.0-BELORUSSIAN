@@ -1090,4 +1090,5 @@
   <string name="toolbar_voice_done_description">Спыніць</string>
   <string name="toolbar_voice_mark_description">Пазнака</string>
   <string name="to_view_alarm_content">Націсніце для прагляду</string>
+  <string name="warn_cannot_add_more_content">Гэтая нататка дасягнула максімальнай даўжыні. Дадатковы кантэнт, які вы дадасце, не будзе захаваны.</string>
 </resources>

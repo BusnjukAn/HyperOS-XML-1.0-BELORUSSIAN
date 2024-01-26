@@ -30,4 +30,9 @@
     <item>Шпалеры/Супершпалеры</item>
     <item>Супершпалеры;Шпалеры;Дынамічныя шпалеры;3D-шпалеры</item>
   </string-array>
+  <string-array name="settings_search_moon">
+    <item>Месяц</item>
+    <item>Шпалеры/Супершпалеры/Месяц</item>
+    <item>Космас;Месяц;Супершпалеры;шпалеры</item>
+  </string-array>
 </resources>

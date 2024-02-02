@@ -1945,4 +1945,19 @@
   <string name="snow_ui_sound_enhancement">Палепшыць гук</string>
   <string name="snow_ui_title_equalizer">Эквалайзер</string>
   <string name="snow_ui_toast_equalizer_not_enabled">Эквалайзер выключаны</string>
+  <string name="chip_text">Тэкст чыпа</string>
+  <string name="material_slider_range_end">Канец дыяпазону,</string>
+  <string name="material_slider_range_start">Пачатак дыяпазону,</string>
+  <string name="mute">Адключыць гук</string>
+  <string name="native_body">Цела</string>
+  <string name="native_headline">Загаловак</string>
+  <string name="native_media_view">Медыяпрагляд</string>
+  <string name="notifications_permission_confirm">Дазволіць</string>
+  <string name="notifications_permission_decline">Не дазваляць</string>
+  <string name="notifications_permission_title">Дазволіць праграме адпраўляць вам апавяшчэнні?</string>
+  <string name="video_report">Паведаміць</string>
+  <string name="video_report_reason_one">Аголенасць або змесціва сексуальнага характару</string>
+  <string name="video_report_reason_three">Фізічны гвалт або пагрозы</string>
+  <string name="video_report_reason_two">Гвалтоўнае злачынства</string>
+  <string name="video_report_toast">Дзякуй за ваш водгук</string>
 </resources>

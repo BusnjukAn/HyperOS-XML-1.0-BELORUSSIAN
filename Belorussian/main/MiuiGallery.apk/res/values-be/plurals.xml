@@ -353,8 +353,9 @@
     <item quantity="one">%d фота засталося</item>
   </plurals>
   <plurals name="sync_error_title">
-    <item quantity="other">Не сінхранізаваны %d фота і відэа</item>
-    <item quantity="one">Не сінхранізаваны %d фота і відэа</item>
+    <item quantity="other">%d элементаў не сінхранізавана</item>
+    <item quantity="few">%d элемента не сінхранізавана</item>
+    <item quantity="one">%d элемент не сінхранізаваны</item>
   </plurals>
   <plurals name="sync_oversized_count">
     <item quantity="other">%d элементаў занадта вялікія для рэзервовага капіявання</item>

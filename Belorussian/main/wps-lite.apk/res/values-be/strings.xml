@@ -478,4 +478,10 @@
   <string name="public_pdfFillForm">Запоўніць форму</string>
   <string name="public_privacy_policy">Палітыка прыватнасці</string>
   <string name="public_writer2pic">Экспарт у файл толькі з выявай</string>
+  <string name="public_banner_action_button">Выкарыстоўваць</string>
+  <string name="public_share_change_to_pdf">Адправіць у фармаце PDF</string>
+  <string name="public_share_change_to_pic">Адправіць як выяву</string>
+  <string name="public_share_change_to_word">Адправіць у Word</string>
+  <string name="public_share_doc">Адправіць як файл</string>
+  <string name="public_share_title">Метад адпраўкі</string>
 </resources>

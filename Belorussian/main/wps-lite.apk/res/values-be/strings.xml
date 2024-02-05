@@ -121,7 +121,7 @@
   <string name="FontAsian">SimSun</string>
   <string name="func_extract_sheet">Выняць</string>
   <string name="func_output_as_pic">Выява</string>
-  <string name="func_pdf_to_word">Слова</string>
+  <string name="func_pdf_to_word">Word</string>
   <string name="func_smart_typography">Інтэлектуальная кампаноўка</string>
   <string name="func_translate_title">Пераклад ўсяго дакумента</string>
   <string name="go_to_download">Спампаваць</string>
@@ -242,9 +242,9 @@
   <string name="public_keep_format">Не мяняць фармат</string>
   <string name="public_kitkat_file_cant_write_tips">Бягучая версія Android пакуль не даваляе праграмам запіс на \"SD-карту (%1$s)\". Файл павінен быць захаваны на \"SD-карту (%2$s)\" як новы файл. Вы хочаце захаваць яго зараз?</string>
   <string name="public_kitkat_unable_to_write">Не атрымалася запісаць</string>
-  <string name="public_lite_cloud_dialog_message">Выкарыстоўвайце WPS Office, атрымлівайце асалоду ад %s сэрвіса</string>
+  <string name="public_lite_cloud_dialog_message">Выкарыстоўвайце WPS Office, атрымлівайце асалоду ад сэрвісу %s</string>
   <string name="public_lite_install_app_tips">Выкарыстоўвайце WPS Office для рэдагавання дакументаў у любы час і ў любым месцы</string>
-  <string name="public_lite_update_cloud_dialog_message">Абнавіце WPS Office, атрымлівайце асалоду ад %s сэрвіса</string>
+  <string name="public_lite_update_cloud_dialog_message">Абнавіце WPS Office, атрымлівайце асалоду ад сэрвісу %s</string>
   <string name="public_lite_update_right_now">Абнавіць зараз</string>
   <string name="public_lite_use_right_now">Выкарыстаць</string>
   <string name="public_loadDocumentFormatError">Памылка фармату файла. Не атрымалася адкрыць файл.</string>

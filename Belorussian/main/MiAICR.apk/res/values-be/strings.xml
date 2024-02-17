@@ -683,4 +683,14 @@
   <string name="cognition_permission_location_name">Дазвол на дакладнае месцазнаходжанне</string>
   <string name="cognition_permission_nearby_device_name">Дазвол на пошук прылады паблізу</string>
   <string name="cognition_permission_phone_state_name">Дазвол на інфармацыю, звязаную з тэлефонам</string>
+  <string name="AI_diwbkiad_dekete_model">Выдаліць мадэль</string>
+  <string name="AI_download_file_message">Падтрымка Mi ШI Стваральніка выяў, прыблiзна %.1f Гб</string>
+  <string name="AI_download_function_message">Усталюйце мадэль Mi ШI Стваральніка выяў, каб Mi ШI мог генераваць выявы на аснове вашых апісанняў.</string>
+  <string name="AI_download_title">Мадэль Mi ШI Стваральніка выяў</string>
+  <string name="copywriting_closeAirFresh_description_hmind">Сістэма падачы чыстага паветра выключана</string>
+  <string name="copywriting_closeAirFresh_description_island">Сістэма падачы чыстага паветра выключана</string>
+  <string name="copywriting_openAirFresh_description_hmind">Сістэма падачы чыстага паветра ўключана</string>
+  <string name="copywriting_openAirFresh_description_island">Сістэма падачы чыстага паветра ўключана</string>
+  <string name="download_start">Спампаваць</string>
+  <string name="download_updata">Абнавіць</string>
 </resources>

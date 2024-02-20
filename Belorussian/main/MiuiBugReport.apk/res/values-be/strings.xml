@@ -1086,4 +1086,22 @@
   <string name="miui_feedback_main_item_official_progress_hint">Рэгулярна абнаўляйце прагрэс рамонту ў супольнасці Xiaomi</string>
   <string name="miui_feedback_main_item_use_guide">Кіраўніцтва карыстальніка</string>
   <string name="miui_feedback_note_install_xiaomi_community">Усталюйце Супольнасць Xiaomi, каб мець магчымасць выкарыстоўваць гэту функцыю.</string>
+  <string name="catch_full_log_not_show_again">Больш не паказваць</string>
+  <string name="catch_full_log_note_affect_performance_decription">Падобна на тое, што працэс стварэння часопіса доўжыўся больш за %d гадзіны. Калі гэты працэс завершаны, вы можаце адправіць водгук. У адваротным выпадку вы можаце адмяніць працэс або працягнуць, але працяг можа часова паўплываць на магчымасці вашай прылады.</string>
+  <string name="catch_full_log_note_cancel_catch">Адмена</string>
+  <string name="catch_full_log_note_catch">Стварэнне часопіса</string>
+  <string name="catch_full_log_note_decription">Здаецца, вы ствараеце часопісы. Калі гэты працэс завершаны, вы можаце адправіць водгук. У адваротным выпадку працягнеце ці адмяніце працэс.</string>
+  <string name="catch_full_log_note_still_catch">Працягнуць</string>
+  <string name="catch_full_log_note_to_commit">Адправіць водгук</string>
+  <string name="catch_full_log_start_catch_log">Пачаць</string>
+  <string name="feedback_description_hint_suggestion_pad">Раскажыце нам, як мы можам палепшыць.</string>
+  <string name="log_catch_notice_content">Націсніце ніжэй, каб завяршыць або адмяніць гэты працэс.</string>
+  <string name="log_catch_step">Крокі па стварэнні часопісаў</string>
+  <string name="log_catching_notice">Стварэнне часопісаў</string>
+  <string name="special_log_catch">Стварыць часопісы</string>
+  <string name="special_log_catch_tips">*Працэс стварэння часопіса можа часова паўплываць на магчымасці прылады. Калі гэтыя праблемы не знікнуць, адмяніце гэты працэс у панэлі апавяшчэнняў.</string>
+  <string name="special_log_catch_top_hint">Каб дапамагчы нам лепш выявіць і ўхіліць праблему, з якой вы сутыкнуліся, выканайце наступныя дзеянні, каб стварыць часопісы для прымацавання.</string>
+  <string name="toast_a_log_is_catching">Цяпер генеруюцца часопісы. Націсніце, каб скончыць.</string>
+  <string name="toast_cloud_video_obtain_fail">Немагчыма адлюстроўваць вокладкі для відэа, запампаваных выдалена з аблокі</string>
+  <string name="toast_log_too_large">Немагчыма загрузіць часопісы больш за %d Гб</string>
 </resources>

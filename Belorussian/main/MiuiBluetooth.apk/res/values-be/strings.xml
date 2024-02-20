@@ -568,4 +568,14 @@
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="fast_connect_device_reset_audio_share">Калі ласка, націсніце і ўтрымлівайце 2 секунды для скіду</string>
   <string name="cooler_reset">Націсніце %d раз для спалучэння</string>
+  <string name="celluar_tether_disconect_title">Адлучана</string>
+  <string name="celluar_tether_name">Бесправадны мадэм</string>
+  <string name="celluar_tether_prompt">Пры бесправадным мадэме ваш планшэт можа выкарыстоўваць мабільную перадачу дадзеных вашага тэлефона. Здаецца, паблізу няма сумяшчальнага тэлефона Xiaomi. Пераканайцеся, што на вашым тэлефоне і планшэце ўвайшлі ў адзін і той жа ўліковы запіс Xiaomi, у тэлефоне ўключана перадача мабільных дадзеных і абодва прылады падлучаны да Wi-Fi.</string>
+  <string name="celluar_tether_prompt_china">Пры бесправадным мадэме ваш планшэт можа выкарыстоўваць мабільную перадачу дадзеных вашага тэлефона. Здаецца, паблізу няма сумяшчальнага тэлефона Xiaomi. Пераканайцеся, што на вашым тэлефоне і планшэце ўвайшлі ў адзін і той жа ўліковы запіс Xiaomi, у тэлефоне ўключана перадача мабільных дадзеных і абодва прылады падлучаны да Wi-Fi.</string>
+  <string name="celluar_tether_prompt_confirm">ОК</string>
+  <string name="easy_tether_auto_connect_summary_v2">Калі паблізу ёсць прылада, на якой вы ўвайшлі ў свой уліковы запіс, але не падлучана да Інтэрнэту, вы можаце дазволіць ёй выкарыстоўваць мабільную перадачу дадзеных або пункт доступу гэтай прылады. Дазволіць гэта дзеянне?</string>
+  <string name="easy_tether_statusbar_auto_connected_title_v2">Выкарыстанне мабільнай перадачы дадзеных %1$s</string>
+  <string name="easy_tether_statusbar_connect_title_v2">Выкарыстоўваць мабільную перадачу дадзеных %1$s</string>
+  <string name="fast_connect_miot_stabilizer_device_connect_done">падлучаны</string>
+  <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Камера</string>
 </resources>

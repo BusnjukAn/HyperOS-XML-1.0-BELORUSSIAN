@@ -1205,4 +1205,6 @@
   <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Правядзіце пальцам уверх ад ніжняй часткі экрана і зрабіце паўзу, каб адмацаваць гэту праграму</string>
   <string name="stylus_dislocation_summary">Прымацуйце стілус сюды</string>
   <string name="flip_expand_screen_partial_screen_shot_disable">Падтрымліваецца толькі на ўнутраным экране</string>
+  <string name="gesture_disabled">Выкл.</string>
+  <string name="gesture_enable">Укл.</string>
 </resources>

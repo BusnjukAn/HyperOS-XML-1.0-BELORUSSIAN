@@ -1156,4 +1156,6 @@
   <string name="start_new_window">Новае акно</string>
   <string name="new_default_folder_title_tools">Сістэмныя праграмы</string>
   <string name="system_shortcuts_icon_remove">Выдаліць</string>
+  <string name="recent_pin_text">Замацаваць</string>
+  <string name="system_sdk_disabled_toast">Сістэмны SDK адключаны. Спачатку уключыце яго.</string>
 </resources>

@@ -640,4 +640,5 @@
   <string name="zone_volume_automatic_change_optimization_title">Памылка кнопкі гучнасці</string>
   <string name="wallpaper_floral_arrangement_title">Кветкавая кампазіцыя</string>
   <string name="wallpaper_gradient_title">Градыент</string>
+  <string name="toast_camera_satellite_mutually_exclusive">Немагчыма выкарыстоўваць камеру пры выкарыстанні спадарожнікавай сувязі</string>
 </resources>

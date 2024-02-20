@@ -825,4 +825,27 @@
         <item quantity="other">Знойдзена %d элементаў</item>
         <item quantity="few">Знойдзена %d элемента</item>
     </plurals>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">Не атрымалася сінхранізаваць %d элементаў з-за недахопу месца ў воблачным сховішчы</item>
+        <item quantity="one">Не атрымалася сінхранізаваць %d элемент з-за недахопу месца ў воблачным сховішчы</item>
+        <item quantity="few">Не атрымалася сінхранізаваць %d элемента з-за недахопу месца ў воблачным сховішчы</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">%d элементаў не сінхранізавана</item>
+        <item quantity="few">%d элемента не сінхранізавана</item>
+        <item quantity="one">%d элемент не сінхранізаваны</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">Сінхранізацыя %d элементаў з выкарыстаннем мабільных дадзеных</item>
+        <item quantity="one">Сінхранізацыя %d элемента з выкарыстаннем мабільных дадзеных</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">Сінхранізацыя %d элементаў</item>
+        <item quantity="one">Сінхранізацыя %d элемента</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">Абярыце %d сегментаў відэа</item>
+        <item quantity="one">Абярыце %d сегмент відэа</item>
+        <item quantity="few">Абярыце %d сегмента відэа</item>
+    </plurals>
 </resources>

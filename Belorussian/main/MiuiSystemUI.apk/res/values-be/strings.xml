@@ -1965,4 +1965,15 @@
   <string name="screen_pinning_toast_gesture_mode">Правядзіце пальцам уверх ад ніжняй часткі экрана і зрабіце паўзу, каб адмацаваць гэту праграму</string>
   <string name="screen_pinning_toast_navigation_mode">Націсніце і ўтрымлівайце кнопкі \"Назад\" і \"Папярэдні прагляд\", каб адмацаваць гэту праграму</string>
   <string name="screen_pinning_toast_start">Гэта праграма замацаваная</string>
+  <string name="pin_toast">Правядзіце пальцам уверх ад ніжняй частцы экрана і зрабіце паўзу, каб адмацаваць гэту праграму</string>
+  <string name="pin_toast_nav">Націсніце i утрымлівайце кнопкі \"Назад\" і \"Папярэдні прагляд\", каб адмацаваць гэту праграму.</string>
+  <string name="qs_control_big_tile_click_cell_tether_tip">Выйдзіце з другой прасторы і паспрабуйце яшчэ раз</string>
+  <string name="qs_control_big_tile_connect_share_network_fail">Не атрымалася падлучыцца да мабільнай сеткі перадачы дадзеных. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="qs_control_big_tile_state_tethered_wifi">Выкарыстанне сігналу Wi-Fi тэлефона</string>
+  <string name="qs_control_big_tile_state_tethered_wlan">Выкарыстанне сігналу Wi-Fi тэлефона</string>
+  <string name="quick_settings_cell_state_change_message_connected">Падлучана да мабільнай сеткі перадачы дадзеных</string>
+  <string name="quick_settings_cell_state_change_message_disconnected">Адлучана ад мабільнай сеткі перадачы дадзеных</string>
+  <string name="qs_control_big_tile_click_cellular_tether_tip">Выйдзіце з другой прасторы і паспрабуйце яшчэ раз</string>
+  <string name="quick_settings_cellular_state_change_message_connected">Падлучана да мабільнай сеткі перадачы дадзеных</string>
+  <string name="quick_settings_cellular_state_change_message_disconnected">Адлучана ад мабільнай сеткі перадачы дадзеных</string>
 </resources>

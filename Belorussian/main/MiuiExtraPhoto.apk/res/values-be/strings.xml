@@ -318,4 +318,5 @@
   <string name="operation_undo">Адмена</string>
   <string name="acc_return">Назад</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="acc_refocus_slider">Рэгулёўка размыцця фону. Бягучы ўзровень:  %s</string>
 </resources>

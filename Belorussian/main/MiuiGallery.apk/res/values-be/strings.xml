@@ -3920,7 +3920,6 @@
   <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s\" ад %1$s</string>
   <string name="send_one_apk_dialog_desc_received">Атрыманы %2$d APK \"%3$s\" ад %1$s</string>
   <string name="send_one_apk_dialog_desc_receiving">Атрыманне %2$d APK \"%3$s\" ад %1$s</string>
-  <string name="send_one_audio_dialog_desc_receiving">Атрыманне %2$d APK \"%3$s\" ад %1$s</string>
   <string name="send_one_audio_dialog_desc">%2$d аўдыёфайл \"%3$s\" ад %1$s</string>
   <string name="send_one_audio_dialog_desc_received">Атрыманы аўдыёфайл %2$d \"%3$s\" ад %1$s</string>
   <string name="send_one_audio_dialog_desc_receiving">Атрыманне %2$d аўдыёфайла \"%3$s\" ад %1$s</string>

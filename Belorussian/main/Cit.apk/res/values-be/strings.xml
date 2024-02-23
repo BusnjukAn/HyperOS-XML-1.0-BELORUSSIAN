@@ -636,4 +636,12 @@
 Кажыце ў бакавой верхні мікрафон, вы павінны пачуць голас з дынаміка"</string>
   <string name="test_integration_speaker">Інтэграцыйны тэст спікера</string>
   <string name="test_integration_summary">Шэсць дынамікаў паслядоўна прайграваюць гук. Звярніце ўвагу на гук і вызначыце, ці з\'яўляецца ён ненармальным, захоўваючы пры гэтым вертыкальны стан экрана.</string>
+  <string name="cit_tele_5x_cali">Каліброўка тэлекамеры PdfOffset</string>
+  <string name="cit_tele_5x_cali_reset">Скід</string>
+  <string name="cit_tele_5x_cali_reset_success_toast">Скінута паспяхова</string>
+  <string name="cit_tele_5x_cali_success_toast">Паспяхова адкалібравана</string>
+  <string name="cit_tele_5x_cali_tip">"1. Пацвердзіце, што праблема ў ультратэлеаб\'ектыве размыцця;
+2. Націсніце кнопку «Калібраваць»;
+3. Вызначыце, ці палепшылася праблема размыцця фокусу ва ўльтратэлеаб\'ектыве да і пасля каліброўкі;
+4. Калі паляпшэнняў няма, націсніце кнопку скіду;"</string>
 </resources>

@@ -1737,10 +1737,8 @@
   <string name="sat_location">Месцазнаходжанне:</string>
   <string name="sat_PhoneAngle">Ракурс тэлефона:</string>
   <string name="sat_version">Версія мадэма:</string>
-  <string name="satellite_findout_settings_title">знайсці спадарожнік Tiantong</string>
   <string name="satellite_mobile_settings_summary">Падтрымліваецца толькі спадарожнікавыя SIM-карты ад China Telecom або іншых падтрымліваемых аператараў сувязі</string>
   <string name="satellite_mobile_settings_title">Уключыць спадарожнікавую сувязь</string>
-  <string name="satellite_tiantong_setting">спадарожнік Tiantong</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">С</string>

@@ -342,11 +342,8 @@
   <string name="satellite_guide_searching">Пошук спадарожніка…</string>
   <string name="satellite_guide_searching_floating">Ідзе пошук…</string>
   <string name="satellite_guide_up">Нахіліце прыладу ўверх\nкаб пакласці шар у сінюю вобласць</string>
-  <string name="satellite_incall_tip">Дынамік уключаны</string>
   <string name="satellite_service_provider">Паслуга прадастаўляецца China Telecom</string>
   <string name="satellite_state">Не перамяшчайце прыладу</string>
-  <string name="satellite_state_connected">Падлучаны да спадарожніка. Не перамяшчайце прыладу.</string>
-  <string name="satellite_state_connected_floating">Не перамяшчайце прыладу</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">С</string>

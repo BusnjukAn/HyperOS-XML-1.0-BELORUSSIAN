@@ -11,7 +11,7 @@
   <string name="activate_fail_notification_title">Актывіраваць сінхранізацыю зноў</string>
   <string name="activating">Актывацыя…</string>
   <string name="address">Адрас</string>
-  <string name="after_reset_need_restore_system_app">Падобна на тое, што вы выканалі скід налад. Падключыцеся да сеткі і аднавіце сістэмныя элементы, каб мець магчымасць нармальна выкарыстоўваць сiстэму.</string>
+  <string name="after_reset_need_restore_system_app">Падобна на тое, што вы выканалі скід налад. Падключыцеся да сеткі і аднавіце сістэмныя элементы, каб мець магчымасць нармальна выкарыстоўваць прыладу.</string>
   <string name="afternoon">Поўдзень</string>
   <string name="am">ДП</string>
   <string name="birthday">Дзень нараджэння</string>
@@ -19,7 +19,7 @@
   <string name="check_phone_error_title">Сінхранізацыя адключана</string>
   <string name="check_phone_io_error">Немагчыма злучыцца з сеткай</string>
   <string name="clearable_edittext_clear_description">Ачысціць</string>
-  <string name="click_to_restore">Аднавіце сістэмныя элементы, каб мець магчымасць нармальна выкарыстоўваць сiстэму пасля скіду налад. Націсніце, каб пачаць.</string>
+  <string name="click_to_restore">Аднавіце сістэмныя элементы, каб мець магчымасць нармальна выкарыстоўваць прыладу пасля скіду налад. Націсніце, каб пачаць.</string>
   <string name="close">Закрыць</string>
   <string name="com_mi_liveassistant">Памочнік струменевай перадачы ў рэальным часе</string>
   <string name="com_miui_calculator">Калькулятар</string>
@@ -98,7 +98,7 @@
   <string name="im">IM</string>
   <string name="immersion_button_close_description">Закрыць</string>
   <string name="instruction">Важная інфармацыя аб бяспецы</string>
-  <string name="label">Xiaomi SDK</string>
+  <string name="label">Сістэмны SDK</string>
   <string name="midnight">Ноч</string>
   <string name="mobile_data_consume">Для запампоўкі элементаў спатрэбіцца выкарыстаць %1$s Мб мабільных дадзеных. Спампаваць у любым выпадку?</string>
   <string name="mobile_data_remind">Папярэджанне аб выкарыстанні дадзеных</string>

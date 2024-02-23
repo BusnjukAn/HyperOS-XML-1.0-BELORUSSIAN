@@ -1705,4 +1705,22 @@
   <string name="miuix_navigator_multiple_choice">Абраць</string>
   <string name="miuix_navigator_navigator_switch_description">Схаваць бакавую панэль</string>
   <string name="add_to_block_cta_failed">Падайце Бяспецы неабходныя дазволы для дадання элементаў у чорны спіс</string>
+  <string name="cannot_send_location">Спачатку падайце дазволы на вызначэнне месцазнаходжання</string>
+  <string name="cannot_send_mms">Спадарожнікавая сувязь не падтрымлівае MMS</string>
+  <string name="carry_current_location">Уключыць бягучае месцазнаходжанне</string>
+  <string name="emergency_label">Экстранны кантакт</string>
+  <string name="enable_location_service">Патрабуюцца дазволы</string>
+  <string name="hold_hand_with_sending">Адпраўка SMS. Захоўвайце спакой.</string>
+  <string name="item_over_quantity">Абярыце да %d паведамленняў, якія змяшчаюць інфармацыю аб месцазнаходжанні</string>
+  <string name="item_shortage">Абярыце не менш за %d паведамленняў, якія змяшчаюць інфармацыю аб месцазнаходжанні</string>
+  <string name="menu_locus_map">Карта маршруту</string>
+  <string name="my_location">Маё месцазнаходжанне:</string>
+  <string name="not_send_location">Не зараз</string>
+  <string name="open_now">Налады</string>
+  <string name="satellite_location_failed">Немагчыма адправіць месцазнаходжанне. SMS адпраўлена без указання месцазнаходжання.</string>
+  <string name="satellite_location_privacy"><Data>Спадарожнікавая служба Tiantong павінна атрымаць доступ да вашага месцазнаходжання, каб мець магчымасць адпраўляць SMS. Прачытайце і прыміце нашу &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>&lt;/font> перш чым працягнуць.</Data></string>
+  <string name="satellite_location_privacy_title">Доступ да месцазнаходжання</string>
+  <string name="satellite_message_notification_contact_end">(Адпраўка праз спадарожнік)</string>
+  <string name="satellite_sms_notification">Гэтае паведамленне было адпраўлена спадарожнікавай службай Tiantong. Адпраўніку можа спатрэбіцца ваша дапамога.</string>
+  <string name="send_sms_with_location">Дазволіце гэтай праграме доступ да вашага месцазнаходжання, каб мець магчымасць адпраўляць паведамленні з указаннем вашага месцазнаходжання. Вы можаце прадаставіць гэты дазвол у наладах.</string>
 </resources>

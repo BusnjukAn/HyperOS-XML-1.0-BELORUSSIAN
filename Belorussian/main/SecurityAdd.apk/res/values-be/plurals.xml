@@ -131,4 +131,12 @@
     <item quantity="other">%s хв.</item>
     <item quantity="one">%s хв.</item>
   </plurals>
+  <plurals name="satellite_endurance_hour">
+      <item quantity="other">%s г.</item>
+      <item quantity="one">%s г.</item>
+   </plurals>
+   <plurals name="satellite_endurance_minute">
+      <item quantity="other">%s хв.</item>
+      <item quantity="one">%s хв.</item>
+   </plurals>
 </resources>

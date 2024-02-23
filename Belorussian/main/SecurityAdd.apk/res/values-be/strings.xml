@@ -702,4 +702,5 @@
   <string name="migrate_dialog_message_installed">Дзіцячая прастора абноўлена да апошняй версіі з новым кантролем часу выкарыстання і іншымі функцыямі, якія можна выкарыстоўваць толькі пасля паўторнага адкрыцця налад.</string>
   <string name="migrate_dialog_message_uninstalled">У Дзіцячую прастору дададзены новы кантроль часу выкарыстання і іншыя функцыі. Каб скарыстацца новымі функцыямі, абнавіце праграму да апошняй версіі</string>
   <string name="migrate_dialog_title">Напамін аб абнаўленні</string>
+  <string name="super_power_satellite_endurance_time">Можна зрабіць спадарожнікавы выклік ≈%1$s %2$s</string>
 </resources>

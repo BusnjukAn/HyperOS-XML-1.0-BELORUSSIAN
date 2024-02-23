@@ -7163,7 +7163,7 @@
   <string name="pc_wireless_charging_special_stand_summary2">Усталюйце прыладу на падстаўку, якая прыкладаецца да бесправадной зараднай прылады, для забеспячэння найлепшай прадукцыйнасці зарадкі</string>
   <string name="pc_wireless_charging_special_stand_title">Выкарыстоўвайце прыкладзеную падстаўку для зарадкі</string>
   <string name="pc_wireless_handle_connected">Прылада падлучана</string>
-  <string name="pc_wireless_handle_title">Бесправадная ручка камеры</string>
+  <string name="pc_wireless_handle_title">Ручка камеры</string>
   <string name="permission_group_file_less_t">Гэты дазвол дазваляе праграмам атрымліваць доступ да фатаграфій, відэа, аўдыё і іншых файлах, якія захоўваюцца на гэтай прыладзе.</string>
   <string name="power_ntc_dialog_btn_finish">Зразумела</string>
   <string name="power_ntc_dialog_msg">Адключыце зарадную прыладу. Ачысціце і высушыце порт зарадкі, перш чым выкарыстоўваць яго зноў.</string>
@@ -7181,4 +7181,5 @@
   <string name="vb_mv_style_close_toast">Стыль адключаны</string>
   <string name="vb_vison_dynamic_enhance_close_toast">Пашыраная анімацыя адключаная</string>
   <string name="fold_application_mode_name">Макеты праграм</string>
+  <string name="vtb_ai_subtitle_intl">Субтытры ШI</string>
 </resources>

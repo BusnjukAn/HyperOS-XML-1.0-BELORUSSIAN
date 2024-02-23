@@ -1597,4 +1597,7 @@
   <string name="miuix_navigator_content_switch_description">Паказаць бакавую панэль</string>
   <string name="miuix_navigator_multiple_choice">Абраць</string>
   <string name="miuix_navigator_navigator_switch_description">Схаваць бакавую панэль</string>
+  <string name="hint_distance">Для забеспячэння стабільнасці злучэння падчас імпарту дадзеных трымайце абедзве прылады побач адна з адной.</string>
+  <string name="notification_title_export">Экспарт кантактаў</string>
+  <string name="notification_title_import">Імпарт кантактаў</string>
 </resources>

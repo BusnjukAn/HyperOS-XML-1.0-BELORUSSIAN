@@ -180,4 +180,8 @@
     <item quantity="few">%d новых апавяшчэння</item>
     <item quantity="one">%d новае апавяшчэнне</item>
   </plurals>
+  <plurals name="satellite_low_battery">
+        <item quantity="other">Узровень зараду батарэі ніжэй за %1$s. Выхад са спадарожнікавай сувязі Tiantong праз %2$d сек.</item>
+        <item quantity="one">Узровень зараду батарэі ніжэй за %1$s. Выхад са спадарожнікавай сувязі Tiantong праз %2$d сек.</item>
+   </plurals>
 </resources>

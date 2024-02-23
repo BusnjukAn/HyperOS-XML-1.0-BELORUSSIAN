@@ -10878,4 +10878,19 @@
   <string name="small_window_not_support_add_data_toast">Немагчыма запісваць дадзеныя ў плаваючых вокнах. Пераключыцеся ў поўнаэкранны рэжым і паспрабуйце яшчэ раз.</string>
   <string name="gesture_wakeup_summary_2">Уключэнне і выключэнне экрана падвойным націскам. Працуе толькі з Класічнай тэмай.</string>
   <string name="wireless_display">Бесправадны дысплей</string>
+  <string name="lyra_account_ap_summary_v2">Дазволіць змешчаным паблізу планшэтам і кампутарам, на якіх выкананы ўваход у ваш акаўнт Xiaomi, выкарыстоўваць мабільныя дадзеныя гэтай прылады, уключаць пункт доступу на гэтай прыладзе і падлучацца да яго.</string>
+  <string name="lyra_account_ap_title_v2">Агульнае падлучэнне</string>
+  <string name="lyra_auto_connect_summary_v2">Аўтаматычна ўключаць пункт доступу і падлучаць да яго бліжэйшыя прылады, якія ўвайшлі ў ваш акаўнт Xiaomi, калі яны не падлучаныя да сеткі, і дазваляць ім выкарыстоўваць мабільныя дадзеныя гэтай прылады.</string>
+  <string name="lyra_auto_connect_title_v2">Дзяліцца аўтаматычна</string>
+  <string name="satellite_call_assistant">Налады выкліку</string>
+  <string name="satellite_network_title">Функцыі спадарожнікавага выкліку</string>
+  <string name="sos_add_area_code_switch_summary">Аўтаматычна дадаваць код горада да нумара тэлефона пры здзяйсненні экстранага выкліку з дапамогай спадарожнікавай сувязі Tiantong</string>
+  <string name="sos_add_area_code_switch_title">Аўтаматычна дадаваць код горада</string>
+  <string name="sos_area_code_settings_hint">Увядзіце код горада</string>
+  <string name="sos_area_code_settings_summary">Уручную ўсталюйце код горада для нумара тэлефона вашага экстранага кантакту</string>
+  <string name="sos_area_code_settings_title">Усталяваць код горада</string>
+  <string name="sos_navigation_guide_message">Для навігацыі націсніце кнопку памяншэння гучнасці, затым націсніце і ўтрымлівайце кнопку павелічэння гучнасці, каб пацвердзіць свой выбар</string>
+  <string name="sos_navigation_guide_title">Кнопкі гучнасці ў рэжыме экстранай дапамогі</string>
+  <string name="sos_satellite_dialog_message">Здаецца, мабільныя сеткі недаступныя ў гэтай вобласці. Цяпер вы не можаце здзяйсняць выклікі ці звяртацца па дапамогу. Уключыць спадарожнікавую сувязь Tiantong?</string>
+  <string name="sos_satellite_dialog_title">Уключыць спадарожнікавую сувязь Tiantong</string>
 </resources>

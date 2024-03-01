@@ -2268,4 +2268,11 @@
   <string name="satellite_use_phone_message">"Пасля ўключэння рэжыму спадарожніка вы зможаце здзяйсняць і прымаць выклікі праз спадарожнік. Выконвайце інструкцыі на экране, каб забяспечыць якасць выкліку і падтрымліваць спадарожнікавае злучэнне падчас размовы. Гучная сувязь будзе ўключаная па змаўчанні. Заставайцеся на месцы і не змяняйце становішча прылады падчас размовы, каб пазбегнуць перабояў."</string>
   <string name="satellite_use_phone_title">Як выкарыстоўваць спадарожнікавую сувязь для выклікаў?</string>
   <string name="satellite_use_title">Навошта выкарыстоўваць спадарожнікавую сувязь?</string>
+  <string name="satellite_call_indoor_positioning_message">Калі SIM-карта з падтрымкай спадарожнікавай сувязі не ўсталявана, і вы знаходзіцеся ўсярэдзіне памяшкання, то ў якасці месцазнаходжання па змаўчанні выкарыстоўваецца Навукова-тэхнічны парк Xiaomi. Гэта дазваляе вашай прыладзе дэманстраваць размяшчэнне спадарожнікаў.</string>
+  <string name="satellite_call_indoor_positioning_title">Чаму месцазнаходжанне прылады адлюстроўваецца як Навукова-тэхналагічны парк Xiaomi, калі я знаходжуся ў памяшканні?</string>
+  <string name="satellite_display_insert_support_card_message">Каб мець магчымасць выкарыстоўваць спадарожнікавую сувязь Tiantong, устаўце SIM-карту з падтрымкай спадарожнікавай сувязі ад China Telecom.</string>
+  <string name="satellite_display_insert_support_card_title">Устаўце спадарожнікавую SIM-карту</string>
+  <string name="satellite_display_message">Здаецца, ваша SIM-карта не падтрымлівае спадарожнікавую сувязь Tiantong. Каб выкарыстоўваць гэтую функцыю, устаўце SIM-карту з падтрымкай спадарожнікавай сувязі ад China Telecom. Усё роўна працягнуць?</string>
+  <string name="satellite_display_search_star">Працягнуць</string>
+  <string name="satellite_knew">Зразумела</string>
 </resources>

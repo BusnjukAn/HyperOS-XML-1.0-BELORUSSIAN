@@ -7182,4 +7182,7 @@
   <string name="vb_vison_dynamic_enhance_close_toast">Пашыраная анімацыя адключаная</string>
   <string name="fold_application_mode_name">Макеты праграм</string>
   <string name="vtb_ai_subtitle_intl">Субтытры ШI</string>
+  <string name="gamebox_filter_alpha_tip">Празрыстасць</string>
+  <string name="gamebox_filter_dark_conter">Віньетка</string>
+  <string name="gamebox_mem_filter">Гульнявыя фільтры</string>
 </resources>

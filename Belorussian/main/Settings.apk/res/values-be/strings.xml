@@ -10893,4 +10893,8 @@
   <string name="sos_navigation_guide_title">Кнопкі гучнасці ў рэжыме экстранай дапамогі</string>
   <string name="sos_satellite_dialog_message">Здаецца, мабільныя сеткі недаступныя ў гэтай вобласці. Цяпер вы не можаце здзяйсняць выклікі ці звяртацца па дапамогу. Уключыць спадарожнікавую сувязь Tiantong?</string>
   <string name="sos_satellite_dialog_title">Уключыць спадарожнікавую сувязь Tiantong</string>
+  <string name="international_lyra_account_ap_summary">Дазволіць змешчаным паблізу планшэтам і кампутарам, на якіх выкананы ўваход у ваш акаўнт, аўтаматычна ўключаць і падлучацца да пункту доступу гэтай прылады.</string>
+  <string name="international_lyra_account_ap_title">Сеткавая сінхранізацыя</string>
+  <string name="international_lyra_auto_connect_summary">Калі на прыладзе паблізу выкананы ўваход у ваш акаўнт і ёй неабходна падлучыцца да Інтэрнэту, аўтаматычна ўключаць і падлучацца да пункту доступу гэтай прылады.</string>
+  <string name="international_lyra_auto_connect_title">Аўтаматычнае падлучэнне да пункту доступу</string>
 </resources>

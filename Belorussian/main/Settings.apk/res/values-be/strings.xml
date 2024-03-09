@@ -10897,4 +10897,15 @@
   <string name="international_lyra_account_ap_title">Сеткавая сінхранізацыя</string>
   <string name="international_lyra_auto_connect_summary">Калі на прыладзе паблізу выкананы ўваход у ваш акаўнт і ёй неабходна падлучыцца да Інтэрнэту, аўтаматычна ўключаць і падлучацца да пункту доступу гэтай прылады.</string>
   <string name="international_lyra_auto_connect_title">Аўтаматычнае падлучэнне да пункту доступу</string>
+  <string name="camera_grip_firmware_save_button_know">Зразумела</string>
+  <string name="camera_grip_firmware_save_button_negaitive">Не зараз</string>
+  <string name="camera_grip_firmware_save_button_positive">Абнавіць</string>
+  <string name="camera_grip_firmware_save_channel">Апавяшчэнні аб ручцы камеры</string>
+  <string name="camera_grip_firmware_save_networking_tips">Падключыцеся да Wi-Fi або ўключыце мабільную перадачу дадзеных і паўтарыце спробу абнаўлення прашыўкі.</string>
+  <string name="camera_grip_firmware_save_networking_tips_china">Падключыцеся да Wi-Fi або ўключыце мабільную перадачу дадзеных і паўтарыце спробу абнаўлення прашыўкі.</string>
+  <string name="camera_grip_firmware_save_text">Абнавіце прашыўку, каб працягнуць выкарыстанне гэтай прылады.</string>
+  <string name="camera_grip_firmware_save_title">Прафесійная ручка камеры</string>
+  <string name="camera_grip_firmware_update_handle_low_battery_notify">Зніміце ручку камеры, зарадзіце гэтую прыладу, затым паспрабуйце абнавіць прашыўку яшчэ раз.</string>
+  <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Перад абнаўленнем прашыўкі зарадзіце гэтую прыладу і ручку камеры</string>
+  <string name="camera_grip_firmware_update_phone_low_battery_notify">Падлучыце зарадную прыладу да гэтай прылады і паўтарыце спробу абнаўлення прашыўкі</string>
 </resources>

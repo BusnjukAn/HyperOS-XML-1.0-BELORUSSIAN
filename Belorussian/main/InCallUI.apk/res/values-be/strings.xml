@@ -498,10 +498,11 @@
   <string name="satellite_state_connected_floating">Не перамяшчайце прыладу.</string>
   <string name="satellite_get_gps_timeout">Немагчыма атрымаць інфармацыю аб месцазнаходжанні. Заставайцеся на адкрытай прасторы і пазбягайце аб\'ектаў, якія блакуюць сігнал.</string>
   <string name="satellite_latitude_longitude">"Бягучае месцазнаходжанне: "</string>
-  <string name="satellite_state_connected_exp">"Спадарожнік выяўлены паспяхова
-Устаўце SIM-карту са спадарожнікавай сувяззю і паспрабуйце яшчэ раз»</string>
+  <string name="satellite_state_connected_exp">Спадарожнік выяўлены паспяхова</string>
   <string name="satellite_state_connected_exp_floating">Спадарожнік выяўлены паспяхова</string>
   <string name="satellite_state_gps_noti_content">Выкарыстанне інфармацыі аб вашым месцазнаходжанні…</string>
   <string name="satellite_state_gps_noti_title">Спадарожнікавая сувязь</string>
   <string name="satellite_state_occlusion_prompt">Пазбягайце будынкаў і дрэў, якія могуць блакаваць сігнал</string>
+  <string name="align_satellite_model_use_exp">Гатова</string>
+  <string name="satellite_dialog_cancel_exp">Адмена</string>
 </resources>

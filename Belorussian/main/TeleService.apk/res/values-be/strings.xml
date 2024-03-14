@@ -2275,4 +2275,11 @@
   <string name="satellite_display_message">Здаецца, ваша SIM-карта не падтрымлівае спадарожнікавую сувязь Tiantong. Каб выкарыстоўваць гэтую функцыю, устаўце SIM-карту з падтрымкай спадарожнікавай сувязі ад China Telecom. Усё роўна працягнуць?</string>
   <string name="satellite_display_search_star">Працягнуць</string>
   <string name="satellite_knew">Зразумела</string>
+  <string name="satellite_privacy_withdrawal_dialog_disable_negative">Адмяніць (%d сек.)</string>
+  <string name="satellite_privacy_withdrawal_dialog_enable_negative">Адмяніць</string>
+  <string name="satellite_privacy_withdrawal_dialog_message">"Калі вы адмяніце паслугі спадарожнікавай сувязі Tiantong, мы спынім збіраць вашу асабістую інфармацыю і выдалім асабістую інфармацыю, ужо сабраную ў адпаведнасці з дзеючым заканадаўствам, калі іншыя законы і правілы не вызначаюць тэрмін захоўвання асабістай інфармацыі.
+Адмяніць паслугі зараз?"</string>
+  <string name="satellite_privacy_withdrawal_dialog_positive">Не адмяняць</string>
+  <string name="satellite_privacy_withdrawal_dialog_title">Увага</string>
+  <string name="satellite_privacy_withdrawal_setting">Адмяніць паслугі спадарожнікавай сувязі Tiantong</string>
 </resources>

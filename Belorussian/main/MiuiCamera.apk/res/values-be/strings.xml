@@ -3188,4 +3188,5 @@
   <string name="workspace_street_portrait">Партрэтны стыль: %s</string>
   <string name="workspace_street_zoom">Фокусная адлегласць: %s</string>
   <string name="workspace_street_zoom_adapter">%s\nФокусная адлегласць</string>
+  <string name="camera_handle_customize_button_snap">Функцыя засаўкі</string>
 </resources>

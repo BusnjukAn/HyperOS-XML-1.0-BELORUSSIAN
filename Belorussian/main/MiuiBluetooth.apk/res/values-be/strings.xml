@@ -517,9 +517,9 @@
   <string name="bluetooth_profile_le_audio">LE AUDIO</string>
   <string name="easy_tether_auto_connect_close">Выкл.</string>
   <string name="easy_tether_auto_connect_open">Укл.</string>
-  <string name="easy_tether_auto_connect_summary">Аўтаматычна ўключаць мабільны пункт доступу і падлучацца, калі бліжэйшым прыладам з такім жа акаўнтам патрабуецца доступ да інтэрнэту.</string>
+  <string name="easy_tether_auto_connect_summary">Вы можаце ўключыць пункт доступу і дазволіць суседнім прыладам, якія выкарыстоўваюць ваш акаўнт, падлучацца аўтаматычна, калі яны не могуць атрымаць доступ да сеткі іншымі спосабамі.</string>
   <string name="easy_tether_auto_connect_toast">Падлучана да пункту доступу %1$s. Усталюйце ліміты дадзеных у наладах гэтай прылады.</string>
-  <string name="easy_tether_cancel">Адмена</string>
+  <string name="easy_tether_cancel">Не</string>
   <string name="easy_tether_confirm">Так</string>
   <string name="easy_tether_connect_method_automatic">Аўтаматычнае злучэнне</string>
   <string name="easy_tether_connect_method_dialog">Адкрываецца ўсплывальнае акно</string>
@@ -532,11 +532,11 @@
   <string name="easy_tether_device_type_unknown">Невядомая прылада</string>
   <string name="easy_tether_device_type_vela_sound">Дынамік Vela</string>
   <string name="easy_tether_device_type_vela_watch">Гадзіннік Vela</string>
-  <string name="easy_tether_next_auto_connect">Аўтаматычна падлучацца ў наступны раз?</string>
-  <string name="easy_tether_statusbar_auto_connected_title">Падлучана да %1$s пункту доступу</string>
-  <string name="easy_tether_statusbar_connect_fail_title">Памылка злучэння</string>
-  <string name="easy_tether_statusbar_connect_title">Уключыць пункт доступу %1$s</string>
-  <string name="easy_tether_statusbar_connecting_title">Падлучэнне</string>
+  <string name="easy_tether_next_auto_connect">Падлучыцца аўтаматычна ў наступны раз?</string>
+  <string name="easy_tether_statusbar_auto_connected_title">Падлучана да пункту доступу: %1$s</string>
+  <string name="easy_tether_statusbar_connect_fail_title">Не ўдалося падлучыцца</string>
+  <string name="easy_tether_statusbar_connect_title">Падлучыцца да пункту доступу: %1$s</string>
+  <string name="easy_tether_statusbar_connecting_title">Падлучэнне…</string>
   <string name="easy_tether_statusbar_dialog_connected_title">Падлучана</string>
   <string name="fast_connect_device_button_audio_share_fail">Зразумела</string>
   <string name="fast_connect_device_message_audio_share">Абагуліць аўдыя гэтай прылады з гэтай парай навушнікаў</string>
@@ -573,9 +573,9 @@
   <string name="celluar_tether_prompt">Пры бесправадным мадэме ваш планшэт можа выкарыстоўваць мабільную перадачу дадзеных вашага тэлефона. Здаецца, паблізу няма сумяшчальнага тэлефона Xiaomi. Пераканайцеся, што на вашым тэлефоне і планшэце ўвайшлі ў адзін і той жа ўліковы запіс Xiaomi, у тэлефоне ўключана перадача мабільных дадзеных і абодва прылады падлучаны да Wi-Fi.</string>
   <string name="celluar_tether_prompt_china">Пры бесправадным мадэме ваш планшэт можа выкарыстоўваць мабільную перадачу дадзеных вашага тэлефона. Здаецца, паблізу няма сумяшчальнага тэлефона Xiaomi. Пераканайцеся, што на вашым тэлефоне і планшэце ўвайшлі ў адзін і той жа ўліковы запіс Xiaomi, у тэлефоне ўключана перадача мабільных дадзеных і абодва прылады падлучаны да Wi-Fi.</string>
   <string name="celluar_tether_prompt_confirm">ОК</string>
-  <string name="easy_tether_auto_connect_summary_v2">Калі паблізу ёсць прылада, на якой вы ўвайшлі ў свой уліковы запіс, але не падлучана да Інтэрнэту, вы можаце дазволіць ёй выкарыстоўваць мабільную перадачу дадзеных або пункт доступу гэтай прылады. Дазволіць гэта дзеянне?</string>
-  <string name="easy_tether_statusbar_auto_connected_title_v2">Выкарыстанне мабільнай перадачы дадзеных %1$s</string>
-  <string name="easy_tether_statusbar_connect_title_v2">Выкарыстоўваць мабільную перадачу дадзеных %1$s</string>
-  <string name="fast_connect_miot_stabilizer_device_connect_done">падлучаны</string>
+  <string name="easy_tether_auto_connect_summary_v2">Аўтаматычна ўключаць мабільную сетку або пункт доступу і падлучацца, калі бліжэйшым прыладам з тым жа акаўнтам патрабуецца доступ у Інтэрнэт.</string>
+  <string name="easy_tether_statusbar_auto_connected_title_v2">Падлучана да сеткі: %1$s</string>
+  <string name="easy_tether_statusbar_connect_title_v2">Падлучыцца да сеткі: %1$s</string>
+  <string name="fast_connect_miot_stabilizer_device_connect_done">падлучана</string>
   <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Камера</string>
 </resources>

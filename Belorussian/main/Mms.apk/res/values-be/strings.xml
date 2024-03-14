@@ -1723,4 +1723,25 @@
   <string name="satellite_message_notification_contact_end">(Адпраўка праз спадарожнік)</string>
   <string name="satellite_sms_notification">Гэтае паведамленне было адпраўлена спадарожнікавай службай Tiantong. Адпраўніку можа спатрэбіцца ваша дапамога.</string>
   <string name="send_sms_with_location">Дазволіце гэтай праграме доступ да вашага месцазнаходжання, каб мець магчымасць адпраўляць паведамленні з указаннем вашага месцазнаходжання. Вы можаце прадаставіць гэты дазвол у наладах.</string>
+  <string name="carry_vital_signs">Уключыць жыццёва важныя паказчыкі</string>
+  <string name="vital_signs_cta_body">"Дадзеныя аб жыццёва важных паказчыках (уключаючы частату сардэчных скарачэнняў, SpO₂ і інфармацыю аб медыцынскай карце) узятыя з Mi Здароўя. Калі вы адзначыце галачку ніжэй, гэта азначае, што вы згодны з тым, каб мы атрымалі доступ да гэтых дадзеных і выкарыстоўвалі іх.
+Толькі першыя 50 сімвалаў кожнага запісу медыцынскай карты будуць захаваны для кантролю даўжыні паведамлення."</string>
+  <string name="vital_signs_cta_title">Жыццёва важныя паказчыкі</string>
+  <string name="vital_signs_data_allergy">Алергія: %s</string>
+  <string name="vital_signs_data_disease">Хранічныя станы: %s</string>
+  <string name="vital_signs_data_high_bpm">Высокі пульс, апошні раз: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
+  <string name="vital_signs_data_high_bpm_multi">Высокі пульс, некалькі разоў за апошнюю гадзіну. Самы апошні: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
+  <string name="vital_signs_data_low_bpm">Нізкі пульс, апошняе: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
+  <string name="vital_signs_data_low_bpm_multi">Шматразовае зніжэнне пульса за апошнюю гадзіну. Самы апошні: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
+  <string name="vital_signs_data_low_spo2">Нізкі SpO₂, апошняе: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+  <string name="vital_signs_data_low_spo2_multi">SpO₂ некалькі разоў зніжаўся за апошнюю гадзіну. Самы апошні: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+  <string name="vital_signs_data_medical">Лячэнне: %s</string>
+  <string name="vital_signs_toast_Exception">Не атрымалася атрымаць дадзеныя аб жыццёва важных паказчыках</string>
+  <string name="vital_signs_toast_health_app_low">Абнавіце Mi Здароўе, каб мець магчымасць атрымліваць дадзеныя аб жыццёва важных паказчыках</string>
+  <string name="vital_signs_toast_health_app_no_install">Усталюйце Mi Здароўе, каб мець магчымасць атрымліваць дадзеныя аб жыццёва важных паказчыках</string>
+  <string name="vital_signs_toast_no_bpm_spo2">"Не атрымалася атрымаць дадзеныя аб частаце пульса і SpO₂"</string>
+  <string name="vital_signs_toast_no_data">Не атрымалася атрымаць дадзеныя аб жыццёва важных паказчыках</string>
+  <string name="vital_signs_wait_body">Доступ да дадзеных. Гэта можа заняць хвіліну.</string>
+  <string name="vital_signs_wait_skip">Прапусціць</string>
+  <string name="vital_signs_wait_title">Звесткі аб жыццёва важных паказчыках</string>
 </resources>

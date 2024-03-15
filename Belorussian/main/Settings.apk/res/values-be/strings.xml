@@ -10914,4 +10914,9 @@
 Маё месцазнаходжанне:
 %s
 Гэтае паведамленне адпраўлена праз спадарожнік Tiantong. Адпраўніку можа спатрэбіцца неадкладная дапамога."</string>
+  <string name="loading_eid_error_message">Немагчыма атрымаць інфармацыю EID. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="loading_eid_error_ok">Зразумела</string>
+  <string name="loading_eid_error_title">Немагчыма атрымаць</string>
+  <string name="loading_eid_tip">Атрыманне інфармацыі EID…</string>
+  <string name="miui_car_diagnosis">Уключыць дыягностыку аўтамабіля</string>
 </resources>

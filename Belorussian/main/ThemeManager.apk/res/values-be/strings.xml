@@ -1754,4 +1754,8 @@
   <string name="wind_direction_7_f">Паўн.Зах. вецер</string>
   <string name="wind_format">%1$s | Узровень %2$s</string>
   <string name="aqi_format_desc">Індэкс якасці паветра: %s</string>
+  <string name="about_securitycenter_icp">Рэгістрацыйны нумар: Beijing ICP No. 10046444-51A &gt;</string>
+  <string name="gallery_wallpaper_history">Націсніце, каб паглядзець папярэднія выявы, прадстаўленыя ў каруселі шпалер</string>
+  <string name="gallery_wallpaper_history_go">Паглядзець</string>
+  <string name="wallpaper_history">Гісторыя шпалер</string>
 </resources>

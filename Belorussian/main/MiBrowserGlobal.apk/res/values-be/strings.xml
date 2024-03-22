@@ -3013,4 +3013,13 @@
   <string name="web_app_center_common_done">Гатова</string>
   <string name="web_app_center_common_title">Часта выкарыстоўваемыя</string>
   <string name="web_app_center_history_more">Больш</string>
+  <string name="btn_copied">Скапіявана</string>
+  <string name="btn_copy">Капіяваць</string>
+  <string name="btn_open">Адкрыць</string>
+  <string name="kindred_coupons_terms">Паказаць умовы выкарыстання</string>
+  <string name="kindred_coupons_title">Купоны</string>
+  <string name="accelerate_play">Хуткасць: %sX</string>
+  <string name="tab_mall">Крама</string>
+  <string name="refresh_button_update_item">Даступныя абнаўлення: %d</string>
+  <string name="refresh_button_update_latest">Вы праглядаеце апошнія элементы</string>
 </resources>

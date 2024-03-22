@@ -10919,4 +10919,6 @@
   <string name="loading_eid_error_title">Немагчыма атрымаць</string>
   <string name="loading_eid_tip">Атрыманне інфармацыі EID…</string>
   <string name="miui_car_diagnosis">Уключыць дыягностыку аўтамабіля</string>
+  <string name="title_device_control">Элементы кіравання прыладай</string>
+  <string name="title_xiaomi_smart_hub">Цэнтр трансляцыi</string>
 </resources>

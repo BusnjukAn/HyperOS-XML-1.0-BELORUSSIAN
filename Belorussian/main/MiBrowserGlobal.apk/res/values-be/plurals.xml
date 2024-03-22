@@ -480,4 +480,10 @@
     <item quantity="few">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разы!</item>
     <item quantity="many">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разоў!</item>
   </plurals>
+  <plurals name="kindred_coupons_hint">
+    <item quantity="other">У вас ёсць %d купонаў</item>
+    <item quantity="one">У вас ёсць %d купон</item>
+    <item quantity="few">У вас ёсць %d купоны</item>
+    <item quantity="many">У вас ёсць %d купонаў</item>
+  </plurals>
 </resources>

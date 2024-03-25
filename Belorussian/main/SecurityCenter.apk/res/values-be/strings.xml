@@ -7185,4 +7185,13 @@
   <string name="gamebox_filter_alpha_tip">Празрыстасць</string>
   <string name="gamebox_filter_dark_conter">Віньетка</string>
   <string name="gamebox_mem_filter">Гульнявыя фільтры</string>
+  <string name="app_manager_airtel_dlg_msg">Калі ў вас ёсць пытанні, звяжыцеся з Airtel</string>
+  <string name="app_manager_airtel_dlg_title">Заблакавана Airtel</string>
+  <string name="gamebox_filter_tip">Выбраны гульнявы фільтр будзе ўжыты, калі вы пачнеце гуляць</string>
+  <string name="gamebox_filter_toast_apply">Фільтр будзе ўжыты, калі вы пачнеце гуляць</string>
+  <string name="gamebox_filter_toast_open">Ужыванне фільтра: %1$s</string>
+  <string name="pc_berserk_mode_dialog_title">Уключыць максімальны рэжым</string>
+  <string name="pc_berserk_mode_noti_summary">Максімальны рэжым можа павялічыць энергаспажыванне і прывесці да праблем з перагрэвам</string>
+  <string name="pc_berserk_mode_performance_title">Максімальны рэжым</string>
+  <string name="pc_power_mode_has_berserk">Максімальны рэжым уключаны</string>
 </resources>

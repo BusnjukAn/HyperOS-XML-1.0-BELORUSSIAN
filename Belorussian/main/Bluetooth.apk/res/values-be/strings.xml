@@ -395,4 +395,10 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">С</string>
   <string name="yesterday">Учора</string>
+  <string name="bluetooth_and_wifi_stays_on_message">Ваша прылада запамінае неабходнасць уключэння Wi-Fi і Bluetooth у рэжыме палёту. Выключыце Wi-Fi і Bluetooth, калі не хочаце, каб яны заставаліся ўключанымі.</string>
+  <string name="bluetooth_and_wifi_stays_on_title">Не адключаць Wi-Fi і Bluetooth у рэжыме палёту</string>
+  <string name="bluetooth_enabled_apm_message">Калі вы пакінеце Bluetooth уключаным, ваша прылада не адключыць яго, калі вы ў наступны раз пяройдзеце ў рэжым палёту</string>
+  <string name="bluetooth_enabled_apm_title">Bluetooth уключаны ў рэжыме палёту</string>
+  <string name="bluetooth_stays_on_message">Ваша прылада запамінае, што Bluetooth павінен быць уключаны ў рэжыме палёту. Выключыце Bluetooth, калі вы не хочаце, каб ён заставаўся ўключаным.</string>
+  <string name="bluetooth_stays_on_title">Bluetooth застаецца уключаным</string>
 </resources>

@@ -10935,4 +10935,6 @@
   <string name="miui_car_diagnosis">Уключыць дыягностыку аўтамабіля</string>
   <string name="title_device_control">Элементы кіравання прыладай</string>
   <string name="title_xiaomi_smart_hub">Цэнтр трансляцыi</string>
+  <string name="miui_visual_perception_summary">Няхай ваша прылада распазнае вашу прысутнасць і абярэ зручнейшыя варыянты блакавання і разблакавання.</string>
+  <string name="miui_visual_perception_title">Актыўнае зрокавае ўспрыманне</string>
 </resources>

@@ -1744,4 +1744,7 @@
   <string name="vital_signs_wait_body">Доступ да дадзеных. Гэта можа заняць хвіліну.</string>
   <string name="vital_signs_wait_skip">Прапусціць</string>
   <string name="vital_signs_wait_title">Звесткі аб жыццёва важных паказчыках</string>
+  <string name="send_success">Адпраўлена паспяхова</string>
+  <string name="wrong_mms_version_msg">Усталюйце версію Паведамленняў, сумяшчальную з вашай прыладай і сістэмай.</string>
+  <string name="wrong_mms_version_title">Памылка версіі</string>
 </resources>

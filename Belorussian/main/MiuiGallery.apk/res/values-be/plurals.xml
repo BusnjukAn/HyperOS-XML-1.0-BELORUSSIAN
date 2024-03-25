@@ -848,4 +848,12 @@
         <item quantity="one">Абярыце %d сегмент відэа</item>
         <item quantity="few">Абярыце %d сегмента відэа</item>
     </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+    <item quantity="other">Відэаслот %1$d, чаканне дадання відэа працягласцю %2$s сек. ці даўжэй</item>
+    <item quantity="one">Відэаслот %1$d, чаканне дадання відэа працягласцю %2$s сек. ці даўжэй</item>
+  </plurals>
+  <plurals name="video_editor_component_next_step_disabled_content_description">
+    <item quantity="other">Дадайце яшчэ %d відэа, каб працягнуць</item>
+    <item quantity="one">Дадайце яшчэ %d відэа, каб працягнуць</item>
+  </plurals>
 </resources>

@@ -576,6 +576,6 @@
   <string name="easy_tether_auto_connect_summary_v2">Аўтаматычна ўключаць мабільную сетку або пункт доступу і падлучацца, калі бліжэйшым прыладам з тым жа акаўнтам патрабуецца доступ у Інтэрнэт.</string>
   <string name="easy_tether_statusbar_auto_connected_title_v2">Падлучана да сеткі: %1$s</string>
   <string name="easy_tether_statusbar_connect_title_v2">Падлучыцца да сеткі: %1$s</string>
-  <string name="fast_connect_miot_stabilizer_device_connect_done">падлучана</string>
+  <string name="fast_connect_miot_stabilizer_device_connect_done">Падлучана</string>
   <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Камера</string>
 </resources>

@@ -641,4 +641,7 @@
   <string name="wallpaper_floral_arrangement_title">Кветкавая кампазіцыя</string>
   <string name="wallpaper_gradient_title">Градыент</string>
   <string name="toast_camera_satellite_mutually_exclusive">Немагчыма выкарыстоўваць камеру пры выкарыстанні спадарожнікавай сувязі</string>
+  <string name="earpiece_callmode_tip">Перавярніце, каб выкарыстоўваць навушнік або ўключыць дынамік</string>
+  <string name="start_activity_tip">Працягнуць на ўнутраным экране</string>
+  <string name="wifi_5ghz_sap_start_failed_by_region">Мадэм немагчыма выкарыстоўваць пры падлучэнні да дыяпазону Wi-Fi 5 Ггц.</string>
 </resources>

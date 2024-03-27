@@ -184,4 +184,8 @@
         <item quantity="other">Узровень зараду батарэі ніжэй за %1$s. Выхад са спадарожнікавай сувязі Tiantong праз %2$d сек.</item>
         <item quantity="one">Узровень зараду батарэі ніжэй за %1$s. Выхад са спадарожнікавай сувязі Tiantong праз %2$d сек.</item>
    </plurals>
+    <plurals name="satellite_low_battery_turn_off_message">
+        <item quantity="other">Батарэя разраджана. Спадарожнікавая сувязь Tiantong адключыцца праз %d сек.</item>
+        <item quantity="one">Батарэя разраджана. Спадарожнікавая сувязь Tiantong адключыцца праз %d сек.</item>
+    </plurals>
 </resources>

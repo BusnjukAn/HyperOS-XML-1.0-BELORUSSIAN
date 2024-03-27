@@ -2222,7 +2222,7 @@
   <string name="new_arrears_sim_summary">Баланс вашай SIM-карты можа быць недастатковым або на яго распаўсюджваюцца сеткавыя абмежаванні. Для атрымання дадатковай інфармацыі звярніцеся да свайго аператара сувязі.</string>
   <string name="new_arrears_sim_title">Немагчыма падлучыцца да Інтэрнэту</string>
   <string name="satellite_camera_enable_toast">Зачыніце камеру перад выкарыстаннем спадарожнікавых службаў Tiantong</string>
-  <string name="satellite_exit_now_battery">Выйсці зараз</string>
+  <string name="satellite_exit_now_battery">Выключыць</string>
   <string name="satellite_low_battery">Бягучы ўзровень зарада батарэі складае менш за 5%%, і сістэма адключыць спадарожнікавую сувязь Tiantong праз %d сек.</string>
   <string name="satellite_not_show_again">Больш не паказваць</string>
   <string name="satellite_notification_text">Вы па-ранейшаму можаце здзяйсняць выклікі і адпраўляць SMS без сігналу, выкарыстоўваючы спадарожнікавую сувязь Tiantong. Спачатку уключыце гэтую службу.</string>
@@ -2282,4 +2282,9 @@
   <string name="satellite_privacy_withdrawal_dialog_positive">Не адмяняць</string>
   <string name="satellite_privacy_withdrawal_dialog_title">Увага</string>
   <string name="satellite_privacy_withdrawal_setting">Адмяніць паслугі спадарожнікавай сувязі Tiantong</string>
+  <string name="satellite_low_battery_cancel">Адмена</string>
+  <string name="satellite_low_battery_confirm">Уключыць</string>
+  <string name="satellite_low_battery_message">Батарэя занадта разраджана, каб уключыць спадарожнікавую сувязь Tiantong.</string>
+  <string name="satellite_low_battery_super_save_power_message">Батарэя разраджана. Уключыце рэжым максімальнага энергазберажэння, каб нармальна карыстацца спадарожнікавай сувяззю. Уключыць?</string>
+  <string name="satellite_low_battery_title">Нізкі зарад батарэі</string>
 </resources>

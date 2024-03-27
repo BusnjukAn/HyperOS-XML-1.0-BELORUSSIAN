@@ -703,4 +703,7 @@
   <string name="migrate_dialog_message_uninstalled">У Дзіцячую прастору дададзены новы кантроль часу выкарыстання і іншыя функцыі. Каб скарыстацца новымі функцыямі, абнавіце праграму да апошняй версіі</string>
   <string name="migrate_dialog_title">Напамін аб абнаўленні</string>
   <string name="super_power_satellite_endurance_time">Можна зрабіць спадарожнікавы выклік ≈%1$s %2$s</string>
+  <string name="pc_satellite_auto_enter_super_power">Уключаны рэжым максімальнага энергазберажэння для забеспячэння спадарожнікавай сувязі</string>
+  <string name="pc_satellite_superpower_dialog_subtitle">Батарэя разраджана. Спадарожнікавая сувязь Tiantong будзе выключана разам з функцыяй максімальнага энергазберажэння. Выключыць?</string>
+  <string name="pc_satellite_superpower_dialog_title">Спадарожнікавая сувязь Tiantong</string>
 </resources>

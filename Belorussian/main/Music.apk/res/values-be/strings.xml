@@ -2149,4 +2149,19 @@
   <string name="playerui_song_dialog_hint">Больш дакладныя тэксты песень у цяперашні час недаступныя. Вы можаце дапамагчы нам, дазволіўшы Mi Музыцы доступ да гэтага аўдыёфайлу ў мэтах аптымізацыі. Дазволіць доступ зараз?</string>
   <string name="playerui_song_dialog_ok">Дазволіць</string>
   <string name="playerui_song_dialog_title">Дазволіць доступ да аўдыёфайла</string>
+  <string name="lyric_ai_apply_fail">Немагчыма выкарыстоўваць. Паспрабуйце яшчэ раз.</string>
+  <string name="lyric_ai_button_text">Тэксты песень ШІ</string>
+  <string name="lyric_ai_dialog_one">•Вы можаце націснуць, каб распазнаць тэксты песень, і мы запоўнім іх з дапамогай тэхналогіі распазнання голасу ШІ.</string>
+  <string name="lyric_ai_dialog_three">•Вы можаце праверыць прагрэс на панэлі інструментаў тэксту песні.</string>
+  <string name="lyric_ai_dialog_two">• Распазнаванне зойме некалькі хвілін. Па завяршэнні тэксты песень будуць запоўнены аўтаматычна.</string>
+  <string name="lyric_ai_identify_success">Тэкст паспяхова распазнаны</string>
+  <string name="lyric_ai_song">Бягучая песня</string>
+  <string name="lyric_ai_song_list">Песні</string>
+  <string name="lyric_ai_state_apply">Выкарыстанне тэкстаў</string>
+  <string name="lyric_ai_state_default">Песня не распазнана</string>
+  <string name="lyric_ai_state_fail">Не атрымалася распазнаць тэкст</string>
+  <string name="lyric_ai_state_identify">Разнаць</string>
+  <string name="lyric_ai_state_identifying">Хвілінку…</string>
+  <string name="lyric_ai_state_use">Выкарыстоўваць</string>
+  <string name="lyric_ai_title">Разнаванне тэкстаў з дапамогай ШІ</string>
 </resources>

@@ -3022,4 +3022,12 @@
   <string name="tab_mall">Крама</string>
   <string name="refresh_button_update_item">Даступныя абнаўлення: %d</string>
   <string name="refresh_button_update_latest">Вы праглядаеце апошнія элементы</string>
+  <string name="columbus_reward_style_access">Даведацца больш</string>
+  <string name="columbus_reward_style_close_cancel">Выхад</string>
+  <string name="columbus_reward_style_close_desc">Завершыце прагляд відэа, каб атрымаць узнагароду. Працягнуць?</string>
+  <string name="columbus_reward_style_speed_confirm">Працягнуць</string>
+  <string name="columbus_skip_ad_time">Прапусціць (%d)</string>
+  <string name="tt_display_error">Памылка адлюстравання</string>
+  <string name="tt_suggestion_commit">Адправіць</string>
+  <string name="tt_suggestion_description">Увядзіце апісанне памылкі адлюстравання і націсніце кнопку «Адправіць». Рэкламны крэатыў таксама будзе адпраўлены ў Pangle у мэтах дыягностыкі праблемы.</string>
 </resources>

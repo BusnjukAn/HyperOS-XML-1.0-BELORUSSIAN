@@ -517,7 +517,7 @@
   <string name="xspace_guide_content_bound">​​Даступныя праграмы</string>
   <string name="xspace_guide_description">"Кожны акаўнт
 заслугоўвае ўласнай праграмы"</string>
-  <string name="xspace_install_complete">&lt;font>Створана паспяхова. &lt;/font>&lt;font color=#0D84FF>Адкрыць&lt;/font>.</string>
+  <string name="xspace_install_complete">Кланаваная праграма паспяхова створана. Адкрыйце яе з працоўнага стала.</string>
   <string name="xspace_notification_button">Пачаць</string>
   <string name="xspace_start">Стварыць</string>
   <string name="actionbar_button_up_description">Назад</string>
@@ -1207,4 +1207,24 @@
   <string name="flip_expand_screen_partial_screen_shot_disable">Падтрымліваецца толькі на ўнутраным экране</string>
   <string name="gesture_disabled">Выкл.</string>
   <string name="gesture_enable">Укл.</string>
+  <string name="aon_gesture_hint_trigger">Выканайце жэст</string>
+  <string name="aon_learn_double_press_tip">Выканайце падвойны націск далонню да камеры, каб прыпыніць музыку</string>
+  <string name="aon_learn_draw_circle_phone_tip">Намалюйце круг па гадзіннікавай стрэлцы далонню да камеры, каб адказаць на выклік</string>
+  <string name="aon_learn_draw_circle_tip">Намалюйце круг па гадзіннікавай стрэлцы далонню да камеры, каб адказаць на выклікі, пераведзеныя на планшэт</string>
+  <string name="aon_learn_gesture_position_down_tip">Трымайце руку так, каб пальцы былі накіраваныя ўніз ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца абразок рукі</string>
+  <string name="aon_learn_gesture_position_left_tip">Трымайце руку так, каб пальцы былі накіраваныя налева ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца абразок рукі</string>
+  <string name="aon_learn_gesture_position_right_tip">Трымайце руку так, каб пальцы былі накіраваныя направа ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца абразок рукі</string>
+  <string name="aon_learn_gesture_position_up_tip">Трымайце руку так, каб пальцы былі накіраваныя ўверх ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца абразок рукі</string>
+  <string name="aon_learn_wave_down_tip">Для пракруткі махніце рукой</string>
+  <string name="aon_learn_wave_left_tip">Махніце рукой налева, каб прайграць папярэднюю песню</string>
+  <string name="aon_learn_wave_right_tip">Махніце рукой направа, каб прайграць наступную песню</string>
+  <string name="aon_learn_wave_up_tip">Падніміце руку для пракруткі</string>
+  <string name="gesture_hint_swipe_left">Правядзіце налева</string>
+  <string name="gesture_hint_swipe_right">Правядзіце направа</string>
+  <string name="guide_book_page_flip">Перавярнуць старонкі</string>
+  <string name="guide_cell_phone_call_endcall">Адказаць ці завяршыць выклік</string>
+  <string name="guide_swipe_right_left">Правядзіце па гарызанталі</string>
+  <string name="stylus_connect_failV2">Немагчыма падлучыцца. Паўтарыце спробу.</string>
+  <string name="stylus_ota_check_failed_infoV2">Немагчыма атрымаць версію прашыўкі. Падлучыце стылус яшчэ раз.</string>
+  <string name="stylus_ota_completed_tipV2">Стылус абноўлены. Перад выкарыстаннем паўторна падлучыце яго.</string>
 </resources>

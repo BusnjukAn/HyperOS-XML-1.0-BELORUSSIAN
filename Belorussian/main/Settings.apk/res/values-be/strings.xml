@@ -10937,4 +10937,23 @@
   <string name="title_xiaomi_smart_hub">Цэнтр трансляцыi</string>
   <string name="miui_visual_perception_summary">Няхай ваша прылада распазнае вашу прысутнасць і абярэ зручнейшыя варыянты блакавання і разблакавання.</string>
   <string name="miui_visual_perception_title">Актыўнае зрокавае ўспрыманне</string>
+  <string name="aon_gesture_cue_tone_summary">Прайграваць гук пацверджання пры выяўленні вашай далоні</string>
+  <string name="aon_gesture_cue_tone_title">Прайграваць гук пацверджання</string>
+  <string name="aon_gesture_dialog_message">Калі гэтая функцыя ўключана, гэтая прылада будзе выяўляць і аналізаваць вашыя жэсты. Ваша асабістая інфармацыя не будзе апрацоўвацца, ніякія дадзеныя не будуць захоўвацца лакальна ці ў воблаку.</string>
+  <string name="aon_gesture_dialog_title">Заява аб прыватнасцi</string>
+  <string name="aon_gesture_double_press_summary">Прайграванне і паўза</string>
+  <string name="aon_gesture_double_press_title">Выканайце падвойны націск</string>
+  <string name="aon_gesture_draw_circle_summary_pad">Адказаць або завяршыць выклік, пераведзены на планшэт</string>
+  <string name="aon_gesture_draw_circle_summary_phone">Адказаць і завяршыць выклік</string>
+  <string name="aon_gesture_draw_circle_title">Намалюйце круг</string>
+  <string name="aon_gesture_enable_summary" formatted="false">Трымайце руку ад %d да %d см. ад камеры і выконвайце жэсты пасля з\'яўлення абразка рукі ў верхняй частцы экрана</string>
+  <string name="aon_gesture_left_right_waving_summary">Рэгуляванне прайгравання і пераключэнне паміж песнямі</string>
+  <string name="aon_gesture_left_right_waving_title">Махніце гарызантальна</string>
+  <string name="aon_gesture_settings">Бескантактныя жэсты</string>
+  <string name="aon_gesture_status_close">Выкл.</string>
+  <string name="aon_gesture_status_open">Укл.</string>
+  <string name="aon_gesture_supported_app_title">Падтрымліваемыя праграмы</string>
+  <string name="aon_gesture_supported_title">Даступныя жэсты</string>
+  <string name="aon_gesture_up_down_waving_summary">Рэгулёўка гучнасці мультымедыя, пераключэнне паміж кароткімі відэаролікамі і перагортванне старонак у дакументах</string>
+  <string name="aon_gesture_up_down_waving_title">Махніце вертыкальна</string>
 </resources>

@@ -644,4 +644,6 @@
   <string name="earpiece_callmode_tip">Перавярніце, каб выкарыстоўваць навушнік або ўключыць дынамік</string>
   <string name="start_activity_tip">Працягнуць на ўнутраным экране</string>
   <string name="wifi_5ghz_sap_start_failed_by_region">Мадэм немагчыма выкарыстоўваць пры падлучэнні да дыяпазону Wi-Fi 5 Ггц.</string>
+  <string name="aon_reader_support_scene_des">Перагортваць старонкі падчас чытання</string>
+  <string name="aon_video_support_scene_des">Кіраванне прайграваннем відэа</string>
 </resources>

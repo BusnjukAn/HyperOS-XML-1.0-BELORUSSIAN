@@ -331,4 +331,6 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="camera_high_spec_recording">Немагчыма запісаць экран падчас запісу відэа ў %1$s</string>
+  <string name="tap_to_view">Націсніце для прагляду</string>
 </resources>

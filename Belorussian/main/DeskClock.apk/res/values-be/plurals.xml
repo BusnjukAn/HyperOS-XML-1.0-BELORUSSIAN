@@ -263,4 +263,13 @@
         <item quantity="few">%d новых апавяшчэння</item>
         <item quantity="one">%d новае апавяшчэнне</item>
   </plurals>
+    <plurals name="snooze_duration_minute">
+        <item quantity="other">Кожныя %1$d хв.</item>
+        <item quantity="one">Кожныя %1$d хв.</item>
+    </plurals>
+    <plurals name="snooze_duration_time">
+        <item quantity="other">Выключыць %1$d разоў</item>
+        <item quantity="one">Выключыць %1$d раз</item>
+        <item quantity="few">Выключыць %1$d разы</item>
+    </plurals>
 </resources>

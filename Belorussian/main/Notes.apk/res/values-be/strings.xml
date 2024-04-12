@@ -1092,4 +1092,6 @@
   <string name="toolbar_voice_mark_description">Пазнака</string>
   <string name="to_view_alarm_content">Націсніце для прагляду</string>
   <string name="warn_cannot_add_more_content">Гэтая нататка дасягнула максімальнай даўжыні. Дадатковы кантэнт, які вы дадасце, не будзе захаваны.</string>
+  <string name="toast_notes_hidden_edit_new">Нататка схаваная. Пацягніце ўніз, каб убачыць схаваныя нататкі.</string>
+  <string name="toast_notes_hidden_home_new">Нататка схаваная. Пацягніце ўніз, каб убачыць схаваныя нататкі.</string>
 </resources>

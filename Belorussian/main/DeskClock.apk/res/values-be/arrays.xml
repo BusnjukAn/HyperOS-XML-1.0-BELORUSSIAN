@@ -350,6 +350,8 @@
         <item>Тэгусігальпу</item>
         <item>Парамаріба</item>
         <item>Кіта</item>
+        <item>Ташкент</item>
+        <item>Бішкек</item>
     </string-array>
     <string-array name="clock_bg_setting_entries">
         <item>Белы</item>
@@ -643,6 +645,8 @@
         <item>Гандурас</item>
         <item>Сурынам</item>
         <item>Эквадор</item>
+        <item>Узбекістан</item>
+        <item>Кыргызстан</item>
     </string-array>
     <string-array name="days_of_week">
         <item>Ндз</item>

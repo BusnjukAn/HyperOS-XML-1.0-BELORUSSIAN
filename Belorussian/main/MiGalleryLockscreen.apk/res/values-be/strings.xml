@@ -1103,4 +1103,11 @@
   <string name="share_dlg_wechat_moment">Моманты WeChat</string>
   <string name="share_dlg_weibo">Адправіць у Weibo</string>
   <string name="wallpaper_added_success_toast">Шпалеры паспяхова дададзены</string>
+  <string name="about_gallery_icp"></string>
+  <string name="left_lks_download_now">Спампаваць</string>
+  <string name="left_lks_reverse">Папярэдні заказ</string>
+  <string name="left_lks_view">Праглядзець</string>
+  <string name="left_xout_frequently">Паказваецца занадта часта</string>
+  <string name="left_xout_low_quality">Рэклама нізкай якасці</string>
+  <string name="left_xout_title">Раскажыце, чаму вы не жадаеце бачыць гэтую рэкламу</string>
 </resources>

@@ -2260,4 +2260,15 @@ Mi Відэа неабходна збіраць неабходную асабі�
   <string name="small_video_report_success">Дзякуй за ваш водгук!</string>
   <string name="setting_privacy_title">Умовы і палажэнні</string>
   <string name="ad_topview_repeat_play">Націсніце, каб прайграць зноў</string>
+  <string name="ad_flag_text">Рэклама</string>
+  <string name="hiding_dialog_ok">Усталяваць</string>
+  <string name="local_tip_act_for_android_u">Змяніць</string>
+  <string name="local_tip_info_for_android_u">Вы дазволілі Mi Відэа адлюстроўваць толькі некаторыя відэа.</string>
+  <string name="miuix_dialog_ok">OК</string>
+  <string name="notifications_permission_confirm">Дазволіць</string>
+  <string name="notifications_permission_decline">Не дазваляць</string>
+  <string name="notifications_permission_title">Дазволіць праграме адпраўляць вам паведамленні?</string>
+  <string name="order_alphabet">А-Я</string>
+  <string name="play_at_normal_speed">Прайграванне на хуткасці 1X</string>
+  <string name="share_title">Падзяліцца</string>
 </resources>

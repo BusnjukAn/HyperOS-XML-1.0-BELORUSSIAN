@@ -654,4 +654,5 @@
   <string name="title_back_up_task_in_process">Рэзервовае капiяванне…</string>
   <string name="title_restore_task_in_process">Аднаўленне…</string>
   <string name="toast_cannot_cancel_backup">Рэзервовае капiяванне амаль завершана і не можа быць адменена</string>
+  <string name="backup_app_prominent_disclosure_dialog_message">Облачное резервное копирование соберет список приложений, установленных на вашем устройстве, и сохранит эту информацию на наших серверах. Мы храним эти данные, чтобы вы могли скачать и восстановить их при необходимости. Если вы согласны на сбор этой информации, нажмите «Разрешить» ниже.</string>   
 </resources>

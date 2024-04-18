@@ -505,4 +505,11 @@
   <string name="satellite_state_occlusion_prompt">Пазбягайце будынкаў і дрэў, якія могуць блакаваць сігнал</string>
   <string name="align_satellite_model_use_exp">Гатова</string>
   <string name="satellite_dialog_cancel_exp">Адмена</string>
+  <string name="align_satellite_model_call">Выклік</string>
+  <string name="align_satellite_model_mms">Паведамленне</string>
+  <string name="call_recording">Ідзе запіс размовы</string>
+  <string name="satellite_knew">Зразумела</string>
+  <string name="satellite_location_deny_permission_msg">Дазвольце доступ да месцазнаходжання для ўключэння спадарожнікавай сувязі Tiantong</string>
+  <string name="satellite_signal_boost_setting_dialog">Пасля ўсталёўкі і актывацыі ўзмацняльнік сігналу трохі зменіць кут нахілу гэтай прылады да спадарожніка, паляпшаючы магутнасць сігналу і стабільнасць спадарожнікавай сувязі ў хмарнае і пахмурнае надвор\'е.</string>
+  <string name="satellite_signal_boost_setting_dialog_title">Усталюйце і пачніце выкарыстоўваць узмацняльнік спадарожнікавага сігналу</string>
 </resources>

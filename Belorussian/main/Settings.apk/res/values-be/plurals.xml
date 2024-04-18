@@ -989,4 +989,8 @@
         <item quantity="zero">Няма</item>
         <item quantity="one">%1$s</item>
     </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Змены набудуць моц праз %d сек.</item>
+        <item quantity="one">Змены набудуць моц праз %d сек.</item>
+    </plurals>
 </resources>

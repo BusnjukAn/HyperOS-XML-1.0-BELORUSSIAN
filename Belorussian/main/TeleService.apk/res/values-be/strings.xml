@@ -2228,7 +2228,7 @@
   <string name="satellite_notification_text">Вы па-ранейшаму можаце здзяйсняць выклікі і адпраўляць SMS без сігналу, выкарыстоўваючы спадарожнікавую сувязь Tiantong. Спачатку уключыце гэтую службу.</string>
   <string name="satellite_notification_title">Вы знаходзіцеся ў зоне слабога сігналу</string>
   <string name="satellite_select_enable_sim">Абярыце SIM-карту</string>
-  <string name="satellite_signal_boost_setting_summary">Павысьце магутнасць і стабільнасць сігналу ў пахмурнае надвор\'е ці іншыя неаптымальныя ўмовы надвор\'я</string>
+  <string name="satellite_signal_boost_setting_summary">Усталюйце ўзмацняльнік для паляпшэння ўзроўню сігналу і стабільнасці спадарожнікавай сувязі ў хмарнае і пахмурнае надвор\'е</string>
   <string name="satellite_signal_boost_setting_title">Выкарыстоўваць узмацняльнік сігналу Tiantong</string>
   <string name="satellite_start">Зразумела</string>
   <string name="satellite_start_battery">Зразумела</string>
@@ -2287,4 +2287,6 @@
   <string name="satellite_low_battery_message">Батарэя занадта разраджана, каб уключыць спадарожнікавую сувязь Tiantong.</string>
   <string name="satellite_low_battery_super_save_power_message">Батарэя разраджана. Уключыце рэжым максімальнага энергазберажэння, каб нармальна карыстацца спадарожнікавай сувяззю. Уключыць?</string>
   <string name="satellite_low_battery_title">Нізкі зарад батарэі</string>
+  <string name="satellite_ct_business_summary">Паслугі, якія прадстаўляюцца China Telecom</string>
+  <string name="satellite_open_tiantong_business_title">Уключыць спадарожнікавую сувязь Tiantong</string>
 </resources>

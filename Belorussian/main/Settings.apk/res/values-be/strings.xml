@@ -10956,4 +10956,8 @@
   <string name="aon_gesture_supported_title">Даступныя жэсты</string>
   <string name="aon_gesture_up_down_waving_summary">Рэгулёўка гучнасці мультымедыя, пераключэнне паміж кароткімі відэаролікамі і перагортванне старонак у дакументах</string>
   <string name="aon_gesture_up_down_waving_title">Махніце вертыкальна</string>
+  <string name="fivega_enhanced_network_summary">Выпрабуйце новую сеткавую тэхналогію 5G-A толькі ў мэтах тэсціравання</string>
+  <string name="fivega_enhanced_network_title">Пашыраная сетка 5G-A</string>
+  <string name="fivega_switch_summary">Адчуйце максімальную хуткасць 5G. Фактычны статус залежыць ад сеткі мясцовага аператара і разгортвання паслуг.</string>
+  <string name="fivega_switch_title">5G-A</string>
 </resources>

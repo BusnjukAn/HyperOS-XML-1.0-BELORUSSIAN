@@ -861,4 +861,5 @@ dd.MM"</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
   <string name="alarm_repeat_self_define">Наладзіць</string>
   <string name="read_device_internal_storage">Доступ да сховішча</string>
+  <string name="clock_information_ipc">Рэгістрацыйны нумар ICP: Пекін ICP No. 10046444-57A</string>
 </resources>

@@ -328,4 +328,5 @@
   <string name="new_cta_app_purpose_two">Сардэчна запрашаем у Компас! Вы можаце выкарыстоўваць гэтую прагарму для вызначэння асноўных напрамкаў, шыраты і даўгаты. Гэтай праграме патрабуецца падлучэнне да Інтэрнэту, каб прадастаўляць свае паслугі.</string>
   <string name="v2_permission_location_desc_one">Для адлюстравання шыраты, даўгаты, вышыні і атмасфернага ціску</string>
   <string name="v2_permission_location_desc_two">Для адлюстравання шыраты і даўгаты</string>
+  <string name="icp_info">Рэгістрацыйны нумар ICP: Пекін ICP No. 10046444-115A</string>
 </resources>

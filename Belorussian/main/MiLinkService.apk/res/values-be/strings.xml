@@ -1271,4 +1271,23 @@
   <string name="miplay_statusbar_connect_failure">Не ўдалося падлучыцца</string>
   <string name="miplay_statusbar_connect_loading">Падлучэнне</string>
   <string name="miplay_statusbar_connect_successful">Падлучана</string>
+  <string name="camera_associate_disconnecting">Адключэнне ад камеры тэлефона</string>
+  <string name="camera_choose_device">Абярыце прыладу</string>
+  <string name="camera_connecting_device">Падлучэнне да %s</string>
+  <string name="camera_disconnecting_device">Адключэнне ад %s</string>
+  <string name="camera_title">Пошук даступных прылад…</string>
+  <string name="circulate_cta_desc_phone_global">Службы Узаемазвязанасцi Xiaomi дазваляюць вашым прыладам узаемадзейнічаць адна з адной па бесправадной сетцы.</string>
+  <string name="circulate_cta_title_global">Заява аб прыватнасці</string>
+  <string name="connect_settings_summary_global">Знаходзьце прылады паблізу, якія ўвайшлі ў ваш Xiaomi Акаўнт, і дадавайце іх у Цэнтр трансляцыi Xiaomi</string>
+  <string name="dialog_nearbydevice_permission_message_connectivity">Выкарыстоўванай вамі функцыі Узаемазвязанасцi Xiaomi патрабуецца дазвол на падлучэнне да прылад паблізу. Без яго гэтая функцыя не зможа нармальна працаваць. Вы можаце прадаставіць гэты дазвол у Наладах.</string>
+  <string name="dialog_nearbydevice_permission_title_connectivity">Патрабуюцца дазволы</string>
+  <string name="global_dialog_cancle">Адмена</string>
+  <string name="global_dialog_miplay_permission_positive">Налады</string>
+  <string name="global_dialog_nearbydevice_permission_message">Для выяўлення прылад паблізу Службам Узаемазвязанасцi Xiaomi неабходны дазвол на падключэнне да такіх прылад. Падайце гэты дазвол у Наладах, каб мець магчымасць нармальна выкарыстоўваць Службы Узаемазвязанасцi Xiaomi.</string>
+  <string name="global_dialog_nearbydevice_permission_title">Патрабуюцца дазволы</string>
+  <string name="help_page_question_1st_01_international">%1$d. Калі прылада, на якую выконваецца трансляцыя, — Xiaomi TV, уключыце на ім Miracast.\n%2$d. Калі прылада, на якую вы выконваеце трансляцыю, не з\'яўляецца Xiaomi TV, пераканайцеся, што тэлевізар падтрымлівае Miracast і што гэтая функцыя ўключана. На некаторых мадэлях тэлевізараў гэтая функцыя можа мець іншую назву, напрыклад «Бесправадны дысплей», «Дубляванне экрана» або «Некалькі экранаў».</string>
+  <string name="help_page_setp_1st_02_international">%1$d. Некаторыя маркі тэлевізараў могуць уключаць Miracast аўтаматычна.</string>
+  <string name="help_page_step_1st_01_international">%1$d. Уключыце Miracast на Xiaomi TV.</string>
+  <string name="local_camera_device">Гэта прылада</string>
+  <string name="window_card_ml_find_null_camera">Не атрымалася знайсці камеру ці прыдатную для выкарыстання прыладу паблізу</string>
 </resources>

@@ -10960,4 +10960,5 @@
   <string name="fivega_enhanced_network_title">Пашыраная сетка 5G-A</string>
   <string name="fivega_switch_summary">Адчуйце максімальную хуткасць 5G. Фактычны статус залежыць ад сеткі мясцовага аператара і разгортвання паслуг.</string>
   <string name="fivega_switch_title">5G-A</string>
+  <string name="aon_gesture_learn_title">Вывучыць жэсты</string>
 </resources>

@@ -1027,4 +1027,6 @@
   <string name="PRD_title_tablet_4">%1$d. Будзьце асцярожныя падчас працэсу перадачы</string>
   <string name="PRD_title_tablet_5">%1$d. Ваша прылада можа нагрэцца падчас працэсу перадачы</string>
   <string name="prompt_before_transmission_tablet_message3_title">Другая прастора ўключаная</string>
+  <string name="PRD_summary_6">Асабістыя альбомы, нататкі і файлы немагчыма перанесці са старой прылады. Выдаліце іх з асабістых тэчак перад пачаткам перадачы.</string>
+  <string name="PRD_title_6">Асабістыя элементы не могуць быць перададзены</string>
 </resources>

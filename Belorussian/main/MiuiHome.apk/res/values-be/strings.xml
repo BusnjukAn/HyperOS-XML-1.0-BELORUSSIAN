@@ -1150,7 +1150,7 @@
   <string name="new_privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у \"Нядаўніх\"</string>
   <string name="new_recents_config_title">Іншае</string>
   <string name="service_double_attention">Служба пашыранага пошуку прадастаўляецца Branch Metrics Inc. Для правільнай працы гэтай функцыі нам патрабуецца перадаваць вашыя пошукавыя запыты, рэкламны ідэнтыфікатар Google і IP-адрасы Branch Metrics Inc. Перад выкарыстаннем гэтай функцыі азнаёмцеся і пагадзіцеся з &lt;font color="#B3000000">&lt;a href="http://url1">Умовамі выкарыстання Discovery&lt;/a>&lt;/font> і &lt;font color="#B3000000">&lt;a href="http://url2">Палітыкай прыватнасці Branch Discovery&lt;/a>&lt;/font>.</string>
-  <string name="setting_close">Адкл.</string>
+  <string name="setting_close">Адключана</string>
   <string name="setting_no_word">У любым месцы</string>
   <string name="setting_only_widget_no_word">На віджэтах</string>
   <string name="start_new_window">Новае акно</string>

@@ -1112,6 +1112,8 @@
   <string name="left_xout_title">Раскажыце, чаму вы не жадаеце бачыць гэтую рэкламу</string>
   <string name="sst_surprise_wallpaper">Шпалеры-сюрпрызы</string>
   <string name="sst_surprise_wallpaper_desc">Выкарыстанне генератыўнага штучнага інтэлекту для стварэння персаналізаваных шпалер</string>
-  <string name="surprise_wallpaper_empty_dlg_content">Шпалеры-сюрпрызы будуць заснаваны на шпалерах, выбраных самастойна (калі ўключана) або выпадкова створаных індывідуальных шпалерах</string>
+  <string name="surprise_wallpaper_empty_dlg_content">Шпалеры-сюрпрызы будуць генераваць персанальныя шпалеры на аснове самастойна выбраных шпалер (калі ўключана) або на аснове выпадковай стратэгіі, а частата змены выяў будзе абмежавана 1 днём. Пры немагчымасці стварэння, шпалеры будуць абноўлены з выкарыстаннем арыгінальнай выявы.</string>
   <string name="surprise_wallpaper_empty_dlg_title">Шпалеры-сюрпрызы</string>
+  <string name="ai_wallpaper_declare_double_link"><Data>Прачытайце і згадзіцеся з нашымi &lt;a href=\"%1$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%2$s\" >Палітыкай прыватнасці&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="surprise_wallpaper_generate_failed_toast">Гэтая генерацыя шпалер-сюрпрызаў не атрымалася</string>
 </resources>

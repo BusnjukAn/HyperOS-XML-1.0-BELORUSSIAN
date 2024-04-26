@@ -494,7 +494,7 @@
   <string name="saturday_shortest">С</string>
   <string name="screen_recording_introduction">Гэтая праграма дазваляе запісваць усё, што адбываецца на экране.</string>
   <string name="search_menu_title">Пошук</string>
-  <string name="security_introduction">Гэтая праграма дазваляе выдаляць непатрэбныя файлы з вашай прылады, выяўляць і выдаляць вірусы, аптымізаваць прадукцыйнасць для гульняў, эканоміць зарад батарэі, кіраваць праграмамі і дазволамі і рабіць шмат чаго яшчэ.</string>
+  <string name="security_introduction">Вы можаце выкарыстоўваць гэтую праграму, каб знаходзіць і нейтралізаваць вірусы, блакіраваць выклікі і паведамленні, аптымізаваць прадукцыйнасць для гульняў, эканоміць батарэю, а таксама кіраваць праграмамі, дазволамі, выкарыстаннем дадзеных і г.д.</string>
   <string name="security_mobile_account_introduction">Для ўваходу ў сістэмныя акаўнты і кіравання імі</string>
   <string name="select_font_modele_tips">Вы заўсёды можаце выбраць новы шрыфт у Тэмах</string>
   <string name="send">Адправіць</string>
@@ -836,4 +836,6 @@
   <string name="interconnection_service_summary_china_fragment59">Доступ да фатаграфій, відэа і аўдыё, якія захоўваюцца на прыладзе</string>
   <string name="interconnection_service_summary_china_fragment60">Для адпраўкі і атрымання перададзенага кантэнту</string>
   <string name="interconnection_service_summary_china_fragment61">Калі вы не згодны даць гэтыя дазволы, вы не зможаце выкарыстоўваць гэтыя службы.</string>
+  <string name="phone_introduction">Вы можаце выкарыстоўваць гэтую праграму, каб знаходзіць і нейтралізаваць вірусы, блакававаць выклікі і паведамленні, аптымізаваць прадукцыйнасць для гульняў, эканоміць батарэю, а таксама кіраваць праграмамі, дазволамі, выкарыстаннем дадзеных і г.д.</string>
+  <string name="phone_name_security">Бяспека</string>
 </resources>

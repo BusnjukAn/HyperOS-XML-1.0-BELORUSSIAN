@@ -484,4 +484,9 @@
   <string name="public_share_change_to_word">Адправіць у Word</string>
   <string name="public_share_doc">Адправіць як файл</string>
   <string name="public_share_title">Метад адпраўкі</string>
+  <string name="print_error_open_wps_exception">Выключэнне сэрвісу, паспрабуйце пазней.</string>
+  <string name="print_error_wps_print_activity_not_found">Перад выкарыстаннем функцыі друку абнавіце WPS Office да новай версіі</string>
+  <string name="public_dialog_update">Абнавіць</string>
+  <string name="public_icp_code">Пекінскі ICP № 14035597-9A</string>
+  <string name="public_more_wps">Больш функцый даступна ў WPS</string>
 </resources>

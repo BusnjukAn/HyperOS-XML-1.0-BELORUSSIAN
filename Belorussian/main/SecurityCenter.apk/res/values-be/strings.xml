@@ -7125,7 +7125,7 @@
   <string name="menu_click_setting">Налады</string>
   <string name="menu_click_show_system">Паказаць сістэмныя службы</string>
   <string name="mi_roaming">Mi Роўмінг</string>
-  <string name="pc_always_charge_protect_summary">Дазволіць зарадку толькі даа %1$s для падтрымання стану батарэі</string>
+  <string name="pc_always_charge_protect_summary">Дазволіць зарадку толькі да %1$s для падтрымання стану батарэі</string>
   <string name="pc_always_charge_protect_title">Абмежаваная зарадка</string>
   <string name="pc_battery_charge_protect">Абарона зарадкі</string>
   <string name="pc_high_temp_discharge_reminder">Зарадзіце прыладу. Батарэя можа быць пашкоджана, калі прылада пераграваецца пры нізкім узроўні зараду.</string>

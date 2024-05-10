@@ -426,4 +426,18 @@
   <string name="long_screenshot_content_manual">Уручную наладзьце канчатковую кропку здымка экрана, затым націсніце \"Гатова\".</string>
   <string name="long_screenshot_done">Гатова</string>
   <string name="long_screenshot_title">Здымак з пракруткай</string>
+  <string name="mi_share_turbo_mode">Турба-перадача</string>
+  <string name="mini_pc_xiaomi_device_model_name">Міні-ПК Xiaomi</string>
+  <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s\" ад %1$s</string>
+  <string name="send_one_apk_dialog_desc_received">Атрымана %2$d APK \"%3$s\" ад %1$s</string>
+  <string name="send_one_apk_dialog_desc_receiving">Атрыманне %2$d APK \"%3$s\" ад %1$s</string>
+  <string name="send_one_audio_dialog_desc">%2$d аўдыяфайл \"%3$s\" ад %1$s</string>
+  <string name="send_one_audio_dialog_desc_received">Атрыманы %2$d аўдыяфайл \"%3$s\" ад %1$s</string>
+  <string name="send_one_audio_dialog_desc_receiving">Атрыманне %2$d аўдыяфайла \"%3$s\" ад %1$s</string>
+  <string name="send_one_file_dialog_desc">%2$d %3$s файл \"%4$s\" ад %1$s</string>
+  <string name="send_one_file_dialog_desc_received">Атрыманы %2$d %3$s файл \"%4$s\" ад %1$s</string>
+  <string name="send_one_file_dialog_desc_receiving">Атрыманне %2$d %3$s файла \"%4$s\" ад %1$s</string>
+  <string name="send_one_zip_dialog_desc">%2$d ZIP-файл \"%3$s\" ад %1$s</string>
+  <string name="send_one_zip_dialog_desc_received">Атрыманы %2$d ZIP-файл \"%3$s\" ад %1$s</string>
+  <string name="send_one_zip_dialog_desc_receiving">Атрыманне %2$d ZIP-файла \"%3$s\" ад %1$s</string>
 </resources>

@@ -24,19 +24,19 @@
         <item>Прыватнасць і ўзаемазвязанасць, прыватнасць</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Сэрвісы ўзаемазвязанасці</item>
-        <item>Узаемазвязанасць/Сэрвісы ўзаемазвязанасці</item>
-        <item>Сэрвісы ўзаемазвязанасці</item>
+        <item>Узаемазвязанасць Xiaomi</item>
+        <item>Узаемазвязанасць Xiaomi/Узаемазвязанасць</item>
+        <item>Сэрвісы ўзаемазвязанасці Xiaomi</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Перадача праграмы</item>
-        <item>Узаемазвязанасць/Перадача праграмы</item>
+        <item>Узаемазвязанасць/Праграмы</item>
         <item>Перадача праграм, перадача, перадача</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Выклікі</item>
-        <item>Узаемазвязанасць/Выклікі</item>
-        <item>Выклікі</item>
+        <item>Сінхранізацыя выклікаў</item>
+        <item>Узаемазвязанасць/Сінхранізацыя выклікаў</item>
+        <item>Выклікі, Сінхранізацыя выклікаў</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Сеткавая дапамога</item>

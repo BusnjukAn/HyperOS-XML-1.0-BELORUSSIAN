@@ -227,7 +227,7 @@
   <string name="circulate_device_type_name_wifi_speaker_with_screen">Дынамік з экранам</string>
   <string name="circulate_headset_back_to_box_desc">1. Змясціце абодва навушнікі ў футарал для зарадкі.\n2. Націсніце і ўтрымлівайце кнопку на корпусе.\n3. Завяршыце спалучэнне на мэтавай прыладзе.</string>
   <string name="circulate_headset_back_to_box_desc_err_308">Каб скарыстацца функцыяй пераносу прайгравання паміж прыладамі, неабходна падлучыць навушнікі да тэлевізара.</string>
-  <string name="circulate_headset_back_to_box_desc_err_310">1. Націсніце кнопку сілкавання на пульце тэлевізара, каб адключыць дынамікі.\n2. Паспрабуйце зноў падлучыць навушнікі, як толькі загарыцца экран.</string>
+  <string name="circulate_headset_back_to_box_desc_err_310">%1$d. Націсніце кнопку сілкавання на пульце тэлевізара, каб адключыць дынамікі.\n%2$d. Паспрабуйце зноў падлучыць навушнікі, як толькі загарыцца экран.</string>
   <string name="circulate_headset_back_to_box_desc_pad">1. Змясціце абодва навушнікі ў футарал.\n2. Націсніце і ўтрымлівайце кнопку на корпусе.\n3. Завяршыце спалучэнне ў настройках Bluetooth або з дапамогай ўсплывальнага дыялогавага акна на гэтай прыладзе.</string>
   <string name="circulate_headset_back_to_box_desc_phone">1. Змясціце абодва навушнікі ў футарал.\n2. Націсніце і ўтрымлівайце кнопку на корпусе.\n3. Завяршыце спалучэнне ў настройках Bluetooth або з дапамогай ўсплывальнага дыялогавага акна на гэтай прыладзе.</string>
   <string name="circulate_headset_back_to_box_desc_tv">1. Змесціце абодва навушніка ў футарал для зарадкі.\n2. Націсніце і ўтрымлівайце кнопку на футарале.\n3. Адкрыйце на тэлевізары спіс даступных прылад Bluetooth і пацвердзіце злучэнне.</string>
@@ -345,7 +345,7 @@
   <string name="connect_settings_connect_privacy">Прыватнасць</string>
   <string name="connect_settings_connection_service">Узаемазвязанасць Xiaomi</string>
   <string name="connect_settings_corp_network">Дапамога з сеткай</string>
-  <string name="connect_settings_corp_phone">Выклікі</string>
+  <string name="connect_settings_corp_phone">Сінхранізацыя выклікаў</string>
   <string name="connect_settings_nfc_share">Перадача элементаў праз NFC</string>
   <string name="connect_settings_not_opened">Выкл.</string>
   <string name="connect_settings_opened">Укл.</string>
@@ -848,7 +848,7 @@
   <string name="onehop_mirror_guide_message_button">Зразумела</string>
   <string name="onehop_mirror_guide_message_text_1">Транслюйце экран тэлефона на кампутар адным націскам.</string>
   <string name="onehop_mirror_guide_message_text_2">Абярыце фота, відэа і іншыя файлы з Галерэі ці Правадыра для пераносу на кампутар.</string>
-  <string name="onehop_mirror_guide_message_title">Цэнтр трансляцыі</string>
+  <string name="onehop_mirror_guide_message_title">Узаемазвязанасць Xiaomi</string>
   <string name="open_camera">Абнавіць аддаленую камеру</string>
   <string name="open_game_accelerate">Уключыць паскарэнне гульняў</string>
   <string name="p2p_location_des">Для падлучэння вашай прылады да знешніх манітораў</string>
@@ -1000,17 +1000,17 @@
   <string name="searchview_navigation_content_description">Назад</string>
   <string name="select_remote_device">Абярыце аддаленую прыладу</string>
   <string name="send">Адправіць</string>
-  <string name="server_activity_task_tips">Абагульванне стужкі камеры з %s</string>
+  <string name="server_activity_task_tips">Камера выкарыстоўваецца %s</string>
   <string name="server_camera_disconnected">Адключана ад іншай прылады з-за памылкі</string>
   <string name="server_camera_occupied">Камера занятая. Пачакайце хвіліну-дзве і паўтарыце спробу.</string>
   <string name="server_toast_camera_prepare">Падрыхтоўка да перадачы патоку з камеры…</string>
   <string name="set_negative_button">Налады</string>
   <string name="set_params">Задаць параметры</string>
-  <string name="settings_cross_notify">Апавяшчэнні на іншых прыладах</string>
+  <string name="settings_cross_notify">Апавяшчэнні паміж прыладамі</string>
   <string name="settings_cross_notify_app">Апавяшчэнні праграмы</string>
   <string name="settings_cross_notify_hidden">Схаваць змест апавяшчэнняў</string>
   <string name="settings_cross_notify_hidden_tips">Паказваць апавяшчэнні на іншых прыладах са схаваным змесцівам і дакранацца, каб паказаць</string>
-  <string name="settings_cross_notify_manager">Апавяшчэнні на падлучаных прыладах</string>
+  <string name="settings_cross_notify_manager">Апавяшчэнні паміж прыладамі</string>
   <string name="settings_cross_notify_power">Нізкі зарад батарэi</string>
   <string name="settings_cross_notify_system">Сістэмныя апавяшчэнні</string>
   <string name="settings_cross_notify_tips">Паказваць апавяшчэнні на бліжэйшых планшэтах або кампутарах, якія выкарыстоўваюцца, калі гэта прылада заблакавана</string>
@@ -1290,4 +1290,5 @@
   <string name="help_page_step_1st_01_international">%1$d. Уключыце Miracast на Xiaomi TV.</string>
   <string name="local_camera_device">Гэта прылада</string>
   <string name="window_card_ml_find_null_camera">Не атрымалася знайсці камеру ці прыдатную для выкарыстання прыладу паблізу</string>
+  <string name="app_name_vtcamera">Камера для некалькіх прылад</string>
 </resources>

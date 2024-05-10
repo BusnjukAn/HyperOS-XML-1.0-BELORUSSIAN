@@ -10961,4 +10961,30 @@
   <string name="fivega_switch_summary">Адчуйце максімальную хуткасць 5G. Фактычны статус залежыць ад сеткі мясцовага аператара і разгортвання паслуг.</string>
   <string name="fivega_switch_title">5G-A</string>
   <string name="aon_gesture_learn_title">Вывучыць жэсты</string>
+  <string name="bt_connect_help_car">Сістэмы аўтамабіля</string>
+  <string name="bt_connect_help_car_first">%d. Адкрыйце налады Bluetooth у аўтамабільнай сістэме і перавядзіце Bluetooth у рэжым выяўлення.</string>
+  <string name="bt_connect_help_car_second">%d. Уключыце Bluetooth на тэлефоне або планшэце, знайдзіце сістэму вашага аўтамабіля і выканайце спалучэнне.</string>
+  <string name="bt_connect_help_device">Тэлефоны, планшэты і кампутары</string>
+  <string name="bt_connect_help_device_first" formatted="false">%d. Пераканайцеся, што Bluetooth уключаны на прыладзе, да якой вы хочаце падлучыцца, і што яна знаходзіцца на адлегласці не больш за %d метраў.</string>
+  <string name="bt_connect_help_device_second">%d. Прылады iOS у цяперашні час не падтрымліваюць падлучэнне да іншых прылад.</string>
+  <string name="bt_connect_help_device_third">%d. Пры падлучэнні да кампутара можа запатрабавацца ўсталёўка драйвера Bluetooth.</string>
+  <string name="bt_connect_help_earphone">Навушнікі і дынамікі</string>
+  <string name="bt_connect_help_earphone_first" formatted="false">%d. Пераканайцеся, што ваш дынамік ці навушнікі цалкам зараджаныя, не падлучаныя да іншай прылады праз Bluetooth і знаходзяцца на адлегласці не больш за %d метраў.</string>
+  <string name="bt_connect_help_earphone_second">%d. Каб зрабіць іх бачнымі, націсніце і ўтрымлівайце кнопку сiлкавання на дынаміцы або навушніках, пакуль індыкатар не пачне міргаць.</string>
+  <string name="bt_connect_help_earphone_third">%d. Цяпер вы можаце знайсці і падключыць дынамік і навушнікі.</string>
+  <string name="bt_connect_help_toast">Не можаце знайсці сваю прыладу? Націсніце, каб прагледзець даведку.</string>
+  <string name="bt_connect_help_wear">Нісімыя прылады</string>
+  <string name="bt_connect_help_wear_first">%d. Пераканайцеся, што ваша прылада не падлучана да іншай прылады праз Bluetooth.</string>
+  <string name="bt_connect_help_wear_second">%d. Спампуйце і ўсталюйце спецыяльую праграму для сваёй насімай прылады.</string>
+  <string name="bt_connect_help_wear_third">%d. Адкрыйце праграму і прытрымлівайцеся інструкцыям, каб дадаць насімую прыладу.</string>
+  <string name="bt_new_connect_help">Даведка па падлучэнню</string>
+  <string name="device_class_car_kit">Сістэма аўтамабіля</string>
+  <string name="device_class_headset">Навушнікі</string>
+  <string name="device_class_hearing_aid">Слыхавы апарат</string>
+  <string name="device_class_other">Іншае</string>
+  <string name="device_class_setting_summary">Назавіце тып прылады для далейшай аптымізацыі выкарыстання</string>
+  <string name="device_class_setting_title">Тып прылады</string>
+  <string name="device_class_speaker">Дынамік</string>
+  <string name="device_class_watch">Гадзіннік</string>
+  <string name="same_source_synced">Сінхранізаваная тая ж крыніца</string>
 </resources>

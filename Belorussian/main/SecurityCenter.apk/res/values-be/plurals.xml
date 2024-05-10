@@ -1754,10 +1754,6 @@
         <item quantity="few">%s праграмы</item>
         <item quantity="one">%s праграма</item>
     </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Гб</item>
-        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Гб</item>
-    </plurals>
     <plurals name="permission_usage_allow_storage">
         <item quantity="other">%1$s | Гэта праграма атрымлівала доступ да фота, відэа, аўдыё і файлаў %2$d разоў</item>
         <item quantity="one">%1$s | Гэта праграма атрымлівала доступ да фота, відэа, аўдыё і файлаў %2$d раз</item>
@@ -1773,11 +1769,15 @@
         <item quantity="one">%1$s | Доступ да змесціва экрана або яго запіс %2$d раз</item>
         <item quantity="few">%1$s | Доступ да змесціва экрана або яго запіс %2$d разы</item>
     </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Гб</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> Гб</item>
+    </plurals>
     <plurals name="storage_compact_warning">
         <item quantity="other">Рэдагаванне %1$d дазволаў</item>
         <item quantity="one">Рэдагаванне %1$d дазволу</item>
     </plurals>
-   <plurals name="power_ntc_dialog_btn">
+    <plurals name="power_ntc_dialog_btn">
      <item quantity="other">Зразумела (%d)</item>
      <item quantity="one">Зразумела (%d)</item>
   </plurals>

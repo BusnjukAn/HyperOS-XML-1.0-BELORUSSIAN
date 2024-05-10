@@ -913,9 +913,9 @@
   <string name="feedback_evaluation_success_dialog_title">Ацэнена паспяхова</string>
   <string name="net_diag_cancel">Адмена</string>
   <string name="net_diag_continue">Працягнуць</string>
-  <string name="net_diag_dialog_msg">Праверка вашай сеткі дапаможа вам выявіць праблемы і палепшыць ваша злучэнне.</string>
+  <string name="net_diag_dialog_msg">Тэставанне Wi-Fi можа дапамагчы прааналізаваць і ўхіліць праблемы з падлучэннем. Падчас тэсту Wi-Fi і пункты доступу могуць уключацца і выключацца аўтаматычна.</string>
   <string name="net_diag_dialog_no">Не</string>
-  <string name="net_diag_dialog_title">Праверыць сетку зараз?</string>
+  <string name="net_diag_dialog_title">Пратэставаць Wi-Fi?</string>
   <string name="net_diag_dialog_yes">Так</string>
   <string name="net_diag_entry_link_quality">Якасць злучэнні</string>
   <string name="net_diag_entry_network_connectivity">Падлучэнне да сеткі</string>
@@ -928,7 +928,7 @@
   <string name="net_diag_header_internet">Інтэрнэт</string>
   <string name="net_diag_header_router">Маршрутызатар</string>
   <string name="net_diag_header_this_device">Гэта прылада</string>
-  <string name="net_diag_title">Праверка сеткі</string>
+  <string name="net_diag_title">Тэставанне Wi-Fi</string>
   <string name="net_diag_toast_cellular_data">Каб праверыць сетку, спачатку адключыце мабільныя дадзеныя.</string>
   <string name="net_diag_toast_other_networks">Для праверкі сеткі спачатку падключыцеся да Wi-Fi і адключыцеся ад іншых сетак.</string>
   <string name="net_diag_toast_other_networks_china">Каб праверыць сетку, спачатку падключыцеся да Wi-Fi і адключыцеся ад іншых сетак.</string>
@@ -1104,4 +1104,20 @@
   <string name="toast_a_log_is_catching">Цяпер генеруюцца часопісы. Націсніце, каб скончыць.</string>
   <string name="toast_cloud_video_obtain_fail">Немагчыма адлюстроўваць вокладкі для відэа, запампаваных выдалена з аблокі</string>
   <string name="toast_log_too_large">Немагчыма загрузіць часопісы больш за %d Гб</string>
+  <string name="catch_log_count_down">Зваротны адлік да %d сек.</string>
+  <string name="catch_log_notice">Апавяшчэнне</string>
+  <string name="catch_log_notify">Апавяшчэнне аб зборы часопіса</string>
+  <string name="module_connectivity">Узаемазвязанасць</string>
+  <string name="net_diag_click_to_show_help">Націсніце, каб прагледзець даведку</string>
+  <string name="net_diag_diag_fail">Немагчыма дыягнаставаць праблему. Праверце стан падключэння да Wi-Fi.</string>
+  <string name="net_diag_diag_fail_china">Немагчыма дыягнаставаць праблему. Праверце стан падключэння да Wi-Fi.</string>
+  <string name="net_diag_dialog_msg_china">Тэставанне Wi-Fi можа дапамагчы прааналізаваць і ўхіліць праблемы з падлучэннем. Падчас тэсту Wi-Fi і пункты доступу могуць уключацца і выключацца аўтаматычна.</string>
+  <string name="net_diag_dialog_title_china">Пратэставаць Wi-Fi?</string>
+  <string name="net_diag_fix_guide_window_msg2">Націсніце, каб ліквідаваць непаладкі</string>
+  <string name="net_diag_help">Даведка</string>
+  <string name="net_diag_title_china">Тэставанне Wi-Fi</string>
+  <string name="net_diag_wlan_basic_functions">Асноўныя функцыі Wi-Fi</string>
+  <string name="net_diag_wlan_basic_functions_china">Асноўныя функцыі Wi-Fi</string>
+  <string name="notify_log_catch_content">Пасля прайгравання праблемы краніце апавяшчэнні, каб адправіць водгук, або націсніце і ўтрымлівайце апавяшчэнне, каб спыніць запіс часопісаў</string>
+  <string name="toast_upload_screenrecorder">Загрузіць запіс экрана праблемы для аналізу</string>
 </resources>

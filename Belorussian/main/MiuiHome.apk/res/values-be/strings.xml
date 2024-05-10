@@ -1158,4 +1158,6 @@
   <string name="system_shortcuts_icon_remove">Выдаліць</string>
   <string name="recent_pin_text">Замацаваць</string>
   <string name="system_sdk_disabled_toast">Сістэмны SDK адключаны. Спачатку уключыце яго.</string>
+  <string name="name_aireco_name">Прапановы Mi ШІ</string>
+  <string name="system_shortcuts_dislike">Мне гэта не падабаецца</string>
 </resources>

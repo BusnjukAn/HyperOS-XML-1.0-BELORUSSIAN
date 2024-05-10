@@ -1173,4 +1173,5 @@
   <string name="searchview_navigation_content_description">Назад</string>
   <string name="side_sheet_accessibility_pane_title">Бакавы ліст</string>
   <string name="too_many_attempts_need_verify_account">Зашмат спроб, праверце пароль</string>
+  <string name="single_authorize_for_installation">Ліцэнзія на аднаразовую ўсталёўку</string>
 </resources>

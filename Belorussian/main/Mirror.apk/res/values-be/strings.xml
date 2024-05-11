@@ -654,4 +654,5 @@
   <string name="worker_try_join_pc_when_pad_adv_connected">Гэтая прылада зараз падлучана да іншай прылады. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="yesterday">Учора</string>
   <string name="subscreen_exception_hint">Прылада не абноўлена да апошняй версіі. Могуць узнікнуць памылкі адлюстравання.</string>
+  <string name="not_find_car_to_mirror">Не ўдалося знайсці транспартны сродак, на які можна перанесці праграмы</string>
 </resources>

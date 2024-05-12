@@ -829,7 +829,7 @@
   <string name="fingerprint_verify_failed">Не атрымалася праверыць адбітак</string>
   <string name="fingerprint_verify_succeed">Адбітак правераны</string>
   <string name="fingerprint_verify_try_agin">Не атрымалася адсканаваць адбітак пальца, паспрабуйце яшчэ раз</string>
-  <string name="firewall_activity_lable">Абмежаванне выкарыстання трафіка праграмамі</string>
+  <string name="firewall_activity_lable">Доступ да сеткі</string>
   <string name="firewall_allow_all">Дазволіць усім праграмам выкарыстоўваць наступны метад падлучэння</string>
   <string name="firewall_allow_data">Дазволіць выкарыстанне мабільнага інтэрнэту</string>
   <string name="firewall_allow_network">Дазволіць</string>
@@ -850,7 +850,7 @@
   <string name="firewall_restrict_notify_title">%s не можа выкарыстоўваць сетку</string>
   <string name="firewall_restrict_wlan">Забараніць выкарыстанне Wi-Fi</string>
   <string name="firewall_rule_group_title_roaming">Міжнародны роўмінг</string>
-  <string name="firewall_system_title">Падлучэнні сістэмных праграм</string>
+  <string name="firewall_system_title">Доступ да сеткі для сістэмных праграм</string>
   <string name="firewall_temp_rule_reason">Праграма %2$s абмежавала падлучэнне для %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Усталяваная праграма не зможа падлучыцца да інтэрнэту з дапамогай Wi-Fi, калі гэты перамыкач выключаны.​</string>
@@ -2794,7 +2794,7 @@
   <string name="ew_guide_tips_1">Вы будзеце апавешчаныя аб маючых адбыцца землятрусах і пачуеце папераджальны гук</string>
   <string name="ew_guide_tips_2">Інфармацыя і гукавы сігнал будуць абнаўляцца падчас землятрусу</string>
   <string name="ew_guide_tips_3">Вы зможаце знайсці бліжэйшы сховішча, патэлефанаваць па экстраннай сувязі, і прадставіць вашы медыцынскія карты, калі гэта патрабуецца</string>
-  <string name="ew_guide_title">Паглядзець дэма</string>
+  <string name="ew_guide_title">Дэма</string>
   <string name="ew_main_close_text">Вы не зможаце атрымліваць актуальную інфармацыю пра гэта землятрусе, калі адключыце абвестка. Выключыць ў любым выпадку?</string>
   <string name="ew_main_close_title">Увага</string>
   <string name="ew_main_contact_change">Змяніць</string>
@@ -2807,8 +2807,8 @@
   <string name="ew_main_detail_title">Налады</string>
   <string name="ew_main_emergency_tips">Запішыце свае асноўныя медыцынскія дадзеныя, каб заўсёды мець іх пад рукой</string>
   <string name="ew_main_emergency_title">Медыцынская карта</string>
-  <string name="ew_main_open_tips">Гэтая функцыя будзе апавяшчаць вас аб маючых адбыцца землятрусах і прайграваць гукавое папярэджанне. Вам таксама будзе прадастаўлена інфармацыя аб экстраных службах.</string>
-  <string name="ew_main_open_title">Атрымліваць абвесткі і атрымліваць дапамогу</string>
+  <string name="ew_main_open_tips">Гэтая функцыя паведаміць вам аб маючых адбыцца землятрусах і прайграе папераджальны гукавы сігнал</string>
+  <string name="ew_main_open_title">Папярэджанне аб землятрусе</string>
   <string name="ew_main_place_tips">Узнайт, дзе бліжэйшы прытулак</string>
   <string name="ew_main_place_title">Аварыйныя прытулкi паблізу</string>
   <string name="ew_safe_place_no_maps_tips">Спачатку ўсталюйце карты Baidu або Amap.</string>
@@ -6006,8 +6006,8 @@
   <string name="storage_fbo_des">Унутранае сховішча фрагментавана, гэта можа значна запавольваць працу прылады. Абнаўленне сховішча працуе аўтаматычна, калі прылада не выкарыстоўваецца, дэфрагментуючы файлы для памяншэння затрымак.</string>
   <string name="storage_fbo_number_tip">Апрацавана %1$s</string>
   <string name="storage_fbo_tools">Аптымізацыя сховішча</string>
-  <string name="ew_sleep_mode_alert_content">Каб вы маглі атрымліваць раннія папярэджанні аб землятрусе, сістэма адключыць спячы рэжым. Фонавыя праграмы, NFC, Bluetooth, GPS, мабільныя дадзеныя і Wi-Fi будуць нармальна працаваць, нават калі вы спіце. Уключыць папярэджанне аб землятрусе?</string>
-  <string name="ew_sleep_mode_alert_title">Папярэджанне аб землятрусе</string>
+  <string name="ew_sleep_mode_alert_content">Каб вы маглі атрымліваць раннія папярэджанні аб землятрусе, сістэма адключыць спячы рэжым. Фонавыя праграмы, NFC, Bluetooth, GPS, мабільныя дадзеныя і Wi-Fi будуць нармальна працаваць, нават калі вы спіце.</string>
+  <string name="ew_sleep_mode_alert_title">Важная заўвага</string>
   <string name="gb_game_fill_desc">У некаторых выпадках змесціва можа скажацца</string>
   <string name="gb_game_mode">Рэжым адлюстравання</string>
   <string name="gb_game_mode_change">Пераключэнне паміж рэжымамі адлюстравання</string>
@@ -6690,7 +6690,7 @@
   <string name="pc_smart_discharge_protect_notifi_summary">Для абароны батарэі зарадка аўтаматычна спыняецца на абраным узроўні пры выкарыстанні навігацыйных праграм</string>
   <string name="pc_smart_discharge_protect_notifi_title">Аўтаматычнае адключэнне зарадкі ўключана</string>
   <string name="phone_manage_privacy_title">Абарона канфідэнцыйнасці</string>
-  <string name="popular_action_anti_spam_title_global">Блакаваць выклiкi і паведамленні</string>
+  <string name="popular_action_anti_spam_title_global">Блакаваць спам-выклікі</string>
   <string name="popular_action_app_lock_title_global">Абараніце праграмы з дапамогай блакавання праграм</string>
   <string name="popular_action_first_aid_title_global">Для новых карыстальнікаў</string>
   <string name="popular_action_net_assistant_title_global">Маніторынг хуткасці сеткавага злучэння</string>
@@ -6708,8 +6708,8 @@
   <string name="app_management_for_chain_start_desc">Забараніць гэтай праграме падлучацца да іншых праграм або адчыняць іх</string>
   <string name="app_management_for_device_id">Схаваць ідэнтыфікатары і прадухіліць адсочванне</string>
   <string name="app_management_for_device_id_desc">Забараніць гэтай праграме доступ да вашага нумара тэлефона і асабістай інфармацыі</string>
-  <string name="app_management_for_independent_storage">Ізаляваць кэшаваныя дадзеныя</string>
-  <string name="app_management_for_independent_storage_desc">Дазволіць гэтай праграме доступ толькі да сваіх файлаў і дадзеных</string>
+  <string name="app_management_for_independent_storage">Незалежнае сховішча</string>
+  <string name="app_management_for_independent_storage_desc">Захоўваць дадзеныя праграмы незалежна і забаранiць праграме доступ да некаторых вонкавых дадзеных</string>
   <string name="app_management_for_install">Заблакаваць загрузку праграм</string>
   <string name="app_management_for_install_desc">Забараніць гэтай праграме спампоўку або ўсталёўку іншых праграм</string>
   <string name="app_management_measures">Кіраванне праграмамі</string>

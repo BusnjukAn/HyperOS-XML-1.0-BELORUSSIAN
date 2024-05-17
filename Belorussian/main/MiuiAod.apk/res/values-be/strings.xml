@@ -566,7 +566,7 @@
   <string name="signature">Подпіс</string>
   <string name="signature_default_content">Заўсёды верце,\nшто адбудзецца нешта цудоўнае</string>
   <string name="smart_style">Разумны рэжым</string>
-  <string name="smart_style_summary">Заўсёды адлюстроўваць элементы, за выключэннем выпадкаў, калі ваша прылада знаходзіцца ў кішэні, пры слабым навакольным асвятленні на працягу доўгага часу, ці калі вы не глядзіце на сваю прыладу.</string>
+  <string name="smart_style_summary">Не адлюстроўваць, калі прылада знаходзіцца ў кішэні, пры слабым навакольным асвятленні на працягу доўгага часу ці калі вы не глядзіце на экран</string>
   <string name="solar_term_autumn_begins">Пачатак восені</string>
   <string name="solar_term_autumn_equinox">Восеньскае раўнадзенства</string>
   <string name="solar_term_clear_and_bright">Ясна</string>
@@ -705,4 +705,14 @@
   <string name="kg_classic_item_type_health">Здароўе</string>
   <string name="kg_classic_item_type_time">Час</string>
   <string name="kg_classic_item_type_weather">Надвор\'е</string>
+  <string name="ambient_display_screen_title_summary">Усталюйце стыль унутранага экрана. Вонкавы экран захавае стыль экрана блакавання.</string>
+  <string name="kg_template_preview_content_description">Папярэдні прагляд экрана блакавання</string>
+  <string name="smart_style_summary_inner">Не адлюстроўваць, калі прылада знаходзіцца ў кішэні, пры слабым навакольным асвятленні на працягу доўгага часу ці калі вы не глядзіце на ўнутраны экран</string>
+  <string name="smart_style_summary_outer">Не адлюстроўваць, калі прылада знаходзіцца ў кішэні, пры слабым навакольным асвятленні на працягу доўгага часу ці калі вы не глядзіце на вонкавы экран</string>
+  <string name="tiny_camera_content_description">Камера</string>
+  <string name="tiny_classic_date_format">d.M EEE</string>
+  <string name="tiny_pets_date_format">d.M</string>
+  <string name="tiny_splicing_date_content_description">d.M</string>
+  <string name="tiny_splicing_date_format">d.M</string>
+  <string name="tiny_accessibility_kg_battery_level">Батарэя</string>
 </resources>

@@ -1227,4 +1227,7 @@
   <string name="stylus_connect_failV2">Немагчыма падлучыцца. Паўтарыце спробу.</string>
   <string name="stylus_ota_check_failed_infoV2">Немагчыма атрымаць версію прашыўкі. Падлучыце стылус яшчэ раз.</string>
   <string name="stylus_ota_completed_tipV2">Стылус абноўлены. Перад выкарыстаннем паўторна падлучыце яго.</string>
+  <string name="go_deleted_fingerprint">Перайсці да выдалення адбітка пальца</string>
+  <string name="immediately_go">Перайсці</string>
+  <string name="maintenance_mode_fingerprint_msg">Паколькі пасля абслугоўвання патрабуецца каліброўка адбітка пальца, спачатку неабходна выдаліць бягучы адбітак пальца. Вы можаце паўторна ўвесці яго пасля абслугоўвання. Мы працягнем абараняць вашую прыватнасць.</string>
 </resources>

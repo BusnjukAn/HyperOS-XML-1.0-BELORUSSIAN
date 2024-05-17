@@ -444,7 +444,7 @@
   <string name="heduohao_fuhao_call_menu_title">Набор на sub%d</string>
   <string name="heduohao_main_call_menu_title">Набраць на галоўным</string>
   <string name="hint_findContacts">Знайсці кантакты</string>
-  <string name="hint_more_contact">Аб\'яднаць дублікаты кантактаў</string>
+  <string name="hint_more_contact">Калі імпарт стварае дублікаты кантактаў, выкарыстоўвайце функцыю \"Аб\'яднаць дублікаты кантактаў\".</string>
   <string name="hybrid_check_network">Налады сеткі</string>
   <string name="hybrid_data_error">Адбылася памылка</string>
   <string name="hybrid_locating_fail">Не атрымліваецца знайсці месцазнаходжанне</string>

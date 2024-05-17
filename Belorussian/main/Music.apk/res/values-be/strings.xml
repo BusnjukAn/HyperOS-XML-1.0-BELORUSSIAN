@@ -2164,4 +2164,10 @@
   <string name="lyric_ai_state_identifying">Хвілінку…</string>
   <string name="lyric_ai_state_use">Выкарыстоўваць</string>
   <string name="lyric_ai_title">Разнаванне тэкстаў з дапамогай ШІ</string>
+  <string name="columbus_reward_style_access">Больш падрабязна</string>
+  <string name="columbus_reward_style_close_cancel">Выхад</string>
+  <string name="columbus_reward_style_close_desc">Завершыце прагляд відэа, каб атрымаць узнагароду. Працягнуць прагляд?</string>
+  <string name="columbus_reward_style_speed_confirm">Працягнуць</string>
+  <string name="columbus_skip_ad_time">Прапусціць (%d)</string>
+  <string name="privacy_policy_title_asm">Свет музыкі на кончыках вашых пальцаў</string>
 </resources>

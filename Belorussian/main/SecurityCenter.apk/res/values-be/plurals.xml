@@ -1786,4 +1786,9 @@
      <item quantity="few">%d віруса ці небяспечныя праграмы</item>
      <item quantity="one">%d вірус ці небяспечная праграма</item>
   </plurals>
+  <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d разоў</item>
+        <item quantity="few">%d разы</item>
+        <item quantity="one">%d раз</item>
+    </plurals>
 </resources>

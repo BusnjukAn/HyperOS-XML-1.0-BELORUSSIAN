@@ -329,4 +329,5 @@
   <string name="v2_permission_location_desc_one">Для адлюстравання шыраты, даўгаты, вышыні і атмасфернага ціску</string>
   <string name="v2_permission_location_desc_two">Для адлюстравання шыраты і даўгаты</string>
   <string name="icp_info">Рэгістрацыйны нумар ICP: Пекін ICP No. 10046444-115A</string>
+  <string name="calibrate_rotate_more_again">Выяўлены магнітныя перашкоды. Перад каліброўкай выйдзіце на адкрытую прастору.</string>
 </resources>

@@ -210,4 +210,14 @@
         <item quantity="one">Тэмпература: %1$s градус, %2$s</item>
         <item quantity="few">Тэмпература: %1$s градуса, %2$s</item>
     </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+       <item quantity="other">Узровень зарада батарэі %s працэнтаў</item>
+       <item quantity="few">Узровень зарада батарэі %s працэнта</item>
+       <item quantity="one">Узровень зарада батарэі %s працэнт</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+       <item quantity="other">Зарадка. Узровень зарада батарэі %d працэнтаў.</item>
+       <item quantity="few">Зарадка. Узровень зарада батарэі %d працэнта.</item>
+       <item quantity="one">Зарадка. Узровень зарада батарэі %d працэнт.</item>
+    </plurals>
 </resources>

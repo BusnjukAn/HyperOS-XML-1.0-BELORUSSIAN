@@ -993,4 +993,8 @@
         <item quantity="other">Змены набудуць моц праз %d сек.</item>
         <item quantity="one">Змены набудуць моц праз %d сек.</item>
     </plurals>
+    <plurals name="hom_info">
+       <item quantity="other">Пачакайце %d сек. і паспрабуйце яшчэ раз</item>
+       <item quantity="one">Пачакайце %d сек. і паспрабуйце яшчэ раз</item>
+    </plurals>
 </resources>

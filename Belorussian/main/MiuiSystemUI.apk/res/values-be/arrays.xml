@@ -481,4 +481,14 @@
         <item>Гэта рэкамендуемы кантэнт.</item>
         <item>Гэта рэклама.</item>
     </string-array>
+    <string-array name="qs_record_issue_types">
+      <item>Прадукцыйнасць</item>
+      <item>Інтэрфейс</item>
+      <item>Батарэя</item>
+    </string-array>
+  <string-array name="tile_states_record_issue">
+    <item>Недаступна</item>
+    <item>Выключана</item>
+    <item>Уключана</item>
+   </string-array>
 </resources>

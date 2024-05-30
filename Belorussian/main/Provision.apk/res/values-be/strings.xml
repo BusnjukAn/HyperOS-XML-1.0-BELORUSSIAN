@@ -838,4 +838,10 @@
   <string name="interconnection_service_summary_china_fragment61">Калі вы не згодны даць гэтыя дазволы, вы не зможаце выкарыстоўваць гэтыя службы.</string>
   <string name="phone_introduction">Вы можаце выкарыстоўваць гэтую праграму, каб знаходзіць і нейтралізаваць вірусы, блакававаць выклікі і паведамленні, аптымізаваць прадукцыйнасць для гульняў, эканоміць батарэю, а таксама кіраваць праграмамі, дазволамі, выкарыстаннем дадзеных і г.д.</string>
   <string name="phone_name_security">Бяспека</string>
+  <string name="check_network_status">Немагчыма пацвердзіць акаўнт з-за памылкі сеткі</string>
+  <string name="software_account_mismatch">Пацвярджэнне акаўнта</string>
+  <string name="software_account_mismatch_summary">Пацвярджэнне акаўнта…</string>
+  <string name="software_version_mismatch">Непадтрымліваемае праграмнае забеспячэнне</string>
+  <string name="software_version_mismatch_summary">Гэтая версія праграмнага забеспячэння не падтрымліваецца прыладай. Яе выкарыстанне можа ўяўляць пагрозу бяспецы. За падрабязнасцямі звярніцеся да свайго гандлёвага агента.</string>
+  <string name="startup_page_text_hint">Разгарніце, каб актываваць прыладу</string>
 </resources>

@@ -1041,4 +1041,6 @@
   <string name="xiaomi_router">Mi Роўтар</string>
   <string name="xiaomi_router_location">Mi Роўтар %s</string>
   <string name="yesterday">Учора</string>
+  <string name="button_select">Выбраць</string>
+  <string name="set_app_suspend">Цяпер выконваецца рэзервовае капіяванне гэтай праграмы. Дачакайцеся завяршэння рэзервовага капіявання і паспрабуйце яшчэ раз.</string>
 </resources>

@@ -2289,4 +2289,22 @@
   <string name="satellite_low_battery_title">Нізкі зарад батарэі</string>
   <string name="satellite_ct_business_summary">Паслугі, якія прадстаўляюцца China Telecom</string>
   <string name="satellite_open_tiantong_business_title">Уключыць спадарожнікавую сувязь Tiantong</string>
+  <string name="cf_setting_mobile_data_off_alert">Уключыце мабільныя дадзеныя</string>
+  <string name="cf_setting_network_alert">Пераканайцеся, што сетка даступная</string>
+  <string name="cf_setting_wifi_on_alert">Калі ласка, адключыце Wi-Fi</string>
+  <string name="enable_esim_summary">Актывацыя eSIM прывядзе да дэактывацыі SIM %s</string>
+  <string name="enter_mep_esim_manager_title">Кіраванне SIM-картай</string>
+  <string name="incall_error_out_of_service_2g">"Мабільная сетка недаступная.
+
+Падлучыцеся да бесправадной сеткі, каб зрабіць выклік.
+
+На гэтай прыладзе адключаная сувязь 2G, што можа паўплываць на якасць падлучэння. Перайдзіце ў \"Налады\" і ўключыце \"Дазволіць 2G\", каб працягнуць."</string>
+  <string name="incall_error_out_of_service_wfc_2g_user">"Мабільная сетка недаступная.
+
+Падлучыцеся да бесправадной сеткі, каб зрабіць выклік.
+
+На гэтай прыладзе адключаная сувязь 2G, што можа паўплываць на якасць падлучэння. Перайдзіце ў \"Налады\" і ўключыце \"Дазволіць 2G\", каб працягнуць."</string>
+  <string name="no_network_available">Сетка недаступная</string>
+  <string name="radio_info_euicc_info">Інфармацыя eUICC:</string>
+  <string name="roaming_preferred_wificall_title">Налады сеткі (роўмінг)</string>
 </resources>

@@ -188,4 +188,8 @@
         <item quantity="other">Батарэя разраджана. Спадарожнікавая сувязь Tiantong адключыцца праз %d сек.</item>
         <item quantity="one">Батарэя разраджана. Спадарожнікавая сувязь Tiantong адключыцца праз %d сек.</item>
     </plurals>
+    <plurals name="satellite_privacy_withdrawal_dialog_disable_negative">
+      <item quantity="other">Адмена сэрвісу (%d сек.)</item>
+      <item quantity="one">Адмена сэрвісу (%d сек.)</item>
+    </plurals>
 </resources>

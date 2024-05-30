@@ -2746,7 +2746,7 @@
   <string name="ew_alert_help_place_title">Бліжэйшыя хованкі</string>
   <string name="ew_alert_help_safe_title">Пазбягайце небяспекі</string>
   <string name="ew_alert_help_tips">Захоўвайце спакой і будзьце пільныя. Трымайцеся далей ад якія вісяць прадметаў, не садзіцеся ў ліфт. Знайдзіце бяспечнае месца, накрыйце і трымайцеся.</string>
-  <string name="ew_alert_no_contact">Усталюйце экстраны кантакт у Бяспекі - Папярэджаньне пра землятрус у першую чаргу</string>
+  <string name="ew_alert_no_contact">Усталюйце кантакт для экстраных выпадкаў у меню Налады > Абарона > Бяспека > Экстранны выклік</string>
   <string name="ew_alert_no_emergency">Дадайце свае медыцынскія дадзеныя ў раздзел Бяспека> Папярэджаньне пра землятрус</string>
   <string name="ew_alert_text_from">Дадзеныя прадастаўлены %s</string>
   <string name="ew_app_name">Папярэджанне пра землятрус</string>
@@ -7301,5 +7301,21 @@ Xiaomi Gaming Cooler"</string>
   <string name="storage_permission_title">Патрабуюцца дазволы</string>
   <string name="videobox_double_core_visual">Двух\'ядзерная графіка</string>
   <string name="videobox_double_core_visual_description1">Палепшыце відэа, павялічце частату кадраў і аптымізуйце HDR з дапамогай спецыяльнага чыпа</string>
-  <string name="videobox_double_core_visual_description2">Павысьце выразнасць і плыўнасць відэа. Уключэнне гэтай функцыі крыху павялічыць энергаспажыванне.</string>
+  <string name="videobox_double_core_visual_description2">"Павысьце выразнасць, плыўнасць і агульны эфект адлюстравання.
+Гэтая функцыя патрабуе больш высокага энергаспажывання.
+Гэтая функцыя не будзе працаваць, калі ўключаная функцыя \"Энергазберажэнне\" або \"Максімальнае энергазберажэнне\"."</string>
+  <string name="conversation_phone_title">Панэль інструментаў выкліку</string>
+  <string name="cs_simultaneous_interpretation_title">Інтэрпрэтаваць</string>
+  <string name="ew_main_subscribe_city">Падпісацца на гарады</string>
+  <string name="ew_merge_contact_button">Зразумела</string>
+  <string name="ew_merge_contact_message">Вашы кантакты для экстраных выпадкаў са службаў экстранай дапамогі і папярэджання аб землятрусе былі аб\'яднаны.</string>
+  <string name="ew_merge_contact_title">Аб\'яднаць кантакты для экстраных выпадкаў</string>
+  <string name="gb_advance_settings_screen_display_style_summary">Павялічце кантраснасць і аптымізуйце візуальныя эфекты, каб паказаць больш дэталяў</string>
+  <string name="gb_advance_settings_screen_display_summary">Павялічце кантраснасць і аптымізуйце візуальныя эфекты, каб паказаць больш дэталяў</string>
+  <string name="gb_advance_settings_screen_show_enhancement">Палепшыць візуальныя эфекты</string>
+  <string name="gb_advance_settings_screen_show_enhancement_summary">Адлюстраванне руху з падвышанай плыўнасцю</string>
+  <string name="gb_advance_settings_screen_super_picture_quality">Суперякасць выявы</string>
+  <string name="gb_advance_settings_screen_super_picture_quality_summary">Павялічце раздзяляльнасць і частату кадраў для больш плыўнага адлюстравання</string>
+  <string name="gb_vision_enhance_smart_frame_enhance">Павысіць частату кадраў</string>
+  <string name="pc_battery_replacement_service_title">Скарыстайцеся нашай паслугай па замене батарэі. %1$s арыгінальнага абсталявання з гарантыяй %2$s.</string>
 </resources>

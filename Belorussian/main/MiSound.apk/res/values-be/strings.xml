@@ -586,4 +586,22 @@
   <string name="ear_scan_redo_dialog_title">Сканаваць яшчэ раз?</string>
   <string name="ear_scan_right_ear">Справа</string>
   <string name="ear_scan_scan_done">Гатова</string>
+  <string name="ear_canal_scan_toast_calling">Завяршыце бягучы выклік перад уключэннем Адаптыўнага гуку</string>
+  <string name="voice_print_delete">Выдаліць узор голасу</string>
+  <string name="voice_print_delete_dialog_message">Абраныя аб\'екты будуць выдалены назаўсёды.</string>
+  <string name="voice_print_dialog_message">Каб выкарыстоўваць гэтую функцыю, вам неабходна спачатку запісаць узор свайго голасу. Запісаць зараз?</string>
+  <string name="voice_print_dialog_title">Патрабуецца ўзор голасу</string>
+  <string name="voice_print_finish">Гатова</string>
+  <string name="voice_print_name_change">Змяніць імя ўзору голасу</string>
+  <string name="voice_print_new">Запісаць новы ўзор голасу</string>
+  <string name="voice_print_note_description" formatted="false">Аптымізацыя па ўзоры голасу — гэта тэхналогія, заснаваная на штучным інтэлекце, якая выкарыстоўвае унікальныя галасавыя характарыстыкі карыстальнікаў для зніжэння шуму. Гэтая тэхналогія вылучае асобныя акустычныя характарыстыкі, такія як інтанацыя, вышыня тону і хуткасць гаворкі. Перш чым выкарыстоўваць гэтую тэхналогію, вам неабходна запісаць прыкладна ад %d да %d секунд свайго голасу. Сістэма будзе вучыцца на вашым голасе, захоўваючы толькі ваш голас падчас выклікаў, фільтруючы пры гэтым любы фонавы шум і іншыя галасы.</string>
+  <string name="voice_print_note_device">Адключыце знешнія прылады перад запісам</string>
+  <string name="voice_print_note_environment">У ціхай абстаноўцы націсніце і ўтрымлівайце кнопку ніжэй і прачытайце наступны тэкст у раўнамерным тэмпе</string>
+  <string name="voice_print_note_in_call">Немагчыма запісаць узор голасу падчас выкліку</string>
+  <string name="voice_print_num">Узор голасу: %s</string>
+  <string name="voice_print_pref_name">Запісаць узор голасу</string>
+  <string name="voice_print_press">Націсніце і ўтрымлівайце для запісу</string>
+  <string name="voice_print_re_record">Запісаць яшчэ раз</string>
+  <string name="voice_print_select">Абярыце узор голасу</string>
+  <string name="voice_print_toast_environment">Запісвайце ў ціхай абстаноўцы</string>
 </resources>

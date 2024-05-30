@@ -1791,4 +1791,9 @@
         <item quantity="few">%d разы</item>
         <item quantity="one">%d раз</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d дзён</item>
+        <item quantity="few">%d днi</item>
+        <item quantity="one">%d дзень</item>
+   </plurals>
 </resources>

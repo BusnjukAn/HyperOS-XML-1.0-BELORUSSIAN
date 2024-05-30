@@ -1273,4 +1273,9 @@
         <item>GPO5</item>
         <item>GPO6</item>
     </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+      <item>Выключаны</item>
+      <item>Unicast</item>
+      <item>Unicast i Broadcast</item>
+    </string-array>
 </resources>

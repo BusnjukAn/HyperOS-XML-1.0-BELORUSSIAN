@@ -3934,4 +3934,14 @@
   <string name="syncing_global_metadata_title">Сінхранізацыя дадзеных з воблакам…</string>
   <string name="video_editor_component_next_step">Наступны %1$d/%2$d</string>
   <string name="video_editor_picker_duration_too_short">Відэа занадта кароткае</string>
+  <string name="pic_to_pdf_install_dialog_content">Усталюйце Mi Праграму прагляду дакументаў, каб мець магчымасць ствараць PDF-файлы. Усталяваць зараз?</string>
+  <string name="pic_to_pdf_install_dialog_positive">Усталяваць</string>
+  <string name="pic_to_pdf_install_dialog_title">Усталюйце Mi Праграму прагляду дакументаў</string>
+  <string name="pic_to_pdf_permission_dialog_content">Дазволіць Mi Праграме прагляду дакументаў доступ да фатаграфій і відэа гэтай прылады, каб мець магчымасць захоўваць PDF-файлы. Вы можаце прадаставіць гэты дазвол у наладах.</string>
+  <string name="pic_to_pdf_permission_dialog_positive">Налады</string>
+  <string name="pic_to_pdf_permission_dialog_title">Патрабуюцца дазволы</string>
+  <string name="pic_to_pdf_update_dialog_content">Абнавіце Mi Праграму прагляду дакументаў да апошняй версіі, каб мець магчымасць ствараць PDF-файлы. Абнавіць зараз?</string>
+  <string name="pic_to_pdf_update_dialog_positive">Абнавіць</string>
+  <string name="pic_to_pdf_update_dialog_title">Абнавіце Mi Праграму прагляду дакументаў</string>
+  <string name="toast_pdf_create_failed">Немагчыма стварыць. Паспрабуйце яшчэ раз.</string>
 </resources>

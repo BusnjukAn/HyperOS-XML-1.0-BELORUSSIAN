@@ -1016,4 +1016,10 @@
   <string name="footer_global_fps">"
 %1$d. Пры ўключэнні рэжыму \"Прадукцыйны\" частата абнаўлення будзе пераключана на максімальнае сістэмнае значэнне %2$d Гц. Налады праграм з высокай частатой абнаўлення будуць часова недаступныя."</string>
   <string name="screen_fps_string">Гц</string>
+  <string name="crazy_mode">Максімальны рэжым</string>
+  <string name="footer_global_fps_new">"
+%1$d. %2$s павялічвае частату абнаўлення да сістэмнага максімуму %3$d Гц. Налады праграмы з высокай частатой абнаўлення будуць часова недаступныя."</string>
+  <string name="performance_mode">Прадукцыйны рэжым</string>
+  <string name="search_anti_flicker_mode">Устараненне мігацення</string>
+  <string name="search_low_flicker_mode">Устараненне мігацення</string>
 </resources>

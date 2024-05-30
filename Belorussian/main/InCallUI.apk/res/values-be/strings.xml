@@ -512,4 +512,12 @@
   <string name="satellite_location_deny_permission_msg">Дазвольце доступ да месцазнаходжання для ўключэння спадарожнікавай сувязі Tiantong</string>
   <string name="satellite_signal_boost_setting_dialog">Пасля ўсталёўкі і актывацыі ўзмацняльнік сігналу трохі зменіць кут нахілу гэтай прылады да спадарожніка, паляпшаючы магутнасць сігналу і стабільнасць спадарожнікавай сувязі ў хмарнае і пахмурнае надвор\'е.</string>
   <string name="satellite_signal_boost_setting_dialog_title">Усталюйце і пачніце выкарыстоўваць узмацняльнік спадарожнікавага сігналу</string>
+  <string name="satellite_service_reject_cause_imei">IMEI прылады не зарэгістраваны</string>
+  <string name="satellite_service_reject_cause_not_enable_International_roaming">Уключыць міжнародны роўмінг</string>
+  <string name="satellite_service_reject_cause_not_order_tiantong">Уключыць спадарожнікавыя службы Tiantong</string>
+  <string name="satellite_service_reject_cause_not_use_ctc">Устаўце SIM-карту China Telecom</string>
+  <string name="satellite_state_voice_reg_fail_exit">Выхад</string>
+  <string name="satellite_satellite_fold_tip">Складзіце прыладу, каб больш эфектыўна знаходзіць спадарожнікі</string>
+  <string name="satellite_satellite_service_redirection">Актываваць</string>
+  <string name="satellite_satellite_service_tip">Здаецца, вы не актывавалі паслугу прамога падлучэння да спадарожніка. Паспрабуйце выканаць пошук спадарожнікаў пасля актывацыі.</string>
 </resources>

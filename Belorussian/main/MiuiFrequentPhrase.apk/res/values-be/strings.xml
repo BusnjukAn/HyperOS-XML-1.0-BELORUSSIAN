@@ -260,4 +260,8 @@
   <string name="super_clipboard_send_image">Уставіць выяву з буфера абмену?</string>
   <string name="phrase_network_tip_summary">Каб мець магчымасць сінхранізаваць вашы частыя выразы з воблакам і выкарыстоўваць іх на сваіх прыладах, дазвольце гэтай праграме падлучыцца да Інтэрнэту.</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="input_method_clipboard_commit_failed">Немагчыма ўставіць гэты элемент</string>
+  <string name="input_method_clipboard_commit_img_failed">Немагчыма ўставіць выявы на гэтую старонку</string>
+  <string name="input_method_clipboard_list_file_item_prefix">"[Файл] "</string>
+  <string name="input_method_clipboard_list_loading">Хвілінку…</string>
 </resources>

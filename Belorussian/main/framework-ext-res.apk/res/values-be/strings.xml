@@ -648,4 +648,6 @@
   <string name="aon_video_support_scene_des">Кіраванне прайграваннем відэа</string>
   <string name="car_share_return_status">Немагчыма адправіць</string>
   <string name="car_share_view_content">Адправіць %s</string>
+  <string name="wallpaper_Fragrant_title">Квітанне</string>
+  <string name="wallpaper_Geometrically_irregular_title">Абстрактная геаметрыя</string>
 </resources>

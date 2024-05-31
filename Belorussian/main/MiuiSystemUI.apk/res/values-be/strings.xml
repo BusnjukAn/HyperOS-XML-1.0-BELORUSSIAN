@@ -2074,4 +2074,6 @@
   <string name="wifitrackerlib_known_network_summary">Даступна з %1$s</string>
   <string name="work_mode_off_title">Аднавіць працу праграм?</string>
   <string name="work_mode_turn_on">Аднавіць</string>
+  <string name="screen_pinning_button_navigation_mode">Зразумела</string>
+  <string name="screen_pinning_toast_cancel">Адмацаваная праграма</string>
 </resources>

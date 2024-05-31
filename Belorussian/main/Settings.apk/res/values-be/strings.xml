@@ -11581,4 +11581,12 @@
   <string name="wifitrackerlib_hotspot_network_summary_new">{DEVICE_TYPE, select, PHONE {{NETWORK_NAME} з вашага тэлефона} TABLET {{NETWORK_NAME} з вашага планшэта} COMPUTER {{NETWORK_NAME} з вашага камп\'ютэра} WATCH {{ {{NETWORK_NAME} з вашага аўтамабіля} other {{NETWORK_NAME} з вашай прылады} }</string>
   <string name="wifitrackerlib_link_speed_mbps">%1$d Мбіт/с</string>
   <string name="wifitrackerlib_link_speed_on_band">%1$s на %2$s</string>
+  <string name="auracast_share_qrcode_title">Падзяліцца паролем з дапамогай QR-кода</string>
+  <string name="auracast_source_qrcode_title">Падзяліцца з дапамогай QR-кода</string>
+  <string name="enable_timezone_optimization_summary">Аптымізуйце аўтаматычны выбар гадзіннага пояса, дадаўшы дадатковыя сеткавыя сцэнары. Гэтая функцыя перастане працаваць, калі вы адключыце яе і пераключыцеся ў рэжым палёту.</string>
+  <string name="enable_timezone_optimization_title">Аптымізацыя гадзіннага пояса</string>
+  <string name="flash_notifications_settings_title">Флэш-паведамленні</string>
+  <string name="screen_enhance_engine_dualDPU_note">Выкарыстанне выдзеленага чыпа паляпшае відэа, павялічвае частату кадраў і аптымізуе HDR. Гэта забяспечвае больш яркае і плыўнае ўспрыманне.</string>
+  <string name="screen_enhance_engine_dualDPU_summary">Павысьце якасць відэа з дапамогай спецыяльнага чыпа</string>
+  <string name="screen_enhance_engine_dualDPU_title">Двух\'ядравая графіка</string>
 </resources>

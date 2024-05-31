@@ -155,4 +155,20 @@
         <item quantity="one">Запомнены %1$d шаблон</item>
         <item quantity="few">Запомнена %1$d шаблона</item>
     </plurals>
+    <plurals name="habit_executed_number_day">
+       <item quantity="other">Выкарыстоўвалася %1$d д. таму</item>
+       <item quantity="one">Выкарыстоўвалася %1$d д. таму</item>
+    </plurals>
+    <plurals name="habit_remembered_number_day">
+       <item quantity="other">Запомнена %1$d д. таму</item>
+       <item quantity="one">Запомнена %1$d д. таму</item>
+    </plurals>
+    <plurals name="remembered_number_habit">
+       <item quantity="other">Дададзена шаблонаў: %1$d</item>
+       <item quantity="one">Дададзена шаблонаў: %1$d</item>
+    </plurals>
+    <plurals name="un_remember_number_habit">
+       <item quantity="other">Чакаючых шаблонаў: %1$d</item>
+       <item quantity="one">Чакаючых шаблонаў: %1$d</item>
+    </plurals>
 </resources>

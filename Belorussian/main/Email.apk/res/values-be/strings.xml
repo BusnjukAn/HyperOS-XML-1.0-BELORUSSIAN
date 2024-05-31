@@ -44,7 +44,7 @@
   <string name="account_settings_param">Налады акаўнта</string>
   <string name="account_settings_policies">Палітыка бяспекі</string>
   <string name="account_settings_preference_add_account">Дадаць уліковы запіс электроннай пошты</string>
-  <string name="account_settings_preference_att_save_path">Прадвызначанае месцазнаходжанне прымацаванняў</string>
+  <string name="account_settings_preference_att_save_path">Тэчка па змаўчанні для прымацаванняў</string>
   <string name="account_settings_preference_head_icon">Фота профілю</string>
   <string name="account_settings_preference_notify">Апавяшчэнні</string>
   <string name="account_settings_retry_label">Спроба сінхранізацыі</string>
@@ -249,6 +249,8 @@
   <string name="bill_remind_due">Пагашэнне ажыццяўляецца ў тэрмін па %s, націсніце для прагляду</string>
   <string name="blank_feedback_toast">Вы павінны напісаць водгук</string>
   <string name="body_hint">Напісаць ліст</string>
+  <string name="body_forward_email_text">[Пераслаць]</string>
+  <string name="body_inline_pic_text">[Выява]</string>
   <string name="bottom_bar_more_quickreply">Хуткі адказ</string>
   <string name="bottom_bar_more_share">Падзяліцца</string>
   <string name="bottom_bar_no_quickreply_toast">Няма хуткага адказу</string>
@@ -362,7 +364,7 @@
   <string name="conversation_item_mark_unread">Не прачытана</string>
   <string name="conversation_message_encrypt_tips">Гэты email зашыфраваны. Дадайце сертыфікат, неабходны для расшыфроўкі.</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Адпраўлена "</string>
-  <string name="conversation_photo_welcome_text">Націсніце на выяву адпраўніка, каб абраць гэтую гутарку.</string>
+  <string name="conversation_photo_welcome_text">Націсніце на выяву адпраўніка, каб выбраць гэтую гутарку.</string>
   <string name="conversation_pull_ad_content">Кіруйце вашымі Email-лістамі без асаблівых высілкаў</string>
   <string name="conversation_quick_button_approve">OK</string>
   <string name="conversation_quick_button_disapprove">Скасаваць</string>
@@ -401,7 +403,7 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">Дыспетчар прылад не актываваны</string>
   <string name="device_not_activiey_lint2">Паштовая служба не працуе з Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Вы абралі сінхранізацыю лістоў уручную. Абнавіце, каб сінхранізаваць.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Вы выбралі сінхранізацыю лістоў уручную. Абнавіце, каб сінхранізаваць.</string>
   <string name="dialog_agree">Згодзен</string>
   <string name="dialog_change_sync_lookback">Пошта, атрыманая %s таму, будзе выдаленая аўтаматычна. Націсніце, каб змяніць.</string>
   <string name="dialog_disagree">Не згодны</string>
@@ -415,7 +417,7 @@
   <string name="dismiss_tip_hover_text">Адхіліць параду</string>
   <string name="disturb_switch">Не турбаваць</string>
   <string name="done">Гатова</string>
-  <string name="done_action">Гатова</string>
+  <string name="done_action">Зроблена</string>
   <string name="donot_disturb_endtime_title">Да</string>
   <string name="donot_disturb_starttime_title">З</string>
   <string name="donot_disturb_summary">Апавяшчэнні для лістоў, якія прыходзяць будуць без гуку</string>
@@ -521,7 +523,7 @@
   <string name="forever">Заўсёды</string>
   <string name="forward">Пераслаць</string>
   <string name="forward_attachment">Пераслаць</string>
-  <string name="forward_attribution">---------- Пераадрасаванае паведамленне ----------&lt;br&gt;Ад: %1$s&lt;br&gt;Дата: %2$s&lt;br&gt;Тэма: %3$s&lt;br&gt;Каму: %4$s&lt;br&gt;</string>
+  <string name="forward_attribution">---------- Пераадрасаванае паведамленне ----------&lt;br>Ад: %1$s&lt;br>Дата: %2$s&lt;br>Тэма: %3$s&lt;br>Каму: %4$s&lt;br></string>
   <string name="forward_attribution_no_headers">---------- Пераадрасаванае паведамленне ----------</string>
   <string name="forward_download_failed_ticker">Не атрымалася пераслаць адно або некалькі прымацаванняў.</string>
   <string name="forward_download_failed_title">Прымацаванне не пераслана</string>
@@ -540,7 +542,7 @@
   <string name="general_preference_text_zoom_small">Маленькі</string>
   <string name="general_preference_text_zoom_tiny">Маленечкі</string>
   <string name="generic_attachment_problem">Не ўдаецца прымацаваць файл.</string>
-  <string name="get_database_exception">Ачысціце даныя праграмы ў меню Налады &gt; Сыстэмныя праграмы і паспрабуйце зноў.</string>
+  <string name="get_database_exception">Ачысціце даныя праграмы ў меню Налады > Сыстэмныя праграмы і паспрабуйце зноў.</string>
   <string name="get_oauth_code">Атрымаць код</string>
   <string name="gmail_acceleration">Выкарыстаць проксі-сервер для акаўнта Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Выкарыстаць проксі-сервер для доступу да акаўнта Gmail?</string>
@@ -598,8 +600,8 @@
   <string name="login_des_rediff">Уваход у Rediffmail</string>
   <string name="login_des_yahoo">Уваход у Yahoo Mail</string>
   <string name="login_des_yangdex">Уваход у Yandex Mail</string>
-  <string name="login_err_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы абралі гэтую опцыю раней. Перайдзіце па адрасе https://email.163.com/ для скіду пароля або кода доступу.</string>
-  <string name="login_err_sina_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы абралі гэтую опцыю раней. Перайдзіце па адрасе https://mail.sina.com.cn/ для скіду пароля або кода доступу.</string>
+  <string name="login_err_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы выбралі гэтую опцыю раней. Перайдзіце па адрасе https://email.163.com/ для скіду пароля або кода доступу.</string>
+  <string name="login_err_sina_message">Выкарыстоўвайце аўтарызаваныя коды доступу для ўваходу ў %1$s, калі вы выбралі гэтую опцыю раней. Перайдзіце па адрасе https://mail.sina.com.cn/ для скіду пароля або кода доступу.</string>
   <string name="login_failed_ticker">Няўдалы ўваход у акаўнт \"%s\".</string>
   <string name="login_failed_tip">"Звяжыцеся з намі ў WeChat, каб атрымаць дапамогу: "</string>
   <string name="login_failed_title">Памылка аўтарызацыі</string>
@@ -607,7 +609,7 @@
   <string name="login_qq_psw">Увайдзіце, выкарыстоўваючы код аўтарызацыі</string>
   <string name="login_support_tip_text">Падтрымка ўсіх асноўных акаўнтаў электроннай пошты</string>
   <string name="login139">Увайсці з дапамогай China Mobile</string>
-  <string name="long_press_to_select_tip">Націсніце i ўтрымлівайце, каб абраць адну гутарку, а затым націскайце, каб абраць больш.</string>
+  <string name="long_press_to_select_tip">Націсніце i ўтрымлівайце, каб выбраць адну гутарку, а затым націскайце, каб выбраць больш.</string>
   <string name="long_string">доооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооўгі радок</string>
   <string name="mail">Пошта</string>
   <string name="mail_body_turncated">Гэта паведамленне занадта вялікае, каб загрузіць, таму адлюстроўваецца толькі яго частка. Калі ласка, прачытайце яго цалкам пазней на камп\'ютары.</string>
@@ -701,14 +703,14 @@
   <string name="mibill_privacy_policy_button1">Пазней</string>
   <string name="mibill_privacy_policy_button2">Пагадзіцца</string>
   <string name="mibill_privacy_policy_description">Дазволіць Мі Wallet аналізаваць і кіраваць плацяжамі аўтаматычна. Па змаўчанні гэтая функцыя для работы, звязанай з адрасамі электроннай пошты, адключана.</string>
-  <string name="mibill_privacy_policy_link">Выкарыстоўваючы гэту функцыю, вы пагаджаецеся з &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Умовамі выкарыстання&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_link">Выкарыстоўваючы гэту функцыю, вы пагаджаецеся з &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\">Умовамі выкарыстання&lt;/a></string>
   <string name="mibill_privacy_policy_title">Аўтаматычнае кіраванне плацяжамі</string>
   <string name="min_payment_text">Мінімальная плата</string>
   <string name="modify_contact_address">Змяніць email-адрас кантакта</string>
   <string name="more_context">Больш</string>
   <string name="more_string">Яшчэ %1$s…</string>
   <string name="move_to_selection_dialog_title">Перамясціць у іншую тэчку</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;\"   %2$s\"</string>
+  <string name="multiple_new_message_notification_item">&lt;b>%1$s&lt;/b>\"   %2$s\"</string>
   <string name="mute">Адключыць гук</string>
   <string name="navigation_menu">Меню навігацыі</string>
   <string name="need_get_qq_mail">Патрабуецца QQ Mail</string>
@@ -757,7 +759,7 @@
   <string name="oauth_error_description">Памылка аўтэнтыфікацыі</string>
   <string name="oauth_gmail_login_notify">Увядзіце імя карыстальніка і пароль акаўнта Google на наступнай старонцы ўваходу.</string>
   <string name="oauth_login_continue">Працягнуць</string>
-  <string name="oauth_login_continue_qq">Атрымаць код доступу і ўвайсці ў &gt;</string>
+  <string name="oauth_login_continue_qq">Атрымаць код доступу і ўвайсці ў ></string>
   <string name="oauth_login_usr_proxy">Увайсці з дапамогай проксі</string>
   <string name="obtain_new_auth_code">Атрымаць новы код аўтарызацыі</string>
   <string name="ok">OК</string>
@@ -805,8 +807,8 @@
   <string name="over_sixteen">Мне споўнілася 16 гадоў.</string>
   <string name="overlays_fail_tip">Для працы сэрвіса патрабуецца доступ да ўсплываючых вокнаў</string>
   <string name="overlays_ok">ОК</string>
-  <string name="overlays_tip">Налады тэлефона - Праграма - Звесткі аб праграме - дазвольце усплываючыя паведамленнi і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
-  <string name="overlays_tip_23">Дазвольце усплываючыя паведамленнi і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
+  <string name="overlays_tip">Налады тэлефона - Праграма - Звесткі аб праграме - дазвольце усплывальныя паведамленнi і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
+  <string name="overlays_tip_23">Дазвольце усплывальныя паведамленнi і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
   <string name="overlays_title">Папярэджане</string>
   <string name="parase_setup_data">Атрыманне дадзеных…</string>
   <string name="parse_bill_discribe">Апрацоўка рахункаў крэдытнай карткі…</string>
@@ -837,7 +839,7 @@
   <string name="permission_access_provider_desc">Дазваляе праграме атрымаць доступ да электроннай пошты, імёнам карыстальнікаў і паролям</string>
   <string name="permission_access_provider_label">Доступ да даных карыстальніка</string>
   <string name="permission_des_calendar">Для сінхранізацыі падзей календара</string>
-  <string name="permission_des_contact">Для сінхранізацыі вашых кантактаў электроннай пошты як сістэмных кантактаў. Мы рэкамендуем абраць \"Заўсёды дазваляць\", каб пазбегнуць перапыненняў.</string>
+  <string name="permission_des_contact">Для сінхранізацыі вашых кантактаў электроннай пошты як сістэмных кантактаў. Мы рэкамендуем выбраць \"Заўсёды дазваляць\", каб пазбегнуць перапыненняў.</string>
   <string name="permission_des_detail">Калі вы не згодныя прадастаўляць такія дазволы або дзяліцца асабістай інфармацыяй і загружаць яе, вы не зможаце скарыстацца гэтай праграмай. Вы можаце выдаліць яе, выйсці з сістэмы або абмежаваць дазволы ў Наладах.</string>
   <string name="permission_des_external_storage">Для стварэння новых лістоў, а таксама захавання і дадання прымацаванняў</string>
   <string name="permission_des_phone_status">Для доступу да IMEI ў мэтах ідэнтыфікацыі вашай прылады</string>
@@ -883,7 +885,7 @@
   <string name="policy_text_truncation">Абмежаваць памер тэксту Email-ліста</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Націсніце “Актываваць”, каб наладзіць паштовы сервер.</string>
-  <string name="preference_pop_tips">Укладанне будзе загружана разам з лістом. Гэта можа выкарыстоўваць значныя мабільныя дадзеныя. Усё роўна спампаваць?</string>
+  <string name="preference_pop_tips">Прымацаванне будзе загружана разам з лістом. Гэта можа выкарыстоўваць значныя мабільныя дадзеныя. Усё роўна спампаваць?</string>
   <string name="preference_sender_image_description">Паказваць выяву профілю побач з імем адпраўніка ва Уваходных</string>
   <string name="preference_sender_image_title">Паказваць выяву профілю ва Уваходных</string>
   <string name="preferences_signature_dialog_title">Подпіс</string>
@@ -928,7 +930,7 @@
   <string name="qq_login_help_title">QQ/Незалежны пароль/Код аўтарызацыі:</string>
   <string name="qq_login_notice">Заўвага: Калі вы ўжо ўсталявалі пароль, то трэба будзе пацвердзіць яго пры ўваходзе ў сістэму.</string>
   <string name="qq_login_open_imap">Націсніце \"Дапамога\", каб уключыць IMAP/SMTP</string>
-  <string name="qq_login_origin_setting">Увядзіце імя карыстальніка і пароль, каб увайсці ў &gt;</string>
+  <string name="qq_login_origin_setting">Увядзіце імя карыстальніка і пароль, каб увайсці ў ></string>
   <string name="qq_login_send_message">Націсніце «Адправіць SMS», каб атрымаць код пацверджання</string>
   <string name="qq_login_webview">Уваход у вэб-кліент QQ, націсніце Ўвайсці з выкарыстаннем пароля.</string>
   <string name="qq_next_generation_auth_toast">Уключыце абарону паролем у вашым браўзэры</string>
@@ -993,7 +995,7 @@
   <string name="reduce_the_receiving_frequencye_title">Сінхранізаваць радзей</string>
   <string name="refresh">Абнавіць</string>
   <string name="refreshing">Абнаўленне…</string>
-  <string name="refreshing_done">Гатова</string>
+  <string name="refreshing_done">Зроблена</string>
   <string name="release_to_refresh">Адпусціце, каб абнавіць</string>
   <string name="remind_attachment_size_limit">Вашыя лісты павінны быць меншымі за %s МБ</string>
   <string name="reminder">Нагадванне</string>
@@ -1045,7 +1047,7 @@
   <string name="security_unsupported_ticker_fmt">Акаўнт \"%s\" не можа быць сінхранізаваны з-за патрабаванняў сістэмы бяспекі.</string>
   <string name="see_more_content">Паказаць больш</string>
   <string name="select_attachment_type">Абярыце прымацаванне з</string>
-  <string name="select_no_file">Прымацаванні не абраны</string>
+  <string name="select_no_file">Прымацаванні не выбраны</string>
   <string name="select_path">Абярыце шлях</string>
   <string name="send">Даслаць</string>
   <string name="send_encrypt_dialog_fail_content">У атрымальніка няма праверанага сертыфіката, неабходнага для расшыфроўкі гэтага email. Адправіць звычайны email?</string>
@@ -1237,16 +1239,16 @@
   <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
-  <string name="abc_menu_alt_shortcut_label">Alt +</string>
-  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
   <string name="abc_menu_delete_shortcut_label">Delete</string>
   <string name="abc_menu_enter_shortcut_label">Enter</string>
-  <string name="abc_menu_function_shortcut_label">Fn +</string>
-  <string name="abc_menu_meta_shortcut_label">Meta +</string>
-  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
   <string name="abc_menu_space_shortcut_label">Прабел</string>
-  <string name="abc_menu_sym_shortcut_label">Sym +</string>
-  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
   <string name="abc_search_hint">Пошук…</string>
   <string name="abc_searchview_description_clear">Выдаліць запыт</string>
   <string name="abc_searchview_description_query">Пошукавы запыт</string>
@@ -1287,7 +1289,7 @@
   <string name="ntes_verification_code">Увядзіце код: %s</string>
   <string name="pdf_has_signature_prompt_cancel">Адкрыць зыходны файл</string>
   <string name="pdf_has_signature_prompt_confirm">Адкрыць копію</string>
-  <string name="pdf_has_signature_prompt_message">Выяўленая падпісаная копія гэтага ўкладання. Адкрыць ці не?</string>
+  <string name="pdf_has_signature_prompt_message">Выяўленая падпісаная копія гэтага прымацавання. Адкрыць ці не?</string>
   <string name="pdf_signature_create_title">Намалюйце свой подпіс</string>
   <string name="pdf_signature_manager_max_count">Дасягнута максімальная колькасць подпісаў, якiя можна стварыць. Калі ласка, выдаліце ​​існуючыя подпісы перад іх стварэннем</string>
   <string name="pdf_signature_manager_title">Кiраванне подпісамі</string>
@@ -1326,7 +1328,7 @@
   <string name="about_lasted_version">Гэта апошняя версія</string>
   <string name="account_setting_general_summry">Усталяваць агульныя функцыі</string>
   <string name="account_setting_general_title">Налады функцый</string>
-  <string name="account_settings_background_attachments_title">Загружаць укладанні аўтаматычна</string>
+  <string name="account_settings_background_attachments_title">Загружаць прымацаванні аўтаматычна</string>
   <string name="account_settings_does_not_support_pop">Пратакол POP3 не падтрымлівае ўстаноўку гэтага элемента</string>
   <string name="action_filter">Фільтр</string>
   <string name="login_manual">Ручная налада</string>
@@ -1442,9 +1444,9 @@
   <string name="http_auth_dialog_password">Пароль</string>
   <string name="http_auth_dialog_title">Калі ласка, увядзіце свае ўліковыя дадзеныя</string>
   <string name="http_auth_dialog_username">Імя карыстальніка</string>
-  <string name="inline_as_attachment">Адправіць як ўкладанне</string>
+  <string name="inline_as_attachment">Адправіць як прымацаванне</string>
   <string name="inline_too_large">Выява занадта вялікая</string>
-  <string name="inline_too_large_des">Убудаваныя выявы не могуць быць больш за 3 Мб. Адпраўляйце выявы большага памеру ў выглядзе укладанняў або сціскайце іх.</string>
+  <string name="inline_too_large_des">Убудаваныя выявы не могуць быць больш за 3 Мб. Адпраўляйце выявы большага памеру ў выглядзе прымацаванняў або сціскайце іх.</string>
   <string name="login_cancelled">Спроба ўваходу адменена</string>
   <string name="login_failed">Не атрымалася ўвайсці</string>
   <string name="login_tip">Пратакол %s будзе выкарыстоўвацца для ўваходу па змаўчанні. Калі вы хочаце выкарыстаць іншы пратакол, абярыце яго ўручную сярод варыянтаў ўваходу.</string>
@@ -1522,7 +1524,7 @@
   <string name="night">Вечар</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_install_qq_tip">Паспяхова скапіявана. Адкрыйце QQ і знайдзіце групу, да якой хочаце далучыцца.</string>
-  <string name="notification_message">Апавяшчаць аб новых паведамленнях толькі ў абраных тэчках?</string>
+  <string name="notification_message">Апавяшчаць аб новых паведамленнях толькі ў выбраных тэчках?</string>
   <string name="notification_off">Выкл.</string>
   <string name="notification_on">Укл.</string>
   <string name="operation_settging">Дзеянні</string>
@@ -1535,7 +1537,7 @@
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">Суб</string>
   <string name="set_account_app_password">Усталяваць пароль праграмы</string>
-  <string name="settings_attachment">Укладанні</string>
+  <string name="settings_attachment">Прымацаванні</string>
   <string name="sign_in_graph_error">Вы можаце ўвайсці ў сістэму з выкарыстаннем пратаколу IMAP або EXCHANGE, толькі калі ваша арганізацыя не змяніла агульную канфігурацыю сервера. Калі адрас вашага сервера наладжаны арганізацыяй або звязаныя пратаколы адключаныя, ўвайдзіце ў сістэму, выкарыстоўваючы новы пратакол Microsoft.</string>
   <string name="sign_in_no_useful_provider_error">Не ўдаецца атрымаць канфігурацыі пратакола ад Microsoft. Выкарыстоўвайце іншы пратакол ці абновіце пратакол ад Microsoft.</string>
   <string name="signature_black_shark">Адпраўлена з майго тэлефона Blackshark</string>
@@ -1641,13 +1643,13 @@
   <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
   <string name="compose_add_attachment_permission_denied">Не ўдаецца перасылаць электронную пошту. Патрабуюцца дазволы для доступу да знешняга сховішча.</string>
   <string name="default_signature_pad">Адпраўлена з маёй Mi прылады</string>
-  <string name="download_before_sharing2">Некаторыя з абраных элементаў не загружаныя. Спачатку загрузіце іх.</string>
+  <string name="download_before_sharing2">Некаторыя з выбраных элементаў не загружаныя. Спачатку загрузіце іх.</string>
   <string name="error_icon_content_description">Памылка</string>
   <string name="exposed_dropdown_menu_content_description">Паказаць раскрываючаяся меню</string>
   <string name="folder_list_current_account">Бягучы акаўнт</string>
   <string name="graph_name">Карпаратыўны (графік)</string>
   <string name="have_download">Загружана</string>
-  <string name="hide_attachment">Схаваць ўкладанне</string>
+  <string name="hide_attachment">Схаваць прымацаванне</string>
   <string name="icon_content_description">Значок дыялогу</string>
   <string name="installation_cancelled">Усталёўка адменена.</string>
   <string name="installation_failed">Усталяваць не атрымалася.</string>
@@ -1701,7 +1703,7 @@
   <string name="welcome_contact_list_title">Абярыце кантакт</string>
   <string name="welcome_folder_list_title">Абярыце тэчку для прагляду</string>
   <string name="welcome_mail_list_title">Абярыце ліст для прагляду</string>
-  <string name="show_attachment">Паказаць ўкладанне</string>
+  <string name="show_attachment">Паказаць прымацаванне</string>
   <string name="copy_toast_msg">Спасылка скапіяваная ў буфер абмену</string>
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
   <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
@@ -1772,8 +1774,8 @@
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="account_setup_domain_invalid_toast">Увядзіце сапраўдны дамен электроннай пошты</string>
   <string name="attachment_drag_add_inline">Убудаваць</string>
-  <string name="attachment_drag_add_picture_prompt">Вы хочаце ўбудаваць ці прымацаваць абраныя выявы?</string>
-  <string name="attachment_drag_create_email_prompt">Прымацаваць абраныя файлы да новага ліста?</string>
+  <string name="attachment_drag_add_picture_prompt">Вы хочаце ўбудаваць ці прымацаваць выбраныя выявы?</string>
+  <string name="attachment_drag_create_email_prompt">Прымацаваць выбраныя файлы да новага ліста?</string>
   <string name="compose_encrypt_lock_description">Зашыфраваць</string>
   <string name="compose_encrypt_unlock_description">Расшыфраваць</string>
   <string name="compose_encrypt_unlock_w_description">Не давераны кантакт</string>
@@ -1784,7 +1786,7 @@
   <string name="pdf_signature_select">Абярыце подпіс</string>
   <string name="selected">Абрана</string>
   <string name="unselected">Не абрана</string>
-  <string name="account_settings_does_not_support_pop_attachment">POP3 можа аўтаматычна загружаць укладанні, але не можа іх рэдагаваць</string>
+  <string name="account_settings_does_not_support_pop_attachment">POP3 можа аўтаматычна загружаць прымацаванні, але не можа іх рэдагаваць</string>
   <string name="delete_message_dialog_content">Выдаліць гэты ліст і заблакаваць адпраўніка?</string>
   <string name="delete_message_dialog_left_button">Выдаліць і заблакаваць</string>
   <string name="delete_message_dialog_right_button">Толькі выдаліць</string>
@@ -1839,9 +1841,9 @@
   <string name="error_message_respond_revert_26">Ваш акаўнт заблакаваны. Увайдзіце ў Sohu Mail у сваім браўзэры, каб актываваць яго.</string>
   <string name="error_message_respond_revert_27">Тэрмін дзеяння вашага пароля скончыўся. Увайдзіце ў Sohu Mail у сваім браўзэры, каб атрымаць згенераваны серверам пароль.</string>
   <string name="quick_translation">Перавесці</string>
-  <string name="account_settings_background_attachments_security_summary">Правяраць укладанні, якія змяшчаюць усталявальныя пакеты, на наяўнасць пагроз бяспекі</string>
-  <string name="account_settings_background_attachments_security_title">Правяраць укладанні на наяўнасць пагроз</string>
-  <string name="attachments_security_alert_install_message">Гэтае ўкладанне з\'яўляецца ўсталявальным пакетам. Пераканайцеся, што вы давяраеце крыніцы, перш чым адчыняць яго. Усталяваць?</string>
+  <string name="account_settings_background_attachments_security_summary">Правяраць прымацаванні, якія змяшчаюць усталявальныя пакеты, на наяўнасць пагроз бяспекі</string>
+  <string name="account_settings_background_attachments_security_title">Правяраць прымацаванні на наяўнасць пагроз</string>
+  <string name="attachments_security_alert_install_message">Гэтае прымацаванне з\'яўляецца ўсталявальным пакетам. Пераканайцеся, што вы давяраеце крыніцы, перш чым адчыняць яго. Усталяваць?</string>
   <string name="attachments_security_alert_install_title">Увага</string>
   <string name="attachments_security_alert_message">Гэтае паведамленне змяшчае ўсталявальны пакет. Пераканайцеся, што вы давяраеце крыніцы, перш чым адкрываць яго.</string>
   <string name="attachments_security_install">Усталяваць</string>
@@ -1849,17 +1851,16 @@
   <string name="folder_junk_name_en5">Спам</string>
   <string name="message_invite_calendar_download_prompt">Спампуйце Каляндар, каб выкарыстоўваць гэтую функцыю</string>
   <string name="translated_text_too_long">Абярыце менш тэксту для капіявання і паспрабуйце яшчэ раз.</string>
-  <string name="body_forward_email_text">[Пераслаць]</string>
-  <string name="body_inline_pic_text">[Выява]</string>
   <string name="message_forward_has_signature_pdf">Вы перасылаеце падпісаныя PDF-файлы?</string>
   <string name="cancel_edit">Адмяніць рэдагаванне</string>
   <string name="drop_sign_operation">Адмяніць змены?</string>
-  <string name="other_pdf_open">Іншыя спосабы адкрыцця</string>
+  <string name="other_pdf_open">Адкрыць з дапамогай…</string>
   <string name="pdf_save_local">"Паспяхова захавана на прыладзе: "</string>
   <string name="pdf_viewer_reply_all">Адказаць усім гэтым файлам</string>
   <string name="please_save_sign_first">Захаваць подпіс</string>
   <string name="save_sign_pdf">Захаваць на прыладзе</string>
   <string name="auto_start_open_prompt">Дазвольце праграме аўтаматычна запускацца, каб яна магла сінхранізаваць вашу электронную пошту. Вы можаце прадаставіць гэты дазвол у наладах.</string>
-  <string name="sign_in_dialog_title">Абярыце метад уваходу</string>
   <string name="notification_mutli_message_content">Націсніце для прагляду</string>
+  <string name="sign_in_dialog_title">Абярыце спосаб уваходу</string>
+  <string name="no_content_in_body">[Невядома]</string>
 </resources>

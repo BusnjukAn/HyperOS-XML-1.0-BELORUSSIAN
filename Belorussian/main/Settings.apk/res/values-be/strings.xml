@@ -11042,7 +11042,6 @@
   <string name="audio_streams_pref_title">Аўдыяплыні паблізу</string>
   <string name="audio_streams_qr_code_summary">Падключыцца да аўдыяплыні з дапамогай QR-кода</string>
   <string name="audio_streams_title">Аўдыяплыні</string>
-  <string name="auracast_source_qrcode_title">Абмен Qr-кодам</string>
   <string name="autoclick_disabled">Выключана</string>
   <string name="battery_app_item_hint">Высокае выкарыстанне зараду</string>
   <string name="battery_app_item_hint_in_bg">Высокае выкарыстанне зараду ў фонавым рэжыме</string>

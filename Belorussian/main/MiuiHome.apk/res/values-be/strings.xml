@@ -1127,7 +1127,7 @@
   <string name="international_home_pull_down_sub_content">Вы можаце пераключыць гэты жэст на адкрыццё Цэнтра кіравання ў меню «Налады» > «Працоуны стол» > «Жэст ўніз па працоуным стале».</string>
   <string name="international_home_pull_down_up_btn_get">Зразумела</string>
   <string name="international_home_pull_up_content">Правядзіце уверх па працоуным стале, каб адкрыць Кантэнт-цэнтр.</string>
-  <string name="international_home_pull_up_sub_content">Каб адкрыць пошук, правядзіце ўніз ад цэнтра працоўнага стала.</string>
+  <string name="international_home_pull_up_sub_content">Каб знайсці праграмы і прапановы праграм, правядзіце ўніз ад цэнтра працоўнага стала.</string>
   <string name="not_support_adding">Даданне гэтага элемента пакуль не падтрымліваецца</string>
   <string name="switch_personal_assistant_summary">Правядзіце ўправа па працоўнаму сталу, каб адкрыць \"Рэкамендацыі Google\"</string>
   <string name="accessibility_recent_task_show_menu">Яшчэ</string>
@@ -1160,4 +1160,6 @@
   <string name="system_sdk_disabled_toast">Сістэмны SDK адключаны. Спачатку уключыце яго.</string>
   <string name="name_aireco_name">Прапановы Mi ШІ</string>
   <string name="system_shortcuts_dislike">Мне гэта не падабаецца</string>
+  <string name="global_shelf">Пошук праграм</string>
+  <string name="home_gesture_global_shelf">Пошук праграм</string>
 </resources>

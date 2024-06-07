@@ -1097,4 +1097,22 @@
   <string name="miuix_navigator_category_group_collapse">Згарнуць</string>
   <string name="miuix_navigator_category_group_expand">Разгарнуць</string>
   <string name="miuix_appcompat_cloud_state_encrypt_disabled">Уключыце скразную абарону для сінхранізацыі элементаў</string>
+  <string name="add_excerpt_summary">Дадаць зводку</string>
+  <string name="ai_chat_declare_double_link"><Data>Прачытайце і прыміце нашыя &lt;a href=\"%1$s\">Угоду карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="ai_chat_dlg_content">Для розных крыніц інфармацыі ў розных сцэнарах (напрыклад, спасылак або тэксту, які з\'яўляецца ў такіх праграмах, як браўзэры, WeChat і Feishu), функцыя хуткага збору і абагульненні інфармацыі, а таксама яе аўтаматычнага стварэння і ўяўленні ў адзіны запіс для архівавання.</string>
+  <string name="ai_watermark">Згенеравана ШІ:</string>
+  <string name="excerpt_ares_limit">Мы шануем ваш энтузіязм, але ў гэты час у нас вялікі трафік. Націсніце зыходную спасылку для прагляду або паспрабуйце пазней.</string>
+  <string name="excerpt_original_text">Зыходны тэкст:</string>
+  <string name="excerpt_summary_fail">Памылка аналізу кантэнту. Націсніце зыходную спасылку для прагляду або паспрабуйце пазней.</string>
+  <string name="excerpt_summary_huangfan">Змесціва з\'яўляецца канфідэнцыйным. Націсніце зыходную спасылку для прагляду.</string>
+  <string name="excerpt_summary_link_bubble_tips">Націсніце, каб захаваць зводку ў Нататках.</string>
+  <string name="pref_excerpt_summary_link_float">Кожны раз пры капіяванні спасылкі на панэлі скарачэнняў адлюстроўваецца чакаючы зводны напамін. Націсніце, каб атрымаць зводку.</string>
+  <string name="single_link_excerpt_summary_saving">Стварэнне зводнага спісу.</string>
+  <string name="to_be_read_bubble_tips">Скапіяваная спасылка і тэкст будуць напрамую вынятыя з анатацыі ў нататкі.</string>
+  <string name="to_be_read_link_bubble_tips">Націсніце, каб захаваць зводку ў Нататках</string>
+  <string name="toast_show_no_network">Падключыцеся да сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="toast_show_xiaomi_account">Увайдзіце ў свой акаўнт Xiaomi і паспрабуйце яшчэ раз.</string>
+  <string name="privacy_preference">Рэгістрацыйны нумар ICP: Пекін ICP № 10046444-74A.</string>
+  <string name="pref_title_excerpt_summary_remind">Зводка</string>
+  <string name="to_be_read_list">Зводка</string>
 </resources>

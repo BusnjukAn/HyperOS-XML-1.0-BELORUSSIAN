@@ -107,4 +107,16 @@
         <item quantity="one">Абраны %d элемент</item>
         <item quantity="few">Абрана %d элемента</item>
    </plurals>
+   <plurals name="aqi_all_city_cur_num">
+    <item quantity="other">Сярэдняе з %1$s станцый</item>
+    <item quantity="one">Сярэдняе з %1$s станцыі</item>
+    <item quantity="few">Сярэдняе з %1$s станцый</item>
+    <item quantity="many">Сярэдняе з %1$s станцый</item>
+  </plurals>
+  <plurals name="view_realtime_clear">
+    <item quantity="other">Ясна</item>
+    <item quantity="one">Ясна</item>
+    <item quantity="few">Ясна</item>
+    <item quantity="many">Ясна</item>
+  </plurals>
 </resources>

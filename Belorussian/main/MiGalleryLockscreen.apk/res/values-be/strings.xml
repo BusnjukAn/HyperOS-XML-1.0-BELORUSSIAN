@@ -858,7 +858,6 @@
   <string name="sst_change_wallpaper_lock_desk">Экран блакавання і працоўны стол</string>
   <string name="sst_change_wallpaper_title">Ужыванне шпалер</string>
   <string name="sst_close_wallpaper">Выключыць Карусель шпалер</string>
-  <string name="sst_common_question">FAQ</string>
   <string name="sst_cover_chg_enable_desc">Паказваць Карусель шпалер падчас зарадкі прылады</string>
   <string name="sst_cover_chg_enable_title">Паказваць пры зарадцы</string>
   <string name="sst_custom_wallpaper_desc">Абярыце выявы з Галерэі і Гісторый</string>
@@ -1103,7 +1102,6 @@
   <string name="share_dlg_wechat_moment">Моманты WeChat</string>
   <string name="share_dlg_weibo">Адправіць у Weibo</string>
   <string name="wallpaper_added_success_toast">Шпалеры паспяхова дададзены</string>
-  <string name="about_gallery_icp"></string>
   <string name="left_lks_download_now">Спампаваць</string>
   <string name="left_lks_reverse">Папярэдні заказ</string>
   <string name="left_lks_view">Праглядзець</string>
@@ -1156,4 +1154,7 @@
   <string name="surprise_wallpaper_prompts_send_succeed">Захавана паспяхова!</string>
   <string name="surprise_wallpaper_prompts_sending">Адпраўка вашых пераваг…</string>
   <string name="surprise_wallpaper_auth_failed_tip">Праверка інфармацыі карыстальніка не ўдалася, праверце свой статус уваходу і сістэмны час.</string>
+  <string name="about_gallery_icp">Рэгістрацыйны нумар: ICP № 10046444-42A</string>
+  <string name="ad_delimiter_6_version">Версія: %1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
+  <string name="sst_common_question">Частыя пытанні</string>
 </resources>

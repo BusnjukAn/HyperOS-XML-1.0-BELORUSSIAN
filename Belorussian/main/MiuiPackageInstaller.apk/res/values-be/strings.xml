@@ -1174,4 +1174,9 @@
   <string name="side_sheet_accessibility_pane_title">Бакавы ліст</string>
   <string name="too_many_attempts_need_verify_account">Зашмат спроб, праверце пароль</string>
   <string name="single_authorize_for_installation">Ліцэнзія на аднаразовую ўсталёўку</string>
+  <string name="new_unregistered_dialog_comment">Калі вы як распрацоўшчык адправілі неабходную інфармацыю ўладам, вы можаце %1$s.</string>
+  <string name="new_unregistered_dialog_comment_clickable">падаць апеляцыю</string>
+  <string name="new_unregistered_dialog_content">Магчыма, гэта праграма не падтрымліваецца ў вашым бягучым рэгіёне або не прызначана для распаўсюджвання. Адпаведная інфармацыя аб ICP рэгістрацыі адсутнічае. %1$s.</string>
+  <string name="new_unregistered_dialog_content_clickable">Даведацца больш пра палітыку рэгістрацыі</string>
+  <string name="new_unregistered_dialog_title">Немагчыма знайсці інфармацыю аб ICP рэгістрацыі</string>
 </resources>

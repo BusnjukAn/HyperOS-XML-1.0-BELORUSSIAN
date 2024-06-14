@@ -362,4 +362,6 @@
   <string name="view_indexes_item_tommorrow">Заўтра</string>
   <string name="weather_main_aqi_desc">IЯП</string>
   <string name="wind_direction_no_data">Вецер</string>
+  <string name="update_notification_info">Абнаўленне дадзеных у фонавым рэжыме…</string>
+  <string name="weather_service_channel_name">Фонавыя службы</string>
 </resources>

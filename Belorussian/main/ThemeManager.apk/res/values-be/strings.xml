@@ -1754,11 +1754,12 @@
   <string name="wind_direction_7_f">Паўн.Зах. вецер</string>
   <string name="wind_format">%1$s | Узровень %2$s</string>
   <string name="aqi_format_desc">Індэкс якасці паветра: %s</string>
-  <string name="about_securitycenter_icp">Рэгістрацыйны нумар: Beijing ICP No. 10046444-51A &gt;</string>
+  <string name="about_securitycenter_icp">Рэгістрацыйны нумар: ICP 10046444-51A &gt;</string>
   <string name="gallery_wallpaper_history">Націсніце, каб паглядзець папярэднія выявы, прадстаўленыя ў каруселі шпалер</string>
   <string name="gallery_wallpaper_history_go">Паглядзець</string>
   <string name="wallpaper_history">Гісторыя шпалер</string>
   <string name="lock_screen_card_title">Мастацкі экран блакавання</string>
   <string name="personalize_aod_title_alternative">AOD</string>
   <string name="loop_video_wallpaper">Цыклічныя відэашпалеры</string>
+  <string name="local_mode_close_tip">Для ўсталёўкі гэтых шпалер патрабуецца падлучэнне да Інтэрнэту. Калі вы жадаеце выкарыстоўваць Інтэрнэт, вам неабходна адключыць лакальны рэжым. Адключыць?</string>
 </resources>

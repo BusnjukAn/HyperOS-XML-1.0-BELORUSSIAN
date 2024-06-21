@@ -3235,4 +3235,14 @@
   <string name="tt_video_without_wifi_tips">Прайграванне гэтага кантэнту будзе выкарыстоўваць %.2f Мб дадзеных</string>
   <string name="tt_web_title_default">Рэкламаваць</string>
   <string name="tt_yes_i_agree">Так, я згодны</string>
+  <string name="ai_summery_too_long">Зыходны тэкст занадта вялікі. Якасць разумнага рэзюмэ можа вар\'іравацца.</string>
+  <string name="click_to_replay_btn">Націсніце, каб паўтарыць</string>
+  <string name="download_close">Закрыць</string>
+  <string name="festival_task_start">Гуляць</string>
+  <string name="open">Налады</string>
+  <string name="pdf_password_error">Няправільны пароль. Паўтарыце спробу.</string>
+  <string name="pdf_password_input">Увядзіце пароль</string>
+  <string name="pdf_unlocking">Доступ да файлаў</string>
+  <string name="permission_open_shortcut">Уключыце цэтлiкi на Галоўным экране ў Наладах.</string>
+  <string name="shake_get_more">Падтрасіце для прагляду падрабязнасцей</string>
 </resources>

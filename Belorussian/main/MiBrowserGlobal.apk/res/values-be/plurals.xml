@@ -486,4 +486,40 @@
     <item quantity="few">У вас ёсць %d купоны</item>
     <item quantity="many">У вас ёсць %d купонаў</item>
   </plurals>
+  <plurals name="festival_game_task_gifts">
+        <item quantity="other">зарабіце %2$d падарункавых скрынак</item>
+        <item quantity="one">зарабіце %2$d падарункавую скрынку</item>
+        <item quantity="few">зарабіце %2$d падарункавых скрынкі</item>
+        <item quantity="many">зарабіце %2$d падарункавых скрынак</item>
+    </plurals>
+    <plurals name="festival_game_task_tips">
+        <item quantity="other">Згуляйце %1$d разоў, %2$s</item>
+        <item quantity="one">Згуляйце %1$d раз, %2$s</item>
+        <item quantity="few">Згуляйце %1$d раза, %2$s</item>
+        <item quantity="many">Згуляйце %1$d разоў, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_second_task_tips">
+        <item quantity="other">Праглядайце на працягу %1$d сек., %2$s</item>
+        <item quantity="one">Праглядайце на працягу %1$d сек., %2$s</item>
+        <item quantity="few">Праглядайце на працягу %1$d сек., %2$s</item>
+        <item quantity="many">Праглядайце на працягу %1$d сек., %2$s</item>
+    </plurals>
+    <plurals name="festival_news_task_gifts">
+        <item quantity="other">зарабіце %2$d падарункавых скрынак</item>
+        <item quantity="one">зарабіце %2$d падарункавую скрынку</item>
+        <item quantity="few">зарабіце %2$d падарункавых скрынкі</item>
+        <item quantity="many">зарабіце %2$d падарункавых скрынак</item>
+    </plurals>
+    <plurals name="festival_news_task_tips">
+        <item quantity="other">Праглядайце на працягу %1$d хв., %2$s</item>
+        <item quantity="one">Праглядайце на працягу %1$d хв., %2$s</item>
+        <item quantity="few">Праглядайце на працягу %1$d хв., %2$s</item>
+        <item quantity="many">Праглядайце на працягу %1$d хв., %2$s</item>
+    </plurals>
+    <plurals name="festival_task_finish">
+        <item quantity="other">Віншуем! Вы зарабілі %d падарункавых скрынак</item>
+        <item quantity="one">Віншуем! Вы зарабілі %d падарункавую скрынку</item>
+        <item quantity="few">Віншуем! Вы зарабілі %d падарункавую скрынкі</item>
+        <item quantity="many">Віншуем! Вы зарабілі %d падарункавых скрынак</item>
+    </plurals>
 </resources>

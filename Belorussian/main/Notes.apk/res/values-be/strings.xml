@@ -1110,9 +1110,17 @@
   <string name="single_link_excerpt_summary_saving">Стварэнне зводнага спісу.</string>
   <string name="to_be_read_bubble_tips">Скапіяваная спасылка і тэкст будуць напрамую вынятыя з анатацыі ў нататкі.</string>
   <string name="to_be_read_link_bubble_tips">Націсніце, каб захаваць зводку ў Нататках</string>
-  <string name="toast_show_no_network">Падключыцеся да сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="toast_show_no_network">Падлучыцеся да сеткі і паспрабуйце яшчэ раз.</string>
   <string name="toast_show_xiaomi_account">Увайдзіце ў свой акаўнт Xiaomi і паспрабуйце яшчэ раз.</string>
-  <string name="privacy_preference">Рэгістрацыйны нумар ICP: Пекін ICP № 10046444-74A.</string>
+  <string name="privacy_preference">Рэгістрацыйны нумар ICP: 10046444-74A.</string>
   <string name="pref_title_excerpt_summary_remind">Зводка</string>
   <string name="to_be_read_list">Зводка</string>
+  <string name="add_pic_excerpt_summary">Дадаць зводку выявы</string>
+  <string name="excerpt_image_ares_limit">Мы цэнім ваш энтузіязм, але ў гэты час у нас вялікі трафік. Калі ласка, звярніцеся да зыходнай выявы або паспрабуйце пазней.</string>
+  <string name="excerpt_image_summary_fail">Памылка аналізу кантэнту. Праглядзіце зыходную выяву або паспрабуйце пазней.</string>
+  <string name="excerpt_image_summary_huangfan">Змесціва з\'яўляецца канфідэнцыйным, звярніцеся да зыходнай выявы.</string>
+  <string name="excerpt_original_image">Зыходная выява:</string>
+  <string name="excerpt_text_min">Недастаткова тэксту для стварэння зводкі. Калі ласка, звярніцеся да зыходнай выявы.</string>
+  <string name="single_link_pic_excerpt_summary_saving">Выконваецца стварэнне зводкі выявы</string>
+  <string name="to_be_read_image_list">Зводка выявы</string>
 </resources>

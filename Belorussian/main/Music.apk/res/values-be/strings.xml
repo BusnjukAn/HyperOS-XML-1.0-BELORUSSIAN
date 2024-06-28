@@ -2200,4 +2200,26 @@
   <string name="passport_third_sns_service_unavailable">Паслуга недаступная. Пераканайцеся, што праграма ўсталявана і не заблакавана.</string>
   <string name="tools_settings">Налады інструментаў</string>
   <string name="ytb_turn_on_sound">Націсніце, каб уключыць гук</string>
+  <string name="app_closed_toast">Дынамічныя вокладкі выключаны</string>
+  <string name="app_opened_toast">Дынамічныя вокладкі ўключаны</string>
+  <string name="asm_download_all_start_label">Аднавіць усё</string>
+  <string name="asm_download_all_stop_label">Прыпыніць усё</string>
+  <string name="asm_download_allow_abort">Адмена</string>
+  <string name="asm_download_allow_always">Заўсёды дазваляць</string>
+  <string name="asm_download_allow_oneshot">Дазволіць адзін раз</string>
+  <string name="asm_download_delete">Выдаліць гэтую спампоўку?</string>
+  <string name="asm_download_delete_all">Выдаліць усе спампоўкі?</string>
+  <string name="asm_download_error">Не атрымалася спампаваць. Націсніце, каб паўтарыць.</string>
+  <string name="asm_download_mobile_net_dialog_content">Вы не падключаны да сеткі Wi-Fi. Спампаваць праз мабільны Інтэрнет?</string>
+  <string name="asm_download_mobile_net_dialog_title">Напамін аб выкарыстанні дадзеных</string>
+  <string name="asm_download_paused">Прыпынена. Націсніце, каб працягнуць.</string>
+  <string name="asm_download_queue_waiting">Чаканне</string>
+  <string name="asm_download_setting_mobile">Дазволіць спампоўку праз мабільны Інтэрнэт</string>
+  <string name="asm_download_setting_mobile_open_tips">Дазвольце сваёй прыладзе загружаць аб\'екты праз мабільны Інтэрнэт, калі яна не падлучана да сеткі Wi-Fi</string>
+  <string name="asm_download_storage_not_enough">Недастаткова памяці на прыладзе</string>
+  <string name="asm_download_title">Кіраванне спампоўкамі</string>
+  <string name="asm_message">Апавяшчэнні</string>
+  <string name="nowplaying_menu_item_gif_close">Уключыць дынамічныя вокладкі</string>
+  <string name="nowplaying_menu_item_gif_open">Выключыць дынамічныя вокладкі</string>
+  <string name="swipe_to_exit">Правядзіце яшчэ раз, каб выйсці</string>
 </resources>

@@ -424,4 +424,9 @@
     <item quantity="few">%1$d песні</item>
     <item quantity="many">%1$d песень</item>
   </plurals>
+  <plurals name="asm_download_tasks">
+        <item quantity="other">Выконваецца %d спамповак</item>
+        <item quantity="one">Выконваецца %d спампоўка</item>
+        <item quantity="few">Выконваецца %d спампоўкi</item>
+    </plurals>
 </resources>

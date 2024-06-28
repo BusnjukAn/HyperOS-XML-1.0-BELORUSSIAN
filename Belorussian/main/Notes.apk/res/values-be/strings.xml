@@ -1097,7 +1097,7 @@
   <string name="miuix_navigator_category_group_collapse">Згарнуць</string>
   <string name="miuix_navigator_category_group_expand">Разгарнуць</string>
   <string name="miuix_appcompat_cloud_state_encrypt_disabled">Уключыце скразную абарону для сінхранізацыі элементаў</string>
-  <string name="add_excerpt_summary">Дадаць зводку</string>
+  <string name="add_excerpt_summary">Дадаць у зводку</string>
   <string name="ai_chat_declare_double_link"><Data>Прачытайце і прыміце нашыя &lt;a href=\"%1$s\">Угоду карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a>, перш чым працягнуць.</Data></string>
   <string name="ai_chat_dlg_content">Для розных крыніц інфармацыі ў розных сцэнарах (напрыклад, спасылак або тэксту, які з\'яўляецца ў такіх праграмах, як браўзэры, WeChat і Feishu), функцыя хуткага збору і абагульненні інфармацыі, а таксама яе аўтаматычнага стварэння і ўяўленні ў адзіны запіс для архівавання.</string>
   <string name="ai_watermark">Згенеравана ШІ:</string>
@@ -1123,4 +1123,7 @@
   <string name="excerpt_text_min">Недастаткова тэксту для стварэння зводкі. Калі ласка, звярніцеся да зыходнай выявы.</string>
   <string name="single_link_pic_excerpt_summary_saving">Выконваецца стварэнне зводкі выявы</string>
   <string name="to_be_read_image_list">Зводка выявы</string>
+  <string name="add_text_excerpt_summary">Дадаць тэкставую зводку</string>
+  <string name="ai_createing_text">Генерацыя...</string>
+  <string name="to_be_read_text_list">Тэкставая зводка</string>
 </resources>

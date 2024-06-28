@@ -97,4 +97,9 @@
     <item quantity="few">%d хвіліны таму</item>
     <item quantity="many">%d хвілін таму</item>
   </plurals>
+    <plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">Выканана %d шаблонаў</item>
+        <item quantity="one">Выкананы %d шаблон</item>
+        <item quantity="few">Выканана %d шаблоны</item>
+    </plurals>
 </resources>

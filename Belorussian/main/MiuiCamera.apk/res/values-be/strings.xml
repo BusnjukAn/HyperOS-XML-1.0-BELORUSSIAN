@@ -3301,4 +3301,5 @@
   <string name="template_fragment_tab_name_accessibility">Эфекты</string>
   <string name="time_stamp_date_format_minute">dd.MM.yyyy HH:mm</string>
   <string name="time_stamp_simple_date_format">dd.MM.yyyy HH:mm:ss</string>
+  <string name="main_back_default_focal">Фокусная адлегласць па змаўчанні для асноўнай камеры</string>
 </resources>

@@ -11588,4 +11588,5 @@
   <string name="screen_enhance_engine_dualDPU_note">Выкарыстанне выдзеленага чыпа паляпшае відэа, павялічвае частату кадраў і аптымізуе HDR. Гэта забяспечвае больш яркае і плыўнае ўспрыманне.</string>
   <string name="screen_enhance_engine_dualDPU_summary">Павысьце якасць відэа з дапамогай спецыяльнага чыпа</string>
   <string name="screen_enhance_engine_dualDPU_title">Двух\'ядравая графіка</string>
+  <string name="parental_control_title">Бацькоўскі кантроль</string>
 </resources>

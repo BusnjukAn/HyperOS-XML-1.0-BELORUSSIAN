@@ -344,7 +344,7 @@
   <string name="connect_settings_connect_permission">Узаемазвязанасць і дазволы</string>
   <string name="connect_settings_connect_privacy">Прыватнасць</string>
   <string name="connect_settings_connection_service">Узаемазвязанасць Xiaomi</string>
-  <string name="connect_settings_corp_network">Дапамога з сеткай</string>
+  <string name="connect_settings_corp_network">Сеткавая дапамога</string>
   <string name="connect_settings_corp_phone">Сінхранізацыя выклікаў</string>
   <string name="connect_settings_nfc_share">Перадача элементаў праз NFC</string>
   <string name="connect_settings_not_opened">Выкл.</string>
@@ -1272,7 +1272,7 @@
   <string name="miplay_statusbar_connect_loading">Падлучэнне</string>
   <string name="miplay_statusbar_connect_successful">Падлучана</string>
   <string name="camera_associate_disconnecting">Адключэнне ад камеры тэлефона</string>
-  <string name="camera_choose_device">Абярыце прыладу</string>
+  <string name="camera_choose_device">Пераключэнне камер</string>
   <string name="camera_connecting_device">Падлучэнне да %s</string>
   <string name="camera_disconnecting_device">Адключэнне ад %s</string>
   <string name="camera_title">Пошук даступных прылад…</string>
@@ -1317,4 +1317,13 @@
   <string name="title_install">Усталяваць Mi Палатно</string>
   <string name="title_update">Абнавіць Mi Палатно</string>
   <string name="update">Абнавіць</string>
+  <string name="car_camera_associate_connecting">Падлучэнне да камеры электрамабіля</string>
+  <string name="car_camera_associate_disconnecting">Адключэнне ад камеры электрамабіля</string>
+  <string name="car_camera_device_name">Камера пярэдняга выгляду %1$s</string>
+  <string name="car_camera_unavailable_dialog_message">Рэжым нізкага энергаспажывання або рэжым канфідэнцыйнасці ўключаны. Цяпер немагчыма прагледзець выяву з пярэдняй камеры аўтамабіля на мабільнай прыладзе.</string>
+  <string name="car_camera_unavailable_dialog_positive_button">Зразумела</string>
+  <string name="car_camera_unavailable_dialog_title">Немагчыма выкарыстоўваць камеру</string>
+  <string name="circulate_car_card_use_camera">Выкарыстоўваць камеру электрамабіля</string>
+  <string name="circulate_car_card_using_camera">Выкарыстанне камеры электрамабіля</string>
+  <string name="device_permission_dialog_message_car">Вы можаце дазволіць доступ да камеры ў меню \"Налады\" > \"Сістэма\" > \"Кіраванне праграмамі\" > \"Спецыяльныя дазволы\" > \"Узаемазвязанасць\" на %s.</string>
 </resources>

@@ -41,7 +41,7 @@
     <string-array name="settings_search_relay_network">
         <item>Сеткавая дапамога</item>
         <item>Узаемазвязанасць/Сеткавая дапамога</item>
-        <item>Сеткавая дапамога, прывязванне, сумеснае выкарыстанне пункту доступу</item>
+        <item>Сеткавая дапамога, прывязванне, сумеснае выкарыстанне пункту доступу, бесправадны мадэм</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Працоўны стол+</item>
@@ -57,5 +57,15 @@
         <item>Апавяшчэнні на розных прыладах</item>
         <item>Узаемазвязанасць/Апавяшчэнні</item>
         <item>Апавяшчэнні на розных прыладах</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Бесправадны мадэм</item>
+        <item>Узаемазвязанасць/Бесправадны мадэм</item>
+        <item>Сеткавая дапамога, мадэм, сумеснае выкарыстанне пункту доступу, бесправадной мадэма</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Сеткавая сінхранізацыя</item>
+        <item>Узаемазвязанасць/Сеткавая сінхранізацыя</item>
+        <item>Сеткавая дапамога, мадэм, сумеснае выкарыстанне пункту доступу, сеткавая сінхранізацыя</item>
     </string-array>
 </resources>

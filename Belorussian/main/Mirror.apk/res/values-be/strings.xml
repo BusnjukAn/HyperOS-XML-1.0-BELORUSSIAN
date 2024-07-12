@@ -655,4 +655,12 @@
   <string name="yesterday">Учора</string>
   <string name="subscreen_exception_hint">Прылада не абноўлена да апошняй версіі. Могуць узнікнуць памылкі адлюстравання.</string>
   <string name="not_find_car_to_mirror">Не ўдалося знайсці транспартны сродак, на які можна перанесці праграмы</string>
+  <string name="device_screen_fold_switch_tip">Замест гэтага выканайце гэта дзеянне на ўнутраным экране</string>
+  <string name="fold_photograph_prompt_dialog_ok">ОК</string>
+  <string name="fold_photograph_prompt_message">Выкарыстоўваць камеру з унутранага экрана</string>
+  <string name="fold_photograph_prompt_notification_title">Выкарыстоўваць камеру для некалькіх прылад у Нататках</string>
+  <string name="upgrade_car_not_tip">Больш не паказваць</string>
+  <string name="upgrade_car_ok">Зразумела</string>
+  <string name="upgrade_car_version_msg">Каб выкарыстоўваць гэтую функцыю, абновіце сістэму вашага электрамабіля да версіі 1.2.1 або пазнейшай у меню Налады > Сістэма > Версія сістэмы.</string>
+  <string name="upgrade_car_version_title">Абнавіце сістэму вашага электрамабіля</string>
 </resources>

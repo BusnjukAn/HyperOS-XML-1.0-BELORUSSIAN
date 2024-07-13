@@ -3245,4 +3245,20 @@
   <string name="pdf_unlocking">Доступ да файлаў</string>
   <string name="permission_open_shortcut">Уключыце цэтлiкi на Галоўным экране ў Наладах.</string>
   <string name="shake_get_more">Падтрасіце для прагляду падрабязнасцей</string>
+  <string name="call_notification_answer_action">Адказаць</string>
+  <string name="call_notification_answer_video_action">Відэа</string>
+  <string name="call_notification_decline_action">Адхіліць</string>
+  <string name="call_notification_hang_up_action">Павесіць трубку</string>
+  <string name="call_notification_incoming_text">Уваходны выклік</string>
+  <string name="call_notification_ongoing_text">Бягучы выклік</string>
+  <string name="call_notification_screening_text">Праверка ўваходнага выкліку</string>
+  <string name="external_app_leave_incognito_leave">Выключыць</string>
+  <string name="external_app_leave_incognito_stay">Працягваць</string>
+  <string name="external_app_leave_incognito_warning">Гэты вэб-сайт спрабуе абагуліць інфармацыю з праграмай па-за рэжымам інкогніта. Выключыць зараз?</string>
+  <string name="external_app_leave_incognito_warning_title">Выключыць рэжым інкогніта?</string>
+  <string name="mw_accessibility_list_menu_button">Параметры %1$s</string>
+  <string name="mw_accessibility_toolbar_btn_menu">Наладзьце і кіруйце Google Chrome</string>
+  <string name="mw_actionbar_manage_apps">Кіраванне праграмамі</string>
+  <string name="mw_image_copied">Выява скапіявана</string>
+  <string name="swipe_exit_browser_toast">Правядзіце яшчэ раз, каб выйсці з браўзера</string>
 </resources>

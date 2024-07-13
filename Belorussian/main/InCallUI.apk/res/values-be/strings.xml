@@ -479,7 +479,7 @@
   <string name="satellite_debug_rssi">Сіла сігналу Rssi</string>
   <string name="satellite_debug_satellite">Спадарожнік</string>
   <string name="satellite_guide_azimuth">Перамяшчайце да таго часу, пакуль спадарожнік не апынецца ў зоне сканавання</string>
-  <string name="satellite_guide_elevation">Перамяшчайце, пакуль абразок спадарожніка не апынецца ў сінім крузе і заставайцеся на месцы</string>
+  <string name="satellite_guide_elevation">Нахіліце прыладу, каб перамясціць сіні кружок на спадарожнік, а затым заставайцеся на месцы.</string>
   <string name="satellite_incall_tip">Немагчыма выкарыстоўваць навушнік пры выкарыстанні спадарожнікавай сувязі</string>
   <string name="satellite_satellite_accessory">Я выкарыстоўваю ўзмацняльнік спадарожнікавага сігналу</string>
   <string name="flip_expand_conference_call_text">Разгарніце для кіравання канферэнц-сувяззю</string>
@@ -520,4 +520,6 @@
   <string name="satellite_satellite_fold_tip">Складзіце прыладу, каб больш эфектыўна знаходзіць спадарожнікі</string>
   <string name="satellite_satellite_service_redirection">Актываваць</string>
   <string name="satellite_satellite_service_tip">Здаецца, вы не актывавалі паслугу прамога падлучэння да спадарожніка. Паспрабуйце выканаць пошук спадарожнікаў пасля актывацыі.</string>
+  <string name="satellite_guide_searching_fold">Пошук спадарожніка… Не раскладвайце прыладу.</string>
+  <string name="satellite_guide_searching_unfold">Пошук спадарожніка… Не складайце прыладу.</string>
 </resources>

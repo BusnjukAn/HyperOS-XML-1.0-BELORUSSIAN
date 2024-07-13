@@ -578,4 +578,8 @@
   <string name="easy_tether_statusbar_connect_title_v2">Падлучыцца да сеткі: %1$s</string>
   <string name="fast_connect_miot_stabilizer_device_connect_done">Падлучана</string>
   <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Камера</string>
+  <string name="fast_connect_reset_common_redmikeyboard">Націсніце і ўтрымлівайце Ctrl+F+R на працягу %d секунд, каб пачаць спалучэнне</string>
+  <string name="stylus_firmware_failed_summaryV2">Пераканайцеся, што службы вызначэння месцазнаходжання ўключаны, перазапусціце Bluetooth і паспрабуйце яшчэ раз, калі стілус будзе падлучаны праз Bluetooth.</string>
+  <string name="stylus_firmware_success_summaryV2">Паўторна падлучыце стілус праз Bluetooth</string>
+  <string name="stylus_firmware_update">Абнаўленне прашыўкі</string>
 </resources>

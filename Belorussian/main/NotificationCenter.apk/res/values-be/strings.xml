@@ -360,4 +360,12 @@
   <string name="tip_feedback_thanks">Дзякуй за ваш водгук!</string>
   <string name="title_aggregate_default">Групаваць апавяшчэннi</string>
   <string name="title_aggregate_home">Не групаваць апавяшчэннi</string>
+  <string name="aon_message">Каб вызначыць, ці глядзяць на экран некалькі чалавек, гэтая функцыя звяртаецца да пярэдняй камеры пры адлюстраванні плаваючага апавяшчэння. Сабраныя выявы выкарыстоўваюцца толькі для аналізу на прыладзе колькасці людзей, якія глядзяць на экран. Пры выяўленні некалькіх людзей змесціва апавяшчэння па змаўчанні будзе ўтоена.</string>
+  <string name="aon_on_cancel">Адмена</string>
+  <string name="aon_on_confirm_time_out">Ок</string>
+  <string name="aon_title">Адмова ад адказнасці</string>
+  <string name="notification_aon_summary">Хаваць змесціва апавяшчэнняў, калі на вашу прыладу глядзяць некалькі чалавек</string>
+  <string name="notification_aon_title">Разумны дысплей з плаваючымi апавяшчэннямі</string>
+  <string name="notification_aon_title_aon">Апавяшчэнні AON</string>
+  <string name="notification_aon_title_hide">Схаваць апавяшчэнні</string>
 </resources>

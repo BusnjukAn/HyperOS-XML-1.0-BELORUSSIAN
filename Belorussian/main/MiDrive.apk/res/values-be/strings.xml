@@ -647,4 +647,7 @@
   <string name="request_permission_read_media_visual">Для папярэдняга прагляду, спампоўкі, запампоўкі і сінхранізацыі фота і відэа</string>
   <string name="exception_share_file">Не атрымалася запампаваць. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
+  <string name="creation_dialog_message">Прагляд палотнаў на планшэце.</string>
+  <string name="creation_dialog_positive_btn">Зразумела</string>
+  <string name="creation_dialog_title">Увага</string>
 </resources>

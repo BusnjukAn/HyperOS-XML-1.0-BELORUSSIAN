@@ -7318,4 +7318,80 @@ Xiaomi Gaming Cooler"</string>
   <string name="gb_advance_settings_screen_super_picture_quality_summary">Павялічце раздзяляльнасць і частату кадраў для больш плыўнага адлюстравання</string>
   <string name="gb_vision_enhance_smart_frame_enhance">Павысіць частату кадраў</string>
   <string name="pc_battery_replacement_service_title">Скарыстайцеся нашай паслугай па замене батарэі. %1$s арыгінальнага абсталявання з гарантыяй %2$s.</string>
+  <string name="audio_optimization_summary_new">Аптымізуйце якасць гуку ў навушніках падчас гульняў і паменшыце шум падчас выклікаў</string>
+  <string name="cs_close_vt_camera_first_tips">Немагчыма выкарыстоўваць гэтую функцыю пры выкарыстанні камеры, якая падтрымлівае некалькі прылад</string>
+  <string name="cs_conversation_record_using">Запіс</string>
+  <string name="cs_func_unavailable_tips">Выкарыстоўвайце гэтую функцыю падчас выклікаў</string>
+  <string name="cs_light_enhance_physical_options">Колеравая тэмпература</string>
+  <string name="cs_light_enhance_physical_title">Яркасць</string>
+  <string name="cs_open_camera_first_tips">Адкрыйце камеру, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="cs_privacy_camera_global_settings_title">Прыватнасць выклікаў</string>
+  <string name="cs_tool_box_max_screen_guide_case_1">Паспрабуйце сінхронны пераклад і іншыя інструменты канферэнц-сувязі ў новай панэлі інструментаў \"Выклік\"</string>
+  <string name="cs_tool_box_max_screen_guide_case_2">Паспрабуйце шэраг функцый канферэнц-сувязі ў новай панэлі інструментаў \"Выклік\"</string>
+  <string name="cs_tool_box_phone_guide_case_1">Паспрабуйце сінхронны пераклад і іншыя функцыі ў новай панэлі інструментаў \"Выклік\"</string>
+  <string name="cs_tool_box_phone_guide_case_2">Паспрабуйце шэраг функцый у новай панэлі інструментаў \"Выклік\"</string>
+  <string name="cs_vt_camera_toast_case1">Адкрыць камеру ў бягучай праграме</string>
+  <string name="cs_vt_camera_toast_case2">Паблізу няма сумяшчальных прылад</string>
+  <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Немагчыма пераключыцца ў збалансаваны рэжым у Паскарэнні гульняў, калі ўключаны агульнасістэмны прадукцыйны рэжым. Вы можаце змяніць налады батарэі ў раздзеле \"Бяспека\".&lt;a href=\"#\">Адкрыць Бяспеку&lt;/a>"</Data></string>
+  <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Немагчыма пераключыцца ў збалансаваны рэжым у Паскарэнні гульняў, калі ўключаны агульнасістэмны прадукцыйны рэжым. Вы можаце змяніць налады батарэі ў раздзеле \"Бяспека\".&lt;a href=\"#\">Адкрыць Бяспеку&lt;/a>"</Data></string>
+  <string name="gb_setting_dock_toast">Функцыі памочніка франтальнай камеры зараз даступныя на панэлі інструментаў \"Выклік\"</string>
+  <string name="gb_setting_dock_toast_2">Функцыі памочніка франтальнай камеры зараз даступныя на панэлі інструментаў \"Выклік\"</string>
+  <string name="gb_vision_enhance_frme_insertion_new_tips">"Павялічаная частата кадраў
+%d кадраў/сек"</string>
+  <string name="gd_setting_dock_activity_title">Баковая панэль інструментаў</string>
+  <string name="gd_setting_dock_call_summary">Функцыі для галасавых і вiдэавыклiкаў (напрыклад, запаўняючае падсвятленне)</string>
+  <string name="gd_setting_dock_call_title">Панэль інструментаў \"Выклік\"</string>
+  <string name="gd_setting_dock_game_summary">Паляпшэнне адлюстравання і прадукцыйнасці падчас гульняў</string>
+  <string name="gd_setting_dock_game_summary_new">Паляпшэнне адлюстравання і прадукцыйнасці падчас гульняў</string>
+  <string name="gd_setting_dock_summary">Адкрываць іншыя праграмы ў плаваючых вокнах пры выкарыстанні поўнаэкраннага рэжыму праграмы</string>
+  <string name="gd_setting_dock_title">Баковая панэль</string>
+  <string name="gd_setting_dock_video_summary">Выкарыстоўвайце эфекты, такія як Dolby Atmos, падчас прагляду відэа</string>
+  <string name="gd_setting_dock_video_summary_new">Выкарыстоўвайце прылады і эфекты пры праглядзе відэа</string>
+  <string name="gd_setting_group_custom_conversation_apps">Запісваць галасавыя адбіткі для выклікаў</string>
+  <string name="gd_setting_group_custom_gtb_apps_new">Кіраванне гульнямі</string>
+  <string name="gd_setting_group_custom_vtb_apps_new">Кіраванне відэапраграмамі</string>
+  <string name="global_dock_guide_desc_pad">Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно</string>
+  <string name="global_dock_guide_desc_with_split_screen_new">"· Краніцеся праграмы на бакавой панэлі, каб адкрыць яе ў плаваючым акне.
+· Перацягнуць прыкладанне ў цэнтр экрана, каб адкрыць яго ў плавае акне, або ў бок, каб выкарыстоўваць падзелены экран.
+· Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно."</string>
+  <string name="global_dock_guide_desc_without_split_screen_new">"Правядзіце пальцам, каб адкрыць бакавую панэль, і краніцеся праграмы, каб адкрыць яе ў плаваючым акне.
+Націсніце і ўтрымлівайце індыкатар, каб перамясціць акно."</string>
+  <string name="pc_fast_charge_temp_remider">Уключыце аўтаматычнае рэгуляванне хуткасці зарадкі. Гэтая функцыя працуе толькі з зараднымі прыладамі, якія ўваходзяць у камплект пастаўкі Xiaomi. Ваша прылада можа награвацца падчас зарадкі.</string>
+  <string name="pc_smart_charge_button_summary">Каб падоўжыць тэрмін службы батарэі, сістэма даведаецца, як вы зараджаеце сваю прыладу, і спыніць зарадку, калі ўзровень зарада батарэі дасягне %1$s</string>
+  <string name="pc_smart_charge_notify_summary_high_temp">Ваша прылада перагрэлася. Зарадка будзе спынена, калі ўзровень зарада батарэі дасягне %1$s</string>
+  <string name="pc_smart_charge_notify_summary_navagition">Навігацыя… Зарадка будзе спынена, калі ўзровень зарада батарэі дасягне %1$s</string>
+  <string name="pc_smart_charge_notify_summary_night_charge">Зарадка спыніцца пры %s</string>
+  <string name="pc_smart_charge_pogo_project_dialog_content">Каб падоўжыць тэрмін службы батарэі, узровень зарада батарэі гэтай прылады не павінен перавышаць бягучы ўзровень пры падключэнні да аўтамабіля.</string>
+  <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Больш не паказваць</string>
+  <string name="pc_smart_charge_pogo_project_dialog_title">Абарона батарэі</string>
+  <string name="pc_smart_charge_pogo_project_notification_content">Каб падоўжыць тэрмін службы батарэі, узровень зарада батарэі гэтай прылады не павінен перавышаць бягучы ўзровень пры падлучэнні да аўтамабіля</string>
+  <string name="pc_smart_charge_pogo_project_notification_title">Абарона батарэі</string>
+  <string name="pc_smart_charge_title">Разумная зарадка</string>
+  <string name="pc_this_time_charge_full">У гэты раз зарадзіць поўнасцю</string>
+  <string name="pc_this_time_charge_full_work">Амаль цалкам зараджана</string>
+  <string name="performance_frame_enhance_super_display_tips">Павышаная частата кадраў і суперраздзяляльнасць не могуць працаваць адначасова. Уключэнне аднаго з іх прывядзе да адключэння другога.</string>
+  <string name="permission_risk_app_for_desc">Гэта праграма можа ўяўляць пагрозу бяспецы. Усё роўна даць дазволы?</string>
+  <string name="permission_risk_app_for_title">Выяўленыя рызыкі</string>
+  <string name="permission_warning_for_cancel">Адмена</string>
+  <string name="permission_warning_for_ensure">Прадастаіць</string>
+  <string name="permission_warning_for_risk">Калі вы вырашыце даць дазволы, у праграму будуць вернутыя пустыя паведамленні для абароны вашай прыватнасцi.</string>
+  <string name="privacy_extra_provision_positive_btn">Згодзен</string>
+  <string name="privacy_extra_provision_title">Службы пашырэння</string>
+  <string name="privacy_provison_no_network">Спачатку падключыцеся да сеткі.</string>
+  <string name="search_keyword_apply">Праграма</string>
+  <string name="search_keyword_applybar">Панэль праграмы</string>
+  <string name="search_keyword_call">Выклік</string>
+  <string name="search_keyword_sidebar">Бакавая панэль</string>
+  <string name="search_keyword_tool">Інструменты</string>
+  <string name="search_keyword_tools">Панэль інструментаў</string>
+  <string name="search_keyword_voice">Голас</string>
+  <string name="toast_gamembox_unenable_pad">Спачатку ўключыце Паскарэнне гульняў у раздзеле \"Бяспека\"</string>
+  <string name="toast_gamembox_unenable_phone">Спачатку ўключыце Паскарэнне гульняў у раздзеле \"Бяспека\"</string>
+  <string name="wakepath_manager_allow_list">Дазволена</string>
+  <string name="wakepath_manager_allow_start">Дазволена</string>
+  <string name="wakepath_manager_checkbox_desc">Дазволіць %1$s запускаць іншыя праграмы</string>
+  <string name="wakepath_manager_checkbox_title">Дазволіць ланцужны запуск</string>
+  <string name="wakepath_manager_empty_list">Ніякім праграмам не дазволены запуск</string>
+  <string name="wakepath_manager_reject_list">Абмежавана</string>
+  <string name="wakepath_manager_reject_toast">Выканайце пошук \"Кіраванне ланцужным запускам\" у наладах, каб дазволіць гэтай праграме запускаць іншыя праграмы</string>
 </resources>

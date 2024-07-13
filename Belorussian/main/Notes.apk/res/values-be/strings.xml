@@ -1126,4 +1126,6 @@
   <string name="add_text_excerpt_summary">Дадаць тэкставую зводку</string>
   <string name="ai_createing_text">Генерацыя...</string>
   <string name="to_be_read_text_list">Тэкставая зводка</string>
+  <string name="excerpt_ares_block">Множныя парушэнні, функцыя часова адключаная.</string>
+  <string name="excerpt_ares_block_tmp">Множныя парушэнні, функцыя часова адключаная.</string>
 </resources>

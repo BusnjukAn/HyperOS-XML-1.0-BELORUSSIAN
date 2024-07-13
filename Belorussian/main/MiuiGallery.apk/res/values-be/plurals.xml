@@ -856,4 +856,12 @@
     <item quantity="other">Дадайце яшчэ %d відэа, каб працягнуць</item>
     <item quantity="one">Дадайце яшчэ %d відэа, каб працягнуць</item>
   </plurals>
+  <plurals name="delete_confirm_count_down">
+        <item quantity="other">Выдаліць (%d сек.)</item>
+        <item quantity="one">Выдаліць (%d сек.)</item>
+    </plurals>
+    <plurals name="trash_purge_count_down">
+        <item quantity="other">Выдаліць (%d сек.)</item>
+        <item quantity="one">Выдаліць (%d сек.)</item>
+    </plurals>
 </resources>

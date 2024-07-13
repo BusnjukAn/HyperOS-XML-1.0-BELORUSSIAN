@@ -3944,4 +3944,17 @@
   <string name="pic_to_pdf_update_dialog_positive">Абнавіць</string>
   <string name="pic_to_pdf_update_dialog_title">Абнавіце Mi Праграму прагляду дакументаў</string>
   <string name="toast_pdf_create_failed">Немагчыма стварыць. Паспрабуйце яшчэ раз.</string>
+  <string name="delete_all_photos">Вы збіраецеся выдаліць усе фота на гэтай прыладзе. Гэта можа прывесці да страты важных дадзеных. Усё роўна выдаліць?</string>
+  <string name="delete_media_dialog_comment">*Гэтыя элементы спачатку будуць перамешчаныя ў тэчку \"Выдаленыя\". Адтуль вы можаце аднавіць іх ці канчаткова выдаліць.</string>
+  <string name="delete_media_from_cloud">Абраныя элементы будуць выдаленыя з усіх прылад і з воблака. Усё роўна выдаліць?</string>
+  <string name="delete_risk_alert_message">Вы абралі вялікую колькасць элементаў для выдалення. Калі вы працягнеце, гэтыя элементы будуць перамешчаныя ў тэчку \"Выдаленыя\". Выдаліць элементы?</string>
+  <string name="delete_risk_alert_title">Увага</string>
+  <string name="multiwindow_not_support_camera">Камеру нельга выкарыстоўваць у шматаконным рэжыме</string>
+  <string name="today_of_year_next_day">Наступны дзень</string>
+  <string name="today_of_year_pre_day">Папярэдні дзень</string>
+  <string name="cannot_delete">Вы больш не зможаце гэта выдаліць~</string>
+  <string name="loading_error">Немагчыма спампаваць, паспрабуйце пазней</string>
+  <string name="loading_map">Спампоўка кампанентаў карты...</string>
+  <string name="miuix_appcompat_cloud_state_encrypt_disabled">Уключыце скразную абарону для сінхранізацыі элементаў</string>
+  <string name="moods_journal">Журнал настрояў</string>
 </resources>

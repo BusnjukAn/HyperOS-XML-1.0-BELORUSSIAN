@@ -205,7 +205,7 @@
         <item quantity="many">Будзільнік зазвоніць %2$s раз (інтэрвал %1$s хв.)</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Адкласці на %d хвіліны</item>
+        <item quantity="other">Адкласці на %d хвілін</item>
         <item quantity="one">Адкласці на %d хвіліну</item>
         <item quantity="few">Адкласці на %d хвіліны</item>
         <item quantity="many">Адкласці на %d хвілін</item>
@@ -223,19 +223,19 @@
         <item quantity="many">Секундамер запушчаны %s гадзін. Націсніце для прагляду.</item>
     </plurals>
     <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d гадзіны "</item>
+        <item quantity="other">"%1$d гадзін "</item>
         <item quantity="one">"%1$d гадзіна "</item>
         <item quantity="few">"%1$d гадзіны "</item>
         <item quantity="many">"%1$d гадзін "</item>
     </plurals>
     <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d хвіліны "</item>
+        <item quantity="other">"%1$d хвілін "</item>
         <item quantity="one">"%1$d хвіліна "</item>
         <item quantity="few">"%1$d хвіліны "</item>
         <item quantity="many">"%1$d хвілін "</item>
     </plurals>
     <plurals name="timer_message_second">
-        <item quantity="other">%1$d секунды</item>
+        <item quantity="other">%1$d секунд</item>
         <item quantity="one">%1$d секунда</item>
         <item quantity="few">%1$d секунды</item>
         <item quantity="many">%1$d секунд</item>
@@ -271,5 +271,29 @@
         <item quantity="other">Выключыць %1$d разоў</item>
         <item quantity="one">Выключыць %1$d раз</item>
         <item quantity="few">Выключыць %1$d разы</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_new">
+        <item quantity="other">%1$d гадзін</item>
+        <item quantity="one">%1$d гадзіна</item>
+        <item quantity="few">%1$d гадзіны</item>
+        <item quantity="many">%1$d гадзін</item>
+    </plurals>
+    <plurals name="sleep_duration_min_new">
+        <item quantity="other">%1$d хвілін</item>
+        <item quantity="one">%1$d хвіліна</item>
+        <item quantity="few">%1$d хвіліны</item>
+        <item quantity="many">%1$d хвілін</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast_new">
+        <item quantity="other">+%1$d гадзін</item>
+        <item quantity="one">+%1$d гадзіна</item>
+        <item quantity="few">+%1$d гадзіны</item>
+        <item quantity="many">+%1$d гадзін</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow_new">
+        <item quantity="other">-%1$d гадзін</item>
+        <item quantity="one">-%1$d гадзіна</item>
+        <item quantity="few">-%1$d гадзіны</item>
+        <item quantity="many">-%1$d гадзін</item>
     </plurals>
 </resources>

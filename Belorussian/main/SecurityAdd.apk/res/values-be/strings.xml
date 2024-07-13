@@ -706,4 +706,6 @@
   <string name="pc_satellite_auto_enter_super_power">Уключаны рэжым максімальнага энергазберажэння для забеспячэння спадарожнікавай сувязі</string>
   <string name="pc_satellite_superpower_dialog_subtitle">Батарэя разраджана. Спадарожнікавая сувязь Tiantong будзе выключана разам з функцыяй максімальнага энергазберажэння. Выключыць?</string>
   <string name="pc_satellite_superpower_dialog_title">Спадарожнікавая сувязь Tiantong</string>
+  <string name="global_satisfaction_network_error">Немагчыма атрымаць дадзеныя. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="global_satisfactionnetwork_loading">Атрыманне дадзеных…</string>
 </resources>

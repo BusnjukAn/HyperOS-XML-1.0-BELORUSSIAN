@@ -268,4 +268,7 @@
   <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
   <string name="security_for_pad">Бяспека</string>
   <string name="security_for_phone">Бяспека</string>
+  <string name="ai_services_network_error_message">"Немагчыма падлучыцца да сеткі.
+Праверце налады сеткі і паспрабуйце яшчэ раз."</string>
+  <string name="ai_services_title">Службы ШІ</string>
 </resources>

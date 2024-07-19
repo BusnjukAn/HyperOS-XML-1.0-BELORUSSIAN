@@ -650,4 +650,10 @@
   <string name="car_share_view_content">Адправіць %s</string>
   <string name="wallpaper_Fragrant_title">Квітанне</string>
   <string name="wallpaper_Geometrically_irregular_title">Абстрактная геаметрыя</string>
+  <string name="ime_countDown_no">Не</string>
+  <string name="ime_countDown_timer">Так (%d) сек.</string>
+  <string name="ime_countDown_tip">Пасля пераключэння метаду ўводу яго можна выкарыстоўваць толькі на ўнутраным экране, а метад уводу на вонкавым экране не будзе зменены. І пасля пераключэння гэта прывядзе да няўзгодненага ўводу ў бібліятэцы слоў метаду ўводу на ўнутраным і вонкавым экране. Жадаеце працягнуць пераключэнне?</string>
+  <string name="ime_countDown_title">Рада</string>
+  <string name="ime_countDown_yes">Так</string>
+  <string name="ime_rotation_tip">Немагчыма ўвесці тэкст пад гэтым кутом. Спачатку звярніце прыладу.</string>
 </resources>

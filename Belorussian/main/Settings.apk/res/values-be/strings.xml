@@ -11589,4 +11589,9 @@
   <string name="screen_enhance_engine_dualDPU_summary">Павысьце якасць відэа з дапамогай спецыяльнага чыпа</string>
   <string name="screen_enhance_engine_dualDPU_title">Двух\'ядравая графіка</string>
   <string name="parental_control_title">Бацькоўскі кантроль</string>
+  <string name="ai_services_title">Службы ШІ</string>
+  <string name="outdoor_high_temperature_notification">Прылада перагрэлася. Немагчыма ўключыць рэжым \"На вуліцы\".</string>
+  <string name="outdoor_low_power_notification">Немагчыма ўключыць рэжым \"На вуліцы\" з-за нізкага зараду батарэі</string>
+  <string name="outdoor_mode">Рэжым \"На вуліцы\"</string>
+  <string name="outdoor_mode_summary">Уключыце, каб павялічыць яркасць дысплея. Ваша прылада будзе награвацца і спажываць больш энергіі.</string>
 </resources>

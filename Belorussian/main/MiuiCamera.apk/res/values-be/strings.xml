@@ -3302,4 +3302,8 @@
   <string name="time_stamp_date_format_minute">dd.MM.yyyy HH:mm</string>
   <string name="time_stamp_simple_date_format">dd.MM.yyyy HH:mm:ss</string>
   <string name="main_back_default_focal">Фокусная адлегласць па змаўчанні для асноўнай камеры</string>
+  <string name="ambilight_tips_for_hover">Выкарыстоўвайце штатыў або рэжым навядзення пры слабым асвятленні</string>
+  <string name="pref_camera_edge_wide_ultra_ldc_summary">Выпраўленне скажэнняў аб\'ектыва на шырокакутных і звышшырокакутных здымках у рэжымах \"Фота\", \"Партрэт\" і \"Ноч\"</string>
+  <string name="pref_camera_edge_wide_ultra_ldc_title">Выпраўленне скажэнняў аб\'ектыва</string>
+  <string name="pro_only_raw_first_use_hint">RAW выведзе %s выяў</string>
 </resources>

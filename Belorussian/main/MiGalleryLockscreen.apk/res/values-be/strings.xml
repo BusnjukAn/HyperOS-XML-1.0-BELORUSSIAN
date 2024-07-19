@@ -1157,4 +1157,5 @@
   <string name="about_gallery_icp">Рэгістрацыйны нумар: ICP № 10046444-42A</string>
   <string name="ad_delimiter_6_version">Версія: %1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
   <string name="sst_common_question">Частыя пытанні</string>
+  <string name="surprise_wallpaper_can_not_support_tip">Ваша прылада зараз не падтрымлівае гэтую функцыю!</string>
 </resources>

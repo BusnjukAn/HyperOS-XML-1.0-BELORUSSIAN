@@ -1179,5 +1179,5 @@
   <string name="new_unregistered_dialog_content">Магчыма, гэта праграма не падтрымліваецца ў вашым бягучым рэгіёне або не прызначана для распаўсюджвання. Адпаведная інфармацыя аб ICP рэгістрацыі адсутнічае. %1$s.</string>
   <string name="new_unregistered_dialog_content_clickable">Даведацца больш пра палітыку рэгістрацыі</string>
   <string name="new_unregistered_dialog_title">Немагчыма знайсці інфармацыю аб ICP рэгістрацыі</string>
-  <string name="app_installing_not_allow_2">Усталёўка была заблакаваная. Шукайце \"Усталёўка невядомых праграм\" у Наладах, каб змяніць свае перавагі.</string></string>
+  <string name="app_installing_not_allow_2">Усталёўка была заблакаваная. Шукайце \"Усталёўка невядомых праграм\" у Наладах, каб змяніць свае перавагі.</string>
 </resources>

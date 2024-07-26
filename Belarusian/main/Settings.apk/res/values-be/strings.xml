@@ -11594,4 +11594,6 @@
   <string name="outdoor_low_power_notification">Немагчыма ўключыць рэжым \"На вуліцы\" з-за нізкага зараду батарэі</string>
   <string name="outdoor_mode">Рэжым \"На вуліцы\"</string>
   <string name="outdoor_mode_summary">Уключыце, каб павялічыць яркасць дысплея. Ваша прылада будзе награвацца і спажываць больш энергіі.</string>
+  <string name="long_press_editor_style_summary">Націсніце і ўтрымлівайце экран блакавання, каб змяніць гадзіннiк і шпалеры</string>
+  <string name="long_press_editor_style_title">Націсніце і ўтрымлівайце для змены</string>
 </resources>

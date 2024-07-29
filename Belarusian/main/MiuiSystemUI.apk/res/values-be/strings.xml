@@ -1869,8 +1869,6 @@
   <string name="miui_rhombus_clock_week_full">EEEE</string>
   <string name="miui_smart_frame_clock_date">d.M</string>
   <string name="miui_smart_frame_clock_week">EEE</string>
-  <string name="miui_vertical_time_format_12">hh\nmm</string>
-  <string name="miui_vertical_time_format_24">HH\nmm</string>
   <string name="multiwin_closewindow">Закрыць акно</string>
   <string name="multiwin_newwindow">Новае акно</string>
   <string name="multiwin_windowcontrol">Панэль кіравання акном</string>

@@ -2074,4 +2074,16 @@
   <string name="work_mode_turn_on">Аднавіць</string>
   <string name="screen_pinning_button_navigation_mode">Зразумела</string>
   <string name="screen_pinning_toast_cancel">Адмацаваная праграма</string>
+  <string name="flip_flashlight_dialog_cancel">Не зараз</string>
+  <string name="flip_flashlight_dialog_text">"Перавярніце, каб уключыць ліхтарык.
+Выключыце кнопкай сiлкавання."</string>
+  <string name="miui_notification_menu_title_no_drawable">Працягнуць на ўнутраным экране</string>
+  <string name="quick_settings_screen_rotation_outer_locked">Арыентацыя вонкавага экрана заблакаваная</string>
+  <string name="tiny_accessibility_kg_battery_level">Батарэя</string>
+  <string name="tiny_camera_content_description">Камера</string>
+  <string name="tiny_classic_date_format">d.MM EEE</string>
+  <string name="tiny_pets_date_format">d.MM</string>
+  <string name="tiny_splicing_date_content_description">d.MM</string>
+  <string name="tiny_splicing_date_format">d.MM</string>
+  <string name="torch_low_battery_warning">Немагчыма выкарыстоўваць ліхтарык з-за нізкага зараду батарэі</string>
 </resources>

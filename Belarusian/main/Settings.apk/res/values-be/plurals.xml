@@ -997,4 +997,14 @@
        <item quantity="other">Пачакайце %d сек. і паспрабуйце яшчэ раз</item>
        <item quantity="one">Пачакайце %d сек. і паспрабуйце яшчэ раз</item>
     </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Цяпер узровень зарада батарэі складае %s працэнтаў</item>
+        <item quantity="one">Цяпер узровень зарада батарэі складае %s працэнт</item>
+        <item quantity="few">Цяпер узровень зарада батарэі складае %s працэнта</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Зарадка. Узровень зарада батарэі зараз складае %d працэнтаў.</item>
+        <item quantity="one">Зарадка. Узровень зарада батарэі зараз складае %d працэнт.</item>
+        <item quantity="few">Зарадка. Узровень зарада батарэі зараз складае %d працэнта.</item>
+    </plurals>
 </resources>

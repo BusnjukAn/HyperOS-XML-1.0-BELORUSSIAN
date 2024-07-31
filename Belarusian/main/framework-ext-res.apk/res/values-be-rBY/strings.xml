@@ -641,7 +641,7 @@
   <string name="wallpaper_floral_arrangement_title">Кветкавая кампазіцыя</string>
   <string name="wallpaper_gradient_title">Градыент</string>
   <string name="toast_camera_satellite_mutually_exclusive">Немагчыма выкарыстоўваць камеру пры выкарыстанні спадарожнікавай сувязі</string>
-  <string name="earpiece_callmode_tip">Перавярніце, каб выкарыстоўваць навушнік або ўключыць дынамік</string>
+  <string name="earpiece_callmode_tip">Перавярніце, каб выкарыстоўваць навушнік</string>
   <string name="start_activity_tip">Працягнуць на ўнутраным экране</string>
   <string name="wifi_5ghz_sap_start_failed_by_region">Мадэм немагчыма выкарыстоўваць пры падлучэнні да дыяпазону Wi-Fi 5 Ггц.</string>
   <string name="aon_reader_support_scene_des">Перагортваць старонкі падчас чытання</string>
@@ -650,10 +650,13 @@
   <string name="car_share_view_content">Адправіць %s</string>
   <string name="wallpaper_Fragrant_title">Квітанне</string>
   <string name="wallpaper_Geometrically_irregular_title">Абстрактная геаметрыя</string>
-  <string name="ime_countDown_no">Не</string>
-  <string name="ime_countDown_timer">Так (%d) сек.</string>
-  <string name="ime_countDown_tip">Пасля пераключэння метаду ўводу яго можна выкарыстоўваць толькі на ўнутраным экране, а метад уводу на вонкавым экране не будзе зменены. І пасля пераключэння гэта прывядзе да няўзгодненага ўводу ў бібліятэцы слоў метаду ўводу на ўнутраным і вонкавым экране. Жадаеце працягнуць пераключэнне?</string>
-  <string name="ime_countDown_title">Рада</string>
-  <string name="ime_countDown_yes">Так</string>
+  <string name="ime_countDown_no">Адмена</string>
+  <string name="ime_countDown_timer">Пераключыць (%d) сек.</string>
+  <string name="ime_countDown_tip">Пасля пераключэння метаду ўводу вы будзеце выкарыстоўваць новую клавіятуру выключна на ўнутраным экране. Клавіятура вонкавага экрана застанецца нязменнай, што прывядзе да некарэктнага ўводу тэксту. Усё роўна пераключыць?</string>
+  <string name="ime_countDown_title">Пераключэнне метаду ўводу</string>
+  <string name="ime_countDown_yes">Пераключыць</string>
   <string name="ime_rotation_tip">Немагчыма ўвесці тэкст пад гэтым кутом. Спачатку звярніце прыладу.</string>
+  <string name="ability_dialog_button">Зразумела</string>
+  <string name="ability_dialog_text">З-за памеру экрана некаторыя праграмы могуць адлюстроўвацца некарэктна на вонкавым экране.</string>
+  <string name="ability_dialog_title">Увага</string>
 </resources>

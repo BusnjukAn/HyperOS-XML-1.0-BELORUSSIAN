@@ -522,4 +522,8 @@
   <string name="satellite_satellite_service_tip">Здаецца, вы не актывавалі паслугу прамога падлучэння да спадарожніка. Паспрабуйце выканаць пошук спадарожнікаў пасля актывацыі.</string>
   <string name="satellite_guide_searching_fold">Пошук спадарожніка… Не раскладвайце прыладу.</string>
   <string name="satellite_guide_searching_unfold">Пошук спадарожніка… Не складайце прыладу.</string>
+  <string name="call_recording_disclaimer_msg">Прымяняльнае заканадаўства юрысдыкцыі, у якой знаходзіцеся вы ці іншыя ўдзельнікі размовы, можа патрабаваць ад усіх бакоў згоды на запіс. Вы абавязаны выконваць такія законы, і Xiaomi не нясе адказнасці за любыя незаконныя дзеянні пры выкарыстанні гэтай функцыі. Запісы размоў захоўваюцца толькі на вашым прыладзе, і Xiaomi не мае да іх доступу.</string>
+  <string name="call_recording_disclaimer_title">Адмова ад адказнасці</string>
+  <string name="flip_rotate_use_handset_or_speaker_text">Павярніце, каб выбраць партатыўны рэжым або рэжым гучнай сувязі</string>
+  <string name="start_call_record">Пачаць</string>
 </resources>

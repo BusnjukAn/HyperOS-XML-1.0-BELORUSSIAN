@@ -777,4 +777,8 @@
   <string name="yes_vote_ratio">За %1$s%%</string>
   <string name="yesterday">Учора</string>
   <string name="your_location">Ваша месцазнаходжанне</string>
+  <string name="act_find_city_no_location_text">Няма інфармацыі аб месцазнаходжанні</string>
+  <string name="daily_forecast_card_title">Прагноз на %d дзён</string>
+  <string name="daily_forecast_next_15_days">Прагноз на наступныя 15 дзён</string>
+  <string name="dislike_alert_dialog_title">Чаму вы не хочаце бачыць гэты кантэнт?</string>
 </resources>

@@ -54,9 +54,11 @@
     <item quantity="few">%d хв таму</item>
     <item quantity="many">%d хв таму</item>
   </plurals>
-  <plurals name="authorization_status_hold_time">
-    <item quantity="other">%d сек.</item>
-    <item quantity="one">%d сек.</item>
+  <plurals name="announce_for_unread">
+    <item quantity="other">%2$s непрачытаных з %1$s</item>
+    <item quantity="one">%2$s непрачытаный з %1$s</item>
+    <item quantity="few">%2$s непрачытаных з %1$s</item>
+    <item quantity="many">%2$s непрачытаных з %1$s</item>
   </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Паўгадзіны таму</item>
@@ -106,8 +108,9 @@
     <item quantity="few">%d хвіліны таму</item>
     <item quantity="many">%d хвілін таму</item>
   </plurals>
-    <plurals name="sim_card_esim_num">
-        <item quantity="other">Знойдзена %d eSIM. Націсніце для актывацыі.</item>
-        <item quantity="one">Знойдзена %d eSIM. Націсніце для актывацыі.</item>
-    </plurals>
+  <plurals name="superpower_toast_app_select_full_new">
+    <item quantity="other">У спіс праграм, якія часта выкарыстоўваюцца, можна дадаць максімум %d элементаў</item>
+    <item quantity="one">У спіс праграм, якія часта выкарыстоўваюцца, можна дадаць максімум %d элемент</item>
+    <item quantity="few">У спіс праграм, якія часта выкарыстоўваюцца, можна дадаць максімум %d элемента</item>
+  </plurals>
 </resources>

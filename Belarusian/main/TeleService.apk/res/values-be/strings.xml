@@ -2307,4 +2307,10 @@
   <string name="no_network_available">Сетка недаступная</string>
   <string name="radio_info_euicc_info">Інфармацыя eUICC:</string>
   <string name="roaming_preferred_wificall_title">Налады сеткі (роўмінг)</string>
+  <string name="call_recording_disclaimer_msg">Прымяняльнае заканадаўства юрысдыкцыі, у якой знаходзіцеся вы ці іншыя ўдзельнікі размовы, можа патрабаваць ад усіх бакоў згоды на запіс. Вы абавязаны выконваць такія законы, і Xiaomi не нясе адказнасці за любыя незаконныя дзеянні пры выкарыстанні гэтай функцыі. Запісы размоў захоўваюцца толькі на вашым прыладзе, і Xiaomi не мае да іх доступу.</string>
+  <string name="call_recording_disclaimer_title">Адмова ад адказнасці</string>
+  <string name="filp_auto_answer_call_title">Разгарнуць для адказу на выклікі</string>
+  <string name="filp_auto_hangup_call_summary">Працуе толькі пры падключэнні Bluetooth або правадных навушнікаў</string>
+  <string name="filp_auto_hangup_call_title">Згарнуць для завяршэння выклікаў</string>
+  <string name="start_call_record">Пачаць</string>
 </resources>

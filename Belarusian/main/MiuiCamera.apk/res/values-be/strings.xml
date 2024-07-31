@@ -3306,4 +3306,21 @@
   <string name="pref_camera_edge_wide_ultra_ldc_summary">Выпраўленне скажэнняў аб\'ектыва на шырокакутных і звышшырокакутных здымках у рэжымах \"Фота\", \"Партрэт\" і \"Ноч\"</string>
   <string name="pref_camera_edge_wide_ultra_ldc_title">Выпраўленне скажэнняў аб\'ектыва</string>
   <string name="pro_only_raw_first_use_hint">RAW выведзе %s выяў</string>
+  <string name="flip_external_proximity_sensor_hint">Альтэрнатыўна, націсніце кнопку павелічэння гучнасці.</string>
+  <string name="module_name_polaroid">Імгненнае фота</string>
+  <string name="module_name_printer">Імгненнае фота</string>
+  <string name="print_image">Друк</string>
+  <string name="tip_polaroid_mode_switch">Друк падтрымліваецца толькі для імгненных фатаграфій</string>
+  <string name="tip_print_cant_back">Немагчыма вярнуцца назад падчас друку</string>
+  <string name="tip_print_charging">Прылада зараджаецца. Друк пакуль немагчымы.</string>
+  <string name="tip_print_cover_open">Каб раздрукаваць, зачыніце вокладку</string>
+  <string name="tip_print_low_battery">Зарадзіце прыладу перад друкам</string>
+  <string name="tip_print_other_error">Памылка прынтара. Падключыцеся зноў.</string>
+  <string name="tip_print_other_paper_error">Папера загружана няправільна. Перазагрузіць.</string>
+  <string name="tip_print_over_heat">Астудзіце прынтар перад друкам</string>
+  <string name="tip_print_paper_empty">У прынтары скончылася папера. Загрузіце паперу.</string>
+  <string name="tip_print_paper_mismatch">Несумяшчальная папера. Немагчыма друкаваць.</string>
+  <string name="tip_print_processing">Немагчыма выканаць гэта дзеянне падчас друку</string>
+  <string name="tip_print_processing_v2">Пачакайце, пакуль скончыцца друк папярэдняй фатаграфіі, і паспрабуйце яшчэ раз.</string>
+  <string name="tip_printer_mode_switch">Друк падтрымліваецца толькі для імгненных фатаграфій</string>
 </resources>

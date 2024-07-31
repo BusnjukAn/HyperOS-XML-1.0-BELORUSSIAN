@@ -14,4 +14,8 @@
         <item quantity="one">Падлучана %1$s прылада. Ваша прылада можа награвацца і спажываць больш энергіі.</item>
         <item quantity="few">Падлучана %1$s прылады. Ваша прылада можа награвацца і спажываць больш энергіі.</item>
     </plurals>
+    <plurals name="ime_countDown_timer">
+        <item quantity="other">Пераключыць (%d сек.)</item>
+        <item quantity="one">Пераключыць (%d сек.)</item>
+    </plurals>
 </resources>

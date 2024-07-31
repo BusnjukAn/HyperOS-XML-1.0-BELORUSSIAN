@@ -1762,4 +1762,6 @@
   <string name="personalize_aod_title_alternative">AOD</string>
   <string name="loop_video_wallpaper">Цыклічныя відэашпалеры</string>
   <string name="local_mode_close_tip">Для ўсталёўкі гэтых шпалер патрабуецца падлучэнне да Інтэрнэту. Калі вы жадаеце выкарыстоўваць Інтэрнэт, вам неабходна адключыць лакальны рэжым. Адключыць?</string>
+  <string name="out_wallpaper_list">Шпалеры вонкавага экрана</string>
+  <string name="rotate">Павярнуць</string>
 </resources>

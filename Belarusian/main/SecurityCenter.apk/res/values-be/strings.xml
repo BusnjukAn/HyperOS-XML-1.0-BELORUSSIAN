@@ -7394,4 +7394,36 @@ Xiaomi Gaming Cooler"</string>
   <string name="wakepath_manager_empty_list">Ніякім праграмам не дазволены запуск</string>
   <string name="wakepath_manager_reject_list">Абмежавана</string>
   <string name="wakepath_manager_reject_toast">Выканайце пошук \"Кіраванне ланцужным запускам\" у наладах, каб дазволіць гэтай праграме запускаць іншыя праграмы</string>
+  <string name="allow_device_id_access">Абярыце праграмы, якія могуць выкарыстоўваць ідэнтыфікатар прылады</string>
+  <string name="cs_func_toast_bluetooth_headset">Адключыце навушнікі Bluetooth, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="device_id">Ідэнтыфікатар прылады для персаналізаваных рэкамендацый</string>
+  <string name="device_id_app_manager_dialog_continue">Не спыняць</string>
+  <string name="device_id_app_manager_dialog_message">Вы дазволілі некаторым праграмам адсочваць вашыя дзеянні. Вы можаце спыніць адсочванне зараз.</string>
+  <string name="device_id_app_manager_dialog_stop">Спыніць</string>
+  <string name="device_id_app_manager_switch_sub_title">Калі гэтая функцыя адключаная, усе новыя запыты на адсочванне будуць аўтаматычна адхіляцца</string>
+  <string name="device_id_app_manager_switch_title">Дазволіць праграмам запытваць адсочванне</string>
+  <string name="device_id_app_manager_tips">Праграмы могуць адсочваць вашыя дзеянні ў розных праграмах і на вэб-сайтах, выкарыстоўваючы ідэнтыфікатары адсочвання, каб прадастаўляць персаналізаваныя рэкамендацыі па рэкламе і іншыя функцыі</string>
+  <string name="device_id_app_manager_title">Кіраванне адсочваннем праграм</string>
+  <string name="device_id_manager_tips">Сістэма надае скіданыя ідэнтыфікатары адсочвання (OAID) праграмам замест ідэнтыфікатараў прылад для абароны вашай канфідэнцыйнасці</string>
+  <string name="device_id_manager_title">Кіраванне ідэнтыфікатарам адсочвання</string>
+  <string name="device_id_reset">Скід ідэнтыфікатара адсочвання</string>
+  <string name="device_id_reset_msg">Пасля скіду з гэтай прыладай будзе звязаны новы ідэнтыфікатар.</string>
+  <string name="device_id_str">Бягучы ідэнтыфікатар адсочвання: %s</string>
+  <string name="device_oaid">Кіраванне віртуальным ідэнтыфікатарам</string>
+  <string name="device_oaid_desc">Замест вашага ўнікальнага ідэнтыфікатара сістэма падасць усталяваным праграмам віртуальны ідэнтыфікатар (OAID). Ён не дазваляе праграмам адсочваць вашы паводзіны і перавагі і абараняе вашу прыватнасць.</string>
+  <string name="device_oaid_title">Віртуальны ідэнтыфікатар</string>
+  <string name="oaid_apps_summary">Дазволіць або абмежаваць доступ для асобных праграм</string>
+  <string name="oaid_string">"Бягучы віртуальны ідэнтыфікатар:
+%1s"</string>
+  <string name="permission_oaid_desc">Дазволіць %1$s адсочваць вашыя дзеянні ў іншых праграмах і на вэб-сайтах?</string>
+  <string name="restore_device_id_content">Персаналізаваныя рэкамендацыі будуць скінутыя</string>
+  <string name="restore_device_id_title">Скінуць ідэнтыфікатар прылады</string>
+  <string name="restore_dialog_content">Скід бягучага ідэнтыфікатара прылады таксама прывядзе да скіду персанальных рэкамендацый. Скінуць?</string>
+  <string name="restore_dialog_positive">Скінуць</string>
+  <string name="restore_dialog_title">Увага</string>
+  <string name="restore_oaid_content">Скіньце ваш віртуальны ідэнтыфікатар, каб ачысціць запісы паводзін і пераваг</string>
+  <string name="restore_oaid_dialog_content">Некалькі праграм выкарыстоўваюць ваш віртуальны ідэнтыфікатар. Калі вы скінеце яго зараз, частка дадзеных вашай праграмы можа быць страчана або стане непрыдатнай для выкарыстання. Скінуць віртуальны ідэнтыфікатар у любым выпадку?</string>
+  <string name="restore_oaid_positive">Скінуць</string>
+  <string name="restore_oaid_positive_step">Скінуць (%1$d)</string>
+  <string name="restore_oaid_title">Скінуць віртуальны ідэнтыфікатар</string>
 </resources>

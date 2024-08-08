@@ -7426,4 +7426,10 @@ Xiaomi Gaming Cooler"</string>
   <string name="restore_oaid_positive">Скінуць</string>
   <string name="restore_oaid_positive_step">Скінуць (%1$d)</string>
   <string name="restore_oaid_title">Скінуць віртуальны ідэнтыфікатар</string>
+  <string name="pc_low_temperature_extreme_endurance_summary">Абмежаваць прадукцыйнасць прылады, каб падоўжыць тэрмін службы батарэі, калі тэмпература навакольнага асяроддзя вельмі нізкая</string>
+  <string name="pc_low_temperature_extreme_endurance_title">Рэжым холадаўстойлівасці</string>
+  <string name="superpower_notification_low_temp_btn_txt">Уключыць</string>
+  <string name="superpower_notification_low_temp_summary">Рэжым холадаўстойлівасці можа зэканоміць больш батарэі, калі ўключаны рэжым максімальнага энергазберажэння, а тэмпература навакольнага асяроддзя вельмі нізкая</string>
+  <string name="superpower_notification_low_temp_title">Уключыць рэжым максімальнага энергазберажэння?</string>
+  <string name="superpower_progress_low_temp_content">Уключэнне рэжыму холадаўстойлівасці…</string>
 </resources>

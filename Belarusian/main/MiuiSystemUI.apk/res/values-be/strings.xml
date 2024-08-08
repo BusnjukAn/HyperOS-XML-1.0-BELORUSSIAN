@@ -2086,4 +2086,5 @@
   <string name="tiny_splicing_date_content_description">d.MM</string>
   <string name="tiny_splicing_date_format">d.MM</string>
   <string name="torch_low_battery_warning">Немагчыма выкарыстоўваць ліхтарык з-за нізкага зараду батарэі</string>
+  <string name="quick_settings_task_manager_lable">Актыўныя праграмы</string>
 </resources>

@@ -2222,4 +2222,12 @@
   <string name="nowplaying_menu_item_gif_close">Уключыць дынамічныя вокладкі</string>
   <string name="nowplaying_menu_item_gif_open">Выключыць дынамічныя вокладкі</string>
   <string name="swipe_to_exit">Правядзіце яшчэ раз, каб выйсці</string>
+  <string name="alarm_clock_album_modify_fail">Не атрымалася змяніць</string>
+  <string name="alarm_clock_audio_name">Надвор\'е раніцай</string>
+  <string name="alarm_clock_audio_text_city">Сёння ў %1$s, надвор\'е: %2$s.</string>
+  <string name="alarm_clock_audio_text_date">Добрай раніцы! Сёння %1$s.</string>
+  <string name="alarm_clock_audio_text_temperature">Тэмпература: %1$s</string>
+  <string name="alarm_clock_click_hint">Націсніце, каб паслухаць прагноз надвор\'я на сёння</string>
+  <string name="network_tip_title">Стрымце цэлы свет новай музыкі</string>
+  <string name="setting_open">Уключыць</string>
 </resources>

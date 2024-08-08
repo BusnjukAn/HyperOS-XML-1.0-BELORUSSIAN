@@ -429,4 +429,16 @@
         <item quantity="one">Выконваецца %d спампоўка</item>
         <item quantity="few">Выконваецца %d спампоўкi</item>
     </plurals>
+   <plurals name="temp_range_c">
+    <item quantity="other">Ад %1$d да %2$d градусаў Цэльсія</item>
+    <item quantity="one">Ад %1$d да %2$d градуса Цэльсія</item>
+    <item quantity="few">Ад %1$d да %2$d градусаў Цэльсія</item>
+    <item quantity="many">Ад %1$d да %2$d градусаў Цэльсія</item>
+  </plurals>
+  <plurals name="temp_range_f">
+    <item quantity="other">Ад %1$d да %2$d градусаў Фарэнгейта</item>
+    <item quantity="one">Ад %1$d да %2$d градуса Фарэнгейта</item>
+    <item quantity="few">Ад %1$d да %2$d градусаў Фарэнгейта</item>
+    <item quantity="many">Ад %1$d да %2$d градусаў Фарэнгейта</item>
+  </plurals>
 </resources>

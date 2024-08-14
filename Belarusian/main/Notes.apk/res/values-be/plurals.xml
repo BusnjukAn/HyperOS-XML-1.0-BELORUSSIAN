@@ -212,4 +212,13 @@
         <item quantity="one">%d новых апавяшчэнне</item>
         <item quantity="few">%d новае апавяшчэння</item>
     </plurals>
+    <plurals name="ai_content_exceeded_warn">
+        <item quantity="other">Змест гэтай нататкі перавышае абмежаванні апрацоўкі ШІ. Увядзіце да %1$s знакаў і паспрабуйце яшчэ раз.</item>
+        <item quantity="one">Змест гэтай нататкі перавышае абмежаванні апрацоўкі ШІ. Увядзіце да %1$s знака і паспрабуйце яшчэ раз.</item>
+    </plurals>
+    <plurals name="corrected_title">
+        <item quantity="other">%1$s выпраўленняў</item>
+        <item quantity="few">%1$s выпраўлення</item>
+        <item quantity="one">%1$s выпраўленне</item>
+    </plurals>
 </resources>

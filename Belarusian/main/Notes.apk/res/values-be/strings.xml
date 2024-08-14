@@ -1100,7 +1100,7 @@
   <string name="add_excerpt_summary">Дадаць у зводку</string>
   <string name="ai_chat_declare_double_link"><Data>Прачытайце і прыміце нашыя &lt;a href=\"%1$s\">Угоду карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a>, перш чым працягнуць.</Data></string>
   <string name="ai_chat_dlg_content">Для розных крыніц інфармацыі ў розных сцэнарах (напрыклад, спасылак або тэксту, які з\'яўляецца ў такіх праграмах, як браўзэры, WeChat і Feishu), функцыя хуткага збору і абагульненні інфармацыі, а таксама яе аўтаматычнага стварэння і ўяўленні ў адзіны запіс для архівавання.</string>
-  <string name="ai_watermark">Згенеравана ШІ:</string>
+  <string name="ai_watermark">Кантэнт, згенераваны ШІ, прадастаўляецца толькі для даведкі</string>
   <string name="excerpt_ares_limit">Мы шануем ваш энтузіязм, але ў гэты час у нас вялікі трафік. Націсніце зыходную спасылку для прагляду або паспрабуйце пазней.</string>
   <string name="excerpt_original_text">Зыходны тэкст:</string>
   <string name="excerpt_summary_fail">Памылка аналізу кантэнту. Націсніце зыходную спасылку для прагляду або паспрабуйце пазней.</string>
@@ -1128,4 +1128,35 @@
   <string name="to_be_read_text_list">Тэкставая зводка</string>
   <string name="excerpt_ares_block">Множныя парушэнні, функцыя часова адключаная.</string>
   <string name="excerpt_ares_block_tmp">Множныя парушэнні, функцыя часова адключаная.</string>
+  <string name="action_copy">Капіяваць</string>
+  <string name="action_insert">Уставіць зводку</string>
+  <string name="action_replace">Замяніць арыгінал</string>
+  <string name="action_retry">Згенераваць нанава</string>
+  <string name="add_modifications">Прапанова: дадаць \"%1$s\"</string>
+  <string name="adopt">Выкарыстоўваць</string>
+  <string name="ai_check">Праверка ШІ</string>
+  <string name="ai_failed">Немагчыма згенераваць. Паспрабуйце яшчэ раз.</string>
+  <string name="ai_feature_disabled">Вы некалькі разоў парушылі нашы стандарты супольнасці. Гэтая функцыя больш не даступная.</string>
+  <string name="ai_label">Функцыі ШІ</string>
+  <string name="ai_layout">Макет ШІ</string>
+  <string name="ai_result_warn">Змесціва вышэй згенеравана ШІ. Дакладнасць можа вар\'іравацца.</string>
+  <string name="ai_sensitive_content_warn">Немагчыма выкарыстоўваць функцыі ШІ для далікатнага або непрымальнага кантэнту</string>
+  <string name="ai_summary">Зводка ШІ</string>
+  <string name="ai_translate">Пераклад ШІ</string>
+  <string name="auto_detected">Аўтаматычнае вызначэнне</string>
+  <string name="copy_toast_text">Паспяхова скапіявана</string>
+  <string name="enter_content">Спачатку ўвядзіце кантэнт</string>
+  <string name="generating">Секундачку…</string>
+  <string name="main_body">Поўны тэкст</string>
+  <string name="net_error">Адбылася памылка сеткі</string>
+  <string name="original_empty_content">У зыходнай версіі няма кантэнту</string>
+  <string name="original_text">Арыгінал: \"%1$s\"</string>
+  <string name="permission_ai_desc_n"><Data>Каб прадаставіць вам службы ШІ, Нататкі будзе збіраць уведзены вамі тэкст для стварэння зводак і аптымізацыі тэксту. Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці і Заяву аб сумесным выкарыстанні дадзеных трэцімі асобамі&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="permission_ai_title">Службы ШІ Нататак</string>
+  <string name="retry">Паспрабаваць яшчэ раз</string>
+  <string name="revoke_modifications">Адмяніць</string>
+  <string name="sensitive_content_warn">Немагчыма стварыць зводку ШІ для прыватнага кантэнту</string>
+  <string name="suggested_delete">Прапанова: выдаліць \"%1$s\"</string>
+  <string name="suggested_modifications">Прапанова: змяніць \"%1$s\" на \"%2$s\"</string>
+  <string name="summary">Зводка</string>
 </resources>

@@ -695,7 +695,7 @@
   <string name="enter_callbarring_password">Увядзіце пароль забароны выклікаў (%d лічбаў)</string>
   <string name="enter_esim_manager">Кіраванне eSIM</string>
   <string name="enter_esim_manager_title">Кiраванне eSIM</string>
-  <string name="enter_input" formatted="false">USSD-запыт павінен утрымліваць ад %d да %d сімвалаў. Паспрабуйце яшчэ раз.</string>
+  <string name="enter_input">USSD-запыт павінен утрымліваць ад %1$d да %2$d сімвалаў. Паспрабуйце яшчэ раз.</string>
   <string name="enter_pin_text">PIN SIM-карты:</string>
   <string name="enter_pin2_text">PIN%d</string>
   <string name="entertainment_news_settings">Забаўляльныя навіны</string>
@@ -1008,8 +1008,8 @@
   <string name="messageCFNRc">Нумар, калі недаступны</string>
   <string name="messageCFNRy">Нумар, калі няма адказу</string>
   <string name="messageCFU">Заўсёды пераадрасоўваць на гэты нумар</string>
-  <string name="messageCFU_kr" formatted="false">Сеткавы сэрвіс, які перанакіроўвае ўсе ўваходныя выклікі і тэкставыя паведамленні на вызначаны нумар. Вы павінны падпісацца на гэтую паслугу. З вас будзе спаганяцца штомесячная плата. Звярніцеся ў цэнтр абслугоўвання кліентаў (%1$d+[Адправіць]), каб падпісацца або адмовіцца ад падпіскі на гэтую паслугу. Увядзіце %2$s+[нумар для пераадрасацыі выклікаў на [Адправіць], каб уключыць, або %3$s[Адправіць], каб адключыць.</string>
-  <string name="messageCW_kr" formatted="false">Бясплатны сеткавы сэрвіс для адказу на другі выклік падчас размовы, пераводзячы першы ў рэжым утрымання. Калі ласка, увядзіце %s [Адаслаць] каб уключыць, ці %s [Адаслаць], каб адключыць.</string>
+  <string name="messageCFU_kr">Сеткавы сэрвіс, які перанакіроўвае ўсе ўваходныя выклікі і тэкставыя паведамленні на вызначаны нумар. Вы павінны падпісацца на гэтую паслугу. З вас будзе спаганяцца штомесячная плата. Звярніцеся ў цэнтр абслугоўвання кліентаў (%1$d+[Адправіць]), каб падпісацца або адмовіцца ад падпіскі на гэтую паслугу. Увядзіце %2$s+[нумар для пераадрасацыі выклікаў на [Адправіць], каб уключыць, або %3$s[Адправіць], каб адключыць.</string>
+  <string name="messageCW_kr">Бясплатны сеткавы сэрвіс для адказу на другі выклік падчас размовы, пераводзячы першы ў рэжым утрымання. Калі ласка, увядзіце %1$s [Адправіць] каб уключыць, ці %2$s [Адправіць], каб адключыць.</string>
   <string name="mhh_disable">Медыцынскія ўстановы і бальніцы адключаны</string>
   <string name="mhh_enable">Медыцынскія ўстановы і бальніцы ўключаны</string>
   <string name="mi_mobile_settings_summary">Планы дадзеных, якія прадстаўляюцца Xiaomi</string>
@@ -2036,14 +2036,14 @@
   <string name="throttle_current_usage">Трафік у гэтым перыядзе</string>
   <string name="throttle_data_rate_reduced_subtext">Перавышаны ліміт у %1$s\nХуткасць перадачы дадзеных зніжана да %2$d кбіт/с</string>
   <string name="throttle_data_usage">Выкарыстанне дадзеных</string>
-  <string name="throttle_data_usage_subtext" formatted="false">%1$s (%2$d٪) з %3$s (максімум)</string>
+  <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максімум)</string>
   <string name="throttle_help">Падрабязней</string>
   <string name="throttle_help_subtext">Больш інфармацыі пра палітыку перадачы дадзеных вашага аператара мабільнай сувязі</string>
   <string name="throttle_rate">Абмежаванне хуткасці перадачы</string>
   <string name="throttle_rate_subtext">Перавышэнне ліміту зніжае хуткасць передачы дадзеных да %1$d кбіт/с</string>
-  <string name="throttle_status_subtext" formatted="false">%1$s (%2$d٪) з %3$s (максімум)\nНаступны перыяд пачнецца праз %4$d дзён (%5$s)</string>
+  <string name="throttle_status_subtext">%1$s (%2$d٪) з %3$s (максімум)\nНаступны перыяд пачнецца праз %4$d дзён (%5$s)</string>
   <string name="throttle_time_frame">Перыяд адсочвання выкарыстанага трафіка</string>
-  <string name="throttle_time_frame_subtext" formatted="false">%1$d٪ перыяду прайшло.\nНаступны перыяд пачнецца праз %2$d дзён (%3$s)</string>
+  <string name="throttle_time_frame_subtext">%1$d٪ перыяду прайшло.\nНаступны перыяд пачнецца праз %2$d дзён (%3$s)</string>
   <string name="thursday">Чацвер</string>
   <string name="thursday_short">Чац</string>
   <string name="thursday_shortest">Ч</string>

@@ -2489,7 +2489,6 @@
   <string name="video_prompter_edit_tip_dialog_message">Падтрымліваюцца толькі файлы фарматаў doc, docx, txt. Выявы, табліцы і гіперспасылкі адлюстроўвацца не будуць.</string>
   <string name="video_prompter_edit_tip_dialog_ok">ОК</string>
   <string name="video_prompter_edit_tip_dialog_title">Імпарт тэксту</string>
-  <string name="video_prompter_edit_total_words" formatted="false">%d/%d слоў</string>
   <string name="video_prompter_edit_words_exceed_limit">Вы ўвялі занадта доўгі тэкст</string>
   <string name="video_prompter_expand_description">Разгарнуць</string>
   <string name="video_prompter_play_description">Прадпрагляд</string>

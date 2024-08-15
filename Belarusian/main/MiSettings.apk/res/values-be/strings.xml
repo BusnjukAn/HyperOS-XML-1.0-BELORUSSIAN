@@ -409,7 +409,7 @@
   <string name="usage_state_app_usage_limit_summary">Усталяваць дзённы ліміт працы экрана для праграмы</string>
   <string name="usage_state_app_usage_list_title">Час працы праграм</string>
   <string name="usage_state_app_usage_list_week_title">Час працы праграм</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Час працы экрана з %1$d:00 да %2$d:00</string>
+  <string name="usage_state_app_usage_tip_title">Час працы экрана з %1$d:00 да %2$d:00</string>
   <string name="usage_state_app_use_time">Час працы экрану</string>
   <string name="usage_state_card_add">Дадаць</string>
   <string name="usage_state_card_cancel">Скасаваць</string>
@@ -420,8 +420,8 @@
   <string name="usage_state_date">d MMMM</string>
   <string name="usage_state_device_limit_summary">Усталяваць дзённыя абмежавання працы экрана для вашай прылады</string>
   <string name="usage_state_device_limit_title">Ліміты працы экрана прылады</string>
-  <string name="usage_state_device_noti_today_tip_title" formatted="false">Апавяшчэнні з %1$d:00 да %2$d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Разблакоўкі з %1$d:00 да %2$d:00</string>
+  <string name="usage_state_device_noti_today_tip_title">Апавяшчэнні з %1$d:00 да %2$d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title">Разблакоўкі з %1$d:00 да %2$d:00</string>
   <string name="usage_state_download">Захаваць у альбом</string>
   <string name="usage_state_duration_title">Працягласць</string>
   <string name="usage_state_focus_call">Экстраны выклік</string>
@@ -441,7 +441,7 @@
   <string name="usage_state_focus_weak_summary">Адкладзiце ваш тэлефон у бок</string>
   <string name="usage_state_friday">Птн</string>
   <string name="usage_state_go_more">Іншыя праграмы</string>
-  <string name="usage_state_hour_minute" formatted="false">%1$d г. %2$d хв.</string>
+  <string name="usage_state_hour_minute">%1$d г. %2$d хв.</string>
   <string name="usage_state_less_one_minute">&lt; за 1 хв.</string>
   <string name="usage_state_monday">Пан</string>
   <string name="usage_state_mourth_day">Час працы экрана %s</string>
@@ -481,11 +481,11 @@
   <string name="usage_state_use_time_remind_title">Ліміт часу працы экрана</string>
   <string name="usage_state_wakeups_title">Колькасць уключэнняў экрана</string>
   <string name="usage_state_wednesday">Сер</string>
-  <string name="usage_state_week_day_hour_minute" formatted="false">Выхадныя: %1$d г. %2$d хв.</string>
+  <string name="usage_state_week_day_hour_minute">Выхадныя: %1$d г. %2$d хв.</string>
   <string name="usage_state_week_total_text">"За 7 дзён: "</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Будні</string>
-  <string name="usage_state_work_day_hour_minute" formatted="false">Будні: %1$d г. %2$d хв.</string>
+  <string name="usage_state_work_day_hour_minute">Будні: %1$d г. %2$d хв.</string>
   <string name="usage_stats_device_limit">Ліміты працы экрана прылады</string>
   <string name="usage_stats_device_limit_summary">Усталяваць дзённыя абмежавання працы экрана для вашай прылады</string>
   <string name="usage_stats_experience_text">Паспрабаваць (1 хв.)</string>
@@ -524,9 +524,9 @@
   <string name="usagestats_app_category_miui_video_etc">Музыка і відэа</string>
   <string name="usagestats_device_notification_des">Сутачны ліміт часу: %s</string>
   <string name="usagestats_device_notification_des_over">Вы ўжо дасягнулі сутачнага ліміту часу працы экрана.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Ліміт на сёння: %1$s | Засталося %2$s</string>
+  <string name="usagestats_device_notification_des_reset">Ліміт на сёння: %1$s | Засталося %2$s</string>
   <string name="usagestats_device_notification_title">Ліміт часу працы экрана</string>
-  <string name="usagestats_device_timeout_des" formatted="false">Вы сёння карыстаецеся прыладай ужо %1$d г %2$d хв. Адпачніце!</string>
+  <string name="usagestats_device_timeout_des">Вы сёння карыстаецеся прыладай ужо %1$d г. %2$d хв. Адпачніце!</string>
   <string name="usagestats_device_timeout_negative">Нагадаць праз гадзіну</string>
   <string name="usagestats_device_timeout_positive">Зразумела</string>
   <string name="usagestats_device_timeout_title">Ліміт часу працы экрана</string>

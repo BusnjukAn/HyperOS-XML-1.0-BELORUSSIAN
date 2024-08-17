@@ -765,4 +765,5 @@
   <string name="tiny_kg_track_history_set_update_wallpaper_success">Шпалеры паспяхова зменены</string>
   <string name="tiny_kg_wallpaper_pets_hint_text">Націсніце, каб змяніць анімацыю</string>
   <string name="tiny_kg_wallpaper_scale_hint_text">Звядзіце пальцы і маштабуйце, каб абрэзаць</string>
+  <string name="talkback_invert_color">Інвертаваць колеры</string>
 </resources>

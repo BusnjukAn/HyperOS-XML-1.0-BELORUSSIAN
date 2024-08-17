@@ -1332,4 +1332,6 @@
   <string name="lock_device_toast">Гэта прылада заблакавана. Разблакуйце, каб выкарыстоўваць Ачыстку.</string>
   <string name="gps_prompt_context">Спампоўваць з дапамогай мабільнай сеткі?</string>
   <string name="gps_prompt_title">Парады</string>
+  <string name="cta_dialog_message">Каб працаваць нармальна, праграме неабходны дазвол на доступ да медыяфайлаў і спісу праграм, усталяваных на гэтай прыладзе. Даць гэтыя дазволы зараз?</string>
+  <string name="cta_dialog_title">Немагчыма выкарыстоўваць Ачыстку зараз</string>
 </resources>

@@ -76,4 +76,8 @@
     <item>Адключана</item>
     <item>У любым месцы</item>
   </string-array>
+  <string-array name="layout_preview_button">
+    <item>Стандартны</item>
+    <item>Шчыльны</item>
+  </string-array>
 </resources>

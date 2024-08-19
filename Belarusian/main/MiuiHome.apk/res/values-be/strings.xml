@@ -1163,4 +1163,14 @@
   <string name="global_shelf">Пошук праграм</string>
   <string name="home_gesture_global_shelf">Пошук праграм</string>
   <string name="home_gesture_content_center_settings">Налады Кантэнт-цэнтра</string>
+   <string name="announce_for_layout_preview_mode">Адкрыць прадпрагляд</string>
+  <string name="announce_for_layout_preview_mode_disable">Зачыніць прадпрагляд</string>
+  <string name="folder_name_text_clear">Ачысціць</string>
+  <string name="launcher_search_bar_tip">Панэль пошуку можа змяніць выгляд вашага працоўнага стала</string>
+  <string name="layout_preview_apply">Ужыць</string>
+  <string name="layout_preview_cancel">Адмена</string>
+  <string name="layout_upgrade_toast_button">Зразумела</string>
+  <string name="layout_upgrade_toast_message">Ваш выгляд працоўнага стала абноўлены новым дынамічным алгарытмам. Радкі і слупкі на працоўным стале былі адкарэктаваныя, каб стварыць больш гнуткую прастору і палепшанае адлюстраванне элементаў.</string>
+  <string name="layout_upgrade_toast_title">Выгляд працоўнага стала абноўлены</string>
+  <string name="new_folder_picker_sliding_button_tab_text">Сартаваць праграмы аўтаматычна</string>
 </resources>

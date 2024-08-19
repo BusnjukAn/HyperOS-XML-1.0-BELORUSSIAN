@@ -559,7 +559,6 @@
   <string name="effect_virtual_surround_summary_spk">Павялічце глыбіню гуку для прайгравання аўдыё і відэа</string>
   <string name="effect_selection_headset">Эфекты навушнікаў</string>
   <string name="sound_id_hz"> %d Гц</string>
-  <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="ear_canal_scan_function_description">Сканаванне вушнога канала</string>
   <string name="ear_canal_scan_function_name">Адчуйце аптымізаваны гук у залежнасці ад формы вашага вуха</string>
   <string name="ear_canal_scan_notice_disconnect">Сканаванне перарвана. Пераканайцеся, што навушнікі падлучаны.</string>

@@ -659,4 +659,8 @@
   <string name="ability_dialog_button">Зразумела</string>
   <string name="ability_dialog_text">З-за памеру экрана некаторыя праграмы могуць адлюстроўвацца некарэктна на вонкавым экране.</string>
   <string name="ability_dialog_title">Увага</string>
+  <string name="skipcoreappanr_notification_text">Сістэмная праблема была выпраўлена аўтаматычна</string>
+  <string name="skipcoreappanr_notification_title">"%1$s не адказвае"</string>
+  <string name="skipprocessanr_notification_text">"Працэс \"%1$s\" не адказвае"</string>
+  <string name="skipprocessanr_notification_title">"Сістэма не адказвае"</string>
 </resources>

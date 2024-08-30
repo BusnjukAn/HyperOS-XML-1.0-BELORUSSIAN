@@ -585,4 +585,8 @@
   <string name="miplay_tv_cast_retry_toast">Спыніце трансляцыю і паспрабуйце яшчэ раз</string>
   <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Трансляцыя аўдыё завершана</string>
   <string name="miplay_bluetooth_share_music_together_btn_content_des">Дадайце навушнікі, каб падзяліцца аўдыё</string>
+  <string name="quick_settings_voice_trans_label">Расшыфроўка аўдыё</string>
+  <string name="miplay_accessibility_video_fastForward">Перамотка наперад на %d секунд(-ы)</string>
+  <string name="miplay_accessibility_video_rewind">Перамотка назад на %d секунд(-ы)</string>
+  <string name="miplay_service_error_not_support">Гэта дзеянне не падтрымліваецца</string>
 </resources>

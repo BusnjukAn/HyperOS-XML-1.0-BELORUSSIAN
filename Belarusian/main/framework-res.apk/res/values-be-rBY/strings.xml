@@ -2172,7 +2172,7 @@
   <string name="permlab_cameraHeadlessSystemUser">Дазволіць праграме або сэрвісу доступ да камеры з правамі кансольнага сістэмнага карыстальніка.</string>
   <string name="permlab_foregroundServiceMediaProcessing">запусціць службу прыярытэтнага плана з тыпам \"mediaProcessing\"</string>
   <string name="permlab_nfcTransactionEvent">Транзакцыі з выкарыстаннем ахоўнага элемента</string>
-  <string name="permlab_writeVerificationStateE2eeContactKeys">абнавіць стан праверкі кантактных ключоў E2EE, якія належаць іншым прыкладанням</string>
+  <string name="permlab_writeVerificationStateE2eeContactKeys">абнавіць стан праверкі кантактных ключоў E2EE, якія належаць іншым праграмам</string>
   <string name="private_profile_label_badge">%1$s (прыватны профіль)</string>
   <string name="private_space_set_up_screen_lock_message">Каб выкарыстоўваць асабістую прастору, усталюйце блакаванне экрана на гэтай прыладзе</string>
   <string name="profile_label_clone">Клон</string>
@@ -2186,20 +2186,51 @@
   <string name="satellite_notification_open_message">Адкрыць паведамленні</string>
   <string name="satellite_notification_summary">Вы можаце адпраўляць і атрымліваць паведамленні без мабільнай сеткі або сеткі Wi-Fi</string>
   <string name="satellite_notification_title">Аўтаматычнае падлучэнне да спадарожніка</string>
-  <string name="scCellularNetworkSecuritySummary">Прагляд налад</string>
-  <string name="scCellularNetworkSecurityTitle">Бяспека сотавай сеткі</string>
-  <string name="scIdentifierDisclosureIssueSummary">Сетка на злучэнні %4$s запісала ўнікальны ідэнтыфікатар вашай прылады (IMSI) %1$d раз за перыяд паміж %2$tr і %3$tr.</string>
-  <string name="scIdentifierDisclosureIssueTitle">Ідэнтыфікатар прылады, да якой ажыццяўляецца доступ</string>
+  <string name="scCellularNetworkSecuritySummary">Шыфраванне, апавяшчэнні для незашыфраваных сетак</string>
+  <string name="scCellularNetworkSecurityTitle">Бяспека мабільнай сеткі</string>
+  <string name="scIdentifierDisclosureIssueSummary">"У %1$s найбліжэйшая сетка запісала ўнікальны ідэнтыфікатар вашай прылады (IMSI або IMEI) пры выкарыстанні вашай SIM-карты %2$s.
+
+Гэта азначае, што ваша месцазнаходжанне, актыўнасць ці асоба былі зарэгістраваны. Гэта звычайная практыка, але можа быць праблемай для людзей, занепакоеных прыватнасцю."</string>
+  <string name="scIdentifierDisclosureIssueTitle">Ідэнтыфікатар прылады атрыманы</string>
   <string name="scNullCipherIssueActionLearnMore">Больш падрабязна</string>
-  <string name="scNullCipherIssueActionSettings">Налады сотавай бяспекі</string>
-  <string name="scNullCipherIssueEncryptedSummary">Цяпер вы падлучаны да больш бяспечнай сотавай сеткі.</string>
-  <string name="scNullCipherIssueEncryptedTitle">Зашыфраванае злучэнне з %1$s</string>
-  <string name="scNullCipherIssueNonEncryptedSummary">Вы падлучаны да незашыфраванай сотавай сеткі. Вашы выклікі, паведамленні і дадзеныя ўразлівыя для перахопу.</string>
-  <string name="scNullCipherIssueNonEncryptedTitle">Нешыфраванае злучэнне з %1$s</string>
+  <string name="scNullCipherIssueActionSettings">Налады бяспекі мабільнай сеткі</string>
+  <string name="scNullCipherIssueEncryptedSummary">Падлучэнне да SIM-карты %1$s зараз больш бяспечна</string>
+  <string name="scNullCipherIssueEncryptedTitle">Падлучана да зашыфраванай сеткі %1$s</string>
+  <string name="scNullCipherIssueNonEncryptedSummary">"Выклікі, паведамленні і дадзеныя ў цяперашні час больш уразлівыя пры выкарыстанні SIM-карты %1$s.
+
+Калі ваша злучэнне зноў будзе зашыфравана, вы атрымаеце яшчэ адно апавяшчэнне."</string>
+  <string name="scNullCipherIssueNonEncryptedTitle">Падлучана да незашыфраванай сеткі</string>
   <string name="set_up_screen_lock_action_label">Усталяваць блакаванне экрана</string>
   <string name="set_up_screen_lock_title">Усталяваць блакаванне экрана</string>
   <string name="unarchival_session_app_label">Чаканне...</string>
   <string name="zen_mode_implicit_activated">Уключана</string>
   <string name="zen_mode_implicit_deactivated">Выключана</string>
   <string name="zen_mode_implicit_trigger_description">Пад кіраваннем \"%1$s\"</string>
+  <string name="dream_accessibility_action_click">адхіліць</string>
+  <string name="redacted_notification_message">Канфідэнцыйнае змесціва апавяшчэння ўтоена</string>
+  <string name="scIdentifierDisclosureIssueSummaryNotification">"У %1$s найбліжэйшая сетка запісала ўнікальны ідэнтыфікатар вашай прылады (IMSI або IMEI) пры выкарыстанні вашай SIM %2$s"</string>
+  <string name="scNullCipherIssueActionGotIt">Зразумела</string>
+  <string name="scNullCipherIssueNonEncryptedSummaryNotification">Выклікі, паведамленні і дадзеныя ў цяперашні час больш уразлівыя пры выкарыстанні вашай SIM %1$s</string>
+  <string name="screen_not_shared_sensitive_content">Змесціва прыкладання ўтоена ад агульнага доступу да экрана ў мэтах бяспекі</string>
+  <string name="zen_mode_trigger_event_calendar_any">Любы каляндар</string>
+  <string name="accessibility_label_clone_profile">Кланаваць</string>
+  <string name="accessibility_label_communal_profile">Агульны профіль</string>
+  <string name="accessibility_label_managed_profile">Працоўны профіль</string>
+  <string name="accessibility_label_private_profile">Асабістая прастора</string>
+  <string name="biometric_dangling_notification_action_not_now">Не зараз</string>
+  <string name="biometric_dangling_notification_action_set_up">Наладзіць</string>
+  <string name="dynamic_mode_notification_summary_v2">Уключаны энергазберагальны рэжым для падаўжэння тэрміна службы батарэі</string>
+  <string name="dynamic_mode_notification_title_v2">Уключаны энергазберагальны рэжым</string>
+  <string name="face_dangling_notification_msg">Ваша мадэль твару працавала некарэктна і была выдаленая. Наладзьце яе зноў, каб разблакаваць тэлефон з дапамогай твару.</string>
+  <string name="face_dangling_notification_title">Наладзіць паўторна функцыю разблакавання па твару</string>
+  <string name="fingerprint_dangling_notification_msg_1">"%s працаваў некарэктна і быў выдалены для павышэння прадукцыйнасці"</string>
+  <string name="fingerprint_dangling_notification_msg_2">"%1$s і %2$s працавалі некарэктна і былі выдаленыя для павышэння прадукцыйнасці"</string>
+  <string name="fingerprint_dangling_notification_msg_all_deleted_1">"%s працаваў некарэктна і быў выдалены. Наладзьце яго зноў, каб разблакаваць тэлефон з дапамогай адбітка пальца."</string>
+  <string name="fingerprint_dangling_notification_msg_all_deleted_2">"%1$s і %2$s працавалі некарэктна і былі выдаленыя. Наладзьце іх зноў, каб разблакаваць тэлефон з дапамогай адбітка пальца."</string>
+  <string name="fingerprint_dangling_notification_title">Наладзіць паўторна разблакаванне з дапамогай адбітка пальца</string>
+  <string name="miniresolver_private_space_messages_information">Вы можаце адпраўляць SMS-паведамленні толькі са сваёй асабістай праграмы \"Паведамленні\".</string>
+  <string name="miniresolver_private_space_phone_information">Вы можаце здзяйсняць выклікі толькі са сваёй асабістай праграмы \"Тэлефон\". Выклікі, зробленыя з дапамогай асабістага тэлефона, будуць дададзены ў вашу асабістую гісторыю выклікаў.</string>
+  <string name="notification_compact_heads_up_reply">Адказаць</string>
+  <string name="permdesc_bluetoothTransportEvent">Дазволіць паміж прыладамі</string>
+  <string name="permlab_bluetoothTransportEvent">Падзеі Bluetooth паміж прыладамі</string>
 </resources>

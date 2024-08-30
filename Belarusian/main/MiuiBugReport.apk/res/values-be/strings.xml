@@ -1120,4 +1120,6 @@
   <string name="net_diag_wlan_basic_functions_china">Асноўныя функцыі Wi-Fi</string>
   <string name="notify_log_catch_content">Пасля прайгравання праблемы краніце апавяшчэнні, каб адправіць водгук, або націсніце і ўтрымлівайце апавяшчэнне, каб спыніць запіс часопісаў</string>
   <string name="toast_upload_screenrecorder">Загрузіць запіс экрана праблемы для аналізу</string>
+  <string name="special_log_recorder">Запіс экрана</string>
+  <string name="special_log_recorder_hint">Аўтаматычна захоўваць запіс экрана пасля стварэння журналаў</string>
 </resources>

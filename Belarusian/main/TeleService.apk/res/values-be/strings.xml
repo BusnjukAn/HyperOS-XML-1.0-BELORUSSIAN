@@ -580,10 +580,10 @@
   <string name="disable_cfb_forbidden">Ваш аператар не падтрымлівае адключэнне пераадрасацыі выкліку, калі тэлефон заняты.</string>
   <string name="disable_cfnrc_forbidden">Ваш аператар не падтрымлівае адключэнне пераадрасацыі выкліку, калі тэлефон недаступны.</string>
   <string name="disable_cfnry_forbidden">Ваш аператар не падтрымлівае адключэнне пераадрасацыі выкліку, калі ваш тэлефон не адказвае.</string>
-  <string name="disable_esim_dialog_summary">SIM %s будзе актываваная, калі вы дэактывуеце eSIM зараз.\nУсё роўна дэактываваць eSIM?</string>
-  <string name="disable_esim_dialog_title">Дэактывацыя eSIM</string>
-  <string name="disable_esim_error_toast_message">Не ўдалося дэактываваць eSIM</string>
-  <string name="disable_esim_progress_activating_message">Дэактывацыя eSIM…</string>
+  <string name="disable_esim_dialog_summary">"Калі вы адключыце eSIM, вы не зможаце выкарыстоўваць eSIM. Усё роўна адключыць?"</string>
+  <string name="disable_esim_dialog_title">Адключыць eSIM</string>
+  <string name="disable_esim_error_toast_message">"Немагчыма адключыць eSIM"</string>
+  <string name="disable_esim_progress_activating_message">Адключэнне eSIM…</string>
   <string name="disable_fdn">Адключыць фіксаваны набор</string>
   <string name="disable_fdn_ok">Уключыць фіксаваны набор</string>
   <string name="disable_pin_ok">PIN адключаны</string>
@@ -668,11 +668,12 @@
   <string name="enable_disable_technology_news">Навіны тэхналогій</string>
   <string name="enable_dual_4g_if_dual_ct">Аддаваць перавагу 4G-сеткам для абедзвюх SIM-карт, каб выкарыстоўваць VoLTE на другой SIM-карце, калі абедзве ўсталяваныя SIM-карты з China Telecom.</string>
   <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE патрабуе падлучэння 4G для абодвух SIM-слотаў. Пераключыцца на двайны 4G цяпер?</string>
-  <string name="enable_esim_dialog_summary">SIM %s будзе дэактываваная, калі вы зараз актывуеце eSIM.\nУсё роўна актываваць eSIM?</string>
-  <string name="enable_esim_dialog_title">Актывацыя eSIM</string>
-  <string name="enable_esim_error_toast_message">Немагчыма актываваць eSIM</string>
-  <string name="enable_esim_progress_activating_message">Актывацыя eSIM…</string>
-  <string name="enable_esim_title">Выкарыстоўваць eSIM</string>
+  <string name="enable_esim_dialog_summary">"Калі вы ўключыце eSIM, вы не зможаце выкарыстоўваць бягучую SIM %s. Уключыць eSIM у любым выпадку?"</string>
+  <string name="enable_esim_dialog_title">Уключыць eSIM</string>
+  <string name="enable_esim_error_toast_message">"Немагчыма ўключыць eSIM"</string>
+  <string name="enable_esim_progress_activating_message">Уключэнне eSIM…</string>
+  <string name="enable_esim_summary">Адключыць SIM %s пасля ўключэння</string>
+  <string name="enable_esim_title">Уключыць eSIM</string>
   <string name="enable_fdn">Уключыць фіксаваны набор</string>
   <string name="enable_fdn_ok">Адключыць фіксаваны набор</string>
   <string name="enable_in_progress">Ідзе ўсталёўка PIN…</string>
@@ -845,7 +846,7 @@
   <string name="incall_error_power_off_thermal">&lt;b>Тэлефон перагрэўся&lt;/b>"\n\nНе ўдалося зрабіць выклік. Паўтарыце спробу, калі тэлефон астыне.\n\nВы ўсё роўна можаце рабіць экстранныя выклікі."</string>
   <string name="incall_error_power_off_wfc">Адключыце рэжым палёту ці падлучыцеся да сеткі Wi-Fi, каб зрабіць выклік.</string>
   <string name="incall_error_promote_wfc">Каб патэлефанаваць, уключыце Wi-Fi выклікі.</string>
-  <string name="incall_error_satellite_enabled">Адключыце рэжым спадарожніка, каб зрабіць выклік.</string>
+  <string name="incall_error_satellite_enabled">Каб здзейсніць выклік, спачатку завяршыце спадарожнікавае злучэнне.</string>
   <string name="incall_error_supp_service_conference">Немагчыма стварыць канферэнц-выклікі.</string>
   <string name="incall_error_supp_service_hangup">Немагчыма завяршыць выклікі.</string>
   <string name="incall_error_supp_service_hold">Немагчыма ўтрымліваць выклікі.</string>
@@ -1254,7 +1255,7 @@
   <string name="newPin2Label">Новы PIN2</string>
   <string name="newPinLabel">Новы PIN</string>
   <string name="night">Вечар</string>
-  <string name="no_active_esim_text">Неактыўная eSIM</string>
+  <string name="no_active_esim_text">Няма eSIM</string>
   <string name="no_change">Не ўнесена ніякіх змен.</string>
   <string name="no_checked_network">Вы зможаце падлучацца да мабільнай сеткі ды ажыццяўляць выклікі. Выбраць іншую сетку?</string>
   <string name="no_ims_service_notification_content">Звярніцеся да свайго аператра, каб вырашыць гэтую праблему.</string>
@@ -2292,7 +2293,6 @@
   <string name="cf_setting_mobile_data_off_alert">Уключыце мабільныя дадзеныя</string>
   <string name="cf_setting_network_alert">Пераканайцеся, што сетка даступная</string>
   <string name="cf_setting_wifi_on_alert">Калі ласка, адключыце Wi-Fi</string>
-  <string name="enable_esim_summary">Актывацыя eSIM прывядзе да дэактывацыі SIM %s</string>
   <string name="enter_mep_esim_manager_title">Кіраванне SIM-картай</string>
   <string name="incall_error_out_of_service_2g">"Мабільная сетка недаступная.
 
@@ -2313,4 +2313,15 @@
   <string name="filp_auto_hangup_call_summary">Працуе толькі пры падключэнні Bluetooth або правадных навушнікаў</string>
   <string name="filp_auto_hangup_call_title">Згарнуць для завяршэння выклікаў</string>
   <string name="start_call_record">Пачаць</string>
+  <string name="arrears_sim_v2_notification">Апавяшчэнні аб недастатковым балансе</string>
+  <string name="arrears_sim_v2_summary">Здаецца, баланс SIM %1$s недастатковы. Праверце баланс SIM %2$s і папоўніце яго, каб заставацца на сувязі.</string>
+  <string name="arrears_sim_v2_title">"SIM %s не ўдалося падлучыцца да сеткі"</string>
+  <string name="cfu_notification_title">Пераадрасаванне выклікаў</string>
+  <string name="disable_cfu_notification_summary">SIM %d больш не знаходзіцца ў роўмінгу. Мы рэкамендуем адключыць пераадрасаванне выклікаў для гэтай SIM-карты.</string>
+  <string name="enable_cfu_notification_summary">SIM %1$d знаходзіцца ў роўмінгу. Вы можаце пераадрасоўваць званкі на SIM-карту %2$d, каб зэканоміць на выдатках у роўмінгу.</string>
+  <string name="incall_error_carrier_roaming_satellite_mode">Вы можаце адпраўляць і атрымліваць паведамленні без мабільнай або бесправадной сеткі.</string>
+  <string name="roaming_change_dds_notification">Пераключыце SIM-карту для перадачы дадзеных у роўмінгу</string>
+  <string name="roaming_change_dds_notification_text">Ваша SIM-карта для перадачы дадзеных знаходзіцца ў роўмінгу. Пераключыцеся на мясцовую SIM-карту, каб пазбегнуць дадатковых выдаткаў.</string>
+  <string name="roaming_change_dds_notification_title">Пераключыце SIM-карту дадзеных</string>
+  <string name="satellite_open_tiantong_business_title">Уключыце спадарожнікавую сувязь China Telecom Tiantong</string>
 </resources>

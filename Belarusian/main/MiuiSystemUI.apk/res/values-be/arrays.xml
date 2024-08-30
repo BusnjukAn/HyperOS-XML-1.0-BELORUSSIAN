@@ -491,4 +491,9 @@
     <item>Выключана</item>
     <item>Уключана</item>
    </string-array>
+   <string-array name="tile_states_hearing_devices">
+        <item>Недаступна</item>
+        <item>Выключана</item>
+        <item>Уключана</item>
+    </string-array>
 </resources>

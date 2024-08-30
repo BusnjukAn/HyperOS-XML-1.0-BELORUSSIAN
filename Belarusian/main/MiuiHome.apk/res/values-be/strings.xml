@@ -1173,4 +1173,5 @@
   <string name="layout_upgrade_toast_message">Ваш выгляд працоўнага стала абноўлены новым дынамічным алгарытмам. Радкі і слупкі на працоўным стале былі адкарэктаваныя, каб стварыць больш гнуткую прастору і палепшанае адлюстраванне элементаў.</string>
   <string name="layout_upgrade_toast_title">Выгляд працоўнага стала абноўлены</string>
   <string name="new_folder_picker_sliding_button_tab_text">Сартаваць праграмы аўтаматычна</string>
+  <string name="talkback_systemaction_item_cts">Круг для пошуку</string>
 </resources>

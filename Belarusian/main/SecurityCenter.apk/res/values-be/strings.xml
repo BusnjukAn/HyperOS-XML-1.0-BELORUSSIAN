@@ -5188,7 +5188,7 @@
   <string name="sim_lock_done_disable">SIM-карта не абаронена</string>
   <string name="sim_lock_done_enable">SIM-карта абаронена</string>
   <string name="sim_lock_done_title">Бяспека SIM-карты</string>
-  <string name="sim_lock_enable_done_message">Ваша SIM-карта цяпер звязана з гэтай прыладай. PIN-код SIM-карты будзе правераны аўтаматычна. Вам усё роўна прыйдзецца ўводзіць PIN-код уручную, калі вы выкарыстоўваеце гэтую SIM-карту з іншымі прыладамі.</string>
+  <string name="sim_lock_enable_done_message">Ваша SIM-карта звязана з гэтай прыладай. Вам давядзецца пацвердзіць свой PIN-код пры выкарыстанні SIM-карты або пры яе ўстаноўцы ў іншую прыладу.</string>
   <string name="sim_lock_guide_button">Налады</string>
   <string name="sim_lock_guide_message">Звяжыце сваю SIM-карту з гэтай прыладай, каб зрабіць яе менш уразлівай для пагроз бяспекі</string>
   <string name="sim_lock_guide_title">Абараніце сваю SIM-карту</string>
@@ -7432,4 +7432,16 @@ Xiaomi Gaming Cooler"</string>
   <string name="superpower_notification_low_temp_summary">Рэжым холадаўстойлівасці можа зэканоміць больш батарэі, калі ўключаны рэжым максімальнага энергазберажэння, а тэмпература навакольнага асяроддзя вельмі нізкая</string>
   <string name="superpower_notification_low_temp_title">Уключыць рэжым максімальнага энергазберажэння?</string>
   <string name="superpower_progress_low_temp_content">Уключэнне рэжыму холадаўстойлівасці…</string>
+  <string name="app_powerkeeper_config_description">Сістэма вызначыць праграмы, якія ўдзельнічаюць у абмене імгненнымі паведамленнямі, навігацыі і прайграванні мультымедыя, ужываючы індывідуальныя меры энергазберажэння для абароны крытычна важных фонавых працэсаў ад збояў</string>
+  <string name="app_powerkeeper_miui_auto">Энергазберажэнне (рэкамендуецца)</string>
+  <string name="app_powerkeeper_miui_auto_summary">Вызначэнне праграм і дзеянняў для падтрымання працы важных працэсаў. Энергазберажэнне будзе выбарачна апрацоўваць важныя праграмы.</string>
+  <string name="app_powerkeeper_no_restrict">Без абмежаванняў</string>
+  <string name="app_powerkeeper_no_restrict_summary">Энергазберажэнне не абмяжоўвае актыўнасць праграмы</string>
+  <string name="app_powerkeeper_restrict_bg">Абмежаваць фонавыя праграмы</string>
+  <string name="app_powerkeeper_restrict_running">Закрываць праграмы пасля %d хвілін фонавай актыўнасці</string>
+  <string name="button_text_once_accept">Дазволіць адзін раз</string>
+  <string name="config_restrict_running_warning">Калі вы працягнеце, уся фонавая актыўнасць праграмы будзе спынена, што можа паўплываць на яе функцыі. Усё роўна працягнуць?</string>
+  <string name="gamebox_hangup_new">Выключыць экран</string>
+  <string name="gb_predownload_noti_small_size_message">%2$1.2f Мб новых рэсурсаў загружана. Вы зможаце выкарыстоўваць іх, як толькі выйдзе новая версія.</string>
+  <string name="pc_misight_reminder_check">Прагледзець</string>
 </resources>

@@ -293,4 +293,6 @@
   <string name="status_bar_toggle_vibrate">Вібрацыя</string>
   <string name="status_bar_toggle_wifi_ap">Пункт доступу</string>
   <string name="status_bar_toggle_auto_rotate_kddi">Аўтапаварот</string>
+  <string name="pin_toast">Правядзіце уверх ад ніжняга краю экрана і затрымайце палец, каб адмацаваць гэтую праграму</string>
+  <string name="pin_toast_nav">Націсніце і ўтрымлівайце кнопкі \"Назад\" і \"Дадому\", каб адмацаваць гэтую праграму</string>
 </resources>

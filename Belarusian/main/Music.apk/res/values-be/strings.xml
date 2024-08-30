@@ -1675,7 +1675,7 @@
   <string name="passport_mi_account_first_title">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
   <string name="passport_mi_account_title">Увайсці з дапамогай Xiaomi акаўнта</string>
   <string name="passport_network_error">Памылка далучэня да сеткі</string>
-  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзэры.</string>
+  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзеры.</string>
   <string name="passport_page_load_failed">Немагчыма адкрыць старонку</string>
   <string name="passport_password_login_btn">Увайсцi</string>
   <string name="passport_password_not_show">Не паказваць пароль</string>
@@ -1713,7 +1713,7 @@
   <string name="search_recommend">Рэкамендавана</string>
   <string name="copy_toast_msg">Спасылка скапіяваная ў буфер абмену</string>
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
-  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзеры</string>
   <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
   <string name="moe_core_rich_landing_title">Пашыраная выгрузка</string>
   <string name="moe_rich_push_dismiss_button">Адхіліць</string>

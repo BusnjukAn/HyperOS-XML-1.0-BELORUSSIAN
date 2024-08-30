@@ -475,10 +475,10 @@
     <item quantity="one">Засталося &lt;font color=#0D84FF>%1$d&lt;/font> сек.</item>
   </plurals>
   <plurals name="web_preload_hint_dialog_title">
-    <item quantity="other">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разоў!</item>
-    <item quantity="one">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d раз!</item>
-    <item quantity="few">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разы!</item>
-    <item quantity="many">На мінулым тыдні Mi Браўзэр павялічыў хуткасць загрузкі вэб-старонак %d разоў!</item>
+    <item quantity="other">На мінулым тыдні Mi Браўзер павялічыў хуткасць загрузкі вэб-старонак %d разоў!</item>
+    <item quantity="one">На мінулым тыдні Mi Браўзер павялічыў хуткасць загрузкі вэб-старонак %d раз!</item>
+    <item quantity="few">На мінулым тыдні Mi Браўзер павялічыў хуткасць загрузкі вэб-старонак %d разы!</item>
+    <item quantity="many">На мінулым тыдні Mi Браўзер павялічыў хуткасць загрузкі вэб-старонак %d разоў!</item>
   </plurals>
   <plurals name="kindred_coupons_hint">
     <item quantity="other">У вас ёсць %d купонаў</item>

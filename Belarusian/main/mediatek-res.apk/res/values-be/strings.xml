@@ -145,7 +145,7 @@
   <string name="roaming_message">Вы знаходзіцеся ў міжнародным роўмінгу, мабільныя дадзеныя ўключаны, звярніце ўвагу, што дзейнічаюць мясцовыя тарыфы</string>
   <string name="same_imei">Аднолькавы IMEI</string>
   <string name="save_password_label">Пацвердзіць</string>
-  <string name="save_password_message">Вы хочаце, каб браўзэр запомніў гэты пароль?</string>
+  <string name="save_password_message">Вы хочаце, каб браўзер запомніў гэты пароль?</string>
   <string name="save_password_never">Ніколі</string>
   <string name="save_password_notnow">Не цяпер</string>
   <string name="save_password_remember">Запомніць</string>
@@ -174,7 +174,7 @@
   <string name="Suggest_To_Change_USIM">Запыт на змену 4G SIM карты</string>
   <string name="tethered_notification_message_bandwidth_set">Прапускная здольнасць ўстаноўлена</string>
   <string name="tethered_notification_message_for_hotspot">%1$d падлучана, %2$d заблакавана</string>
-  <string name="url_dialog_choice_message">Будзе адкрыты браўзэр, працягнуць?</string>
+  <string name="url_dialog_choice_message">Будзе адкрыты браўзер, працягнуць?</string>
   <string name="url_dialog_choice_title">Паведамленні</string>
   <string name="usb_autorun_cdrom_notification_title">Падлучана як аўтазапуск CD-ROM</string>
   <string name="usb_charging_notification_title">Толькі USB-зарадка</string>

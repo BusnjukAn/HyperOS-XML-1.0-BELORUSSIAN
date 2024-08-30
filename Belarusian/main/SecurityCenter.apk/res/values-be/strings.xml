@@ -5013,8 +5013,8 @@
   <string name="power_wireless_update_tv_text">Абнаўленне прашыўкі... Не выключайце прыладу.</string>
   <string name="setting_wireless_reverse_charging_fg_control_summary">Спыніць зваротную бесправадную зарадку, калі зарад батарэі гэтай прылады стане ніжэй %s</string>
   <string name="setting_wireless_reverse_charging_summary">Змясціце прыладу, якая падтрымлівае бесправадную зарадку Qi (напрыклад, тэлефон або насімая прылада), у цэнтр задняй панэлі гэтай прылады</string>
-  <string name="antivirus_browser_check">Праверка вэб-сайтаў у Mi Браўзэры</string>
-  <string name="antivirus_browser_check_summary">Аўтаматычна правяраць вэб-сайты ў Mi Браўзэры і папярэджваць аб магчымых рызыках</string>
+  <string name="antivirus_browser_check">Праверка вэб-сайтаў у Mi Браўзеры</string>
+  <string name="antivirus_browser_check_summary">Аўтаматычна правяраць вэб-сайты ў Mi Браўзеры і папярэджваць аб магчымых рызыках</string>
   <string name="antivirus_monitored_tips">Аўтаматычна правяраць аплатную сераду на наяўнасць магчымых рызык</string>
   <string name="antivirus_sms_check">Праверка спасылак у паведамленнях</string>
   <string name="antivirus_sms_check_summary">Правяраць спасылкі ў паведамленнях і папярэджваць аб магчымых рызыках</string>

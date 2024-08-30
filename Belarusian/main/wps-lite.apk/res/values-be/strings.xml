@@ -214,7 +214,7 @@
   <string name="public_edit">Рэдагаваць</string>
   <string name="public_edit_with_wps">Выкарыстоўваць рэдагаванне WPS</string>
   <string name="public_enter_phonemode">Увайсці ў мабільнае прадстаўленне</string>
-  <string name="public_entry_browser">Увайсці ў браўзэр</string>
+  <string name="public_entry_browser">Увайсці ў браўзер</string>
   <string name="public_error_email_parse_path_toast">Адсутнічае доступ для чытання электроннай пошты. Адкрыйце ў наладах доступ.</string>
   <string name="public_error_parse_path_toast">Выберыце правільны файл для адкрыцця ў файлавым мэнэджару</string>
   <string name="public_et_filter_search_empty">Калі ласка, увядзіце пошукавы кантэнт</string>

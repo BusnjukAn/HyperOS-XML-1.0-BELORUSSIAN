@@ -859,7 +859,7 @@
   <string name="policy_bluetooth_restricted">Абмежаваць выкарыстанне Bluetooth</string>
   <string name="policy_calendar_age">Абмежаваць колькасць сінхранізаваных падзей календара</string>
   <string name="policy_dont_allow_attachments">Не дазваляць прымацаванні</string>
-  <string name="policy_dont_allow_browser">Не выкарыстоўваць браўзэры</string>
+  <string name="policy_dont_allow_browser">Не выкарыстоўваць браўзеры</string>
   <string name="policy_dont_allow_camera">Блакаваць выкарыстанне камеры гэтай прылады</string>
   <string name="policy_dont_allow_consumer_email">Не дазваляць рэкламныя Email-лісты</string>
   <string name="policy_dont_allow_html">Не дазваляць Email-лісты фармата HTML</string>
@@ -933,7 +933,7 @@
   <string name="qq_login_origin_setting">Увядзіце імя карыстальніка і пароль, каб увайсці ў ></string>
   <string name="qq_login_send_message">Націсніце «Адправіць SMS», каб атрымаць код пацверджання</string>
   <string name="qq_login_webview">Уваход у вэб-кліент QQ, націсніце Ўвайсці з выкарыстаннем пароля.</string>
-  <string name="qq_next_generation_auth_toast">Уключыце абарону паролем у вашым браўзэры</string>
+  <string name="qq_next_generation_auth_toast">Уключыце абарону паролем у вашым браўзеры</string>
   <string name="qq_pwd_or_qq_auth_code">Увядзіце код аўтарызацыі або пароль электроннай пошты</string>
   <string name="qq_uthentication_failed">Не атрымалася праверыць акаўнт, увайдзіце яшчэ раз</string>
   <string name="qq_verify_code">(Патрабуецца код пацверджання ад QQ)</string>
@@ -1388,7 +1388,7 @@
   <string name="general_preference_trash_contact">Фільтраваць спам</string>
   <string name="general_preference_trash_contact_sum">Фільтраванне лістоў ад адпраўнікоў, пра якія паведамілі некалькі карыстальнікаў</string>
   <string name="ntes_login_auth_too_much">Колькасць вашых праверачных кодаў дасягнула верхняй мяжы 5, калі ласка, выкарыстоўвайце вэб-старонку, каб увайсці ў сваю паштовую скрыню NetEase, каб выдаліць невыкарыстоўваныя праверачныя коды.</string>
-  <string name="web_view_load_error_tip">Ваш браўзэр даў збой. Загрузіце апошнюю версію Webview з Google Play, каб вырашыць гэтую праблему.</string>
+  <string name="web_view_load_error_tip">Ваш браўзер даў збой. Загрузіце апошнюю версію Webview з Google Play, каб вырашыць гэтую праблему.</string>
   <string name="invoice_card_amount">Агульная спісаны сума</string>
   <string name="invoice_card_buyer">Пакупнік</string>
   <string name="invoice_card_open">Адкрыць рахунак</string>
@@ -1706,7 +1706,7 @@
   <string name="show_attachment">Паказаць прымацаванне</string>
   <string name="copy_toast_msg">Спасылка скапіяваная ў буфер абмену</string>
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
-  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзеры</string>
   <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
   <string name="sign_in_dialog_office365">Office 365 Персанальны</string>
   <string name="sign_in_dialog_outlook_enterprise">Office 365 Карпаратыўны</string>
@@ -1751,7 +1751,7 @@
   <string name="privacy_and_private_permission">Згода з Карыстальніцкай дамовай і Палітыкай прыватнасці</string>
   <string name="account_permission_dialog_text">Калі вы працягнеце, вы адклікаеце сваю згоду з Ліцэнзійнай дамовай з канчатковым карыстальнікам, Палітыкай прыватнасці і Палажэннем аб абароне асабістых дадзеных непаўналетніх. Пасля гэтага вы не зможаце выкарыстоўваць Пошту, а ўсе дадзеныя, створаныя на гэтай прыладзе, будуць выдаленыя.</string>
   <string name="disallow_qq_auth_how_get_auth_code">Як атрымаць код аўтарызацыі?</string>
-  <string name="oauth_find_browser_error_description">Калі ласка, усталюйце браўзэр перад уваходам у сістэму</string>
+  <string name="oauth_find_browser_error_description">Калі ласка, усталюйце браўзер перад уваходам у сістэму</string>
   <string name="close_custom_folder">Схаваць падтэчкі</string>
   <string name="open_custom_folder">Паказаць падтэчкі</string>
   <string name="default_signature_phone">Адпраўлена з маёй Mi прылады</string>
@@ -1838,8 +1838,8 @@
   <string name="icoud_login_pw_hint">Увядзіце пароль</string>
   <string name="login_des_icloud">Увайсці ў пошту iCloud</string>
   <string name="error_message_respond_revert_24">Ваш IP-адрас заблакаваны. Звяжыцеся са службай падтрымкі Sohu Mail, каб вырашыць гэтую праблему.</string>
-  <string name="error_message_respond_revert_26">Ваш акаўнт заблакаваны. Увайдзіце ў Sohu Mail у сваім браўзэры, каб актываваць яго.</string>
-  <string name="error_message_respond_revert_27">Тэрмін дзеяння вашага пароля скончыўся. Увайдзіце ў Sohu Mail у сваім браўзэры, каб атрымаць згенераваны серверам пароль.</string>
+  <string name="error_message_respond_revert_26">Ваш акаўнт заблакаваны. Увайдзіце ў Sohu Mail у сваім браўзеры, каб актываваць яго.</string>
+  <string name="error_message_respond_revert_27">Тэрмін дзеяння вашага пароля скончыўся. Увайдзіце ў Sohu Mail у сваім браўзеры, каб атрымаць згенераваны серверам пароль.</string>
   <string name="quick_translation">Перавесці</string>
   <string name="account_settings_background_attachments_security_summary">Правяраць прымацаванні, якія змяшчаюць усталявальныя пакеты, на наяўнасць пагроз бяспекі</string>
   <string name="account_settings_background_attachments_security_title">Правяраць прымацаванні на наяўнасць пагроз</string>

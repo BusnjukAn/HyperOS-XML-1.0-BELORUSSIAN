@@ -373,9 +373,9 @@
   <string name="channel_phone_edit">Рэдагавана на тэлефоне</string>
   <string name="channel_phone_upload">Загружана з тэлефона</string>
   <string name="channel_phone_view">Прагледжана на тэлефоне</string>
-  <string name="channel_web_edit">Рэдагавана ў браўзэры</string>
-  <string name="channel_web_upload">Загружана з браўзэра</string>
-  <string name="channel_web_view">Прагледжана ў браўзэры</string>
+  <string name="channel_web_edit">Рэдагавана ў браўзеры</string>
+  <string name="channel_web_upload">Загружана з браўзера</string>
+  <string name="channel_web_view">Прагледжана ў браўзеры</string>
   <string name="delete_operation_record">Выдаліць гэты запіс?</string>
   <string name="delete_operation_record_timeout">Не атрымалася выдаліць запіс. Пачакайце крыху і паспрабуйце ізноў.</string>
   <string name="jump_to_directory">Адкрыць тэчку</string>

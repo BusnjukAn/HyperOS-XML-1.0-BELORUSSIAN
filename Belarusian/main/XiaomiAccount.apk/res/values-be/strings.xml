@@ -921,7 +921,7 @@ ID:%s
   <string name="phone_register">Выкарыстоўваць нумар тэлефона</string>
   <string name="copy_link">Скапіяваць URL</string>
   <string name="network_error">Адбылася памылка сеткі.</string>
-  <string name="network_error_hint">Праверце URL-адрас і паспрабуйце яшчэ раз або скапіюйце URL-адрас і адкрыйце яго ў браўзэры.</string>
+  <string name="network_error_hint">Праверце URL-адрас і паспрабуйце яшчэ раз або скапіюйце URL-адрас і адкрыйце яго ў браўзеры.</string>
   <string name="page_load_failed">Немагчыма адкрыць старонку</string>
   <string name="user_agreement_network_permission_msg">Гэтай праграме неабходна падлучэнне да Інтэрнэту і наступныя дазволы для нармальнай працы:</string>
   <string name="user_agreement_use_account_msg">Xiaomi акаўнт дазваляе вам атрымаць доступ да ўсіх сэрвісаў, якія прадстаўляюцца Xiaomi.</string>
@@ -1053,7 +1053,7 @@ ID:%s
   <string name="passport_mi_account_first_title">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
   <string name="passport_mi_account_title">Увайсці з дапамогай Xiaomi акаўнта</string>
   <string name="passport_network_error">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
-  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзэры.</string>
+  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзеры.</string>
   <string name="passport_network_timeout">Не атрымалася падлучыцца да сеткі. Паспрабуйце яшчэ раз.</string>
   <string name="passport_no_account">Уваход не выкананы</string>
   <string name="passport_open_settings">Налады</string>

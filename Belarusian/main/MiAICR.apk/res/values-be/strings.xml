@@ -513,7 +513,7 @@
   <string name="passport_mi_account_first_title">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
   <string name="passport_mi_account_title">Увайсці з дапамогай Xiaomi акаўнта</string>
   <string name="passport_network_error">Памылка далучэня да сеткі</string>
-  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзэры.</string>
+  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзеры.</string>
   <string name="passport_network_timeout">Не атрымалася падлучыцца да сеткі. Паспрабуйце яшчэ раз.</string>
   <string name="passport_next">Далей</string>
   <string name="passport_no_account">Уваход не выкананы</string>

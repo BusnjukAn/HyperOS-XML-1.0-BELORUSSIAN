@@ -486,7 +486,7 @@
   <string name="settings_bluetooth_enable_summary">Уключыце Bluetooth, каб мець магчымасць знаходзіць прылады паблізу. Уключыць?</string>
   <string name="settings_connect_more_help">&lt;u>Даведка&lt;/u></string>
   <string name="settings_connect_summary1">Адкрыйце Цэнтр трансляцыі на вашым кампутары і абярыце \"Камбінаваны экран\". Вы можаце спампаваць Цэнтр трансляцыі з www.miui.com.</string>
-  <string name="settings_connect_summary2">Адскануйце QR-код на экране кампутара сваёй мабільнай прыладай. Вы можаце выкарыстоўваць некалькі сістэмных праграм (Сканар, Камера, Mi Браўзэр) для гэтага.</string>
+  <string name="settings_connect_summary2">Адскануйце QR-код на экране кампутара сваёй мабільнай прыладай. Вы можаце выкарыстоўваць некалькі сістэмных праграм (Сканар, Камера, Mi Браўзер) для гэтага.</string>
   <string name="settings_connect_title1">Крок 1</string>
   <string name="settings_connect_title2">Крок 2</string>
   <string name="settings_current_device">Падлучаная прылада</string>

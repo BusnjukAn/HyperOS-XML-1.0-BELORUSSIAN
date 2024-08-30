@@ -3798,7 +3798,7 @@
   <string name="freeform_guide_move_to_small_freeform_window_summary">Перацягнуць плаваючае акно ў кут экрана</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Згортванне</string>
   <string name="freeform_guide_multi_window">Шматзадачнасць</string>
-  <string name="freeform_guide_multiple_window_summary">Націсніце і ўтрымлівайце абразок праграмы на панэлі, каб адкрыць новае акно.\n*Гэтая функцыя працуе з Нататкамі, Поштай і Браўзэрам.</string>
+  <string name="freeform_guide_multiple_window_summary">Націсніце і ўтрымлівайце абразок праграмы на панэлі, каб адкрыць новае акно.\n*Гэтая функцыя працуе з Нататкамі, Поштай і Браўзерам.</string>
   <string name="freeform_guide_multiple_window_title">Адкрыць некалькі вокнаў</string>
   <string name="freeform_guide_notification_drop_down_summary">Зацісніце панэль дзеянняў апавяшчэння і пацягніце ўніз</string>
   <string name="freeform_guide_notification_drop_down_title">Адкрыццё</string>
@@ -5683,7 +5683,7 @@
   <string name="modifier_keys_reset_title">Скінуць усе</string>
   <string name="modifier_keys_settings">Клавішы-мадыфікатары</string>
   <string name="modifier_keys_settings_summary">Змяніць уласцівасці ключоў?</string>
-  <string name="modify_default_browser_message">Калі вы ўсталюеце іншую праграму ў якасці браўзэра па змаўчанні, яна можа пачаць збіраць гісторыю праглядаў і іншыя дадзеныя. Ўсталяваць у любым выпадку?</string>
+  <string name="modify_default_browser_message">Калі вы ўсталюеце іншую праграму ў якасці браўзера па змаўчанні, яна можа пачаць збіраць гісторыю праглядаў і іншыя дадзеныя. Ўсталяваць у любым выпадку?</string>
   <string name="modify_instruction_password_settings">Задаць пароль</string>
   <string name="modify_privacy_password">Змяніць пароль</string>
   <string name="module_license_title">Ліцэнзіі абнаўлення сістэмы Google Play</string>
@@ -6672,7 +6672,7 @@
   <string name="power_usage_summary_title">Батарэя і прадукцыйнасць</string>
   <string name="power_usage_summary_title_new">Батарэя</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="pre_install_app_browser">Браўзэр</string>
+  <string name="pre_install_app_browser">Браўзер</string>
   <string name="pre_install_app_camera">Камера</string>
   <string name="pre_install_app_gallery">Галерэя</string>
   <string name="pre_install_app_other">Праглядзіце падрабязную інфармацыю аб прадусталяваных праграмах ў Інтэрнэце</string>
@@ -6991,7 +6991,7 @@
   <string name="proxy_port_label">Порт</string>
   <string name="proxy_settings_title">Проксі-сервер</string>
   <string name="proxy_url_title">"URL аўтаканфіг. проксі: "</string>
-  <string name="proxy_warning_limited_support">Проксі HTTP выкарыстоўваецца браўзэрам, але ён не можа выкарыстоўвацца іншымі праграмамi</string>
+  <string name="proxy_warning_limited_support">Проксі HTTP выкарыстоўваецца браўзерам, але ён не можа выкарыстоўвацца іншымі праграмамi</string>
   <string name="qtifeedback_settings_subtitle">Справаздачы Qualcomm Technologies</string>
   <string name="qtifeedback_settings_title">Справаздача па абсталяванні</string>
   <string name="quick_reply_title">Хуткія адказы</string>

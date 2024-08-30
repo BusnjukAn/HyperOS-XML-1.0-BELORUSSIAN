@@ -882,7 +882,7 @@
   <string name="passport_mi_account_first_title">Мы створым акаўнт аўтаматычна, калі вы ўпершыню карыстаецеся сваiм нумарам тэлефона.</string>
   <string name="passport_mi_account_title">Увайсці з акаўнтам Xiaomi</string>
   <string name="passport_network_error">Адбылася сеткавая памылка.</string>
-  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіруйце URL-адрас і адкрыйце яго ў браўзэры.</string>
+  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіруйце URL-адрас і адкрыйце яго ў браўзеры.</string>
   <string name="passport_page_load_failed">Немагчыма адкрыць старонку</string>
   <string name="passport_password_login_btn">Увайсці</string>
   <string name="passport_password_not_show">Не паказваць пароль</string>

@@ -895,7 +895,7 @@
   <string name="wqfile_group_chat_voice">Галасавыя паведамленні</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yesterday">Учора</string>
-  <string name="browser_scan_history_desc">Гісторыя браўзэра</string>
+  <string name="browser_scan_history_desc">Гісторыя браўзера</string>
   <string name="browser_search_history_desc">Знойдзеныя элементы</string>
   <string name="call_log">Журналы выклікаў</string>
   <string name="clip_board_history_desc">Скапiяванае/выразанае змесціва</string>
@@ -1277,7 +1277,7 @@
   <string name="dialog_msg_delete_icon_title_phone">Выдаліць гэты цэтлік з працоўнага стала?</string>
   <string name="copy_toast_msg">Спасылка скапіявана ў буфер абмену</string>
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
-  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзеры</string>
   <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
   <string name="audio">Аўдыёфайлы</string>
   <string name="audio_compression">Аўдыёфайлы</string>

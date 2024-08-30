@@ -23,7 +23,7 @@
   <string name="custom_scheme_warning">Сетка, да якой вы спрабуеце падлучыцца, запытвае адкрыццё іншай праграмы.</string>
   <string name="download_completed">Загрузка завершана</string>
   <string name="downloading_paramfile">Загрузка %1$s</string>
-  <string name="error_continue_via_browser">Усё роўна працягнуць праз браўзэр</string>
+  <string name="error_continue_via_browser">Усё роўна працягнуць праз браўзер</string>
   <string name="error_downloading_paramfile">Не атрымалася спампаваць %1$s</string>
   <string name="file_too_large_cancel_download">Файл занадта вялікі, спампоўка адменена.</string>
   <string name="no_bypass_error_vpnwarning">Акрамя таго, гэтую памылку немагчыма абыйсці, бо на прыладзе ў цяперашні час працуе VPN.</string>

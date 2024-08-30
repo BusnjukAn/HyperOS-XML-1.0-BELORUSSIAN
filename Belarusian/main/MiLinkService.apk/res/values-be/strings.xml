@@ -1196,7 +1196,7 @@
   <string name="sever_stream_push_state_idle2">Папярэдні прагляд выключаны</string>
   <string name="copy_toast_msg">Спасылка скапіявана ў буфер абмену</string>
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
-  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзеры</string>
   <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
   <string name="hm_always">Запомніць</string>
   <string name="hm_conflict_title">Прыпынены шаблон: %1$s</string>

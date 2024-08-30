@@ -547,7 +547,7 @@
   <string name="passport_mi_account_first_title">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
   <string name="passport_mi_account_title">Увайсці з дапамогай Xiaomi Акаўнта</string>
   <string name="passport_network_error">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
-  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзэры.</string>
+  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзеры.</string>
   <string name="passport_network_timeout">Не атрымалася падлучыцца да сеткі. Паспрабуйце яшчэ раз.</string>
   <string name="passport_next">Далей</string>
   <string name="passport_no_account">Уваход не выкананы</string>
@@ -726,7 +726,7 @@
   <string name="request_network_please_wait">Пачакайце...</string>
   <string name="resolve_suggestion_title">Прапанова</string>
   <string name="risk_app">Небяспечная праграма</string>
-  <string name="risk_app_go_to_browser_download">Вы можаце перайсці ў браўзэр, каб працягнуць загрузку праграмы</string>
+  <string name="risk_app_go_to_browser_download">Вы можаце перайсці ў браўзер, каб працягнуць загрузку праграмы</string>
   <string name="risk_app_has_trust">Надзейная</string>
   <string name="risk_app_install_agree_button">Давяраць гэтай праграме</string>
   <string name="risk_app_install_agree_checkbox">Я ўсведамляю магчымыя рызыкі</string>
@@ -826,7 +826,7 @@
   <string name="service_mode_advantage_pay_protection_subtitle">Выяўленне бяспекі плацежнага асяроддзя, выяўленне плацежных рызык, абарона ўласнасці</string>
   <string name="service_mode_advantage_pay_protection_tip">Распазнаванне небяспечных\nплацяжоў</string>
   <string name="service_mode_advantage_pay_protection_title">Абарона бяспекі плацяжоў</string>
-  <string name="service_mode_advantage_risk_app_download_subtitle">Выяўленне небяспечных праграм, якія загружаюцца ў браўзэры, для прадухілення індукаванай усталёўкі</string>
+  <string name="service_mode_advantage_risk_app_download_subtitle">Выяўленне небяспечных праграм, якія загружаюцца ў браўзеры, для прадухілення індукаванай усталёўкі</string>
   <string name="service_mode_advantage_risk_app_download_tip">Выяўленне рызык\nпры загрузцы праграм</string>
   <string name="service_mode_advantage_risk_app_download_title">Абарона загрузкі рызыкоўных праграм</string>
   <string name="service_mode_advantage_risk_app_forbidden_subtitle">Mi Абарона па змаўчанні не дазваляе небяспечным праграмам усталёўваць штосьці яшчэ на вашу прыладу.</string>
@@ -850,11 +850,11 @@
   <string name="service_mode_app_security_detection_summary">Ідэнтыфікуе і кантралюе небяспечныя, шкоднасныя і вірусныя праграмы, абмяжоўвае ўстаноўку і прадухіляе пашкоджанне сістэмы</string>
   <string name="service_mode_elder_app_error_install_summary">Па змаўчанні забаронена ўсталёўваць праграмы з неафіцыйных каналаў, каб пазбегнуць загрузкі рэкламы рэкламнымі прыкладаннямі, шкоднаснымі прыкладаннямі і г. д.</string>
   <string name="service_mode_elder_risk_app_download">Абарона загрузкі рызыкоўнай праграмы</string>
-  <string name="service_mode_elder_risk_app_download_summary">Па змаўчанні забаронена загружаць небяспечныя праграмы праз браўзэр Xiaomi, каб прадухіліць усталёўку вірусаў, пагроз і рэкламных праграм</string>
+  <string name="service_mode_elder_risk_app_download_summary">Па змаўчанні забаронена загружаць небяспечныя праграмы праз браўзер Xiaomi, каб прадухіліць усталёўку вірусаў, пагроз і рэкламных праграм</string>
   <string name="service_mode_pay_protection">Абарона бяспекі плацяжоў</string>
   <string name="service_mode_pay_protection_summary">Выяўленне бяспекі плацежнага асяроддзя, выяўленне плацежных рызык, абарона ўласнасці</string>
   <string name="service_mode_risk_app_download">Напамін пра загрузку рызыкоўнай праграмы</string>
-  <string name="service_mode_risk_app_download_summary">Пры загрузцы небяспечных праграм праз браўзэр Xiaomi выдаваць падказкі і папярэджанні, каб дапамагчы выявіць рызыкі</string>
+  <string name="service_mode_risk_app_download_summary">Пры загрузцы небяспечных праграм праз браўзер Xiaomi выдаваць падказкі і папярэджанні, каб дапамагчы выявіць рызыкі</string>
   <string name="service_mode_risk_app_remind">Выкарыстоўваць напамін пра рызыкоўную праграму</string>
   <string name="service_mode_risk_app_remind_summary">Пры адкрыцці і запуску небяспечных, шкоднасных і вірусных праграм выдаваць напамінкі</string>
   <string name="service_mode_telecom_fraud_protection">Абарона ад махлярства</string>

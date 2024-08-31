@@ -2102,15 +2102,12 @@
   <string name="default_error_message">Недапушчальны ўвод</string>
   <string name="desktop_mode_maximize_menu_maximize_text">Разгарнуць экран</string>
   <string name="desktop_mode_maximize_menu_snap_text">Прымацаваць экран</string>
-  <string name="drag_shadow_freeform_mini_open">Міні-плывучае акно</string>
-  <string name="drag_shadow_freeform_mini_unsupported">"Міні-плывучыя вокны не падтрымліваюцца"</string>
   <string name="drag_shadow_pad_casting_open">Адкрыць на планшэце</string>
   <string name="drag_shadow_pad_casting_unsupported">"Немагчыма адкрыць %s на планшэтах"</string>
   <string name="drag_shadow_pc_casting_open">Адкрыць на кампутары</string>
   <string name="drag_shadow_pc_casting_unsupported">"Немагчыма адкрыць %s на кампутарах"</string>
   <string name="drag_shadow_stop_casting_open">Спыніць агульны доступ</string>
   <string name="hearing_devices_presets_error">"Немагчыма абнавіць перадусталёўку"</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">"Немагчыма пераключыцца паміж прасторамі ў рэжыме працоўнай станцыі"</string>
   <string name="keyboardview_keycode_delete">Выдаліць</string>
   <string name="label_for_button_in_empty_state_cta">Дадаць вiджэты</string>
   <string name="material_slider_value">Значэнне</string>

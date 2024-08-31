@@ -2323,5 +2323,4 @@
   <string name="roaming_change_dds_notification">Пераключыце SIM-карту для перадачы дадзеных у роўмінгу</string>
   <string name="roaming_change_dds_notification_text">Ваша SIM-карта для перадачы дадзеных знаходзіцца ў роўмінгу. Пераключыцеся на мясцовую SIM-карту, каб пазбегнуць дадатковых выдаткаў.</string>
   <string name="roaming_change_dds_notification_title">Пераключыце SIM-карту дадзеных</string>
-  <string name="satellite_open_tiantong_business_title">Уключыце спадарожнікавую сувязь China Telecom Tiantong</string>
 </resources>

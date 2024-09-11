@@ -11828,4 +11828,6 @@
   <string name="thread_network_settings_footer_title">Thread дапамагае падлучаць прылады вашага разумнага дома, павышаючы эфектыўнасць і прадукцыйнасць.\n\nПры ўключэнні гэтая прылада можа далучыцца да сеткі Thread, што дазваляе кіраваць прыладамі з падтрымкай Matter праз гэты тэлефон.</string>
   <string name="thread_network_settings_learn_more">Даведацца больш пра Thread</string>
   <string name="thread_network_settings_main_switch_title">Выкарыстоўваць Thread</string>
+  <string name="wireless_secondary_display">Бесправадное пашырэнне дысплея</string>
+  <string name="wireless_secondary_display_description">Выкарыстоўвайце планшэт у якасці бесправаднога пашырэння дысплея для бліжэйшага кампутара</string>
 </resources>

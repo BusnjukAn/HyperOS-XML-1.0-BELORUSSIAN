@@ -2323,4 +2323,5 @@
   <string name="roaming_change_dds_notification">Пераключыце SIM-карту для перадачы дадзеных у роўмінгу</string>
   <string name="roaming_change_dds_notification_text">Ваша SIM-карта для перадачы дадзеных знаходзіцца ў роўмінгу. Пераключыцеся на мясцовую SIM-карту, каб пазбегнуць дадатковых выдаткаў.</string>
   <string name="roaming_change_dds_notification_title">Пераключыце SIM-карту дадзеных</string>
+  <string name="satellite_signal_boost_toast">Узмацняльнік сігналу будзе выключаны пры адключэнні спадарожнікавай сувязі</string>
 </resources>

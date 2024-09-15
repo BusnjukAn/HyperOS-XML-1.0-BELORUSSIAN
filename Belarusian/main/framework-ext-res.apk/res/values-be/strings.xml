@@ -663,4 +663,10 @@
   <string name="skipcoreappanr_notification_title">"%1$s не адказвае"</string>
   <string name="skipprocessanr_notification_text">"Працэс \"%1$s\" не адказвае"</string>
   <string name="skipprocessanr_notification_title">"Сістэма не адказвае"</string>
+  <string name="flip_out_screen_on_proximity_sensor_summary_text">"Вось як можна выдаліць гэтае апавяшчэнне:
+%1$s. Прыбярыце перашкоды з вобласці вакол камеры.
+%2$s. Калі гэта не дапаможа, націсніце кнопку павелічэння гучнасці, каб выключыць рэжым \"У кішэні\"."</string>
+  <string name="screen_on_proximity_sensor_summary_text">"Вось як можна выдаліць гэтае апавяшчэнне:
+%1$s. Прыбярыце перашкоды з вобласці, адзначанай чырвоным на выяве.
+%2$s. Калі гэта не дапаможа, націсніце кнопку павелічэння гучнасці, каб выключыць рэжым \"У кішэні\"."</string>
 </resources>

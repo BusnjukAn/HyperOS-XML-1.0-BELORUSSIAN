@@ -441,4 +441,10 @@
     <item quantity="few">Ад %1$d да %2$d градусаў Фарэнгейта</item>
     <item quantity="many">Ад %1$d да %2$d градусаў Фарэнгейта</item>
   </plurals>
+  <plurals name="asm_downloading_songs">
+        <item quantity="other">Спампоўваюцца %1$s песень</item>
+        <item quantity="one">Спампоўваецца %1$s песня</item>
+        <item quantity="few">Спампоўваюцца %1$s песні</item>
+        <item quantity="many">Спампоўваюцца %1$s песень</item>
+    </plurals>
 </resources>

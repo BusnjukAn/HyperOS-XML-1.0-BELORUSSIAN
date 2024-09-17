@@ -2311,4 +2311,24 @@ Mi Відэа неабходна збіраць неабходную асабі�
   <string name="uploads_disabled">Функцыя загрузкі файла адключана.</string>
   <string name="version_unknown_app_install_permission_failed">Збой атрымання дазволу праграмы невядомай крыніцы!</string>
   <string name="video_download_folder">Спампаваныя відэа</string>
+  <string name="add_video_to_playlist">Дадаць у плэйліст</string>
+  <string name="already_exist_playlist_toast">Відэа ўжо ёсць у гэтым плэйлісце</string>
+  <string name="delete_permanently">Выдаліць</string>
+  <string name="new_playlist">Новы плэйліст</string>
+  <string name="new_video">Новы</string>
+  <string name="play_at_speed">Прайграванне на хуткасці %.1fX</string>
+  <string name="play_list_add">Дадаць у плэйліст</string>
+  <string name="play_list_add_successful_toast">Паспяхова дададзена</string>
+  <string name="vip_pay_buy">Набыць</string>
+  <string name="vip_pay_cancel">Адмена</string>
+  <string name="vip_pay_empty">Тут пакуль нічога няма</string>
+  <string name="vip_pay_expire">" Заканчваецца"</string>
+  <string name="vip_pay_failed">Немагчыма купіць</string>
+  <string name="vip_pay_refunded">Грошы вернуты</string>
+  <string name="vip_pay_success">Набыта</string>
+  <string name="vip_pay_waiting">Секундку...</string>
+  <string name="vip_purchase_history">Гісторыя пакупак</string>
+  <string name="vip_qa">Патрэбна дапамога? Праглядзiце &lt;a href=%1$s&gt;FAQ і водгукі&lt;/a&gt;</string>
+  <string name="vip_qa_title">FAQ і водгукі</string>
+  <string name="widget_online_videos">Інтэрнэт-відэа</string>
 </resources>

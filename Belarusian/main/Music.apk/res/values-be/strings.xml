@@ -2230,4 +2230,23 @@
   <string name="alarm_clock_click_hint">Націсніце, каб паслухаць прагноз надвор\'я на сёння</string>
   <string name="network_tip_title">Стрымце цэлы свет новай музыкі</string>
   <string name="setting_open">Уключыць</string>
+  <string name="asm_ad_free">Без рэкламы</string>
+  <string name="asm_download">Спампаваць</string>
+  <string name="asm_dp_load_error">Не атрымалася загрузіць дадзеныя</string>
+  <string name="asm_dp_load_unsupport">Гэты тавар недаступны ў вашым рэгіёне</string>
+  <string name="asm_full_tracks">Поўныя трэкі</string>
+  <string name="asm_goto_online_music">Прагляд анлайн-музыкі</string>
+  <string name="asm_hate_ads">Ніякай рэкламы, першы месяц бясплатна</string>
+  <string name="asm_hq">Высокая якасць</string>
+  <string name="asm_song_load_error">Не атрымалася загрузіць музыку</string>
+  <string name="asm_subscribe_now">Пачаць</string>
+  <string name="asm_unlock_tracks_ad_free">Аформіўшы падпіску, вы зможаце атрымліваць асалоду ад высакаякаснай музыкі, у тым ліку спампаванай на прыладу, без рэкламы і перапынкаў.</string>
+  <string name="delete_all_data_tips">Калі вы працягнеце, вы выдаліце ​​ўсе дадзеныя, уключаючы створаныя аб\'екты, аб\'екты, дададзеныя ў абранае, спісы прайгравання і гісторыю праглядаў.\nПасля выдалення ўсіх дадзеных вы выйдзеце з праграмы. Гэтыя дадзеныя будуць выдаленыя назаўжды, і іх нельга будзе аднавіць. Выдаліць усе дадзеныя зараз?</string>
+  <string name="filter_by_duration_summary_file">Адфільтроўваць кароткія аўдыё і відэафайлы</string>
+  <string name="filter_by_size_summary_file">Адфільтроўваць маленькія аўдыё і відэафайлы</string>
+  <string name="filter_by_video">Паказаць відэафайлы</string>
+  <string name="hide_or_add_files_manually">Прагляд схаваных файлаў і ўтойванне аб\'ектаў уручную</string>
+  <string name="hide_songs_file">Схаваная файлы</string>
+  <string name="playerui_playing_tilte_asm">Ніякай рэкламы, першы месяц бясплатна</string>
+  <string name="playerui_playing_tilte_asm_already">Слухайце без рэкламы</string>
 </resources>

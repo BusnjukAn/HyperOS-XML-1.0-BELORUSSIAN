@@ -472,4 +472,25 @@
         <item quantity="few">Прайграванне на хуткасці %sX. Адпусціце, каб прайграць на нармальнай хуткасці.</item>
         <item quantity="many">Прайграванне на хуткасці %sX. Адпусціце, каб прайграць на нармальнай хуткасці.</item>
     </plurals>
+    <plurals name="bi_exist_playlist_toast1">
+        <item quantity="other">Паспяхова дададзена %d відэа</item>
+        <item quantity="one">Паспяхова дададзена %d відэа</item>
+    </plurals>
+    <plurals name="bi_exist_playlist_toast2">
+        <item quantity="other">%d відэа ўжо ёсць у гэтым плэйлісце</item>
+        <item quantity="one">%d відэа ўжо ёсць у гэтым плэйлісце</item>
+    </plurals>
+    <plurals name="local_video_delete_confirm_text">
+        <item quantity="other">Калі вы працягнеце, усе абраныя вамі элементы (%s) будуць выдалены назаўсёды. Усё роўна выдаліць?</item>
+        <item quantity="one">Калі вы працягнеце, %s абраны вамі элемент будзе выдалены назаўсёды. Усё роўна выдаліць?</item>
+    </plurals>
+        <plurals name="vip_diaolg_pay_episoed">
+        <item quantity="other">Набыццё %d эпізодаў</item>
+        <item quantity="one">Набыццё %d эпізоду</item>
+    </plurals>
+    <plurals name="vip_validity_date">
+        <item quantity="other">Тэрмін дзеяння: %d дзён</item>
+        <item quantity="one">Тэрмін дзеяння: %d дзень</item>
+        <item quantity="few">Тэрмін дзеяння: %d днi</item>
+    </plurals>
 </resources>

@@ -762,7 +762,7 @@
   <string name="summary_content_need_deal">Задачы</string>
   <string name="summary_content_result_content">Асноўны змест</string>
   <string name="summary_content_theme">Тэма</string>
-  <string name="summary_copy">Скапіравана</string>
+  <string name="summary_copy">Скапіявана</string>
   <string name="summary_error_limit_tip">Вам забаронена выкарыстоўваць гэтую функцыю</string>
   <string name="summary_error_tip">Не ўдаецца абагульніць далікатны або абразлівы кантэнт</string>
   <string name="summary_information_tip">Гэты змест створаны ШІ і прадастаўляецца толькі для азнаямлення.</string>
@@ -770,4 +770,6 @@
   <string name="summary_size_min_tip">Занадта мала зместу для стварэння зводкі</string>
   <string name="translation_language">Абярыце мэтавую мову</string>
   <string name="user_agreement">Карыстальніцкае пагадненне</string>
+  <string name="talkback_traslation">Перакласьці</string>
+  <string name="talkback_traslation_close">Спыніць пераклад</string>
 </resources>

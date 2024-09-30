@@ -495,11 +495,11 @@
   <string name="over_max_mms_size">Памер MMS занадта вялікі.</string>
   <string name="overwrite_edited_content">Перазапісаць змест?</string>
   <string name="packages_select_sim_cards_title">Выберыце SIM-карту</string>
-  <string name="perm_purpose_mms_account">Для доступу да інфармацыі акаўнта</string>
+  <string name="perm_purpose_mms_account">Для доступу да інфармацыі аб акаўнце</string>
   <string name="perm_purpose_mms_storage">Для захавання укладанняў MMS</string>
   <string name="perm_purpose_rcs_account">Для адлюстравання кіраўніцтва для новых карыстальнікаў</string>
-  <string name="perm_purpose_rcs_phone_state">Для доступу да IMEI для ідэнтыфікацыі вашага прылады</string>
-  <string name="perm_purpose_rcs_storage">Для захавання малюнкаў, відэа, файлаў і іншых укладанняў RCS</string>
+  <string name="perm_purpose_rcs_phone_state">Для доступу да IMEI для ідэнтыфікацыі вашай прылады</string>
+  <string name="perm_purpose_rcs_storage">Для захавання выяў, відэа, файлаў і іншых укладанняў RCS</string>
   <string name="phrase_confirm_delete_message">Гэты адказ быў выдалены.</string>
   <string name="phrase_empty">Няма адказаў</string>
   <string name="phrase_from">Ад %1s</string>
@@ -540,8 +540,6 @@
   <string name="pref_summary_mms_read_reports">Паказваць апавяшчэнне аб спампоўцы MMS суразмоўцам у дыялогу</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Аўтаматычна спампоўваць фота і відэа з паведамленняў у роўмінгу</string>
   <string name="pref_summary_notification_body_enabled">Паказваць паведамленнi на экране блакавання і ў панэлi апавяшчэнняў</string>
-  <string name="pref_summary_off_system_mms_priority">Іншыя прыкладанні для паведамленняў будуць атрымліваць паведамленнi першымі</string>
-  <string name="pref_summary_on_system_mms_priority">Сістэмная праграма будзе атрымліваць паведамленнi першая</string>
   <string name="pref_summary_privacy_authority">Дазвол можна даць або адклікаць шляхам націску на гэты перамыкач</string>
   <string name="pref_summary_send_delivery_reports">Адпраўляць справаздачу пра дастаўку пры атрыманні MMS</string>
   <string name="pref_summary_wake_up_screen">Уключаць падсвечванне экрана пры атрыманні новага паведамленнi</string>
@@ -573,7 +571,6 @@
   <string name="pref_title_sms_delete">Максімальная колькасць SMS</string>
   <string name="pref_title_sms_validity_period">Тэрмін дзеяння SMS</string>
   <string name="pref_title_storage_status">Інфармацыя пра захоўванне паведамлення</string>
-  <string name="pref_title_system_mms_priority">Праграма па змаўчанні</string>
   <string name="pref_title_vcard">Адправіць як картку vCard</string>
   <string name="pref_title_wake_up_screen">Уключаць экран</string>
   <string name="preferences_title">Налады</string>
@@ -809,7 +806,6 @@
   <string name="smart_message_title">Інтэлектуальныя Паведамленнi</string>
   <string name="smart_messages_network_allow_message">Mi Паведамленням патрабуецца доступ да інтэрнэту. Дазволіць?</string>
   <string name="smart_messages_network_allow_title">Неабходна падлучэнне да інтэрнэту</string>
-  <string name="smart_msg_main_purpose">Інтэлектуальныя паведамленнi забяспечваюць распазнаванне ідэнтыфікатара адпраўніка і паслугі інтэлектуальнага меню.</string>
   <string name="smart_msg_privacy_policy">Палітыка прыватнасці Інтэлектуальных паведамленняў</string>
   <string name="sms_card_partner_label">"SMS-партнер: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -943,7 +939,6 @@
   <string name="warning_show">Адпраўка праз %d сек.</string>
   <string name="wild_msg_processing">У працэсе…</string>
   <string name="wild_msg_title">Выберыце тэлефон для сінхранізацыі</string>
-  <string name="yellowpage_recommend_msg">Праверце функцыі абмену паведамленнямі Xiaomi</string>
   <string name="yes">ОК</string>
   <string name="yesterday">Учора</string>
   <string name="you_have_new_message">У вас ёсць новыя паведамленнi</string>
@@ -1308,7 +1303,6 @@
   <string name="privacy_state_revoked_switch">Водгук згоды</string>
   <string name="privacy_state_revoked_synopsis">Пераключыўшы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці абмену паведамленнямі.</string>
   <string name="smart_message_upgrade_title">Абнаўленне палітыкі прыватнасці Разумных паведамленняў</string>
-  <string name="smart_msg_upgrade_main_purpose">Разумныя паведамленнi зараз працуюць з MMS. Вы зможаце выкарыстоўваць больш паслуг, якія прадстаўляюцца аўтарамі паведамленняў, а таксама атрымліваць паведамленнi ў новых фарматах.</string>
   <string name="system_permission_declare_privacy_link">Каб цалкам зразумець свае правы як карыстальніка, а таксама спосабы выкарыстання вашых дадзеных, прачытайце і прыміце нашу %1s.</string>
   <string name="web_content_invalid_hint">Адлюстраванне гэтага элемента абмежавана мясцовымі законамі і пастановамі</string>
   <string name="go_to">"Адкрыць "</string>
@@ -1754,11 +1748,10 @@
   <string name="file_name_too_long">Немагчыма адправіць. Імя файла занадта доўгае.</string>
   <string name="mms_satellite_privacy_policy">Палітыка канфідэнцыйнасці Спадарожнікавых паведамленняў</string>
   <string name="no_conversation_selected">Абярыце гутарку для прагляду</string>
-  <string name="perm_purpose_mms_account">Для доступу да інфармацыі аб уліковым запісе</string>
   <string name="pref_summary_off_system_mms_priority">Выкарыстоўваць іншыя праграмы для адпраўкі і атрымання MMS</string>
-  <string name="pref_summary_on_system_mms_priority">Усталяваць праграму Паведамленнi Xiaomi у якасці ghfuhfvs па змаўчанні для адпраўкі і атрымання MMS</string>
+  <string name="pref_summary_on_system_mms_priority">Усталяваць праграму Паведамленнi Xiaomi у якасці праграмы па змаўчанні для адпраўкі і атрымання MMS</string>
   <string name="pref_title_system_mms_priority">Усталяваць па змаўчанні</string>
-  <string name="smart_msg_main_purpose">Разумныя паведамленні забяспечваюць распазнанне ідэнтыфікатара адпраўніка і інтэлектуальнае меню паслугі.</string>
-  <string name="smart_msg_upgrade_main_purpose">Разумныя паведамленні зараз працуюць з MMS. Вы зможаце выкарыстоўваць больш паслуг, якія прадстаўляюцца адпраўнікамі, а таксама атрымліваць паведамленні ў новых фарматах.</string>
+  <string name="smart_msg_main_purpose">Інтэлектуальныя паведамленні забяспечваюць распазнанне ідэнтыфікатара адпраўніка і інтэлектуальнае меню паслугі.</string>
+  <string name="smart_msg_upgrade_main_purpose">Інтэлектуальныя паведамленні зараз працуюць з MMS. Вы зможаце выкарыстоўваць больш паслуг, якія прадстаўляюцца адпраўнікамі, а таксама атрымліваць паведамленні ў новых фарматах.</string>
   <string name="yellowpage_recommend_msg">Азнаёмцеся з функцыямі праграмы абмену паведамленнямі Xiaomi</string>
 </resources>

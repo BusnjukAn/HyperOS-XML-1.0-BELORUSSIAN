@@ -576,7 +576,7 @@
   <string name="switch_wlan_action">Падлучыцца</string>
   <string name="switch_wlan_failed">Не ўдалося падлучыцца</string>
   <string name="switch_wlan_failed_desc_china">Не атрымалася аўтаматычна падлучыцца да гэтай сеткі Wi-Fi. Паспрабуйце падлучыцца ўручную ў наладах.</string>
-  <string name="switch_wlan_success">Падлучана паспяхова</string>
+  <string name="switch_wlan_success">Пераключана на тую ж сетку Wi-Fi</string>
   <string name="switch_wlan_tips_china">Падлучыцца да той жа сеткі</string>
   <string name="switch_wlan_tips_desc_china">Вы можаце падлучыцца да той жа сеткі Wi-Fi, што і іншая прылада, для большай зручнасці. Падлучыцца?</string>
   <string name="switch_wlan_tips_desc_pad_china">Для зручнасьці працы вы можаце падлучыцца да той жа сеткі Wi-Fi, што і іншая прылада. Падлучыцца зараз?</string>
@@ -663,4 +663,8 @@
   <string name="upgrade_car_ok">Зразумела</string>
   <string name="upgrade_car_version_msg">Каб выкарыстоўваць гэтую функцыю, абновіце сістэму вашага электрамабіля да версіі 1.2.1 або пазнейшай у меню Налады > Сістэма > Версія сістэмы.</string>
   <string name="upgrade_car_version_title">Абнавіце сістэму вашага электрамабіля</string>
+  <string name="app_has_uninstall">Гэта праграма выдалена</string>
+  <string name="cant_open_more_windows">Немагчыма адкрыць больш вокнаў</string>
+  <string name="searchable_settings_desc">Пошук праграм на падлучаных прыладах</string>
+  <string name="switch_wlan_success_china">Пераключана на тую ж сетку Wi-Fi</string>
 </resources>

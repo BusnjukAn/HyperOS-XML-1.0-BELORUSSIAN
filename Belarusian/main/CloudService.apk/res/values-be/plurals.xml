@@ -303,4 +303,22 @@
       <item quantity="other">Сінхранізацыя не ўключана для %s элементаў</item>
       <item quantity="one">Сінхранізацыя не ўключана для %s элемента</item>
   </plurals>
+  <plurals name="e2ee_device_verification_num">
+        <item quantity="other">%s неправераных прылад</item>
+        <item quantity="one">%s неправераная прылада</item>
+        <item quantity="few">%s неправераных прылады</item>
+    </plurals>
+    <plurals name="local_lockscreen_error_hint_retry">
+        <item quantity="other">Занадта шмат спроб. Паўтарыце спробу праз %s сек.</item>
+        <item quantity="one">Занадта шмат спроб. Паўтарыце спробу праз %s сек.</item>
+    </plurals>
+    <plurals name="other_lockscreen_error_hint_retry">
+        <item quantity="other">Занадта шмат спроб. Паспрабуйце яшчэ раз праз %d дзён.</item>
+        <item quantity="one">Занадта шмат спроб. Паспрабуйце яшчэ раз праз %d дзень.</item>
+        <item quantity="few">Занадта шмат спроб. Паспрабуйце яшчэ раз праз %d днi.</item>
+    </plurals>
+    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
+        <item quantity="other">Адправіць новы код (%s сек.)</item>
+        <item quantity="one">Адправіць новы код (%s сек.)</item>
+    </plurals>
 </resources>

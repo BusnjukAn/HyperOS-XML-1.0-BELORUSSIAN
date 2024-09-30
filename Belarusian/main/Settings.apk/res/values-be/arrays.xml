@@ -1294,4 +1294,15 @@
         <item>Адпраўляць імя прылады ў сетку</item>
         <item>Не адпраўляць імя прылады ў сетку</item>
     </string-array>
+    <string-array name="zen_mode_icon_options_descriptions">
+    <item>Час сну</item>
+    <item>За рулём</item>
+    <item>З эфектам прысутнасці</item>
+    <item>Пад кіраваннем</item>
+    <item>Зорка</item>
+    <item>Каляндар</item>
+    <item>Час</item>
+    <item>Тэатр</item>
+    <item>Кветка</item>
+  </string-array>
 </resources>

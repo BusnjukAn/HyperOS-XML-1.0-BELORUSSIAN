@@ -80,4 +80,10 @@
     <item>Стандартны</item>
     <item>Шчыльны</item>
   </string-array>
+  <string-array name="editing_mode_entries_new">
+        <item>Шпалеры</item>
+        <item>Эфекты</item>
+        <item>Віджэты</item>
+        <item>Налады</item>
+    </string-array>
 </resources>

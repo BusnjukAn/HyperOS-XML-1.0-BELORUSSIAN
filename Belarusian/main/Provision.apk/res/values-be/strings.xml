@@ -853,4 +853,9 @@
   <string name="kind_tip_details_protective_title">Не здымайце ўнутраную ахоўную плёнку экрана самастойна</string>
   <string name="kind_tip_subtitle">Гэтая прылада абсталявана складаным экранам. Каб пазбегнуць пашкоджанняў і забяспечыць звычайную працу экрана, падчас выкарыстання выконвайце наступныя меры засцярогі.</string>
   <string name="kind_tip_title">Увага</string>
+  <string name="require_telephone_imei">Чытанне IMEI і IMSI</string>
+  <string name="require_telephone_imei_summary">Для доступу да IMEI</string>
+  <string name="require_telephone_location">Доступ да месцазнаходжання</string>
+  <string name="require_telephone_location_summary">Для доступу да прыблізнага месцазнаходжання і прадастаўлення паслуг аптымізацыі сеткі на аснове месцазнаходжання</string>
+  <string name="require_telephone_statement">Для прадастаўлення асноўных паслуг патрабуюцца наступныя дазволы:</string>
 </resources>

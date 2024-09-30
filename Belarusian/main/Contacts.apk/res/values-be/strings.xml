@@ -1602,4 +1602,5 @@
   <string name="notification_title_import">Імпарт кантактаў</string>
   <string name="contacts_information_ipc">Рэгістрацыйны нумар ICP: Пекін 10046444-77A</string>
   <string name="split_screen_fab_toast">Перацягнiце, каб выкарыстоўваць панэль набору нумара</string>
+  <string name="add_google_account_dialog_btn">Выкарыстоўваць акаўнт Google</string>
 </resources>

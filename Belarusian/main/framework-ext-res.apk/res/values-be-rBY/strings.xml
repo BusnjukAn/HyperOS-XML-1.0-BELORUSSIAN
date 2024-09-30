@@ -669,4 +669,11 @@
   <string name="screen_on_proximity_sensor_summary_text">"Вось як можна выдаліць гэтае апавяшчэнне:
 %1$s. Прыбярыце перашкоды з вобласці, адзначанай чырвоным на выяве.
 %2$s. Калі гэта не дапаможа, націсніце кнопку павелічэння гучнасці, каб выключыць рэжым \"У кішэні\"."</string>
+  <string name="global_help">Немагчыма знайсці прыладу</string>
+  <string name="motorola_phone">Тэлефон Motorola</string>
+  <string name="nio_phone">Тэлефон NIO</string>
+  <string name="projection_disable_camera_toast">Гэта праграма не дазваляе выкарыстоўваць камеру іншай падлучанай прылады падчас трансляцыі. Замест гэтага пераключыцеся на свой тэлефон.</string>
+  <string name="super_wallpaper_list_label">Суперашпалеры</string>
+  <string name="wallpaper_glazed_valley_title">Глазура</string>
+  <string name="wallpaper_softlight_title">Мяккае святло</string>
 </resources>

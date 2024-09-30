@@ -582,4 +582,10 @@
   <string name="stylus_firmware_failed_summaryV2">Пераканайцеся, што службы вызначэння месцазнаходжання ўключаны, перазапусціце Bluetooth і паспрабуйце яшчэ раз, калі стілус будзе падлучаны праз Bluetooth.</string>
   <string name="stylus_firmware_success_summaryV2">Паўторна падлучыце стілус праз Bluetooth</string>
   <string name="stylus_firmware_update">Абнаўленне прашыўкі</string>
+  <string name="celluar_tether_disconnect_WLAN_prompt">Каб павысіць хуткасць злучэння, спачатку адключыцеся ад Wi-Fi</string>
+  <string name="celluar_tether_disconnect_notify">Ваш тэлефон падлучаны да EV. Адключыце ўзаемасувязь на тэлефоне і паспрабуйце яшчэ раз.</string>
+  <string name="celluar_tether_disconnect_notify_connected_WLAN">Ваш тэлефон падлучаны да Wi-Fi. Агульны сеанс падлучэння спынены.</string>
+  <string name="celluar_tether_disconnect_notify_phone_connected_WLAN">Падключана да Wi-Fi. Агульны сеанс падлучэння спынены.</string>
+  <string name="device_busy_notify">Прылада занята. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="easy_tether_statusbar_connect_title_v3">Выкарыстоўваць пункт доступу %1$s</string>
 </resources>

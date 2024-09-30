@@ -2324,4 +2324,10 @@
   <string name="roaming_change_dds_notification_text">Ваша SIM-карта для перадачы дадзеных знаходзіцца ў роўмінгу. Пераключыцеся на мясцовую SIM-карту, каб пазбегнуць дадатковых выдаткаў.</string>
   <string name="roaming_change_dds_notification_title">Пераключыце SIM-карту дадзеных</string>
   <string name="satellite_signal_boost_toast">Узмацняльнік сігналу будзе выключаны пры адключэнні спадарожнікавай сувязі</string>
+  <string name="phone_account_no_config_mobile_networks">Уладальнік прылады абмежаваў магчымасць змяняць налады мабільнай сеткі.</string>
+  <string name="speed_limit_sim_notification">Абмежаванні хуткасці перадачы дадзеных</string>
+  <string name="speed_limit_sim_summary">Вы дасягнулі ліміту дадзеных вашага тарыфнага плана. Хуткасць перадачы дадзеных знізіцца. За падрабязнасцямі звярніцеся да свайго аператара.</string>
+  <string name="speed_limit_sim_title">Хуткасць перадачы дадзеных абмежавана</string>
+  <string name="enter_esim_service_support_summary">Прагляд спісу падтрымліваемых аператараў</string>
+  <string name="enter_esim_service_support_title">Падтрымліваемыя аператары</string>
 </resources>

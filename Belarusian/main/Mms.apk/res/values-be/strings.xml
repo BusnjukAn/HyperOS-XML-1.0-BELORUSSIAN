@@ -1748,4 +1748,17 @@
   <string name="wrong_mms_version_msg">Усталюйце версію Паведамленняў, сумяшчальную з вашай прыладай і сістэмай.</string>
   <string name="wrong_mms_version_title">Памылка версіі</string>
   <string name="send_fail">Не ўдалося адправіць</string>
+  <string name="context_menu_access_link">Адкрыць URL</string>
+  <string name="context_menu_call_phone">Патэлефанаваць</string>
+  <string name="context_menu_copy_link">Капіяваць URL</string>
+  <string name="file_name_too_long">Немагчыма адправіць. Імя файла занадта доўгае.</string>
+  <string name="mms_satellite_privacy_policy">Палітыка канфідэнцыйнасці Спадарожнікавых паведамленняў</string>
+  <string name="no_conversation_selected">Абярыце гутарку для прагляду</string>
+  <string name="perm_purpose_mms_account">Для доступу да інфармацыі аб уліковым запісе</string>
+  <string name="pref_summary_off_system_mms_priority">Выкарыстоўваць іншыя праграмы для адпраўкі і атрымання MMS</string>
+  <string name="pref_summary_on_system_mms_priority">Усталяваць праграму Паведамленнi Xiaomi у якасці ghfuhfvs па змаўчанні для адпраўкі і атрымання MMS</string>
+  <string name="pref_title_system_mms_priority">Усталяваць па змаўчанні</string>
+  <string name="smart_msg_main_purpose">Разумныя паведамленні забяспечваюць распазнанне ідэнтыфікатара адпраўніка і інтэлектуальнае меню паслугі.</string>
+  <string name="smart_msg_upgrade_main_purpose">Разумныя паведамленні зараз працуюць з MMS. Вы зможаце выкарыстоўваць больш паслуг, якія прадстаўляюцца адпраўнікамі, а таксама атрымліваць паведамленні ў новых фарматах.</string>
+  <string name="yellowpage_recommend_msg">Азнаёмцеся з функцыямі праграмы абмену паведамленнямі Xiaomi</string>
 </resources>

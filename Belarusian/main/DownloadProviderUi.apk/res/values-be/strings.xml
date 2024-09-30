@@ -780,4 +780,9 @@
   <string name="thunder_download_speedup">Паскарэнне хуткасці з дапамогай Xunlei…</string>
   <string name="download_waiting">У чаканні</string>
   <string name="download_icp">ICP нумар: B2-20050219-23A</string>
+  <string name="download_status">Статус спампоўкі</string>
+  <string name="feature_page_message">Немагчыма выкарыстоўваць гэтую версію праграмы. Выдаліце ​​яе і спампуйце новую версію з GetApps.</string>
+  <string name="feature_page_uninstall">Выдаліць</string>
+  <string name="miuix_navigator_category_group_collapse">Згарнуць</string>
+  <string name="miuix_navigator_category_group_expand">Разгарнуць</string>
 </resources>

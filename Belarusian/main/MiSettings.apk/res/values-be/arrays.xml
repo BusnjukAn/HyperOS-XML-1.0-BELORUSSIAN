@@ -5,4 +5,9 @@
         <item>PIN-код</item>
         <item>Пароль</item>
     </string-array>
+    <string-array name="msc_password_types">
+        <item>Узор</item>
+        <item>PIN-код</item>
+        <item>Пароль</item>
+    </string-array>
 </resources>

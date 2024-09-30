@@ -1764,4 +1764,10 @@
   <string name="local_mode_close_tip">Для ўсталёўкі гэтых шпалер патрабуецца падлучэнне да Інтэрнэту. Калі вы жадаеце выкарыстоўваць Інтэрнэт, вам неабходна адключыць лакальны рэжым. Адключыць?</string>
   <string name="out_wallpaper_list">Шпалеры вонкавага экрана</string>
   <string name="rotate">Павярнуць</string>
+  <string name="apply_wallpaper_warning_when_use_super_wallpaper">Абнавіце Супершпалеры да апошняй версіі, каб мець магчымасць працягваць іх выкарыстоўваць.</string>
+  <string name="new_version_install_dia_button_confirm">Абнавіць</string>
+  <string name="new_version_install_dia_message">Даступная новая версія. Абнавіць зараз?</string>
+  <string name="new_version_install_dia_title">Даступнае абнаўленне</string>
+  <string name="update_now">Абнавіць</string>
+  <string name="warning_update_super_wallpaper">Абнавіць Супершпалеры</string>
 </resources>

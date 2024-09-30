@@ -1122,4 +1122,12 @@
   <string name="toast_upload_screenrecorder">Загрузіць запіс экрана праблемы для аналізу</string>
   <string name="special_log_recorder">Запіс экрана</string>
   <string name="special_log_recorder_hint">Аўтаматычна захоўваць запіс экрана пасля стварэння журналаў</string>
+  <string name="miui_feedback_main_item_support">Падтрымка</string>
+  <string name="catch_full_log_note_affect_performance_description">Падобна, вы збіраеце логі ўжо больш за %d гадзіны. Гэты працэс можа займаць шмат месца ў сховішчы і ўплываць на прадукцыйнасць вашай прылады. Калі вам не ўдалося паўтарыць праблему, адмяніце гэты працэс.</string>
+  <string name="catch_full_log_note_description">Падобна, вы ўсё яшчэ збіраеце логі. Гэты працэс можа займаць шмат месца ў сховішчы і ўплываць на прадукцыйнасць вашай прылады. Калі вам не ўдалося паўтарыць праблему, адмяніце гэты працэс.</string>
+  <string name="catch_full_log_note_title">Сэрвісы і водгукі</string>
+  <string name="telephony_cdma_dialog_cancel">Адмена</string>
+  <string name="telephony_cdma_dialog_msg">Удакладніце ў свайго аператара, ці актываваная для вашай прылады паслуга 4G/5G. Калі яна актываваная, але ў вас усё яшчэ ўзнікаюць праблемы, дашліце водгук.</string>
+  <string name="telephony_cdma_dialog_ok">Водгук</string>
+  <string name="telephony_cdma_dialog_title">Актывацыя паслугі 4G/5G</string>
 </resources>

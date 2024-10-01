@@ -158,8 +158,8 @@
   <string name="dev_complaint">Форма звароту</string>
   <string name="dev_complaint_btntext">Адправіць скаргу</string>
   <string name="dev_complaint_result_tip1">Зварот дасланы</string>
-  <string name="dev_complaint_result_tip2">Мы звяжамся з вамі на працягу %d  працоўных дзён, паўторная адпраўка не патрабуецца</string>
-  <string name="dev_complaint_tiptext">Пасля адпраўкі скаргі мы звяжамся з вамі на працягу %d  працоўных дзён</string>
+  <string name="dev_complaint_result_tip2">Мы звяжамся з вамі на працягу 5 рабочых дзён. Калі ласка, не адпраўляйце паўторныя звароты.</string>
+  <string name="dev_complaint_tiptext">Пасля адпраўкі скаргі мы звяжамся з вамі на працягу 5 працоўных дзён</string>
   <string name="device_pad">Планшэт</string>
   <string name="device_phone">Тэлефон</string>
   <string name="dialog_install_source">Крыніца: %1$s</string>

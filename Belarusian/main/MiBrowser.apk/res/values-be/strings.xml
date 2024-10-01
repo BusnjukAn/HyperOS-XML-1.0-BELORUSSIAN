@@ -3261,7 +3261,4 @@
   <string name="mw_actionbar_manage_apps">Кіраванне праграмамі</string>
   <string name="mw_image_copied">Выява скапіявана</string>
   <string name="swipe_exit_browser_toast">Правядзіце яшчэ раз, каб выйсці з браўзера</string>
-  <string name="browser_downloads">Спампаваць Mi Браўзер</string>
-  <string name="tango_dialog_content">Уключыце рэжым сумяшчальнасці праграм, каб мець магчымасць усталёўваць %1$d-бітныя праграмы.</string>
-  <string name="tango_dialog_title">Рэжым сумяшчальнасці праграм</string>
 </resources>

@@ -1062,4 +1062,10 @@
   <string name="tips_secret_note">нататкі</string>
   <string name="tips_secret_title">"%d. Некаторыя асабістыя элементы не могуць быць перанесеныя."</string>
   <string name="tips_subtitle">Прачытайце і пацвердзіце наступныя напамінкі, перш чым працягнуць.</string>
+  <string name="compatibility32Bit_mode_toast">Немагчыма перанесці элементы. Змяніце свой выбар і паспрабуйце яшчэ раз.</string>
+  <string name="open_compatibility_mode">Уключыць</string>
+  <string name="skip_compatibility_mode">Не зараз</string>
+  <string name="subtitle_compatibility_mode">Наступныя праграмы несумяшчальныя з архітэктурай %d-біт. Уключыце рэжым сумяшчальнасці праграм, каб мець магчымасць перанесці іх.</string>
+  <string name="title_compatibility_mode">Уключыць рэжым сумяшчальнасці праграм</string>
+  <string name="trans_apple_hint_china">Не пакідайце гэтую старонку і не выкарыстоўвайце Wi-Fi, пакуль перадача не будзе завершана.</string>
 </resources>

@@ -576,7 +576,7 @@
   <string name="quick_settings_aisubtitles_label">Разумныя субтытры</string>
   <string name="open_system_optimization">Спачатку ўключыце аптымізацыю сiстэмы</string>
   <string name="miplay_bluetooth_share_des_text">"Карыстальнікам навушнікаў Xiaomi: адкрыйце футарал для зарадкі або націсніце і ўтрымлівайце кнопку футарала %d сек.
-Для карыстальнікаў навушнікаў, адрозных ад Xiaomi: скіньце налады навушнікаў у настройках Bluetooth, затым падлучыцеся зноў."</string>
+Для карыстальнікаў навушнікаў, адрозных ад Xiaomi: скіньце налады навушнікаў у наладах Bluetooth, затым падлучыцеся зноў."</string>
   <string name="miplay_bluetooth_share_headphone_pairing">Дадайце навушнікі для трансляцыі аўдыё</string>
   <string name="miplay_bluetooth_share_subTitle_text">Падзяліцца аўдыё на прыладзе з іншым чалавекам</string>
   <string name="miplay_bluetooth_share_title_text">Падзяліцца аўдыё</string>
@@ -589,4 +589,11 @@
   <string name="miplay_accessibility_video_fastForward">Перамотка наперад на %d секунд(-ы)</string>
   <string name="miplay_accessibility_video_rewind">Перамотка назад на %d секунд(-ы)</string>
   <string name="miplay_service_error_not_support">Гэта дзеянне не падтрымліваецца</string>
+  <string name="brightness_setting_panel_title">Панэль налад яркасці</string>
+  <string name="notification_status_bar">Апавяшчэнні i радок стану</string>
+  <string name="quick_settings_aitranslate_label_new">Перакласьці</string>
+  <string name="quick_settings_voice_trans_label_new">Вусны пераклад</string>
+  <string name="volume_adjust_panel_title">Панэль рэгулявання гучнасці</string>
+  <string name="menu_new_display_open">Адкрыць у новым акне</string>
+  <string name="menu_pc_open">Адкрыць на кампутары</string>
 </resources>

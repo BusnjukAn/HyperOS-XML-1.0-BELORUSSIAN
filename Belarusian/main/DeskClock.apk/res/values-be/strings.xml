@@ -416,9 +416,9 @@
   <string name="worldcolock_date_display_prefix">Бягучая: </string>
   <string name="worldcolock_timezone_current">Зараз: %1$s</string>
   <string name="worldcolock_timezone_current_date">dd.MM.yyyy</string>
-  <string name="worldcolock_timezone_date">dd MMM</string>
+  <string name="worldcolock_timezone_date">dd.MM</string>
   <string name="worldcolock_timezone_gap">%s Г</string>
-  <string name="worldcolock_timezone_local">| як і мясцовы час</string>
+  <string name="worldcolock_timezone_local">Як і мясцовы час</string>
   <string name="alert_ringtone">Мелодыя будзільніка</string>
   <string name="alert_volume">Гучнасць званка</string>
   <string name="alert_volume_summary">Усталюйце гучнасць званка для сігналаў будзільнікаў і таймераў</string>
@@ -702,7 +702,7 @@
   <string name="tv_world_clock_edit_title1">Працоўны стол</string>
   <string name="tv_world_clock_edit_title2">Іншыя</string>
   <string name="white_noise">Навакольны шум</string>
-  <string name="worldclock_edit_label">Сусветны гадзіннік</string>
+  <string name="worldclock_edit_label">Сусветны час</string>
   <string name="alert_xiaoai_ringtone_desc">Mi ШІ кажа…</string>
   <string name="repeat_type">Паўтарыць</string>
   <string name="select_all">Абраць усе</string>
@@ -863,13 +863,13 @@ dd.MM"</string>
   <string name="read_device_internal_storage">Доступ да сховішча</string>
   <string name="miuix_navigator_category_group_collapse">Згарнуць</string>
   <string name="miuix_navigator_category_group_expand">Разгарнуць</string>
-  <string name="clock_information_ipc">Рэгістрацыйны нумар ICP: Пекін ICP No. 10046444-57A</string>
+  <string name="clock_information_ipc">Рэгістрацыйны нумар ICP: 10046444-57A</string>
   <string name="all_alarm_close">Усе будзільнікі выключаны</string>
   <string name="bottomsheet_action_collapse">Згарнуць ніжні аркуш</string>
   <string name="bottomsheet_action_expand">Разгарнуць ніжні аркуш</string>
   <string name="bottomsheet_drag_handle_clicked">Маркер перацягвання націснуты двойчы</string>
   <string name="bottomsheet_drag_handle_content_description">Маркер перацягвання</string>
-  <string name="clock_tab_name">Сусветны гадзіннік</string>
+  <string name="clock_tab_name">Сусветны час</string>
   <string name="enter_label">Увядзіце апісанне</string>
   <string name="modify_alarm">Рэдагаваць будзільнiк</string>
   <string name="timer_keep_screen_on">Не выключаць экран</string>

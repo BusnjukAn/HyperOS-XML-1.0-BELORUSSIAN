@@ -248,8 +248,17 @@
      <item quantity="few">Дадайце не больш за %d перадусталёўкi</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-    <item quantity="other">%d новых апавяшчэнняў</item>
-    <item quantity="few">%d новых апавяшчэння</item>
-    <item quantity="one">%d новае апавяшчэнне</item>
-  </plurals>
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="few">%d новых апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+    </plurals>
+    <plurals name="accessibility_watermark_characters_inputted">
+        <item quantity="other">Уведзена %d сімвалаў.</item>
+        <item quantity="one">Уведзены %d сімвал.</item>
+        <item quantity="few">Уведзена %d сімвала.</item>
+    </plurals>
+    <plurals name="accessibility_watermark_characters_max">
+        <item quantity="other">Увядзіце да %d сімвалаў.</item>
+        <item quantity="one">Увядзіце да %d сімвала.</item>
+    </plurals>
 </resources>

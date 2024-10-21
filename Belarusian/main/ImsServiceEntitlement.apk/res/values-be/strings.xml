@@ -81,7 +81,6 @@
   <string name="mtrl_picker_invalid_format_use">Неабходны фармат: %1$s</string>
   <string name="mtrl_picker_invalid_range">Няправільны дыяпазон.</string>
   <string name="mtrl_picker_navigate_to_current_year_description">Перайсці да бягучага года %1$d</string>
-  <string name="mtrl_picker_navigate_to_year_description">Перайсці ў %1$d год</string>
   <string name="mtrl_picker_out_of_range">Па-за межамі дыяпазону: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Дата пачатку – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата заканчэння</string>

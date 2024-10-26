@@ -617,4 +617,5 @@
   <string name="voice_print_dialog_positive">Запісаць</string>
   <string name="voice_print_note_generate_error">Не ўдалося стварыць узор голасу. Запішыце яшчэ раз.</string>
   <string name="voice_print_note_generating">Распазнаванне ўзору голасу…</string>
+  <string name="clean_speaker_unavailable">Гэтая функцыя недаступна</string>
 </resources>

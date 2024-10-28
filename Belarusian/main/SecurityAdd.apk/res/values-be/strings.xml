@@ -693,7 +693,7 @@
   <string name="gb_pannel_control_mode_frame_rate">Прыярытэт частаты кадраў</string>
   <string name="gb_pannel_control_mode_picture">Прыярытэт выявы</string>
   <string name="gb_gpu_pannel_touch_ctl_dialog_message">Сэнсарнае кіраванне было абноўлена. Цяпер вы можаце знайсці адпаведныя функцыі ў раздзеле \"Цэтлікі гульняў\" > \"Палепшанае сэнсарнае кіраванне\" падчас гульні.</string>
-  <string name="gb_gpu_pannel_touch_ctl_dialog_title">Новае сэнсарнае кіраванне</string>
+  <string name="gb_gpu_pannel_touch_ctl_dialog_title">Новыя магчымасці сэнсарнага кіравання</string>
   <string name="gtb_dialog_privacy_voice_message">Вы збіраецеся выкарыстоўваць змену голасу ў гульнях ад Xunyou. Гэты сэрвіс збярэ ваш Xiaomi акаўнт для запісу працягласці вашага сяброўства.</string>
   <string name="gtb_dialog_privacy_voice_tips"><Data>Я прачытаў і згодны з &lt;a href=\"%1$s\">Палітыкай прыватнасці змены голасу ў гульнях ад Xunyou.&lt;/a></Data></string>
   <string name="gtb_dialog_privacy_voice_title">Змяненне голасу ў гульнях ад Xunyou</string>
@@ -710,4 +710,7 @@
   <string name="global_satisfactionnetwork_loading">Атрыманне дадзеных…</string>
   <string name="superpower_exit_low_temperature_hint">Выключэнне рэжыму холадаўстойлівасці…</string>
   <string name="superpower_low_temp_mode_take_effect">Рэжым холадаўстойлівасці ўключаны</string>
+  <string name="pc_extreme_mode_low_btn_confirm">Зразумела</string>
+  <string name="pc_extreme_mode_low_temp_summary">Каб падоўжыць тэрмін працы ад батарэі, выкарыстанне некаторых праграм можа быць забаронена.</string>
+  <string name="pc_extreme_mode_low_temp_title">Нізкая тэмпература</string>
 </resources>

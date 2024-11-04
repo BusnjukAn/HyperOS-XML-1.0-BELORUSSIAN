@@ -864,4 +864,5 @@
   <string name="yesterday_header">Учора</string>
   <string name="yoga">Ёга</string>
   <string name="zinc">Цынк</string>
+   <string formatted="false" name="automatic_export_status">%s • %s</string>
 </resources>

@@ -260,4 +260,12 @@
     <item>Qualcomm® aptX™ Adaptive аўдыё</item>
 	<item>Qualcomm® aptX™ TWS+ аўдыё</item>
   </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Адключана</item>
+    <item>Уключаны фільтры</item>
+	<item>Уключана</item>
+    <item>Уключаны фільтры загалоўкаў</item>
+    <item>Уключаны фільтры медыя-пакетаў</item>
+    <item>Уключаны фільтры профіляў</item>
+  </string-array>
 </resources>

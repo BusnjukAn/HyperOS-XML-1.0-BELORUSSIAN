@@ -294,6 +294,7 @@
 	<item>Уключана</item>
     <item>Уключаны фільтры загалоўкаў</item>
     <item>Уключаны фільтры медыя-пакетаў</item>
+    <item>Уключаны фільтры профіляў</item>
   </string-array>
   <string-array name="wifitrackerlib_wifi_status">
         <item></item>
@@ -440,21 +441,23 @@
     <item>AAC</item>
     <item>Qualcomm® aptX™ аўдыё</item>
     <item>Qualcomm® aptX™ HD аўдыё</item>
-	<item>LDAC</item>
+    <item>LDAC</item>
+    <item>LC3</item>
+    <item>Opus</item>
     <item>Qualcomm® aptX™ Adaptive аўдыё</item>
 	<item>Qualcomm® aptX™ TWS+ аўдыё</item>
-	<item>LC3</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_titles">
     <item>Выбар сістэмы (па змаўчанні)</item>
     <item>SBC</item>
     <item>AAC</item>
-    <item>Qualcomm® aptX™ audio</item>
-    <item>Qualcomm® aptX™ HD audio</item>
+    <item>Qualcomm® aptX™ аўдыё</item>
+    <item>Qualcomm® aptX™ HD аўдыё</item>
     <item>LDAC</item>
+    <item>LC3</item>
+    <item>Opus</item>
     <item>Qualcomm® aptX™ Adaptive аўдыё</item>
-    <item>Qualcomm® aptX™ TWS+ аўдыё</item>
-	<item>LC3</item>
+	<item>Qualcomm® aptX™ TWS+ аўдыё</item>
   </string-array>
   <string-array name="tile_states_color_correction">
       <item>Недаступна</item>

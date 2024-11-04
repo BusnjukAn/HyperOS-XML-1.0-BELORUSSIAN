@@ -70,8 +70,8 @@
   <string name="bt_enable_ok">Уключыць</string>
   <string name="bt_error_btn_ok">ОК</string>
   <string name="bt_share_picker_label">Bluetooth</string>
-  <string name="bt_sm_2_1_default">На SD-карце не хапае месца, каб захаваць файл ад адпраўшчыка \"%1$s\"</string>
-  <string name="bt_sm_2_1_nosdcard">У USB-сховішчы не хапае месца, каб захаваць файл ад адпраўшчыка \"%1$s\"</string>
+  <string name="bt_sm_2_1_default">На SD-карце не хапае месца, каб захаваць файл.</string>
+  <string name="bt_sm_2_1_nosdcard">У USB-сховішчы не хапае месца, каб захаваць файл.</string>
   <string name="bt_sm_2_2">Спатрэбіцца месца: %1$s</string>
   <string name="bt_toast_1">Файл будзе атрыманы. Сачыце за прагрэсам на панэлі апавяшчэнняў.</string>
   <string name="bt_toast_2">Немагчыма атрымаць файл.</string>

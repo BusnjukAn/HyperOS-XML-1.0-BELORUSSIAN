@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="bt_sm_2_1_default">На SD-карце не хапае месца, каб захаваць файл ад адпраўшчыка \"%1$s\"</string>
+  <string name="bt_sm_2_1_nosdcard">У USB-сховішчы не хапае месца, каб захаваць файл ад адпраўшчыка \"%1$s\"</string>
+</resources>

@@ -1867,7 +1867,7 @@
   <string name="bt_absVolume_open_dialog_title">Увага</string>
   <string name="bt_absVolume_pre_title">Падтрымліваць пастаянную гучнасць</string>
   <string name="bt_absVolume_summary">Узгадненне узроўняў гучнасці Bluetooth-прылад і тэлефона. Вы можаце ўключаць і выключаць гэтую функцыю, калі мультымедыя не прайграваецца ў фонавым рэжыме.</string>
-  <string name="bt_always_show_icon">Не паказваць абразок Bluetooth у радку стану</string>
+  <string name="bt_always_show_icon">Паказваць абразок Bluetooth у радку стану</string>
   <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive забяспечыць высакаякаснае прайграванне і паменшыць затрымку гуку для гульняў і відэа пры адначасовым павелічэнні энергаспажывання. Прайграванне можа перарывацца з-за апаратных абмежаванняў Bluetooth і перашкод навакольнага асяроддзя.</string>
   <string name="bt_aptx_adaptive_open_dialog_title">Пераключыцца на адаптыўны aptX?</string>
   <string name="bt_audio_repair_property">Выпраўленне праблем з гукам</string>

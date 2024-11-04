@@ -1138,4 +1138,16 @@
   <string name="verify_warning_dialog_title">Іншая прылада ўключыла скразное шыфраванне</string>
   <string name="verify_warning_dialog_title_pc">Патрабуюцца дазволы</string>
   <string name="verify_warning_dialog_title_web">Патрабуюцца дазволы</string>
+  <string name="e2ee_device_delete_warning_dialog_content">Гэтая прылада не падтрымлівае пашыраную абарону дадзеных, таму вы не зможаце ўвайсці ў свой уліковы запіс, калі ўключыце гэтую функцыю. Абнавіце гэтую прыладу да Xiaomi HyperOS 2, каб мець магчымасць увайсці ў свой уліковы запіс.</string>
+  <string name="e2ee_device_delete_warning_dialog_title">Немагчыма ўвайсці</string>
+  <string name="e2ee_error_real_device">Гэтае асяроддзе небяспечнае. Паспрабуйце выкарыстоўваць іншую прыладу.</string>
+  <string name="other_lockscreen_update_password_error_hint">Нядаўна змянілі блакаванне экрана? Паспрабуйце ўвесці старое блакаванне экрана для праверкі.</string>
+  <string name="request_os_permissions_dialog_message">Воблаку Xiaomi патрабуецца дазвол на доступ да элементаў, якія захоўваюцца на вашай прыладзе, каб мець магчымасць ідэнтыфікаваць несінхранізаваныя элементы і іх колькасць. Даць гэты дазвол зараз?</string>
+  <string name="request_os_permissions_dialog_neg_button">Не згодны</string>
+  <string name="request_os_permissions_dialog_pos_button">Згодзен</string>
+  <string name="request_os_permissions_dialog_title">Патрабуюцца дазволы</string>
+  <string name="verify_camera_google_permission_message">Воблаку Xiaomi патрабуецца дазвол камеры для сканавання вашага ключа бяспекі. Вы можаце прадаставіць гэты дазвол у наладах.</string>
+  <string name="verify_camera_google_permission_positive_button">Зразумела</string>
+  <string name="verify_warning_verify_dialog_message">Увядзіце код пацверджання на %s</string>
+  <string name="verify_warning_verify_dialog_title">Праверыць Xiaomi акаўнт</string>
 </resources>

@@ -5842,7 +5842,7 @@
   <string name="multi_face_input_reach_upper_limit">Не атрымалася дадаць дадзеныя твару. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
   <string name="multi_face_input_success_name_title">Імя</string>
   <string name="multi_face_list">Дадзеныя твару</string>
-  <string name="multi_face_name_prefix">Твар</string>
+  <string name="multi_face_name_prefix">Дадзеныя твару %s</string>
   <string name="multi_face_number_reach_limit">Немагчыма дадаць дадзеныя для больш чым 2 асоб</string>
   <string name="multi_music_coexistence_summary">Не рэгулюйце гучнасць мультымедыя падчас уваходных апавяшчэнняў або падчас прайгравання аўдыё з іншай крыніцы</string>
   <string name="multi_music_coexistence_title">Некалькі крыніц аўдыё</string>
@@ -6383,7 +6383,7 @@
   <string name="ota_disable_automatic_update_summary">Ужыць абнаўленні падчас перазапуску прылады</string>
   <string name="otg_button">OTG</string>
   <string name="otg_closed">Адкл.</string>
-  <string name="otg_new_tip">Уключыце OTG, каб мець магчымасць напрамую падлучаць сваю прыладу да іншых прылад праз USB. Гэтая функцыя аўтаматычна адключыцца праз %d хв. бяздзейнасці.</string>
+  <string name="otg_new_tip">"Гэтая функцыя дазваляе падлучацца да прылад Type-C і зараджаць іх. Калі падлучаныя навушнiкі, USB-назапашвальнікі ці іншыя прылады не распазнаюцца, уключыце перамыкач OTG. Ён аўтаматычна адключыцца пасля %d хвілін бяздзейнасці."</string>
   <string name="otg_opened">Укл.</string>
   <string name="otg_settings">OTG</string>
   <string name="otg_tip">USB On-The-Go дазваляе USB-назапашвальнікам і партатыўным клавіятурам падлучацца да вашай мабільнай прылады і абменьвацца дадзенымі. \n\nnOTG аўтаматычна адключаецца праз 10 хвілін бяздзейнасці.</string>
@@ -8745,7 +8745,7 @@
   <string name="sunday_first_day_of_week">Нядзеля</string>
   <string name="sunday_short">Ндз</string>
   <string name="sunday_shortest">Н</string>
-  <string name="sunlight_low_power_notification">Немагчыма ўключыць рэжым сонечнага святла. Занадта нізкі ўзровень зарада батарэі.</string>
+  <string name="sunlight_low_power_notification">Немагчыма ўключыць рэжым сонечнага святла. Занадта нізкі ўзровень зарада батарэі, або тэмпература занадта нізкія.</string>
   <string name="sunlight_mode">Рэжым сонечнага святла</string>
   <string name="sunlight_mode_boost_summary">Пашырце дыяпазон яркасці і аўтаматычна адрэгулюйце яркасць пры яркіх умовах. Гэта функцыя прымусіць вашу прыладу награвацца і спажываць больш энергіі.</string>
   <string name="sunlight_mode_summary">Адрэгулюйце яркасць пры моцным вонкавым асвятленні, каб экран не стаў занадта цёмным</string>
@@ -12008,4 +12008,86 @@
   <string name="zen_mode_apps_title">Праграмы</string>
   <string name="zen_mode_automatic_trigger_title">Уключаць аўтаматычна</string>
   <string name="super_volume_tip">Максімальная гучнасць: %s</string>
+  <string name="agree_btn">Згодзен</string>
+  <string name="agree_scanner_app_use">Скануйце QR-коды і распазнайце выявы. Некаторым функцый патрабуецца доступ да месцазнаходжання, выкарыстанне камеры або стварэнне здымкаў экрана.</string>
+  <string name="ai_notification_settings">Зводка апавяшчэнняў ШІ</string>
+  <string name="aon_gesture_double_press_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, падняўшы пальцы ўверх, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, выканайце падвойны націск, каб прайграць або прыпыніць прайграванне медыя.</string>
+  <string name="aon_gesture_double_press_diagram_title">Выканайце падвойны націск перад экранам</string>
+  <string name="aon_gesture_down_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, падняўшы пальцы ўверх, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой уніз.</string>
+  <string name="aon_gesture_down_waving_diagram_title">Памахаць рукой уніз перад экранам</string>
+  <string name="aon_gesture_learn_double_press_title">Вывучыце жэст \"Падвойны націск\"</string>
+  <string name="aon_gesture_learn_left_right_waving_title">Вывучыце жэст \"Гарызантальнае памахванне\"</string>
+  <string name="aon_gesture_learn_up_down_waving_title">Вывучыце жэст \"Вертыкальнае памахванне\"</string>
+  <string name="aon_gesture_learning_dialog_title">Вывучыць жэсты зараз?</string>
+  <string name="aon_gesture_learning_toast">Вы заўсёды можаце вывучыць жэсты тут пазней</string>
+  <string name="aon_gesture_left_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, пальцы накіраваныя ўправа, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой налева.</string>
+  <string name="aon_gesture_left_waving_diagram_title">Памахаць левай рукой перад экранам</string>
+  <string name="aon_gesture_right_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, пальцы накіраваныя налева, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой направа.</string>
+  <string name="aon_gesture_right_waving_diagram_title">Памахаць правай рукой перад экранам</string>
+  <string name="aon_gesture_status_not_open">Выкл.</string>
+  <string name="aon_gesture_up_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, апусціўшы пальцы ўніз, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой уверх.</string>
+  <string name="aon_gesture_up_waving_diagram_title">Памахаць рукой уверх перад экранам</string>
+  <string name="aon_scanner_dialog_message_new">Пры выкарыстанні хуткага сканара сканаваныя вамі QR-коды будуць перададзены ў ШІ Сканар. Гэтая інфармацыя не будзе захоўвацца на вашым прыладзе і не будзе загружана ў воблака. Уключэнне гэтай функцыі крыху павялічыць энергаспажыванне.</string>
+  <string name="aon_scanner_download_message_new">Паколькі паслугі хуткага сканара прадастаўляюцца ШІ Сканарам, нам неабходна перадаць сканаваныя вамі QR-коды ў ШІ Сканар. Усталюйце ШІ Сканар, перш чым працягнуць.</string>
+  <string name="aon_scanner_download_title_new">Усталяваць ШІ Сканар</string>
+  <string name="back_strap_image_text">Калі прылада ляжыць экранам уніз з выключаным экранам, падсвятленне будзе адлюстроўваць напамінкі аб апавяшчэннях і светлавыя эфекты для розных сцэнараў</string>
+  <string name="back_strap_status_close">Выкл.</string>
+  <string name="back_strap_status_open">Укл.</string>
+  <string name="back_strap_title">Светлавыя эфекты</string>
+  <string name="bluetooth_auracast_source_explain_summary_qcom">Каб выкарыстоўваць гэтую функцыю, адключыце падлучаную ў дадзены момант прыладу або падключыце хаця б адну аўдыёпрыладу Bluetooth LE</string>
+  <string name="bluetooth_hearing_aid_left_and_right_connected">Абодва слыхавыя апараты падлучаныя да %1$s</string>
+  <string name="bluetooth_hearing_aid_left_connected">Левы слыхавы апарат падлучаны да %1$s</string>
+  <string name="bluetooth_hearing_aid_right_connected">Правы слыхавы апарат падлучаны да %1$s</string>
+  <string name="bluetooth_pair_other_hearing_dialog_positive_button">Спалучэнне</string>
+  <string name="bluetooth_pair_other_hearing_dialog_title">Спалучэнне з іншым слыхавым апаратам</string>
+  <string name="bluetooth_pair_other_left_hearing_dialog_message">Правы слыхавы апарат падлучаны. Пераканайцеся, што левы слыхавы апарат уключаны і гатовы да спалучэння.</string>
+  <string name="bluetooth_pair_other_right_hearing_dialog_message">Левы слыхавы апарат падлучаны. Пераканайцеся, што патрэбны слыхавы апарат уключаны і гатовы да спалучэння.</string>
+  <string name="call_reminder_all">Усе выклікі</string>
+  <string name="call_reminder_contact">Кантакты</string>
+  <string name="call_reminder_favorite_contacts">Абраныя кантакты</string>
+  <string name="call_reminder_title">Напамінкі аб уваходных выкліках</string>
+  <string name="checked_app_title">Светлавыя эфекты ўключаны</string>
+  <string name="child_face_number_reach_limit">Вы можаце дадаць дадзеныя аб тварах максімум трох чалавек</string>
+  <string name="child_face_unlock_download_education_center_button">Усталяваць</string>
+  <string name="child_face_unlock_download_education_center_content">Каб выкарыстоўваць гэтую функцыю, спачатку ўсталюйце Адукацыйны цэнтр.</string>
+  <string name="child_face_unlock_download_education_center_title">Увага</string>
+  <string name="child_face_unlock_first_close_child_unlock">Спачатку адключыце \"Адкрыць Адукацыйны цэнтр пасля разблакавання\"</string>
+  <string name="child_face_unlock_first_close_stay_keyguard">Спачатку адключыце \"Заставацца на заблакаваным экране пасля разблакавання\"</string>
+  <string name="child_face_unlock_no_use">Выкл.</string>
+  <string name="child_face_unlock_open_education_center">Адкрыць Адукацыйны цэнтр пасля разблакавання</string>
+  <string name="child_face_unlock_open_education_center_summary">Абярыце дадзеныя твару пэўнага чалавека, які будзе выкарыстоўвайце гэтую функцыю</string>
+  <string name="child_face_unlock_use">Выкарыстоўваць</string>
+  <string name="compute_power_sharing">Падтрымка вылічэнняў</string>
+  <string name="compute_power_sharing_summary">"Выкарыстоўвайце вылічальную магутнасць вашага тэлефона для выкарыстання функцый ШІ на вашым планшэце"</string>
+  <string name="enhanced_ai_applications">Паскарэнне праграм ШІ</string>
+  <string name="enhanced_ai_applications_summary">Выкарыстоўвайце ШІ для абнаўлення праграм і атрымлівайце асалоду ад больш інтэлектуальных паслуг</string>
+  <string name="hearing_stream_option">Параметры гуку</string>
+  <string name="impunity_declaration_content">"Сканеру неабходна выкарыстоўваць вашу камеру і апрацоўваць выявы, якія вы робіце падчас выкарыстання праграмы. Не выкарыстоўвайце Сканар для фатаграфавання аб\'ектаў, якія змяшчаюць вашу асабістую інфармацыю. Націскаючы \"Згодзен\", вы згаджаецеся з нашай &lt ;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font> і дазваляеце Сканеру падлучацца да Інтэрнэту."</string>
+  <string name="impunity_declaration_negative_text">Выхад</string>
+  <string name="keyboard_layout_not_support_hint">Непадтрымліваемая раскладка</string>
+  <string name="lamp_effect_settings">Эфекты</string>
+  <string name="left_hearing_aid">Левы слыхавы апарат</string>
+  <string name="media_dialog_ok">Зразумела</string>
+  <string name="media_dialog_summary">Калі гэтая функцыя ўключана, прылада будзе вібраваць у рытме падтрымліваемай музыкi.</string>
+  <string name="media_dialog_title">Уключыце вібрацыю для медыя</string>
+  <string name="media_haptic">Вібрацыя для медыя</string>
+  <string name="media_haptic_summary">Атрымайце вібрацыю ў адпаведнасці з рытмам вашай музыкі</string>
+  <string name="model_management">Кіраванне мадэлямі</string>
+  <string name="model_management_summary">Загрузка, абнаўленне і выдаленне вялікіх мадэляў на вашай прыладзе</string>
+  <string name="musical_rhythm_app_title">Рытмічныя светлавыя эфекты</string>
+  <string name="notification_app_summary">Іншыя праграмы</string>
+  <string name="notification_app_title">Апавяшчэнні</string>
+  <string name="right_hearing_aid">Правы слыхавы апарат</string>
+  <string name="scanner_app_name">Сканар</string>
+  <string name="search_miui_updater">АС;Версія АС</string>
+  <string name="search_otg_button">навушнікі;навушнікі;навушнікі;укладышы;укладышы;гарнітура;ўкладышы</string>
+  <string name="search_otg_settings">навушнікі;навушнікі;навушнікі;укладышы;укладышы;гарнітура;ўкладышы</string>
+  <string name="selected_app_title">Вылучаныя праграмы</string>
+  <string name="service_support">Падтрымка</string>
+  <string name="sort_by_frequency">Сартаваць па частаце</string>
+  <string name="sort_by_time">Сартаваць па часу</string>
+  <string name="super_voice_assist">Супер Mi ШІ</string>
+  <string name="system_personalize_title">Персаналізацыя</string>
+  <string name="unchecked_app_title">Светлавыя эфекты выключаны</string>
+  <string name="voice_assist_summary">Ваш персанальны разумны памочнік</string>
 </resources>

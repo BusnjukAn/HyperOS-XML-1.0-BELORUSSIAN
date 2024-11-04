@@ -1068,4 +1068,11 @@
   <string name="subtitle_compatibility_mode">Наступныя праграмы несумяшчальныя з архітэктурай %d-біт. Уключыце рэжым сумяшчальнасці праграм, каб мець магчымасць перанесці іх.</string>
   <string name="title_compatibility_mode">Уключыць рэжым сумяшчальнасці праграм</string>
   <string name="trans_apple_hint_china">Не пакідайце гэтую старонку і не выкарыстоўвайце Wi-Fi, пакуль перадача не будзе завершана.</string>
+  <string name="learn_new_version_character">Даведацца больш</string>
+  <string name="new_provision_title">Перадача элементаў</string>
+  <string name="provision_back">Назад</string>
+  <string name="provision_next">Далей</string>
+  <string name="provision_set_cloud_backup">Аднавіць з Воблака Xiaomi</string>
+  <string name="provision_set_cloud_backup_summary">Падлучыцеся да Інтэрнэту, каб загрузіць і аднавіць рэзервовыя копіі з Воблака Xiaomi</string>
+  <string name="provision_skip_underline">Прапусціць</string>
 </resources>

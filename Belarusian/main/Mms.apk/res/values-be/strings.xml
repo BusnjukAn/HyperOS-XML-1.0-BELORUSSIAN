@@ -803,10 +803,10 @@
   <string name="slide_show_part">Частка %1$d з %2$d</string>
   <string name="slide_up_to_cancel">Пацягніце ўгору, каб скасаваць</string>
   <string name="slideshow_activity">Слайд-шоу</string>
-  <string name="smart_message_title">Інтэлектуальныя Паведамленнi</string>
+  <string name="smart_message_title">Разумныя паведамленнi</string>
   <string name="smart_messages_network_allow_message">Mi Паведамленням патрабуецца доступ да інтэрнэту. Дазволіць?</string>
   <string name="smart_messages_network_allow_title">Неабходна падлучэнне да інтэрнэту</string>
-  <string name="smart_msg_privacy_policy">Палітыка прыватнасці Інтэлектуальных паведамленняў</string>
+  <string name="smart_msg_privacy_policy">Палітыка прыватнасці Разумных паведамленняў</string>
   <string name="sms_card_partner_label">"SMS-партнер: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Змест:</string>
@@ -1754,4 +1754,24 @@
   <string name="smart_msg_main_purpose">Інтэлектуальныя паведамленні забяспечваюць распазнанне ідэнтыфікатара адпраўніка і інтэлектуальнае меню паслугі.</string>
   <string name="smart_msg_upgrade_main_purpose">Інтэлектуальныя паведамленні зараз працуюць з MMS. Вы зможаце выкарыстоўваць больш паслуг, якія прадстаўляюцца адпраўнікамі, а таксама атрымліваць паведамленні ў новых фарматах.</string>
   <string name="yellowpage_recommend_msg">Азнаёмцеся з функцыямі праграмы абмену паведамленнямі Xiaomi</string>
+  <string name="agree_and_open">Згодзен</string>
+  <string name="ai_smart_message_content"><Data>Зводка паведамленняў ШІ абпіраецца на Разумныя паведамленні для прадастаўлення сваіх функцый. Прачытайце і прыміце нашы &lt;a href=\"%1$s\">Угоду карыстальніка&lt;/a> і &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a>, каб працягнуць.</Data></string>
+  <string name="ai_smart_message_titile">Уключыць Разумныя паведамленні</string>
+  <string name="ai_summary_description">Дазвольце ШІ сумаваць доўгія паведамленні, каб паказаць вам ключавую інфармацыю. Гэтая функцыя крыху павялічыць энергаспажыванне.</string>
+  <string name="ai_summary_dialog_content"><Data>"Зводка паведамленняў ШІ дае інтэлектуальныя зводкі ключавой інфармацыі з доўгіх паведамленняў. Xiaomi неабходна атрымаць доступ да змесціва паведамлення для прадастаўлення гэтай функцыі, але Xiaomi не будзе захоўваць гэтую інфармацыю.&lt;br />&lt ;br />Прачытайце і прыміце &lt;a href=\"%1$s\">Пагадненне карыстальніка AI Message Summary&lt;/a> і &lt;a href=\"%2$s\">Палітыку канфідэнцыйнасці&lt;/a > перад выкарыстаннем гэтай службы."</Data></string>
+  <string name="ai_summary_dialog_title">Патрабуемыя дазволы</string>
+  <string name="ai_summary_privacy_content">"Пры выкарыстанні Зводкі паведамленняў ШІ змесціва зводкі (уключаючы любыя асабістыя дадзеныя ў ім) будзе апрацоўвацца Xiaomi, але Xiaomi не будзе захоўваць гэтыя дадзеныя."</string>
+  <string name="ai_summary_privacy_tip"><Data>Азнаёмцеся з &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a>, каб зразумець, як мы кіруем вашымі дадзенымі. Для атрымання дадатковай інфармацыі аб гэтай паслузе прачытайце &lt;a href=\"%2$s\">Пагадненне карыстальніка&lt;/a>.</Data></string>
+  <string name="ai_summary_privacy_title">Заява аб прыватнасці</string>
+  <string name="alert_ai_sum_close_content">"Калі вы адключыце Разумныя паведамленні, вы не зможаце выкарыстоўваць Зводку паведамленняў ШІ."</string>
+  <string name="alert_ai_sum_close_title">Адключыць Разумныя паведамленні?</string>
+  <string name="pop_text">"Трымайце прыладу падлучанай да зараднай прылады. Яна будзе арганізоўваць паведамленні хутчэй, калі экран выключаны."</string>
+  <string name="pref_ai_summary">Зводка паведамленняў ШІ</string>
+  <string name="progress_text">Арганізацыя паведамленняў…(%s)</string>
+  <string name="stay_open">Захаваць укл</string>
+  <string name="still_close">Выключыць</string>
+  <string name="to_xiaomi_account_login">Увайсці</string>
+  <string name="xiaomi_account_login_content">"У сувязі з адпаведнымі законамі і правіламі для выкарыстання функцый, звязаных з ШІ, патрабуецца праверка асобы.
+Увайдзіце ў свой акаўнт Xiaomi, каб выкарыстоўваць гэтую функцыю."</string>
+  <string name="xiaomi_account_login_title">Увайсці з дапамогай акаўнта Xiaomi</string>
 </resources>

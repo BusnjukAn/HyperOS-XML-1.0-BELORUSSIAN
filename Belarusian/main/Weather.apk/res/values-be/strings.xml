@@ -781,4 +781,11 @@
   <string name="daily_forecast_card_title">Прагноз на %d дзён</string>
   <string name="daily_forecast_next_15_days">Прагноз на наступныя 15 дзён</string>
   <string name="dislike_alert_dialog_title">Чаму вы не хочаце бачыць гэты кантэнт?</string>
+  <string name="act_find_city_major_city_title">Папулярныя месцазнаходжання</string>
+  <string name="act_find_city_search_history_title">Гісторыя пошуку</string>
+  <string name="button_manage">Кiраванне</string>
+  <string name="city_exceeded_tips">Немагчыма дадаць больш месцазнаходжанняў. Выдаліце ​​некаторыя месцазнаходжання перад даданнем новага.</string>
+  <string name="city_exceeded_tips_title">Немагчыма дадаць месцазнаходжанне</string>
+  <string name="content_desc_activity_main_already_add_city">Дададзеныя месцазнаходжання</string>
+  <string name="thanku_for_feedback">Дзякуй за водгук, вы можаце паўторна адкрыць відэа аб надвор\'і на старонцы налад.</string>
 </resources>

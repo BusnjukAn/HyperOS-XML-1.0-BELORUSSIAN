@@ -440,4 +440,11 @@
   <string name="send_one_zip_dialog_desc">%2$d ZIP-файл \"%3$s\" ад %1$s</string>
   <string name="send_one_zip_dialog_desc_received">Атрыманы %2$d ZIP-файл \"%3$s\" ад %1$s</string>
   <string name="send_one_zip_dialog_desc_receiving">Атрыманне %2$d ZIP-файла \"%3$s\" ад %1$s</string>
+  <string name="global_imac">Мой iMac</string>
+  <string name="global_ipad">Мой iPad</string>
+  <string name="global_iphone">Мой iPhone</string>
+  <string name="global_macbook">Мой MacBook</string>
+  <string name="global_macmini">Мой Mac mini</string>
+  <string name="global_macpro">Мой Mac Pro</string>
+  <string name="global_macstudio">Мой Mac Studio</string>
 </resources>

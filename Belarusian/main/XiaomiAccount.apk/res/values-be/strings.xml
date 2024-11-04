@@ -1212,4 +1212,22 @@ ID:%s
   <string name="login_or_register_by_other_way">Выкарыстоўваць іншы метад</string>
   <string name="reopen">Уключыць</string>
   <string name="setting_ps">Налады пароля</string>
+  <string name="fido_history_account">Гісторыя акаўнта Xiaomi</string>
+  <string name="passport_request_permission_title">Патрабуюцца дазволы</string>
+  <string name="passport_third_sns_service_unavailable">Служба недаступная. Пераканайцеся, што праграма ўсталявана і не заблакавана.</string>
+  <string name="qr_code_login_hint">Немагчыма ўвайсці.\nСкануйце код ніжэй з дапамогай праграмы Xiaomi.</string>
+  <string name="qr_code_login_is_loading">Секундачку…</string>
+  <string name="qr_code_login_is_reloading">Секундачку…</string>
+  <string name="qr_code_login_load_failed">Перазагрузка QR-кода…</string>
+  <string name="qr_code_login_userid_hint">Xiaomi акаўнт: %s</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Падлучыць дыспетчар спамповак не ўдалося, праверце стан дыспетчара спамповак у кіраванні праграмамі.</string>
+  <string name="xiaomi_update_sdk_dialog_message">Уяўляем версію %1$s\nПамер: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">Уяўляем версію %1$s\nПамер дэльта абнаўлення: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_title">Даступна абнаўленне</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Сховішча недаступнае, праверце SD-карту.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Кб</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Не зараз</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
 </resources>

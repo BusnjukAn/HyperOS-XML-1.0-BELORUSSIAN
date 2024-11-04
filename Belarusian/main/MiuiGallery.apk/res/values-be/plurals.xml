@@ -864,4 +864,66 @@
         <item quantity="other">Выдаліць (%d сек.)</item>
         <item quantity="one">Выдаліць (%d сек.)</item>
     </plurals>
+    <plurals name="ai_search_picker_hint_text">
+        <item quantity="other">Абярыце %1$d–%2$d фота ці відэа (абрана %3$d)</item>
+        <item quantity="one">Абярыце %1$d–%2$d фота ці відэа (абрана %3$d)</item>
+        <item quantity="few">Абярыце %1$d–%2$d фота ці відэа (абрана %3$d)</item>
+        <item quantity="many">Абярыце %1$d–%2$d фота ці відэа (абрана %3$d)</item>
+    </plurals>
+    <plurals name="ai_search_picker_total_duration_exceed_limit">
+        <item quantity="other">Агульная працягласць відэа не можа перавышаць %d секунд</item>
+        <item quantity="one">Агульная працягласць відэа не можа перавышаць %d секунду</item>
+        <item quantity="few">Агульная працягласць відэа не можа перавышаць %d секунд</item>
+        <item quantity="many">Агульная працягласць відэа не можа перавышаць %d секунд</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component">
+        <item quantity="other">Абярыце %d сегментаў</item>
+        <item quantity="one">Абярыце %d сегмент</item>
+        <item quantity="few">Абярыце %d сегменты</item>
+        <item quantity="many">Абярыце %d сегментаў</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component_format">
+        <item quantity="other">Абярыце %1$d сегментаў (%2$d)</item>
+        <item quantity="one">Абярыце %1$d сегмент (%2$d)</item>
+        <item quantity="few">Абярыце %1$d сегменты (%2$d)</item>
+        <item quantity="many">Абярыце %1$d сегментаў (%2$d)</item>
+    </plurals>
+    <plurals name="drop_contain_several_same_name_file">
+        <item quantity="other">Немагчыма захаваць. %d файлаў з такім імем ужо існуюць.</item>
+        <item quantity="one">Немагчыма захаваць. %d файл з такім імем ужо існуе.</item>
+        <item quantity="few">Немагчыма захаваць. %d файла з такім імем ужо існуюць.</item>
+    </plurals>
+    <plurals name="other_group_name">
+        <item quantity="other">%1$s і %2$d іншых людзей</item>
+        <item quantity="one">%1$s і %2$d іншы чалавек</item>
+        <item quantity="few">%1$s і %2$d іншых чалавека</item>
+    </plurals>
+    <plurals name="photo_picker_title_format">
+        <item quantity="other">Абярыце %d фота</item>
+        <item quantity="one">Абярыце %d фота</item>
+    </plurals>
+    <plurals name="picker_overview_page_title">
+        <item quantity="other">Выбрана %1$d элементаў</item>
+        <item quantity="one">Абраны %1$d элемент</item>
+        <item quantity="few">Абрана %1$d элемента</item>
+    </plurals>
+    <plurals name="picker_title_format_allow_image_and_video">
+        <item quantity="other">Абярыце %1$d–%2$d элементаў</item>
+        <item quantity="one">Абярыце %1$d–%2$d элемента</item>
+    </plurals>
+    <plurals name="picker_title_specify_format_allow_image_and_video">
+        <item quantity="other">Абярыце %d элементаў</item>
+        <item quantity="one">Абярыце %d элемент</item>
+        <item quantity="few">Абярыце %d элемента</item>
+    </plurals>
+    <plurals name="search_title_new_ai">
+        <item quantity="other">Знойдзена %d элементаў</item>
+        <item quantity="one">Знойдзена %d элемент</item>
+        <item quantity="few">Знойдзена %d элемента</item>
+    </plurals>
+    <plurals name="universal_pick_bottom_bar_selected_content_format">
+        <item quantity="other">Паказаць %d абраных элементаў</item>
+        <item quantity="one">Паказаць %d абраны элемент</item>
+        <item quantity="few">Паказаць %d абраных элемента</item>
+    </plurals>
 </resources>

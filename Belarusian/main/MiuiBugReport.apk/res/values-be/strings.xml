@@ -208,7 +208,7 @@
   <string name="feedback_delete_images">Выдаліць выяву</string>
   <string name="feedback_description">Апісанне</string>
   <string name="feedback_description_hint">Апішыце тут праблему, з якой вы сутыкнуліся.\n%1$d. У якой праграме або на якой старонцы вы сутыкнуліся з праблемай?\n%2$d. Пасля якіх дзеянняў, якія вы выканалі, паўстала праблема?\n%3$d. Падайце нам дадатковую інфармацыю, якая можа дапамагчы нам вырашыць праблему.</string>
-  <string name="feedback_description_hint_suggestion">Раскажыце, як бы вы хацелі палепшыць сістэму.</string>
+  <string name="feedback_description_hint_suggestion">Раскажыце, як бы вы хацелі палепшыць сiстэму.</string>
   <string name="feedback_description_suggest_hint">Я хацеў бы дадаць новую функцыю (), таму што мне трэба ().</string>
   <string name="feedback_detail_copy_toast">Скапіявана ў буфер абмену</string>
   <string name="feedback_detail_feedback_attach">Укладання</string>
@@ -616,7 +616,7 @@
   <string name="photoPickerNotFoundText">Няма даступных фотаздымкаў.</string>
   <string name="please_agree_protocal">Згадзіцеся з пратаколам</string>
   <string name="pm">ПП</string>
-  <string name="post_miui_bbs_failed">Не атрымалася размясціць на форуме</string>
+  <string name="post_miui_bbs_failed">Не атрымалася размясціць на форуме Xiaomi</string>
   <string name="preference_copied">Тэкст \"%1$s\" скапіяваны ў буфер абмену</string>
   <string name="privacy_category_title">Прыватнасць</string>
   <string name="privacy_policy_title">Палітыка прыватнасцi</string>
@@ -636,7 +636,7 @@
   <string name="reply_option_log_hint">Неабавязкова</string>
   <string name="reply_select_log_hint">Выберыце журнал</string>
   <string name="reply_successful">Адказ паспяхова адпраўлены</string>
-  <string name="report_miui">Адправіць водгук</string>
+  <string name="report_miui">Паведаміць пра памылку</string>
   <string name="request_agree">Дазволіць</string>
   <string name="request_camera_permission_message">Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з законамі і пастановамі. Для нармальнай працы гэтай праграмы патрабуюцца наступныя дазволы:&lt;br>&lt;br>&lt;b>Выкарыстанне камеры (для ўсталёўкі фатаграфіі профіля)&lt;/b>&lt;br>&lt;br>Калі вы не згодны падаваць такія дазволы, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе базавыя функцыі будуць па-ранейшаму вам даступны. Вы заўсёды можаце абмежаваць дазволы або адклікаць аўтарызацыю ў Наладах.</string>
   <string name="request_cancel">Адмена</string>
@@ -758,9 +758,9 @@
   <string name="title_frequent_question_feedback_main">Частыя пытанні</string>
   <string name="title_mi_family">Mi сям\'я</string>
   <string name="title_nonsystem_app">Праграмы</string>
-  <string name="title_same_question_feedback_main">Падобныя праблемы на форуме</string>
+  <string name="title_same_question_feedback_main">Падобныя праблемы на форуме Xiaomi</string>
   <string name="title_system_app">Сістэма</string>
-  <string name="title_user_guide">Даведнік карыстальніка</string>
+  <string name="title_user_guide">Даведнік</string>
   <string name="toast_app_tag_required">Спачатку абярыце праблему</string>
   <string name="toast_catch_full_log_catching">Адначасова можна стварыць толькі адзін журнал</string>
   <string name="toast_catch_full_log_open_failed">Не атрымалася пачаць стварэнне журнала.</string>
@@ -799,18 +799,18 @@
   <string name="update_phone_notice">Налады бяспекі</string>
   <string name="upload_error_log">Загрузіць часопіс</string>
   <string name="upload_log_failed">Не атрымалася адправіць логі</string>
+  <string name="user_agreement_hint_3rd_app">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_3rd_app_mobile">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_3rd_app_with_telecom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_3rd_app_with_unicom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_default">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_default_1">Прачытайце і пагадзіцеся з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці</string>
+  <string name="user_agreement_hint_default_extra">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта. Пры першым уваходзе ў сістэму аўтаматычна ствараецца Xiaomi акаўнт.</string>
+  <string name="user_agreement_hint_first_login">Мы створым Xiaomi акаўнт аўтаматычна, калі вы ўпершыню карыстаецеся сваiм нумарам тэлефона.</string>
+  <string name="user_agreement_hint_with_mobile">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_with_telecom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
+  <string name="user_agreement_hint_with_unicom">Я прачытаў і згодны з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці Xiaomi акаўнта</string>
   <string name="user_agreement_protocal_dialog_hint_default">Прачытайце і пагадзіцеся з Карыстальніцкай дамовай і Палітыкай канфідэнцыйнасці</string>
-    <string name="user_agreement_hint_3rd_app"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, а таксама &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_3rd_app_mobile"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_3rd_app_with_telecom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_3rd_app_with_unicom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_default"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_default_1"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_default_extra"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_first_login">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
-  <string name="user_agreement_hint_with_mobile"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_with_telecom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
-  <string name="user_agreement_hint_with_unicom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
   <string name="user_avatar_update_title">Змяніць фота профілю</string>
   <string name="user_avatar_uploading">Хвілінку…</string>
   <string name="user_id_hint">Электронная пошта/Тэлефон/ID Xiaomi акаўнта</string>
@@ -882,7 +882,7 @@
   <string name="passport_mi_account_first_title">Мы створым акаўнт аўтаматычна, калі вы ўпершыню карыстаецеся сваiм нумарам тэлефона.</string>
   <string name="passport_mi_account_title">Увайсці з акаўнтам Xiaomi</string>
   <string name="passport_network_error">Адбылася сеткавая памылка.</string>
-  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіруйце URL-адрас і адкрыйце яго ў браўзеры.</string>
+  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіруйце URL-адрас і адкрыйце яго ў браўзэры.</string>
   <string name="passport_page_load_failed">Немагчыма адкрыць старонку</string>
   <string name="passport_password_login_btn">Увайсці</string>
   <string name="passport_password_not_show">Не паказваць пароль</string>
@@ -986,7 +986,7 @@
   <string name="miui_feedback_edit_contact_info_hint">Тэлефон/Email</string>
   <string name="miui_feedback_edit_delete_images">Выдаліць выявы</string>
   <string name="miui_feedback_edit_desc_hint">Апішыце праблему, з якой вы сутыкнуліся</string>
-  <string name="miui_feedback_edit_desc_hint_suggestion">Раскажыце, як бы вы хацелі палепшыць сістэму</string>
+  <string name="miui_feedback_edit_desc_hint_suggestion">Раскажыце, як бы вы хацелі палепшыць сiстэму</string>
   <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Застацца тут</string>
   <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Скасаваць</string>
   <string name="miui_feedback_edit_discard_draft_dialog_content">Любыя змены, унесеныя вамі ў гэтую справаздачу, будуць страчаныя.</string>
@@ -1039,7 +1039,7 @@
   <string name="miui_feedback_main_customer_service_onfo_for_jp">Гарачая лінія абслугоўвання: 0120-300-521\nГадзіны працы: 9:00 - 18:00 (акрамя дзяржаўных і святочных дзён)\nЭл. пошта: service.jp@xiaomi.com</string>
   <string name="miui_feedback_main_frequent_question_title">Пытанні і адказы</string>
   <string name="miui_feedback_main_item_catch_full_log">Часопісы</string>
-  <string name="miui_feedback_main_item_customer_service">Пасьляпродажнае абслугоўванне</string>
+  <string name="miui_feedback_main_item_customer_service">Абслугоўванне</string>
   <string name="miui_feedback_main_item_feedback_list">Мой водгук</string>
   <string name="miui_feedback_main_menu_view_privacy">Палітыка прыватнасці</string>
   <string name="miui_feedback_main_menu_view_withdraw_consent">Водгук згоды</string>
@@ -1067,7 +1067,7 @@
   <string name="permission_imei_disable_desc">Дазвольце гэтай праграме падлучацца да Інтэрнэту.</string>
   <string name="permission_imei_enable_desc">Дазвольце гэтай праграме падлучацца да Інтэрнэту і падайце абавязковыя дазволы, пералічаныя вышэй.</string>
   <string name="permission_location_introduce">Для адлюстравання кропак абслугоўвання паблізу</string>
-  <string name="permission_main_purpose">Паказ дэманстрацый функцый, адпраўка водгукаў і падача заявак на пасляпродажнае абслугоўванне.</string>
+  <string name="permission_main_purpose">Паказ дэманстрацый функцый MIUI, адпраўка водгукаў і падача заявак на пасляпродажнае абслугоўванне.</string>
   <string name="permission_privacy">Палітыка прыватнасці (абавязкова)</string>
   <string name="permission_region_version_msg"><Data>Перад выкарыстаннем «Сэрвісы і водгукi» вы павінны прачытаць нашы &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і пагадзіцца з імі.</Data></string>
   <string name="permission_select_all">Абраць усё</string>
@@ -1082,10 +1082,6 @@
   <string name="public_open_feedback_service">Пачаць</string>
   <string name="public_please_authorize">Для працягу патрабуюцца дазволы</string>
   <string name="public_welcome_use_feedback_service">Сардэчна запрашаем у Сэрвісы і водгукі! Вы можаце выкарыстоўваць гэту праграму для адпраўкі водгукаў, прагляду часта задаваных пытанняў, падачы заявак на вяртанне і абмен прадуктаў і многае іншае.</string>
-  <string name="miui_feedback_main_item_official_progress">Прагрэс рамонту</string>
-  <string name="miui_feedback_main_item_official_progress_hint">Рэгулярна абнаўляйце прагрэс рамонту ў супольнасці Xiaomi</string>
-  <string name="miui_feedback_main_item_use_guide">Кіраўніцтва карыстальніка</string>
-  <string name="miui_feedback_note_install_xiaomi_community">Усталюйце Супольнасць Xiaomi, каб мець магчымасць выкарыстоўваць гэту функцыю.</string>
   <string name="catch_full_log_not_show_again">Больш не паказваць</string>
   <string name="catch_full_log_note_affect_performance_decription">Падобна на тое, што працэс стварэння часопіса доўжыўся больш за %d гадзіны. Калі гэты працэс завершаны, вы можаце адправіць водгук. У адваротным выпадку вы можаце адмяніць працэс або працягнуць, але працяг можа часова паўплываць на магчымасці вашай прылады.</string>
   <string name="catch_full_log_note_cancel_catch">Адмена</string>
@@ -1130,4 +1126,51 @@
   <string name="telephony_cdma_dialog_msg">Удакладніце ў свайго аператара, ці актываваная для вашай прылады паслуга 4G/5G. Калі яна актываваная, але ў вас усё яшчэ ўзнікаюць праблемы, дашліце водгук.</string>
   <string name="telephony_cdma_dialog_ok">Водгук</string>
   <string name="telephony_cdma_dialog_title">Актывацыя паслугі 4G/5G</string>
+  <string name="common_google_play_services_enable_button">Уключыць</string>
+  <string name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+  <string name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
+  <string name="common_google_play_services_install_button">Усталяваць</string>
+  <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+  <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+  <string name="common_google_play_services_notification_channel_name">Даступнасць сэрвісаў Google Play</string>
+  <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
+  <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+  <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
+  <string name="common_google_play_services_update_button">Абнавіць</string>
+  <string name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+  <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
+  <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+  <string name="common_google_play_services_wear_update_text">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+  <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
+  <string name="common_signin_button_text">Увайсцi</string>
+  <string name="common_signin_button_text_long">Увайсці праз Google</string>
+  <string name="miui_feedback_main_item_official_filing">Рэгістрацыйны нумар ICP: 10046444-41A</string>
+  <string name="miui_feedback_main_item_official_progress">Ход рамонту</string>
+  <string name="miui_feedback_main_item_official_progress_hint">Рэгулярна абнаўляйце ход рамонту ў Супольнасці Xiaomi</string>
+  <string name="miui_feedback_main_item_use_guide">Даведнік карыстальніка</string>
+  <string name="miui_feedback_note_install_xiaomi_community">Усталюйце Супольнасць Xiaomi, каб мець магчымасць выкарыстоўваць гэтую функцыю.</string>
+  <string name="solar_term_autumn_begins">Пачатак восені</string>
+  <string name="solar_term_autumn_equinox">Восеньскае раўнадзенства</string>
+  <string name="solar_term_clear_and_bright">Ясна</string>
+  <string name="solar_term_cold_dews">Раса</string>
+  <string name="solar_term_grain_buds">Зерневыя пупышкі</string>
+  <string name="solar_term_grain_in_ear">Зерне ў коласе</string>
+  <string name="solar_term_grain_rain">Моцны дождж</string>
+  <string name="solar_term_great_cold">Моцны холад</string>
+  <string name="solar_term_great_heat">Моцная спякота</string>
+  <string name="solar_term_heavy_snow">Моцны снег</string>
+  <string name="solar_term_hoar_frost_falls">Спад холода</string>
+  <string name="solar_term_insects_awaken">Абуджэнне насякомых</string>
+  <string name="solar_term_light_snow">Лёгкі снег</string>
+  <string name="solar_term_slight_cold">Холад</string>
+  <string name="solar_term_slight_heat">Спякота</string>
+  <string name="solar_term_spring_begins">Пачатак вясны</string>
+  <string name="solar_term_stopping_the_heat">Спыненне цяпла</string>
+  <string name="solar_term_summer_begins">Пачатак лета</string>
+  <string name="solar_term_summer_solstice">Летняе сонцастаянне</string>
+  <string name="solar_term_the_rains">Дождж</string>
+  <string name="solar_term_vernal_equinox">Дзень вясновага раўнадзенства</string>
+  <string name="solar_term_white_dews">Белыя росы</string>
+  <string name="solar_term_winter_begins">Пачатак зімы</string>
+  <string name="solar_term_winter_solstice">Зімовае сонцастаянне</string>
 </resources>

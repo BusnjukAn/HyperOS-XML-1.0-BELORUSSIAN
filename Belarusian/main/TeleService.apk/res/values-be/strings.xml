@@ -2330,4 +2330,7 @@
   <string name="speed_limit_sim_title">Хуткасць перадачы дадзеных абмежавана</string>
   <string name="enter_esim_service_support_summary">Прагляд спісу падтрымліваемых аператараў</string>
   <string name="enter_esim_service_support_title">Падтрымліваемыя аператары</string>
+  <string name="fiveg_interruption_remind">"Здаецца, ваша SIM-карта %s не падтрымлівае паслугі 5G SA. Звярніцеся да свайго аператара для атрымання дадатковай інфармацыі."</string>
+  <string name="fiveg_interruption_remind_title">"Немагчыма выкарыстоўваць паслугі 5G"</string>
+  <string name="satellite_enable_non_emergency_mode_string">Пратэстуйце рэжым рэальнага спадарожніка без eSOS (толькі адладкавая зборка)</string>
 </resources>

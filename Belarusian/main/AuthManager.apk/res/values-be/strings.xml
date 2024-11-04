@@ -52,7 +52,7 @@
   <string name="clipboard_may_sensitive">Можа быць канфідэнцыйнай інфармацыяй</string>
   <string name="clipboard_read_ai_deny_once">%1$s было адмоўлена ў чытанні буфера абмену</string>
   <string name="clipboard_read_deny_dialog_title">%1$s было адмоўлена ў чытанні буфера абмену</string>
-  <string name="close">Зачыніць</string>
+  <string name="close">Адключыць</string>
   <string name="copy">Капіяваць</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
@@ -463,4 +463,13 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="HIPS_Perm_Intl_group_name_read_note">Нататкі</string>
+  <string name="HIPS_Perm_Intl_group_name_read_record">Запісы</string>
+  <string name="HIPS_Perm_operator_read_note">Доступ да нататак</string>
+  <string name="HIPS_Perm_operator_read_record">Доступ да запісаў</string>
+  <string name="permdesc_read_note">Дазволіць %1$s доступ да нататак?</string>
+  <string name="permdesc_read_record">Дазволіць %1$s доступ да запісаў?</string>
+  <string name="clip_notification_close_summary">Перастаць атрымліваць напамінкі, калі праграма атрымлівае доступ да буфера абмену?</string>
+  <string name="clip_notification_close_title">Адключыць напамінкі аб доступе да буфера абмену</string>
+  <string name="overlay_read_clip_toast">Праграма \"%1$s\" атрымала доступ да буфера абмену</string>
 </resources>

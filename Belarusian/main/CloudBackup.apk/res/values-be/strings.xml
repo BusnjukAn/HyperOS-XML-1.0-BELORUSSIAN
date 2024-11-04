@@ -655,4 +655,14 @@
   <string name="title_restore_task_in_process">Аднаўленне…</string>
   <string name="toast_cannot_cancel_backup">Рэзервовае капiяванне амаль завершана і не можа быць адменена</string>
   <string name="backup_app_prominent_disclosure_dialog_message">Воблачнае рэзервовае капіяванне збярэ спіс праграм, усталяваных на вашай прыладзе, і захавае гэтую інфармацыю на нашых серверах. Мы захоўваем гэтыя дадзеныя, каб вы маглі спампаваць і аднавіць іх пры неабходнасці. Калі вы згодны на збор гэтай інфармацыі, націсніце «Дазволіць» ніжэй.</string>
+  <string name="oobe_no_available_backups">Няма даступных рэзервовых копій</string>
+  <string name="oobe_use_as_new_device">Націсніце \"Далей\", каб выкарыстоўваць як новую прыладу.</string>
+  <string name="restore_32bit_apps_no_tango_page_primary_button">Працягнуць</string>
+  <string name="restore_32bit_apps_no_tango_page_secondary_button">Адмяніць аднаўленне</string>
+  <string name="restore_32bit_apps_no_tango_page_sub_title">Гэтыя праграмы несумяшчальныя з архітэктурай %d-біт і не могуць быць адноўлены на гэтай прыладзе. Вы можаце працягнуць працэс аднаўлення, але гэтыя праграмы будуць прапушчаны.</string>
+  <string name="restore_32bit_apps_no_tango_page_title">Несумяшчальныя праграмы</string>
+  <string name="restore_32bit_apps_page_primary_button">Уключыць</string>
+  <string name="restore_32bit_apps_page_secondary_button">Не зараз</string>
+  <string name="restore_32bit_apps_page_sub_title">Гэтыя праграмы несумяшчальныя з архітэктурай %d-біт. Націсніце ніжэй, каб уключыць рэжым сумяшчальнасці праграм для аднаўлення гэтых праграм.</string>
+  <string name="restore_32bit_apps_page_title">Рэжым сумяшчальнасці праграм</string>
 </resources>

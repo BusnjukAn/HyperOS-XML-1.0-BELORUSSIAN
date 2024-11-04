@@ -2233,4 +2233,6 @@
   <string name="notification_compact_heads_up_reply">Адказаць</string>
   <string name="permdesc_bluetoothTransportEvent">Дазволіць паміж прыладамі</string>
   <string name="permlab_bluetoothTransportEvent">Падзеі Bluetooth паміж прыладамі</string>
+  <string name="satellite_notification_manual_summary">Адпраўляць і атрымліваць паведамленні без мабільнай або бесправадной сеткі</string>
+  <string name="satellite_notification_manual_title">Выкарыстоўваць спадарожнікавыя паведамленні?</string>
 </resources>

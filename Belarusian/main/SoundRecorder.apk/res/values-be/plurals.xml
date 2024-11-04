@@ -219,4 +219,10 @@
     <item quantity="one">%d новы запіс</item>
     <item quantity="few">%d новых запісы</item>
   </plurals>
+  <plurals name="recent_delete_tip">
+        <item quantity="other">Выдаленыя запісы можна аднавіць на працягу %d дзён</item>
+        <item quantity="one">Выдаленыя запісы можна аднавіць на працягу %d дня</item>
+        <item quantity="few">Выдаленыя запісы можна аднавіць на працягу %d дзён</item>
+        <item quantity="many">Выдаленыя запісы можна аднавіць на працягу %d дзён</item>
+    </plurals>
 </resources>

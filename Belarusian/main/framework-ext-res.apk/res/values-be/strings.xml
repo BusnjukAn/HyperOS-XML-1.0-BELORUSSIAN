@@ -676,4 +676,13 @@
   <string name="super_wallpaper_list_label">Суперашпалеры</string>
   <string name="wallpaper_glazed_valley_title">Глазура</string>
   <string name="wallpaper_softlight_title">Мяккае святло</string>
+  <string name="config_quick_scanner_notification_content_text">Скануйце QR-коды і наўпрост адкрывайце вэб-старонкі</string>
+  <string name="config_quick_scanner_notification_title">Хуткі сканар</string>
+  <string name="global_imac">Мой iMac</string>
+  <string name="global_ipad">Мой iPad</string>
+  <string name="global_iphone">Мой iPhone</string>
+  <string name="global_macbook">Мой MacBook</string>
+  <string name="global_macmini">Мой Mac mini</string>
+  <string name="global_macpro">Мой Mac Pro</string>
+  <string name="global_macstudio">Мой Mac Studio</string>
 </resources>

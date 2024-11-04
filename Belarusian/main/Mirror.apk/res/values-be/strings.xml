@@ -667,4 +667,7 @@
   <string name="cant_open_more_windows">Немагчыма адкрыць больш вокнаў</string>
   <string name="searchable_settings_desc">Пошук праграм на падлучаных прыладах</string>
   <string name="switch_wlan_success_china">Пераключана на тую ж сетку Wi-Fi</string>
+  <string name="secure_screen_hint">"Для абароны вашай прыватнасці,
+выканайце гэта дзеянне на сваім тэлефоне."</string>
+  <string name="subscreen_multi_window_tips">Вертыкальны дысплей не падтрымліваецца. Пераключыцеся назад на гарызантальны дысплей.</string>
 </resources>

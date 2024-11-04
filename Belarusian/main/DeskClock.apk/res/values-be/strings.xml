@@ -880,4 +880,9 @@ dd.MM"</string>
   <string name="world_edit_actionbar_title">Абярыце месцы</string>
   <string name="world_edit_local_default">"Мясцовы час | "</string>
   <string name="worldcolock_time_date_new">dd.MM</string>
+  <string name="aod_timer_pause">Таймер прыпынены</string>
+  <string name="aod_timer_running">Таймер запушчаны</string>
+  <string name="status_bar_alarm_alert">Званок будзільніка</string>
+  <string name="timer_pause_notification">Паўза</string>
+  <string name="timer_running_notification">Таймер</string>
 </resources>

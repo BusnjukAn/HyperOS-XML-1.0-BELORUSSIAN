@@ -7267,7 +7267,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="gb_margin_restrain_description">Ваша прылада будзе менш рэагаваць на выпадковыя дотыкi да бакоў</string>
   <string name="gb_margin_restrain_seekbar">Вобласць выпадковага дотыку</string>
   <string name="gb_smart_shake_description">Адчувальнасць да дробных жэстаў</string>
-  <string name="pc_charge_mode_low_power_fast_speed">Нізкая напруга</string>
+  <string name="pc_charge_mode_low_power_fast_speed">Паскорыць</string>
   <string name="pc_charge_mode_low_power_fast_speed_tips">Прылада можа награвацца</string>
   <string name="pc_charge_mode_standard">Стандарт</string>
   <string name="pc_charge_mode_topspeed">Максімальная хуткасць</string>
@@ -7462,7 +7462,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="connected_devices_for_files">Дазволіць \"%1$s\" доступ да файлаў гэтай прылады?</string>
   <string name="connected_devices_for_files_desc">Для доступу да файлаў паміж прыладамі</string>
   <string name="cs_gesture_effect_title_hint">Падтрымліваемыя жэсты</string>
-  <string name="cs_gesture_effect_title_summry">Дадавайце эфекты рэакцыі падчас відэавыклікаў і прамой трансляцыі з дапамогай жэстаў рук</string>
+  <string name="cs_gesture_effect_title_summry">Дадавайце эфекты рэакцыі падчас відэавыклікаў з дапамогай жэстаў рук</string>
   <string name="first_aid_dialog_ignore_message">%s. Вы можаце праігнараваць гэты аб\'ект, каб выключыць яго з будучых праверак. Праігнараваць?</string>
   <string name="first_aid_dialog_ignore_title">Ігнараваць аб\'екты</string>
   <string name="mode_size_center">Пасярэдзіне</string>
@@ -7498,4 +7498,35 @@ Xiaomi Gaming Cooler"</string>
   <string name="warningcenter_disaster_senlinhuozai">Лясны пажар на тэрыторыі</string>
   <string name="warningcenter_disaster_service_area">Вобласць абслугоўвання</string>
   <string name="warningcenter_disaster_shanhong">Горны паток</string>
+  <string name="ai_guard_post_brief_summary">Распазнае і папярэджвае аб ашуканскіх выкліках</string>
+  <string name="ai_guard_post_preference_summary">Адпраўляе абвестку пры выяўленні падазрэння на махлярства або падробку асобы падчас тэлефонных і відэавыклiкаў WeChat або QQ</string>
+  <string name="ai_guard_post_preference_title">Прадухіленне махлярства з дапамогай ШІ</string>
+  <string name="audio_optimization_summary_v2">Павялічвае паглыбленьне падчас гульні і аптымізуе шумапрыглушэнне</string>
+  <string name="combine_permission_action_foreground">Дазволіць пры выкарыстанні праграмы</string>
+  <string name="combine_permission_title">%1$s запытвае наступныя дазволы</string>
+  <string name="cs_gesture_effect_title">Разнаванне жэстаў рук</string>
+  <string name="cs_pickup_enhance">Пашыранае</string>
+  <string name="cs_pickup_private">Прыватнае</string>
+  <string name="cs_pickup_private_desc">Улоўліваць гук толькі ад пэўных карыстальнікаў</string>
+  <string name="cs_pickup_standard">Стандартнае</string>
+  <string name="cs_pickup_standard_desc">Улоўліванне гуку %1$d ступені</string>
+  <string name="cs_pickup_vioce_print_in_private_tips">Запішыце свой галасавы адбітак, каб мець магчымасць усталяваць шумапрыглушэнне на Прыватнае.</string>
+  <string name="cs_pickup_vioce_print_private_dialog_title">Запісаць галасавы адбітак</string>
+  <string name="cs_record_voice_title">Запіс</string>
+  <string name="cs_vt_camera_title">Крос-дэвайсная камера</string>
+  <string name="cta_combine_permission_title">Дазволы</string>
+  <string name="manage_notification_access_title">Чытанне, адказ на апавяшчэнні і кіраванне імі</string>
+  <string name="pc_first_use_error_tips">Вылічэнне</string>
+  <string name="pc_smart_charge_notify_summary_high_temp_protect">Каб абараніць прыладу ад перагрэву, зарадка будзе спынена, калі ўзровень зарада батарэі дасягне %1$s</string>
+  <string name="perm_desc_accessibility">Гэты дазвол патрабуецца для прагляду і кіравання экранам, працы праграм і апаратных датчыкаў у адпаведнасці з вашымі інструкцыямі і ўзаемадзеянні з праграмамi ад вашага імя.</string>
+  <string name="permdesc_coarse_location">Прыблізнае месцазнаходжанне</string>
+  <string name="permdesc_fine_location">Месцазнаходжанне</string>
+  <string name="permission_group_note">Падайце гэты дазвол, каб дазволіць праграме доступ да элементаў з Нататак.</string>
+  <string name="permission_group_record">Падайце гэты дазвол, каб дазволіць праграме доступ да элементаў з Дыктафона.</string>
+  <string name="permission_instruction_read_note">Доступ да нататак</string>
+  <string name="permission_instruction_read_record">Доступ да запісаў</string>
+  <string name="system_permission_declare_optional_default_grant"><Data>Для забеспячэння лепшага карыстацкага досведу гэтай праграме патрабуюцца наступныя дадатковыя дазволы: %1s. Для атрымання больш падрабязнай інфармацыі аб тым, як мы апрацоўваем вашу асабістую інфармацыю, націсніце &lt;a href=\"test\">тут&lt;/a>. Вы можаце кіраваць сваімі дазволамі ў любы час у наладах.</Data></string>
+  <string name="title_request_perm_accessibility">Дазволіць %1$s кіраваць вашай прыладай?</string>
+  <string name="usage_access_title">Доступ да статыстыкі выкарыстання</string>
+  <string name="location_services_title">Службы вызначэння месцазнаходжання</string>
 </resources>

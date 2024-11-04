@@ -1334,4 +1334,9 @@
   <string name="gps_prompt_title">Парады</string>
   <string name="cta_dialog_message">Каб працаваць нармальна, праграме неабходны дазвол на доступ да медыяфайлаў і спісу праграм, усталяваных на гэтай прыладзе. Даць гэтыя дазволы зараз?</string>
   <string name="cta_dialog_title">Немагчыма выкарыстоўваць Ачыстку зараз</string>
+  <string name="notifications_permission_confirm">Дазволіць</string>
+  <string name="notifications_permission_decline">Не дазваляць</string>
+  <string name="notifications_permission_title">Дазволіць праграме адпраўляць вам паведамленні?</string>
+  <string name="offline_dialog_image_description">Значок</string>
+  <string name="offline_dialog_text">Дзякуй за праяўлены інтарэс!\nМы абагулім з вамі больш інфармацыі, калі вы зноў падключыцеся да інтэрнэту.</string>
 </resources>

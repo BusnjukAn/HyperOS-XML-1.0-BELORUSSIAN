@@ -361,4 +361,12 @@
         <item quantity="one">Тэмпература: %1$s градус, %2$s</item>
         <item quantity="few">Тэмпература: %1$s градуса, %2$s</item>
     </plurals>
+    <plurals name="ai_generate_progress">
+        <item quantity="other">Гэта зойме каля %s сек.</item>
+     </plurals>
+     <plurals name="author_follow">
+        <item quantity="other">%d падпісчыкаў</item>
+        <item quantity="one">%d падпісчык</item>
+        <item quantity="few">%d падпісчыка</item>
+    </plurals>
 </resources>

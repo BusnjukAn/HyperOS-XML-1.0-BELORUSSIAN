@@ -633,7 +633,7 @@
   <string name="terms_of_use_label_translation">Служба перакладу</string>
   <string name="terms_of_use_label_unionplay_security">Элемент бяспекі UnionPay TSM (версія для Xiaomi)</string>
   <string name="terms_of_use_label_updater">Абнаўленне</string>
-  <string name="terms_of_use_label_use_location_and_network_global">Перш чым выкарыстаць сістэму, прачытайце і прыміце нашыя Карыстальніцкую дамову і Палітыку прыватнасці, якія распаўсюджваюцца на праграмы Xiaomi, усталяваныя на вашым прыладзе (напрыклад, Галерэя, Музыка, Браўзер, Тэмы і т. д.). Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з законамі, правіламі і палітыкамі прыватнасці. Калі ваша прылада актывавана, наступныя службы падлучацца да сеткі і атрымаюць доступ да вашага месцазнаходжання:</string>
+  <string name="terms_of_use_label_use_location_and_network_global">Перад выкарыстаннем сістэмы прачытайце і пагадзіцеся з нашым Карыстальніцкім пагадненнем і Палітыкай прыватнасці, якія ахопліваюць праграмы Xiaomi, прадусталяваныя на вашай прыладзе (напрыклад, Галерэя, Музыка, Тэмы). Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з законамі, правіламі і палітыкамі прыватнасці. Калі ваша прылада актываваная, наступныя службы падключацца да сеткі і атрымаюць доступ да вашага месцазнаходжання:</string>
   <string name="terms_of_use_label_use_network_china">Перад выкарыстаннем сiстэмы вы павінны прачытаць і прыняць наша Пагадненне карыстальніка і Палітыку прыватнасці. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з адпаведнымі законамі, пастановамі і палітыкамі прыватнасці. Калі ваша прылада будзе актывавана, да сеткі будуць падлучаныя наступныя службы:</string>
   <string name="terms_of_use_label_wallpaper">Шпалеры</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">\n\nПерад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку прыватнасцi Facemoji.</string>
@@ -858,4 +858,35 @@
   <string name="require_telephone_location">Доступ да месцазнаходжання</string>
   <string name="require_telephone_location_summary">Для доступу да прыблізнага месцазнаходжання і прадастаўлення паслуг аптымізацыі сеткі на аснове месцазнаходжання</string>
   <string name="require_telephone_statement">Для прадастаўлення асноўных паслуг патрабуюцца наступныя дазволы:</string>
+  <string name="check_box_label_new"><Data>"Вы можаце выкарыстоўваць Узаемазвязнасць Xiaomi для кіравання і перадачы дадзеных паміж прыладамі. Прыміце &lt;a href=%1$s>Палітыку прыватнасці&lt;/a> Узаемазвязнасцi Xiaomi перад выкарыстаннем яго функцый. Гэтаму з дадаткам неабходна падлучэнне да Інтэрнэту і наступныя дазволы:"</Data></string>
+  <string name="font_size_title">Памер тэксту</string>
+  <string name="image_brain_configuration_service">Служба канфігурацыі механізму апрацоўкі выяў Xiaomi</string>
+  <string name="interconnection_service_permission1">Уключэнне і выключэнне Bluetooth</string>
+  <string name="interconnection_service_permission10">Для выяўлення бліжэйшых прылад</string>
+  <string name="interconnection_service_permission11">Перадача дадзеных паміж прыладамі</string>
+  <string name="interconnection_service_permission12">Для перадачы дадзеных паміж падлучанымі прылады</string>
+  <string name="interconnection_service_permission13">Доступ да змесціва экрана</string>
+  <string name="interconnection_service_permission14">Для доступу да змесціва экрана падчас запісу або трансляцыі, уключаючы канфідэнцыйную інфармацыю, такую ​​як аўдыё, паролі, аплатныя паролі, фатаграфіі, паведамленні і г.д.</string>
+  <string name="interconnection_service_permission15">Доступ да гісторыі выклікаў</string>
+  <string name="interconnection_service_permission16">Для перадачы выклікаў паміж прыладамі падчас трансляцыі экрана</string>
+  <string name="interconnection_service_permission17">Доступ да спісу ўсталяваных прыкладанняў</string>
+  <string name="interconnection_service_permission18">Для доступу да спісу прыкладанняў, усталяваных на мабільнай прыладзе, і трансляцыі экрана на кампутарах</string>
+  <string name="interconnection_service_permission2">Для падлучэння і перадачы дадзеных паміж двума прыладамі</string>
+  <string name="interconnection_service_permission3">Уключэнне і выключэнне Wi-Fi</string>
+  <string name="interconnection_service_permission4">Для перадачы дадзеных паміж двума прыладамі праз Wi-Fi</string>
+  <string name="interconnection_service_permission5">Запіс гуку</string>
+  <string name="interconnection_service_permission6">Для запісу гуку прылады пры трансляцыі і люстэркаванні</string>
+  <string name="interconnection_service_permission7">Доступ і рэдагаванне фатаграфій і файлаў на вашай прыладзе</string>
+  <string name="interconnection_service_permission8">Для трансляцыі і перадачы кантэнту з гэтай прылады</string>
+  <string name="interconnection_service_permission9">Ідэнтыфікатар доступу да прылады</string>
+  <string name="interconnection_service_summary_china_new">%1$s Функцыі Узаемазвязнасцi Xiaomi, даступныя на вашай прыладзе, могуць адрознівацца з-за адрозненняў у версіях сістэмы і мадэлях прылад. Больш падрабязную інфармацыю гл. на нашым афіцыйным сайце (%2$s).</string>
+  <string name="layout_size_large">Вялікі</string>
+  <string name="layout_size_normal">Звычайны</string>
+  <string name="prompt_fingerprint">Для вашага ўліковага запісу ўключаная пашыраная абарона дадзеных. Усталюйце блакаванне экрана для гэтай прылады.</string>
+  <string name="provision_complete_text">Працягнуць</string>
+  <string name="sample_text_summary">Xiaomi нястомна стварае цудоўныя прадукты па сумленных цэнах, каб дазволіць кожнаму ў свеце атрымліваць асалоду ад лепшага жыцця з дапамогай інавацыйных тэхналогій.</string>
+  <string name="sample_text_title">Прыклад тэксту:</string>
+  <string name="study_full_screen_gesture_text">Вывучыце жэсты навігацыі</string>
+  <string name="terms_and_statement_title">Умовы і палажэнні</string>
+  <string name="terms_of_use_label_use_network_china_append">Калі ваша прылада актывавана, да сеткі падлучаюцца наступныя службы:</string>
 </resources>

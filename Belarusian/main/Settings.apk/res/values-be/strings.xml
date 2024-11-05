@@ -12062,7 +12062,7 @@
   <string name="enhanced_ai_applications">Паскарэнне праграм ШІ</string>
   <string name="enhanced_ai_applications_summary">Выкарыстоўвайце ШІ для абнаўлення праграм і атрымлівайце асалоду ад больш інтэлектуальных паслуг</string>
   <string name="hearing_stream_option">Параметры гуку</string>
-  <string name="impunity_declaration_content">"Сканеру неабходна выкарыстоўваць вашу камеру і апрацоўваць выявы, якія вы робіце падчас выкарыстання праграмы. Не выкарыстоўвайце Сканар для фатаграфавання аб\'ектаў, якія змяшчаюць вашу асабістую інфармацыю. Націскаючы \"Згодзен\", вы згаджаецеся з нашай &lt ;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font> і дазваляеце Сканеру падлучацца да Інтэрнэту."</string>
+  <string name="impunity_declaration_content">"Сканеру неабходна выкарыстоўваць вашу камеру і апрацоўваць выявы, якія вы робіце падчас выкарыстання праграмы. Не выкарыстоўвайце Сканар для фатаграфавання аб\'ектаў, якія змяшчаюць вашу асабістую інфармацыю. Націскаючы \"Згодзен\", вы згаджаецеся з нашай &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font> і дазваляеце Сканеру падлучацца да Інтэрнэту."</string>
   <string name="impunity_declaration_negative_text">Выхад</string>
   <string name="keyboard_layout_not_support_hint">Непадтрымліваемая раскладка</string>
   <string name="lamp_effect_settings">Эфекты</string>

@@ -315,8 +315,8 @@
   <string name="circulate_tv_capturing">Здымак экрана…</string>
   <string name="circulate_tv_is_authing_tip">Ідзе праверка прылад. Пачакайце хвіліну цi дзве і паўтарыце спробу.</string>
   <string name="circulate_tv_name">Тэлевiзар Xiaomi</string>
-  <string name="circulate_tv_power_alter_text">Вы выключылі сілкаванне ці экран тэлевізара. Пульты і тэлевізары знікнуць адсюль пасля адключэння сілкавання тэлевізара.</string>
-  <string name="circulate_tv_power_alter_title">Увага</string>
+  <string name="circulate_tv_power_alter_text">Пасля выключэння тэлевізара пульт і тэлевізар знікнуць з гэтай старонкі. Выключыць зараз?</string>
+  <string name="circulate_tv_power_alter_title">Выключыць тэлевізар</string>
   <string name="circulate_video_capture_fail">Не атрымалася стварыць здымак экрана</string>
   <string name="circulate_video_capture_success">Здымак экрана створаны</string>
   <string name="circulate_video_retry_later">Спроба кіравання тэлевізарам…</string>
@@ -1559,4 +1559,25 @@
   <string name="self_watch">Мой гадзіннік</string>
   <string name="unlock_screen_to_authorize_camera_car">%s атрымлівае доступ да камеры гэтай прылады</string>
   <string name="upgrade_toast_login_error">Уключыце \"Усталяваць часавы пояс аўтаматычна\" ў Наладах і паспрабуйце яшчэ раз</string>
+  <string name="circulate_card_tv_full_screen">Ва ўвесь экран</string>
+  <string name="circulate_card_tv_notes_button_cancel">Адмена</string>
+  <string name="circulate_card_tv_notes_button_confirm">Даслаць</string>
+  <string name="circulate_card_tv_notes_edittext_hint">Увядзіце не больш за %d сімвалаў</string>
+  <string name="circulate_card_tv_notes_edittext_success_toast">Нататка-стыкер на тэлевізары размешчана</string>
+  <string name="circulate_card_tv_notes_edittext_toast">Нататкі могуць змяшчаць да %d сімвалаў</string>
+  <string name="circulate_card_tv_notes_send_error">Не атрымалася адправіць. Праверце налады сеткавага падключэння і паспрабуйце яшчэ раз.</string>
+  <string name="circulate_card_tv_notes_subtitle">Увядзіце нататку, якая будзе адлюстроўвацца на застаўцы тэлевізара</string>
+  <string name="circulate_card_tv_notes_text">Нататка-стыкер на тэлевізары</string>
+  <string name="circulate_card_tv_notes_title">Нататка-стыкер на тэлевізары</string>
+  <string name="circulate_card_tv_pip_state_send_error">Адбылася памылка. Праверце настройкі сеткавага падключэння і паспрабуйце яшчэ раз.</string>
+  <string name="circulate_card_tv_screen">Трансляцыя</string>
+  <string name="circulate_card_tv_screen_state">Трансляцыя</string>
+  <string name="circulate_card_tv_small_screen">Відарыс у відарысе</string>
+  <string name="circulate_card_tv_stop_screen">Спыніць трансляцыю</string>
+  <string name="introduction_to_accessibility_message">Злучальнасць дазваляе кіраваць дадзенымі і перадаваць іх паміж прыладамі.\n\nУключыце спецыяльныя магчымасці, каб іншыя праграмы не маглі выкарыстоўваць мікрафон пры выкарыстанні Злучальнасці.\n\nЗаўвага: пры ўключэнні спецыяльных магчымасцяў вы атрымаеце стандартнае сістэмнае папярэджанне. Не хвалюйцеся, Злучальнасць не парушыць вашы правы пры выкарыстанні гэтых функцый.</string>
+  <string name="temperature_warning_dialog_message">Прылада перагрэлася. Пачакайце, пакуль яна астыне, перш чым дзяліцца выявай з камеры.</string>
+  <string name="temperature_warning_dialog_positive_button">Зразумела</string>
+  <string name="temperature_warning_dialog_title">Выкарыстанне камеры для некалькіх прылад немагчыма</string>
+  <string name="tv_remote_auth_cancel">Адмена</string>
+  <string name="tv_remote_auth_title">Увядзіце праверачны код тэлевізара</string>
 </resources>

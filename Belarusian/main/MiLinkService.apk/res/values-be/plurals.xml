@@ -171,4 +171,8 @@
        <item quantity="other">Чакаючых шаблонаў: %1$d</item>
        <item quantity="one">Чакаючых шаблонаў: %1$d</item>
     </plurals>
+  <plurals name="tv_remote_auth_count_down">
+    <item quantity="other">Увядзіце код %1$s (%2$d сек.)</item>
+    <item quantity="one">Увядзіце код %1$s (%2$d сек.)</item>
+  </plurals>
 </resources>

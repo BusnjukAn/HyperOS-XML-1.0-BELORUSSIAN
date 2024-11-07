@@ -2052,4 +2052,20 @@
   <string name="vlog_talkback_view_play">Прайграць</string>
   <string name="ai_cannot_scrolling_with_the_screen">"Немагчыма ўключыць пракрутку для гэтых шпалер"</string>
   <string name="carousel_no_set_wallpaper_effects">"Немагчыма ўсталяваць эфекты, калі ўключаная Карусель шпалер"</string>
+  <string name="ai_generate_waiting">Цяпер у чарзе занадта шмат людзей, паспрабуйце пазней!</string>
+  <string name="bottomsheet_action_collapse">Згарнуць ніжні ліст</string>
+  <string name="bottomsheet_action_expand">Разгарнуць ніжні ліст</string>
+  <string name="bottomsheet_drag_handle_clicked">Падвойны націск на маркер перамяшчэння</string>
+  <string name="bottomsheet_drag_handle_content_description">Маркер перамяшчэння</string>
+  <string name="kg_classic_item_type_date">Дата</string>
+  <string name="kg_classic_item_type_health">Здароўе</string>
+  <string name="kg_classic_item_type_time">Час</string>
+  <string name="kg_classic_item_type_weather">Надвор\'е</string>
+  <string name="kg_wallpaper_scroll_type_disable_tips">Для забеспячэння эфекту шпалер пракрутка экрана не прымяняецца</string>
+  <string name="miui_aesthetics_a_data_format">dd.M EEE</string>
+  <string name="miui_clock_os2_pad_exclusive_b_air_quality">IЯП</string>
+  <string name="miui_clock_os2_pad_exclusive_b_ultraviolet_radiation">УФ-індэкс</string>
+  <string name="miui_clock_pad_exclusive_b_format_week_full_date">dd.M EE</string>
+  <string name="miui_eastern_art_b_data_view_format">d.M</string>
+  <string name="miui_eastern_art_b_week_view_format">EEE</string>
 </resources>

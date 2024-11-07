@@ -1267,4 +1267,9 @@
   <string name="xiaomi_overlay_agree_desc">Пагадзіцеся з Правіламі і ўмовамі ШI-пісьменніка, каб выкарыстоўваць магчымасці гэтага сэрвісу.</string>
   <string name="xiaomi_overlay_agree_title">Нататкі не могуць адлюстроўваць усплываючыя вокны ў іншых праграмах</string>
   <string name="super_summary_tips">Пры выкарыстанні бэта-версіі рэкамендуецца ўключыць воблачныя сэрвісы або лакальнае рэзервовае капіяванне дадзеных.</string>
+  <string name="ai_generating_check">Карэктура тэксту…</string>
+  <string name="ai_generating_stop_check">Спыніць</string>
+  <string name="ai_title_stop_extension">Спыніць пашырэнне</string>
+  <string name="ai_title_stop_polish">Спыніць дапрацоўку</string>
+  <string name="ai_title_stop_summary">Спыніць стварэнне зводкі</string>
 </resources>

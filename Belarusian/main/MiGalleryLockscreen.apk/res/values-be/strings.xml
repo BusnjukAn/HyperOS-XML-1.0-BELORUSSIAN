@@ -1159,4 +1159,12 @@
   <string name="sst_common_question">Частыя пытанні</string>
   <string name="surprise_wallpaper_can_not_support_tip">Ваша прылада зараз не падтрымлівае гэтую функцыю!</string>
   <string name="apply_warning_content_with_linked_wallpaper">У цяперашні час вы выкарыстоўваеце набор шпалер. Калі вы прыменіце новыя шпалеры, працоўны стол і экран блакавання будуць заменены, а заўсёды уключаны дысплей можа быць адноўлены да ранейшага стылю. Ужыць зараз?</string>
+  <string name="lks_apply_wallpaper_dlg_apply">Ужыць</string>
+  <string name="lks_apply_wallpaper_dlg_apply_success_toast">Ужыта паспяхова</string>
+  <string name="lks_apply_wallpaper_dlg_cancel">Адмена</string>
+  <string name="lks_apply_wallpaper_dlg_title">Ужыць гэтыя шпалеры?</string>
+  <string name="lks_click_for_new_wallpaper">Націсніце, каб прагледзець новыя шпалеры</string>
+  <string name="lks_click_to_add_to_carousel">Націсніце, каб дадаць у слайд-шоў</string>
+  <string name="sst_my_wallpaper_desc">Прагледзець шпалеры з Каруселі шпалер</string>
+  <string name="sst_my_wallpaper_title">Мае шпалеры</string>
 </resources>

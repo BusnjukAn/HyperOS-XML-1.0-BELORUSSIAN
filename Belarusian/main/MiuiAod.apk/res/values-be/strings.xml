@@ -298,7 +298,7 @@
   <string name="kg_guidance_dialog_title">Абсалютна новы персаналізаваны экран блакавання</string>
   <string name="kg_hierarchy_loading_tip">Выяўленне слаёў…</string>
   <string name="kg_hierarchy_not_support_avoid_tip">Наладзьце становішча шпалер, каб зрабіць бачным эфект глыбіні</string>
-  <string name="kg_hierarchy_not_support_gallery_tip">Немагчыма ўключыць эфект глыбіні пры выкарыстанні слайд-шоў шпалер</string>
+  <string name="kg_hierarchy_not_support_gallery_tip">Немагчыма прымяніць эфекты глыбіні да элементаў слайд-шоў</string>
   <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">Шпалеры іншых вытворцаў не падтрымліваюць эфекты глыбіні</string>
   <string name="kg_hierarchy_not_support_wallpaper_tip">Гэтыя шпалеры не падтрымліваюць эфект глыбіні</string>
   <string name="kg_magazine_a_b_primary_color_label">Гадзіннік</string>

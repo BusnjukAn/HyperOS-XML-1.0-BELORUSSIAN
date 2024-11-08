@@ -12090,4 +12090,5 @@
   <string name="system_personalize_title">Персаналізацыя</string>
   <string name="unchecked_app_title">Светлавыя эфекты выключаны</string>
   <string name="voice_assist_summary">Ваш персанальны разумны памочнік</string>
+  <string name="factory_reset_loading">Выкананне скіду да заводскіх налад…</string>
 </resources>

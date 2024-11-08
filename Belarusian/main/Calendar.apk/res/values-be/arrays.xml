@@ -1,130 +1,522 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="additional_cal_dialog_labels">
-        <item>Няма</item>
-        <item>Хіджра Самват</item>
-        <item>Шака Самват</item>
-        <item>Вікрамі Самват</item>
+  <string-array name="aqi_level_desc">
+    <item>Выдатнае паветра</item>
+    <item>Добрае паветра</item>
+    <item>Умеранае паветра</item>
+    <item>Нездаровае паветра</item>
+    <item>Забруджанае паветра</item>
+    <item>Небяспечнае паветра</item>
+  </string-array>
+  <string-array name="aqi_level_simple_desc">
+    <item>Выдатнае</item>
+    <item>Добрае</item>
+    <item>Умеранае</item>
+    <item>Нездаровае</item>
+    <item>Забруджанае</item>
+    <item>Небяспечнае</item>
+  </string-array>
+  <string-array name="aquarius_info">
+    <item>aquarius</item>
+    <item>Вадалей</item>
+  </string-array>
+  <string-array name="aries_info">
+    <item>aries</item>
+    <item>Авен</item>
+  </string-array>
+  <string-array name="availability">
+    <item>Заняты</item>
+    <item>Даступны</item>
+    <item>Не вызначаны</item>
+  </string-array>
+  <string-array name="buttons_list">
+    <item>Дзень</item>
+    <item>Тыдзень</item>
+    <item>Месяц</item>
+    <item>Парадак дня</item>
+  </string-array>
+  <string-array name="cancer_info">
+    <item>cancer</item>
+    <item>Рак</item>
+  </string-array>
+  <string-array name="capricorn_info">
+    <item>capricorn</item>
+    <item>Казярог</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item>Толькі гэта падзея</item>
+    <item>Усе падзеі ў серыі</item>
+  </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Толькі ў гэты раз</item>
+    <item>Адключыць паўтор напамінку</item>
+  </string-array>
+  <string-array name="date_calculate_spinner">
+    <item>Наперад</item>
+    <item>Назад</item>
+  </string-array>
+  <string-array name="default_reminder_labels">
+    <item>Падчас падзей</item>
+    <item>За 5 хвілін</item>
+    <item>За 15 хвілін</item>
+    <item>За 30 хвілін</item>
+    <item>За 1 гадзіну</item>
+    <item>За 4 гадзіны</item>
+    <item>За дзень</item>
+    <item>За 2 дні</item>
+    <item>За тыдзень</item>
+  </string-array>
+  <string-array name="default_reminder_later_time_labels">
+    <item>5 хв.</item>
+    <item>10 хв.</item>
+    <item>15 хв.</item>
+    <item>30 хв.</item>
+    <item>1 гадзіна</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item>Толькі гэта падзея</item>
+    <item>Гэта і будучая падзея</item>
+    <item>Усе падзеі</item>
+  </string-array>
+  <string-array name="delete_repeating_labels_no_selected">
+    <item>Гэтае і будучыя мерапрыемствы</item>
+    <item>Усе мерапрыемствы</item>
+  </string-array>
+  <string-array name="edit_event_dislike">
+    <item>Няма тыпу падзеі, якую я хачу стварыць</item>
+    <item>Дадатковыя налады</item>
+    <item>Некаторыя параметры не могуць быць вызначаны</item>
+    <item>Проста паглядзеў</item>
+    <item>Не хачу казаць</item>
+  </string-array>
+  <string-array name="entryvalues_settings_debug">
+    <item>Не</item>
+    <item>Экспартаваць і адправіць часопіс</item>
+    <item>Захаваць часопіс</item>
+	<item>Прагляд ідэнтыфікатара статыстычнай прылады</item>
+    <item>Неадкладна абнавіць канфігурацыю сервера</item>
+  </string-array>
+  <string-array name="fortune_gender">
+        <item>Мужчына</item>
+        <item>Жанчына</item>
+  </string-array>
+  <string-array name="gemini_info">
+    <item>gemini</item>
+    <item>Двайняты</item>
+  </string-array>
+  <string-array name="global_criket_match">
+    <item>IPL</item>
+    <item>Міжнародны</item>
+    <item>Унутраны</item>
+    <item>Т20 Лігі</item>
+  </string-array>
+  <string-array name="leo_info">
+    <item>leo</item>
+    <item>Леў</item>
+  </string-array>
+  <string-array name="libra_info">
+    <item>libra</item>
+    <item>Шалі</item>
+  </string-array>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Толькі ў гэты раз</item>
+    <item>Усталяваць паўтор напамінку</item>
+  </string-array>
+  <string-array name="ordinal_labels">
+    <item>першы</item>
+    <item>другі</item>
+    <item>трэці</item>
+    <item>чацвёрты</item>
+    <item>апошні</item>
+  </string-array>
+  <string-array name="pisces_info">
+    <item>pisces</item>
+    <item>Рыбы</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_popup">
+    <item>Адкл.</item>
+    <item>Для ўсіх падзей</item>
+    <item>Для найбольш важных падзей</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_vibrateWhen">
+    <item>Заўсёды</item>
+    <item>Толькі ў бязгучным рэжыме</item>
+    <item>Ніколі</item>
+  </string-array>
+  <string-array name="preferences_default_reminder_labels">
+    <item>Не нагадваць</item>
+    <item>Па факце</item>
+    <item>За 5 хвілін</item>
+    <item>За 10 хвілін</item>
+    <item>За 15 хвілін</item>
+    <item>За 30 хвілін</item>
+    <item>За гадзіну</item>
+    <item>За дзень</item>
+    <item>За 2 дні</item>
+    <item>За тыдзень</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_labels">
+    <item>Рэгіянальныя налады</item>
+    <item>Субота</item>
+    <item>Нядзеля</item>
+    <item>Панядзелак</item>
+  </string-array>
+  <string-array name="quick_response_defaults">
+    <item>Спазнюся на некалькі хвілін.</item>
+    <item>Буду там праз 10 хвілін.</item>
+    <item>Пачынайце без мяне.</item>
+    <item>Выбачайце, я не магу гэтага зрабіць. Трэба перагледзець расклад.</item>
+  </string-array>
+  <string-array name="reminder_methods_labels">
+    <item>Паведамленне</item>
+    <item>Email</item>
+    <item>SMS</item>
+    <item>Будзільнік</item>
+  </string-array>
+  <string-array name="reminder_minutes_labels">
+    <item>Не нагадваць</item>
+    <item>Па факце</item>
+    <item>За 5 хвілін</item>
+    <item>За 10 хвілін</item>
+    <item>За 15 хвілін</item>
+    <item>За 30 хвілін</item>
+    <item>За гадзіну</item>
+    <item>За дзень</item>
+    <item>За 2 дні</item>
+    <item>За тыдзень</item>
+  </string-array>
+  <string-array name="repeat_choose_day">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+    <item>23</item>
+    <item>24</item>
+    <item>25</item>
+    <item>26</item>
+    <item>27</item>
+    <item>28</item>
+    <item>29</item>
+    <item>30</item>
+    <item>31</item>
+  </string-array>
+  <string-array name="repeat_choose_end">
+    <item>Ніколі</item>
+    <item>Час</item>
+    <item>Таймер</item>
+  </string-array>
+  <string-array name="repeat_choose_month">
+    <item>Студ</item>
+    <item>Лют</item>
+    <item>Сак</item>
+    <item>Крас</item>
+    <item>Трав</item>
+    <item>Чэрв</item>
+    <item>Ліп</item>
+    <item>Жнів</item>
+    <item>Вер</item>
+    <item>Каст</item>
+    <item>Ліст</item>
+    <item>Снеж</item>
+  </string-array>
+  <string-array name="repeat_choose_week_left">
+    <item>першы</item>
+    <item>другі</item>
+    <item>трэці</item>
+    <item>чацвёрты</item>
+    <item>апошні</item>
+  </string-array>
+  <string-array name="repeat_choose_week_right">
+    <item>Пн - Пт</item>
+    <item>Выхадныя</item>
+    <item>Увесь тыдзень</item>
+  </string-array>
+  <string-array name="repeat_choose_weekday">
+    <item>Пн</item>
+    <item>Аўт</item>
+    <item>Ср</item>
+    <item>Чц</item>
+    <item>Пт</item>
+    <item>Сб</item>
+    <item>Нд</item>
+  </string-array>
+  <string-array name="repeat_countdown">
+    <item>Ніколі</item>
+    <item>Штомесяц</item>
+    <item>Штогод</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner">
+    <item>дзень</item>
+    <item>тыдзень</item>
+    <item>месяц</item>
+    <item>год</item>
+  </string-array>
+  <string-array name="repeat_monthly_on_day_count_values">
+    <item>першы панядзелак</item>
+    <item>першы аўторак</item>
+    <item>першая серада</item>
+    <item>першы чацвер</item>
+    <item>першая пятніца</item>
+    <item>першая субота</item>
+    <item>першая нядзеля</item>
+    <item>другі панядзелак</item>
+    <item>другі аўторак</item>
+    <item>другая серада</item>
+    <item>другі чацвер</item>
+    <item>другая пятніца</item>
+    <item>другая субота</item>
+    <item>другая нядзеля</item>
+    <item>трэці панядзелак</item>
+    <item>трэці аўторак</item>
+    <item>трэцяя серада</item>
+    <item>трэці чацвер</item>
+    <item>трэцяя пятніца</item>
+    <item>трэцяя субота</item>
+    <item>трэцяя нядзеля</item>
+    <item>чацвёрты панядзелак</item>
+    <item>чацвёрты аўторак</item>
+    <item>чацвёртая серада</item>
+    <item>чацвёрты чацвер</item>
+    <item>чацвёртая пятніца</item>
+    <item>чацвёртая субота</item>
+    <item>чацвёртая нядзеля</item>
+    <item>апошні панядзелак</item>
+    <item>апошні аўторак</item>
+    <item>апошняя серада</item>
+    <item>апошні чацвер</item>
+    <item>апошняя пятніца</item>
+    <item>апошняя субота</item>
+    <item>апошняя нядзеля</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item>Няма адказу</item>
+    <item>Так</item>
+    <item>Можа быць</item>
+    <item>Не</item>
+  </string-array>
+  <string-array name="sagittarius_info">
+    <item>sagittarius</item>
+    <item>Стралец</item>
+  </string-array>
+  <string-array name="scorpio_info">
+    <item>scorpio</item>
+    <item>Скарпіён</item>
+  </string-array>
+  <string-array name="summary_card_text_chain">
+    <item>[Падпішыцеся] для выкарыстання асабістага календара</item>
+    <item>[Падпішыцеся], каб наладзіць свой асабісты календар Xiaomi</item>
+    <item>[Падпішыцеся] для індывідуальных магчымасцяў календара</item>
+    <item>[Падпішыцеся] для пошука розных сэрвісаў календара</item>
+  </string-array>
+  <string-array name="taurus_info">
+    <item>taurus</item>
+    <item>Цяля</item>
+  </string-array>
+  <string-array name="timezone_labels_v3">
+    <item>Маршалавы выспы</item>
+    <item>Мідўэй Айлэнд</item>
+    <item>Гаваі</item>
+    <item>Аляска</item>
+    <item>Ціхаакіянскi час</item>
+    <item>Тихуана</item>
+    <item>Арызона</item>
+    <item>Чыхуахуа</item>
+    <item>Горнае час</item>
+    <item>Цэнтральная Амерыка</item>
+    <item>Цэнтральнае час</item>
+    <item>Мехіка</item>
+    <item>Паўночна-заходнія тэрыторыі</item>
+    <item>Багата</item>
+    <item>Усходняе час</item>
+    <item>Венесуэла</item>
+    <item>Атлантычны час (Барбадас)</item>
+    <item>Атлантычны час (Канада)</item>
+    <item>Манаус</item>
+    <item>Сант\'яга</item>
+    <item>Ньюфаўндленд</item>
+    <item>Бразіліа</item>
+    <item>Буэнас айрэс</item>
+    <item>Грэнландыя</item>
+    <item>Монтавідэа</item>
+    <item>Цэнтр. Атлантыка</item>
+    <item>Азорскія выспы</item>
+    <item>Каба-Вэрдэ</item>
+    <item>Касабланка</item>
+    <item>Лондан</item>
+    <item>Дублін</item>
+    <item>Амстэрдам</item>
+    <item>Берлін</item>
+    <item>Бялград</item>
+    <item>Брусэль</item>
+    <item>Сараева</item>
+    <item>Виндхук</item>
+    <item>Усходне-Афрыканскi час</item>
+    <item>Аман</item>
+    <item>Афіны</item>
+    <item>Стамбул</item>
+    <item>Бейрут</item>
+    <item>Каір</item>
+    <item>Хельсінкі</item>
+    <item>Ерусалім</item>
+    <item>Мінск</item>
+    <item>Харарэ</item>
+    <item>Багдад</item>
+    <item>Масква</item>
+    <item>Кувейт</item>
+    <item>Найробі</item>
+    <item>Тэгеран</item>
+    <item>Баку</item>
+    <item>Тбілісі</item>
+    <item>Ерэван</item>
+    <item>Дубай</item>
+    <item>Кабул</item>
+    <item>Карачы</item>
+    <item>Уральск</item>
+    <item>Екацярынбург</item>
+    <item>Калькута</item>
+    <item>Шры-Ланка</item>
+    <item>Катманду</item>
+    <item>Астана</item>
+    <item>Янгон</item>
+    <item>Краснаярск</item>
+    <item>Бангкок</item>
+    <item>Пекін</item>
+    <item>Чунцын</item>
+    <item>Ганконг</item>
+    <item>Макао</item>
+    <item>Сінгапур</item>
+    <item>Іркуцк</item>
+    <item>Куала-Лумпур</item>
+    <item>Перт</item>
+    <item>Тайбэй</item>
+    <item>Сеул</item>
+    <item>Токіо</item>
+    <item>Якутск</item>
+    <item>Адэлаіда</item>
+    <item>Дарвін</item>
+    <item>Брысбэн</item>
+    <item>Хобарт</item>
+    <item>Сіднэй</item>
+    <item>Канбера</item>
+    <item>Уладзівасток</item>
+    <item>Гуам</item>
+    <item>Магадан</item>
+    <item>Окленд</item>
+    <item>Фіджы</item>
+    <item>Тонга</item>
+  </string-array>
+  <string-array name="travel_reminder_minutes_labels">
+    <item>За 3 гадзіны</item>
+    <item>За 4 гадзіны</item>
+    <item>За 5 гадзін</item>
+    <item>За 6 гадзін</item>
+    <item>За дзень</item>
+  </string-array>
+  <string-array name="virgo_info">
+    <item>virgo</item>
+    <item>Дзева</item>
+  </string-array>
+  <string-array name="visibility">
+    <item>Па змаўчанні</item>
+    <item>Закрытае</item>
+    <item>Для ўсіх</item>
+  </string-array>
+  <string-array name="week_header_name">
+    <item>НД</item>
+    <item>ПН</item>
+    <item>АЎ</item>
+    <item>СР</item>
+    <item>ЧЦ</item>
+    <item>ПТ</item>
+    <item>СБ</item>
+  </string-array>
+  <string-array name="widget_style_list">
+    <item>Празрысты</item>
+    <item>Белы фон</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_popup_new">
+        <item>Выключана</item>
+        <item>Для ўсіх падзей</item>
+        <item>Для падзей, адчувальных да часу</item>
+   </string-array>
+   <string-array name="year_view_week_header_name">
+    <item>НД</item>
+    <item>ПН</item>
+    <item>АЎ</item>
+    <item>СР</item>
+    <item>ЧЦ</item>
+    <item>ПТ</item>
+    <item>СБ</item>
+   </string-array>
+   <string-array name="year_view_week_header_name_other">
+    <item>НД</item>
+    <item>ПН</item>
+    <item>АЎ</item>
+    <item>СР</item>
+    <item>ЧЦ</item>
+    <item>ПТ</item>
+    <item>СБ</item>
     </string-array>
-    <string-array name="aquarius_info">
-        <item>aquarius</item>
-        <item>Вадалей</item>
-        <item>20/1 - 18/2</item>
+  <string-array name="response_labels2">
+    <item>Не адказваць</item>
+    <item>Прыняць</item>
+    <item>Вырашыць пазней</item>
+    <item>Адхіліць</item>
+  </string-array>
+  <string-array name="account_sync_frequency">
+    <item>Уручную</item>
+    <item>Кожныя %d хвілін</item>
+    <item>Кожную гадзіну</item>
+    <item>Кожныя %d гадзіны</item>
+    <item>Кожныя %d гадзін</item>
+  </string-array>
+  <string-array name="months_English_array">
+       <item>Студзень</item>
+       <item>Люты</item>
+       <item>Сакавік</item>
+       <item>Красавік</item>
+       <item>Май</item>
+       <item>Чэрвень</item>
+       <item>Ліпень</item>
+       <item>Аўгуст</item>
+       <item>Верасень</item>
+       <item>Кастрычнік</item>
+       <item>Лістапад</item>
+       <item>Снежань</item>
     </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>Авен</item>
-        <item>21/3 - 19/4</item>
+	<string-array name="locale_calendar_array">
+          <item>Няма</item>
+          <item>Традыцыйны кітайскі каляндар</item>
+          <item>Ісламскі каляндар</item>
+          <item>Габрэйскі каляндар</item>
+          <item>Японскі каляндар</item>
+          <item>Персідскі каляндар</item>
+          <item>Індыйскі каляндар</item>
+          <item>Будысцкі каляндар</item>
+     </string-array>
+     <string-array name="passport_account_user_gender_name">
+        <item>Мужчына</item>
+        <item>Жанчына</item>
     </string-array>
-    <string-array name="bundesliga">
-        <item>2</item>
-        <item>Бундэсліга</item>
-    </string-array>
-    <string-array name="cancer_info">
-        <item>cancer</item>
-        <item>Рак</item>
-        <item>22/6 - 22/7</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Казярог</item>
-        <item>22/12 - 19/1</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Толькі гэта падзея</item>
-        <item>Усе падзеі ў серыі</item>
-    </string-array>
-    <string-array name="date_calculate_spinner">
-        <item>Наперад</item>
-        <item>Назад</item>
-    </string-array>
-    <string-array name="dates">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-    </string-array>
-    <string-array name="default_reminder_labels">
-        <item>Падчас падзей</item>
-        <item>За 5 хвілін</item>
-        <item>За 15 хвілін</item>
-        <item>За 30 хвілін</item>
-        <item>За 1 гадзіну</item>
-        <item>За 4 гадзіны</item>
-        <item>За дзень</item>
-        <item>За 2 дні</item>
-        <item>За тыдзень</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Толькі гэта падзея</item>
-        <item>Гэта і будучая падзея</item>
-        <item>Усе падзеі</item>
-    </string-array>
-    <string-array name="gemini_info">
-        <item>gemini</item>
-        <item>Двайняты</item>
-        <item>21/5 - 21/6</item>
-    </string-array>
-    <string-array name="hijri_samvat_month_names">
-        <item>Мухарам</item>
-        <item>Сафар</item>
-        <item>Рабі Аль-Авал</item>
-        <item>Рабі Аль-Тані</item>
-        <item>Джумада Аль-Авал</item>
-        <item>Джумада Аль-Тані</item>
-        <item>Раджаб</item>
-        <item>Шабан</item>
-        <item>Рамадан</item>
-        <item>Шавал</item>
-        <item>Зуль-када</item>
-        <item>Дхул-Хіджах</item>
-    </string-array>
-    <string-array name="la_liga">
-        <item>3</item>
-        <item>Чэмпіянат Іспаніі</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>leo</item>
-        <item>Леў</item>
-        <item>23/7 - 22/8</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>libra</item>
-        <item>Шалі</item>
-        <item>23/9 - 23/10</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>5</item>
-        <item>Чэмпіянат Францыі</item>
-    </string-array>
-    <string-array name="panchang_weeks">
+    <string-array name="week_array">
         <item>Нядзеля</item>
         <item>Панядзелак</item>
         <item>Аўторак</item>
@@ -133,311 +525,7 @@
         <item>Пятніца</item>
         <item>Субота</item>
     </string-array>
-    <string-array name="pisces_info">
-        <item>pisces</item>
-        <item>Рыбы</item>
-        <item>19/2 - 20/3</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Заўсёды</item>
-        <item>Толькі ў бязгучным рэжыме</item>
-        <item>Ніколі</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Рэгіянальныя налады</item>
-        <item>Субота</item>
-        <item>Нядзеля</item>
-        <item>Панядзелак</item>
-    </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Ніколі</item>
-        <item>Час</item>
-        <item>Таймер</item>
-    </string-array>
-    <string-array name="repeat_choose_month">
-        <item>Студ</item>
-        <item>Лют</item>
-        <item>Сак</item>
-        <item>Крас</item>
-        <item>Май</item>
-        <item>Чэрв</item>
-        <item>Ліп</item>
-        <item>Жнів</item>
-        <item>Вер</item>
-        <item>Каст</item>
-        <item>Ліст</item>
-        <item>Снеж</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>першы</item>
-        <item>другі</item>
-        <item>трэці</item>
-        <item>чацвёрты</item>
-        <item>апошні</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Пн - Пт</item>
-        <item>Выхадныя</item>
-        <item>Увесь тыдзень</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Пн</item>
-        <item>Аўт</item>
-        <item>Ср</item>
-        <item>Чц</item>
-        <item>Пт</item>
-        <item>Сб</item>
-        <item>Нд</item>
-    </string-array>
-    <string-array name="repeat_countdown">
-        <item>Ніколі</item>
-        <item>Штомесяц</item>
-        <item>Штогод</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>дзень</item>
-        <item>тыдзень</item>
-        <item>месяц</item>
-        <item>год</item>
-    </string-array>
-    <string-array name="repeat_monthly_on_day_count_values">
-        <item>першы панядзелак</item>
-        <item>першы аўторак</item>
-        <item>першая серада</item>
-        <item>першы чацвер</item>
-        <item>першая пятніца</item>
-        <item>першая субота</item>
-        <item>першая нядзеля</item>
-        <item>другі панядзелак</item>
-        <item>другі аўторак</item>
-        <item>другая серада</item>
-        <item>другі чацвер</item>
-        <item>другая пятніца</item>
-        <item>другая субота</item>
-        <item>другая нядзеля</item>
-        <item>трэці панядзелак</item>
-        <item>трэці аўторак</item>
-        <item>трэцяя серада</item>
-        <item>трэці чацвер</item>
-        <item>трэцяя пятніца</item>
-        <item>трэцяя субота</item>
-        <item>трэцяя нядзеля</item>
-        <item>чацвёрты панядзелак</item>
-        <item>чацвёрты аўторак</item>
-        <item>чацвёртая серада</item>
-        <item>чацвёрты чацвер</item>
-        <item>чацвёртая пятніца</item>
-        <item>чацвёртая субота</item>
-        <item>чацвёртая нядзеля</item>
-        <item>апошні панядзелак</item>
-        <item>апошні аўторак</item>
-        <item>апошняя серада</item>
-        <item>апошні чацвер</item>
-        <item>апошняя пятніца</item>
-        <item>апошняя субота</item>
-        <item>апошняя нядзеля</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>Няма адказу</item>
-        <item>Так</item>
-        <item>Можа быць</item>
-        <item>Не</item>
-    </string-array>
-    <string-array name="sagittarius_info">
-        <item>sagittarius</item>
-        <item>Стралец</item>
-        <item>23/11 - 21/12</item>
-    </string-array>
-    <string-array name="scorpio_info">
-        <item>scorpio</item>
-        <item>Скарпіён</item>
-        <item>24/10 - 22/11</item>
-    </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>Чэмпіянат Італіі</item>
-    </string-array>
-    <string-array name="taurus_info">
-        <item>taurus</item>
-        <item>Цяля</item>
-        <item>20/4 - 20/5</item>
-    </string-array>
-    <string-array name="timezone_labels">
-        <item>Маршалавы астравы</item>
-        <item>Мідуэй</item>
-        <item>Гаваі</item>
-        <item>Аляска</item>
-        <item>Ціхаакіянскі час</item>
-        <item>Тыхуана</item>
-        <item>Арызона</item>
-        <item>Чыўаўа</item>
-        <item>Горскі час</item>
-        <item>Цэнтральная Амерыка</item>
-        <item>Цэнтральны час</item>
-        <item>Мехіка</item>
-        <item>Саскачаван</item>
-        <item>Багата</item>
-        <item>Усходні час</item>
-        <item>Венесуэла</item>
-        <item>Атлантычны час (Барбадас)</item>
-        <item>Атлантычны час (Канада)</item>
-        <item>Манаус</item>
-        <item>Санцьяга</item>
-        <item>Ньюфаўндленд</item>
-        <item>Бразіліа</item>
-        <item>Буэнас-Айрэс</item>
-        <item>Грэнландыя</item>
-        <item>Мантэвідэа</item>
-        <item>Сярэднеатлантычны час</item>
-        <item>Азорскія астравы</item>
-        <item>Каба-Вэрдэ</item>
-        <item>Касабланка</item>
-        <item>Лондан, Дублін</item>
-        <item>Амстэрдам, Берлін</item>
-        <item>Белград</item>
-        <item>Брусэль</item>
-        <item>Сараева</item>
-        <item>Віндхук</item>
-        <item>Заходнеафрыканскі час</item>
-        <item>Аман, Іарданія</item>
-        <item>Афіны, Стамбул</item>
-        <item>Бейрут, Ліван</item>
-        <item>Каір</item>
-        <item>Хельсінкі</item>
-        <item>Ерусалім</item>
-        <item>Мінск</item>
-        <item>Харарэ</item>
-        <item>Багдад</item>
-        <item>Масква</item>
-        <item>Кувейт</item>
-        <item>Найробі</item>
-        <item>Тэгеран</item>
-        <item>Баку</item>
-        <item>Тбілісі</item>
-        <item>Ерэван</item>
-        <item>Дубай</item>
-        <item>Кабул</item>
-        <item>Ісламабад, Карачы</item>
-        <item>Уральск</item>
-        <item>Екацерынбург</item>
-        <item>Калькута</item>
-        <item>Шры-Ланка</item>
-        <item>Катманду</item>
-        <item>Астана</item>
-        <item>Янгон</item>
-        <item>Краснаярск</item>
-        <item>Бангкок</item>
-        <item>Пекін</item>
-        <item>Ганконг</item>
-        <item>Макаа</item>
-        <item>Сінгапур</item>
-        <item>Іркуцк</item>
-        <item>Куала-Лумпур</item>
-        <item>Перт</item>
-        <item>Тайбэй</item>
-        <item>Сеул</item>
-        <item>Токіа, Осака</item>
-        <item>Якуцк</item>
-        <item>Адэлаіда</item>
-        <item>Дарвін</item>
-        <item>Брысбэн</item>
-        <item>Хобарт</item>
-        <item>Сіднэй, Канбера</item>
-        <item>Уладзівасток</item>
-        <item>Гуам</item>
-        <item>Магадан</item>
-        <item>Оклэнд</item>
-        <item>Фіджы</item>
-        <item>Тонга</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>За 3 гадзіны</item>
-        <item>За 4 гадзіны</item>
-        <item>За 5 гадзін</item>
-        <item>За 6 гадзін</item>
-        <item>За дзень</item>
-    </string-array>
-    <string-array name="vikrami_samvat_month_names">
-        <item>Chaitra</item>
-        <item>Vaishākha</item>
-        <item>Jyēshtha</item>
-        <item>Āshādha</item>
-        <item>Shrāvana</item>
-        <item>Bhaadra</item>
-        <item>Āshwin</item>
-        <item>Kārtika</item>
-        <item>Mārgaśīrṣa</item>
-        <item>Pausha</item>
-        <item>Māgha</item>
-        <item>Phalguna</item>
-    </string-array>
-    <string-array name="virgo_info">
-        <item>virgo</item>
-        <item>Дзева</item>
-        <item>23/8 - 22/9</item>
-    </string-array>
-    <string-array name="weather_forecasts">
-        <item>Ясна</item>
-        <item>Воблачна</item>
-        <item>Пахмурна</item>
-        <item>Туман</item>
-        <item>Моцная бура</item>
-        <item>Бура</item>
-        <item>Слабая бура</item>
-        <item>Навальніца</item>
-        <item>Лівень</item>
-        <item>Моцны дождж</item>
-        <item>Дождж</item>
-        <item>Невялікі дождж</item>
-        <item>Дождж са снегам</item>
-        <item>Завіруха</item>
-        <item>Снегапад</item>
-        <item>Моцны снег</item>
-        <item>Снег</item>
-        <item>Невялікі снег</item>
-        <item>Моцная пыльная бура</item>
-        <item>Пыльная бура</item>
-        <item>Пыл</item>
-        <item>Невялікая пыльная бура</item>
-        <item>Град</item>
-        <item>Узважаны пыл</item>
-        <item>Мгла</item>
-        <item>Імжа</item>
-    </string-array>
-    <string-array name="week_header_name">
+    <string-array name="week_header_name_phone_landscape">
         <item>НД</item>
         <item>ПН</item>
         <item>АЎ</item>
@@ -446,30 +534,4 @@
         <item>ПТ</item>
         <item>СБ</item>
     </string-array>
-    <string-array name="widget_style_list">
-        <item>Празрысты</item>
-        <item>Белы фон</item>
-    </string-array>
-    <string-array name="year_view_week_header_name">
-        <item>Н</item>
-        <item>П</item>
-        <item>А</item>
-        <item>С</item>
-        <item>Ч</item>
-        <item>П</item>
-        <item>С</item>
-    </string-array>
-   <string-array name="prefEntries_alerts_popup_new">
-    <item>Выключана</item>
-    <item>Для ўсіх падзей</item>
-    <item>Для падзей, адчувальных да часу</item>
-  </string-array>
-  <string-array name="close_alarm_repeating_labels">
-    <item>Толькі ў гэты раз</item>
-    <item>Адключыць паўтор напамінку</item>
-  </string-array>
-  <string-array name="open_alarm_repeating_labels">
-    <item>Толькі ў гэты раз</item>
-    <item>Усталяваць паўтор напамінку</item>
-  </string-array>
 </resources>

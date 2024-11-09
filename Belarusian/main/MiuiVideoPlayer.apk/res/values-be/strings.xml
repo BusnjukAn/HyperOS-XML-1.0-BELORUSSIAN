@@ -2176,7 +2176,7 @@
   <string name="str_retry_download">Памылка загрузкі, паспрабуйце яшчэ раз!</string>
   <string name="subtitle_none">Без субтытраў</string>
   <string name="title_ab_loop">Паўтор A-B</string>
-  <string name="title_more_wonderful_smallvideo">Яшчэ кароткія відэа</string>
+  <string name="title_more_wonderful_smallvideo">Больш кароткіх відэа</string>
   <string name="try_look">Працягнуць бясплатны прагляд</string>
   <string name="trylook_end">Бясплатны прагляд скончыўся</string>
   <string name="version_update_install_apk_fail">Памылка ўсталёўкі</string>
@@ -2333,4 +2333,97 @@ Mi Відэа неабходна збіраць неабходную асабі�
   <string name="widget_online_videos">Інтэрнэт-відэа</string>
   <string name="diversion_online_button">Глядзець больш відэа</string>
   <string name="vip_permission">Купляючы, вы згаджаецеся з &lt;a href=%1$s>Умовамі абслугоўвання MangoTV&lt;/a>. Калі ў вас ёсць якія-небудзь пытанні, праглядзіце нашыя &lt;a href=%2$s>Частыя пытанні і водгукі&lt;/a>.</string>
+  <string name="order_alphabet">А-Я</string>
+  <string name="passport_can_not_recevie_verify_code">Не атрымалі код?</string>
+  <string name="passport_clear_input">Ачысціць уведзенае змесціва</string>
+  <string name="passport_copy_link">Капіяваць URL</string>
+  <string name="passport_copy_to_clipboard_successful">Паспяхова скапіявана</string>
+  <string name="passport_dialog_captcha_title">Код</string>
+  <string name="passport_dialog_doing_login">Уваход…</string>
+  <string name="passport_dialog_doing_register">Стварэнне акаўнта…</string>
+  <string name="passport_dialog_is_my_account">Так</string>
+  <string name="passport_dialog_is_your_mi_account">Гэта ваш Xiaomi Акаўнт?</string>
+  <string name="passport_dialog_loading">Хвілінку…</string>
+  <string name="passport_dialog_nick_name_prefix">Мянушка: %s</string>
+  <string name="passport_dialog_phone_number_prefix">Нумар тэлефона: %s</string>
+  <string name="passport_dialog_register_other">Не, я ствару яго</string>
+  <string name="passport_error_empty_password">Увядзіце свой пароль</string>
+  <string name="passport_error_empty_user_id">Увядзіце сваё імя карыстальніка</string>
+  <string name="passport_error_length_limit">Вы ўвялі занадта доўгі тэкст</string>
+  <string name="passport_error_phone">Няправільны нумар тэлефона</string>
+  <string name="passport_error_sms_limit">На гэты нумар было даслана занадта шмат праверачных кодаў. Паспрабуйце зноў пазней.</string>
+  <string name="passport_error_ticket_invalid">Гэты код неправільны</string>
+  <string name="passport_error_timeout_network_error">Час чакання запыту скончыўся</string>
+  <string name="passport_error_token_expired">Тэрмін дзеяння кода скончыўся. Паспрабаваць зноў.</string>
+  <string name="passport_error_unknow_error">Адбылася памылка</string>
+  <string name="passport_error_unknow_host_network_error">Не атрымалася падлучыцца да сеткі</string>
+  <string name="passport_error_unknow_network_error">Адбылася памылка сетцы</string>
+  <string name="passport_error_user_password">Паролі не супадаюць</string>
+  <string name="passport_get_login_type_next">Далей</string>
+  <string name="passport_input_phone_number_hint">Увядзіце нумар тэлефона</string>
+  <string name="passport_input_verify_code">Увядзіце праверачны код</string>
+  <string name="passport_mi_account_first_title">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
+  <string name="passport_mi_account_title">Увайсці з дапамогай Xiaomi Акаўнта</string>
+  <string name="passport_network_error">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
+  <string name="passport_network_error_hint">Праверце URL-адрас і паўтарыце спробу або скапіюйце URL-адрас і адкрыйце яго ў сваім браўзэры.</string>
+  <string name="passport_page_load_failed">Немагчыма адкрыць старонку</string>
+  <string name="passport_password_login_btn">Увайсцi</string>
+  <string name="passport_password_not_show">Не паказваць пароль</string>
+  <string name="passport_password_show">Паказаць пароль</string>
+  <string name="passport_resend_ticket">Паўторна адправіць код</string>
+  <string name="passport_retry">Паўтарыць спробу</string>
+  <string name="passport_send_sms_to">Код адпраўлены на %1$s</string>
+  <string name="passport_ticket_send_by_second">Адправіць праз %d</string>
+  <string name="passport_to_forget_password">Забылі пароль?</string>
+  <string name="passport_to_password_login">Увайсці з дапамогай пароля</string>
+  <string name="passport_to_verify_code_login">Увайсці з дапамогай SMS</string>
+  <string name="passport_user_id_hint">Email/нумар тэлефона/ID Xiaomi Акаўнта</string>
+  <string name="passport_user_password_hint">Пароль</string>
+  <string name="passport_vcode_what_app_send_prompt">Ваш праверачны код WhatsApp будзе адпраўлены на тэлефон для аднаўлення (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+  <string name="related_search">Звязаныя аб\'екты</string>
+  <string name="small_title_hide">Паказаць меньш</string>
+  <string name="small_title_more">Паказаць яшчэ</string>
+  <string name="wallet">Кашалёк</string>
+  <string name="back">Назад</string>
+  <string name="doing_query_account">Праверка інфармацыі пра акаўнт…</string>
+  <string name="facebook_login_btn_content_description">Увайсці праз Facebook</string>
+  <string name="google_login_btn_content_description">Увайсці праз Google</string>
+  <string name="header_help">Даведка</string>
+  <string name="login_by_local_phone_long_text">Увайсці зараз</string>
+  <string name="login_by_local_phone_short_text">Увайсці</string>
+  <string name="login_other">Іншы Xiaomi акаўнт</string>
+  <string name="login_register_by_local_phone_long_text">Стварыць акаўнт</string>
+  <string name="login_with_sns">Іншыя спосабы ўваходу</string>
+  <string name="mishop_login_other">Іншы акаўнт</string>
+  <string name="passport_error_dynamic_token_error">Няправільны код пацвярджэння</string>
+  <string name="passport_error_user_agreement">Спачатку пагадзіцеся з нашым Карыстальніцкім пагадненнем</string>
+  <string name="passport_header_back">Назад</string>
+  <string name="phone_auto_login_register_with_local_number">Стварыць акаўнт</string>
+  <string name="please_agree_protocal">Калі ласка, пагадзіцеся з пратаколам</string>
+  <string name="protocal_dialog_confirm">Згадзіцца</string>
+  <string name="protocal_dialog_title">Увага</string>
+  <string name="qq_login_btn_content_description">Увайсці праз QQ</string>
+  <string name="register_by_local_phone_long_text">Стварыць акаўнт</string>
+  <string name="register_by_local_phone_short_text">Стварыць акаўнт</string>
+  <string name="request_agree">Дазволіць</string>
+  <string name="request_cancel">Скасаваць</string>
+  <string name="request_error_invalid_token">Не атрымалася праверыць</string>
+  <string name="request_error_network">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
+  <string name="request_error_unknown">Сістэмная памылка. Вярніцеся і паспрабуйце ізноў.</string>
+  <string name="request_gallery_permission_message">Дазвольце доступ да Галерэі:&lt;br />Для ўстаноўкі фота профілю</string>
+  <string name="skip_query_account">Прапусціць</string>
+  <string name="user_agreement_hint_3rd_app"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_agreement_hint_3rd_app_mobile"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_agreement_hint_3rd_app_with_telecom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_agreement_hint_3rd_app_with_unicom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_agreement_hint_default"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і згодны(-ая) з імі.</Data></string>
+  <string name="user_agreement_hint_default_1"><Data>Прачытайце і прыміце &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці.&lt;/a></Data></string>
+  <string name="user_agreement_hint_default_extra"><Data>Я прачытаў(-ла) і пагадзіўся(-лась) з &lt;a href=%1$s>Карыстальніцкай дамовай&lt;/a> і &lt;a href=%2$s>Палітыкай прыватнасці.&lt;/a> Пры першым уваходзе аўтаматычна будзе створаны акаўнт Xiaomi.</Data></string>
+  <string name="user_agreement_hint_first_login">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
+  <string name="user_agreement_hint_with_mobile"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_agreement_hint_with_telecom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_agreement_hint_with_unicom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_name_phone_number">Нумар тэлефона</string>
+  <string name="weibo_login_btn_content_description">Увайсці праз Weibo</string>
+  <string name="weixin_login_btn_content_description">Увайсці праз WeChat</string>
 </resources>

@@ -516,4 +516,11 @@
   <string name="transfer_to_different_account_title">Выяўленне прылад у розных акаўнтах</string>
   <string name="transfer_to_same_account_summary">Прылады ў рамках аднаго акаўнта павінны лёгка выяўляцца. Пераканайцеся, што Абмен файламі ўключаны ў Наладах.</string>
   <string name="transfer_to_same_account_title">Выяўленне прылад у рамках аднаго акаўнта</string>
+  <string name="global_imac">Мой iMac</string>
+  <string name="global_ipad">Мой iPad</string>
+  <string name="global_iphone">Мой iPhone</string>
+  <string name="global_macbook">Мой MacBook</string>
+  <string name="global_macmini">Мой Mac mini</string>
+  <string name="global_macpro">Мой Mac Pro</string>
+  <string name="global_macstudio">Мой Mac Studio</string>
 </resources>

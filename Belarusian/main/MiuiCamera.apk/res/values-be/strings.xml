@@ -3322,4 +3322,14 @@
   <string name="tip_print_processing">Немагчыма выканаць гэта дзеянне падчас друку</string>
   <string name="tip_print_processing_v2">Пачакайце, пакуль скончыцца друк папярэдняй фатаграфіі, і паспрабуйце яшчэ раз.</string>
   <string name="tip_printer_mode_switch">Друк падтрымліваецца толькі для імгненных фатаграфій</string>
+  <string name="agent_flip_tbc">Працягнуць на ўнутраным экране</string>
+  <string name="agent_function_max">Настроена на максімальнае значэнне</string>
+  <string name="agent_function_min">Настроена на мінімальнае значэнне</string>
+  <string name="agent_workspace_mode_not_supported">"Гэтая функцыя не падтрымліваецца"</string>
+  <string name="agent_workspace_mode_not_supported_use_default">"Гэтая функцыя не падтрымліваецца.
+Замест гэтага адкрыты рэжым фота."</string>
+  <string name="agent_workspace_on">Устаноўлены параметры для фатаграфавання \"%1$s\"</string>
+  <string name="agent_workspace_tbc">Вывучэнне сцэны</string>
+  <string name="agent_workspace_tbc_use_default">"Вывучэнне сцэны…
+Устаноўлены параметры камеры па змаўчанні"</string>
 </resources>

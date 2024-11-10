@@ -1059,4 +1059,26 @@
   <string name="transfer_document_ppt_summary">Сканіраванне ў PDF/Сканаванне слайдаў</string>
   <string name="transfer_document_ppt_table_summary">Сканаваць у PDF/Сканаваць слайды/Сканаваць табліцу Excel</string>
   <string name="translate_choose_language">Выберыце мову</string>
+  <string name="aon_no_install_app_tip">Гэтую старонку неабходна адкрыць у пазначанай праграме, спачатку ўсталюйце адпаведную праграму.</string>
+  <string name="aon_no_network_tip">Для сканавання кода патрабуецца падлучэнне да Інтэрнэту, калі ласка, уключыце Wi-Fi або мабільную сетку</string>
+  <string name="aon_no_support_code_tip">Гэты тып QR-кода пакуль не падтрымліваецца, паспрабуйце іншыя метады сканавання</string>
+  <string name="aon_opened_dialog_des">Пасля ўключэння хуткага сканавання кода сістэма выявіць QR-код, і інфармацыя аб выяўленні не будзе захоўвацца лакальна або загружана ў воблака. Пасля ўключэння гэта павялічыць спажыванне энергіі.</string>
+  <string name="aon_opened_dialog_title">Заява аб бяспецы і напамін</string>
+  <string name="aon_pay_setting_default_des">Спосаб аплаты па змаўчанні</string>
+  <string name="aon_pay_setting_null">Не абраны</string>
+  <string name="aon_recognize_code_cancelled_des">Распазнаванне QR-кода адменена</string>
+  <string name="aon_recognize_code_des">Распазнаны QR-код</string>
+  <string name="aon_setting_title">Хуткае сканаванне кода</string>
+  <string name="aon_title_des">У настольным сцэнары навядзіце тэлефон на QR-код у межах 60 см. і захоўвайце позу на працягу 2 секунд пасля з\'яўлення падказкі для хуткага сканавання кода.</string>
+  <string name="auracast_code_title_key">Праслухоўванне перадачы %s</string>
+  <string name="bluetooth_auracast_fg_title">Аўдыятрансляцыя</string>
+  <string name="button_revoke_privacy_consent">Адкліканне згоды</string>
+  <string name="language_entry_russian">Руская</string>
+  <string name="milink_toast_des">Ваша сістэма не была абноўлена да HyperOS. Адскануйце QR-код версіі не для HyperOS.</string>
+  <string name="milink_update_des">Калі ласка, перайдзіце ў краму праграм, каб абнавіць праграму Узаемазлучальнасць да апошняй версіі і паўтарыце спробу.</string>
+  <string name="milink_update_title">Перайсці да абнаўлення</string>
+  <string name="no_payment_software_installed">Плацежнае праграмнае забеспячэнне не ўстаноўлена. Спачатку ўсталюйце Mi Pay, WeChat або Alipay.</string>
+  <string name="no_support_multi_window">Сканер не падтрымлівае падзелены экран і плаваючыя вокны</string>
+  <string name="please_enable_bluetooth_retry">Калі ласка, уключыце Bluetooth і паўтарыце спробу</string>
+  <string name="text_ipc_record_number">ICP 10046444-90A &gt;</string>
 </resources>

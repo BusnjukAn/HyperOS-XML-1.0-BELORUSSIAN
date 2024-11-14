@@ -1234,11 +1234,11 @@
   <string name="ai_text_widget_title">ШI-пісьменнік</string>
   <string name="ai_unsupport_directive_title">Немагчыма выканаць гэтую каманду</string>
   <string name="ai_when_mistake_title">Адбылася памылка. Паспрабуйце яшчэ раз.</string>
-  <string name="ai_writing_invite_beta_testing_content">Гэтая функцыя выкарыстоўвае магчымасці вялікай мадэлі для праверкі, пашырэнні, рэзюмавання і дапрацоўкі вашага тэксту. Вы таксама можаце ўводзіць падказкі і дазваляць ШІ пісаць за вас. Націсніце \"Згаджаюся\", каб паспрабаваць!</string>
-  <string name="ai_writing_invite_beta_testing_title">Бэта-тэставанне напісання ШІ</string>
+  <string name="ai_writing_invite_beta_testing_content">Гэтая функцыя выкарыстоўвае магчымасці вялікай мадэлі для карэктуры, пашырэння, абагульнення і дапрацоўкі вашага тэксту. Вы таксама можаце ўводзіць падказкі і дазваляць ШІ пісаць за вас. Націсніце \"Згаджаюся\", каб паспрабаваць!</string>
+  <string name="ai_writing_invite_beta_testing_title">Бэта-тэставанне ШІ-пісьменніка</string>
   <string name="audio_record_install_content">Усталюйце Дыктафон, каб запісваць гук. Усталяваць зараз?</string>
   <string name="audio_record_install_title">Усталяваць Дыктафон</string>
-  <string name="audio_record_upadte_content">Для запісу гуку абновіце Дыктафон да апошняй версіі. Абнавіць зараз?</string>
+  <string name="audio_record_upadte_content">Для запісу гуку абнавіце Дыктафон да апошняй версіі. Абнавіць зараз?</string>
   <string name="audio_record_upadte_title">Абнавіць Дыктафон</string>
   <string name="audio_reocrd_install_btn_negative">Адмена</string>
   <string name="audio_reocrd_install_btn_positive">Усталяваць</string>

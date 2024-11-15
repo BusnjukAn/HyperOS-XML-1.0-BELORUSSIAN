@@ -1180,7 +1180,6 @@
   <string name="new_unregistered_dialog_content_clickable">Даведацца больш пра палітыку рэгістрацыі</string>
   <string name="new_unregistered_dialog_title">Немагчыма знайсці інфармацыю аб ICP рэгістрацыі</string>
   <string name="app_installing_not_allow_2">Усталёўка была заблакаваная. Шукайце \"Усталёўка невядомых праграм\" у Наладах, каб змяніць свае перавагі.</string>
-  <string name="permissoion_management">Кіраванне дазволамі</string>
   <string name="browser_downloads">Спампаваць Mi Браўзер</string>
   <string name="tango_dialog_content">Уключыце рэжым сумяшчальнасці праграм, каб мець магчымасць усталёўваць %1$d-бітныя праграмы.</string>
   <string name="tango_dialog_title">Рэжым сумяшчальнасці праграм</string>

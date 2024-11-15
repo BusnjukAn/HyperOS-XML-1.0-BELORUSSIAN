@@ -1075,4 +1075,27 @@
   <string name="provision_set_cloud_backup">Аднавіць з Воблака Xiaomi</string>
   <string name="provision_set_cloud_backup_summary">Падлучыцеся да Інтэрнэту, каб загрузіць і аднавіць рэзервовыя копіі з Воблака Xiaomi</string>
   <string name="provision_skip_underline">Прапусціць</string>
+  <string name="ble_discovery_connect_request_title_pad">Выяўлена прылада паблізу</string>
+  <string name="call_notification_answer_action">Адказаць</string>
+  <string name="call_notification_answer_video_action">Відэа</string>
+  <string name="call_notification_decline_action">Адхіліць</string>
+  <string name="call_notification_hang_up_action">Завяршыць</string>
+  <string name="call_notification_incoming_text">Уваходны выклік</string>
+  <string name="call_notification_ongoing_text">Бягучы выклік</string>
+  <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
+  <string name="host_verify_lock_waiting">Праверка…</string>
+  <string name="main_receiver_summary_pad">Націсніце, каб атрымаць элементы</string>
+  <string name="main_sender_summary_pad">Націсніце, каб адправіць элементы</string>
+  <string name="privacy_icp_identity">Рэгістрацыйны нумар ICP: 10046444-32A&gt;</string>
+  <string name="receiver_finish_detail">Перадача элементаў</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Не атрымалася падключыць дыспетчар спампоўкi, праверце стан дыспетчара спампоўкi ў раздзеле «Кiраванне праграмамі».</string>
+  <string name="xiaomi_update_sdk_dialog_message">Уяўляем версію %1$s\nПамер: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">Уяўляем версію %1$s\nДэльта памер абнаўлення: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_title">Даступна абнаўленне!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Сховішча недаступна, калі ласка, праверце SD-карту.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Кб</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Не цяпер</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
 </resources>

@@ -49,14 +49,14 @@
   <string name="actionbar_button_up_description">Назад</string>
   <string name="ad_close">Закрыць</string>
   <string name="ad_data_exception">Выключэнні рэкламы</string>
-  <string name="ad_recommend">Атрымліваць рэкамендацыі</string>
+  <string name="ad_recommend">Паказваць рэкламу</string>
   <string name="ad_setting">Пашыраныя налады</string>
   <string name="add_music">Дадаць песні</string>
   <string name="add_to_last_of_playlist">Дадаць у канец плэйлісту</string>
   <string name="add_to_playlist">Дадаць у чаргу</string>
   <string name="add_to_playlist_successful">Паспяхова дададзена</string>
   <string name="added_next_play">Будзе гучаць наступнай</string>
-  <string name="afternoon">РМ</string>
+  <string name="afternoon">ПП</string>
   <string name="agreement_desc">Карыстальніцкае пагадненне (абавязкова)</string>
   <string name="alaka_required">Каб паслухаць гэтую песню вы павінны заплаціць за яе</string>
   <string name="alarm_clock_ringtones_successful">Гук будзільніка паспяхова ўсталяваны</string>
@@ -357,7 +357,7 @@
   <string name="eras_ad">AD</string>
   <string name="eras_bc">Да н.э.</string>
   <string name="error_not_support">Не падтрымліваецца</string>
-  <string name="evening">РМ</string>
+  <string name="evening">ПП</string>
   <string name="exo_controls_fastforward_description">Пераматаць уперад</string>
   <string name="exo_controls_fullscreen_description">Поўнаэкранны рэжым</string>
   <string name="exo_controls_hide">Схаваць элементы кіравання</string>
@@ -733,7 +733,7 @@
   <string name="network_traffic">Выкарыстанне дадзеных</string>
   <string name="next_time">Адмена</string>
   <string name="next_to_play">Далей</string>
-  <string name="night">РМ</string>
+  <string name="night">ПП</string>
   <string name="no_album_info">Няма інфармацыі пра альбом</string>
   <string name="no_artist_info">Няма інфармацыі пра выканаўцу</string>
   <string name="no_downloads">Няма спамповак</string>
@@ -751,7 +751,7 @@
   <string name="no_song_subtitle">Акунуцца ў гук</string>
   <string name="no_song_title">Mi Музыка</string>
   <string name="no_system_cropper_find">У сістэме няма інструмента для абрэзкі выявы</string>
-  <string name="noon">РМ</string>
+  <string name="noon">ПП</string>
   <string name="normal_quality">Добрая</string>
   <string name="not_login">Уваход не выкананы</string>
   <string name="not_now">Не зараз</string>
@@ -2249,4 +2249,7 @@
   <string name="hide_songs_file">Схаваная файлы</string>
   <string name="playerui_playing_tilte_asm">Ніякай рэкламы, першы месяц бясплатна</string>
   <string name="playerui_playing_tilte_asm_already">Слухайце без рэкламы</string>
+  <string name="asm_dialog_talk_one">Як справы?</string>
+  <string name="asm_dialog_talk_three">Вось для пачатку %d-месячная бясплатная пробная версія</string>
+  <string name="asm_dialog_talk_two">Давайце знаёміцца ​​з новай музыкай разам!</string>
 </resources>

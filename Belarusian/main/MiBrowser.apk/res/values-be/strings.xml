@@ -3272,4 +3272,15 @@
   <string name="mggc_shortcut_title_games">Дадаць на працоўны стол, каб знайсці мяне хутчэй у наступны раз</string>
   <string name="mggc_toast_shortcut_add_fail">Немагчыма дадаць</string>
   <string name="mggc_toast_shortcut_add_success">Паспяхова дададзена</string>
+  <string name="tt_multiple_ad_indicator">аб\'ява %1$d з %2$d</string>
+  <string name="web_ai_close_translation">Выключыць</string>
+  <string name="web_ai_error">Адбылася памылка</string>
+  <string name="web_ai_input_suggestion">Чым я магу вам дапамагчы?</string>
+  <string name="web_ai_key_point">Асноўныя моманты</string>
+  <string name="web_ai_loading">Хвілінку…</string>
+  <string name="web_ai_name">ШI</string>
+  <string name="web_ai_tip">Палепшаны досвед ад прагляду вэб-сайтаў дзякуючы зусім новым функцыям ШI</string>
+  <string name="web_ai_tip_btn">Зразумела</string>
+  <string name="web_ai_translate">Перакласьці</string>
+  <string name="web_ai_translate_auto">Аўта</string>
 </resources>

@@ -1140,9 +1140,9 @@
   <string name="full_safe_version_update_tip_text3">Дызайн старонкі больш лаканічны</string>
   <string name="full_safe_version_update_tip_text4">Спрашчаецца аўтэнтыфікацыя</string>
   <string name="full_safe_version_update_tip_title">Парада па абнаўленні версіі</string>
-  <string name="install_hint_enhanced_mode_hint">Парады па палепшанай абароне</string>
+  <string name="install_hint_enhanced_mode_hint">Парады па ўзмоцненай абароне</string>
   <string name="install_hint_enhanced_mode_hint_desc">Пры ўзмоцненай абароне праграмы, якія прайшлі праверку бяспекі, выбіраюцца аўтаматычна. Каб працягнуць ўсталёўку гэтай праграмы, перайдзіце ў правы верхні кут старонкі \"︙ > Аўтарызацыя на адну ўсталёўку\"</string>
-  <string name="install_hint_enhanced_mode_hint_desc_clickable">Даведацца пра палепшаную абарону</string>
+  <string name="install_hint_enhanced_mode_hint_desc_clickable">Даведацца пра ўзмоцненую абарону</string>
   <string name="install_hint_high_risk_install_prohibited_description">Выяўлена праграма высокай рызыкі, ўсталёўка забаронена!</string>
   <string name="install_hint_not_checked_hint">Гэта праграма не правяралася Xiaomi на прадмет бяспекі. Рэкамендуецца спачатку загрузіць яе з крамы праграм.</string>
   <string name="install_hint_risk_detail">Падрабязнасці рызыкі</string>
@@ -1184,4 +1184,19 @@
   <string name="browser_downloads">Спампаваць Mi Браўзер</string>
   <string name="tango_dialog_content">Уключыце рэжым сумяшчальнасці праграм, каб мець магчымасць усталёўваць %1$d-бітныя праграмы.</string>
   <string name="tango_dialog_title">Рэжым сумяшчальнасці праграм</string>
+  <string name="enhance_mode_close_tip">Mi Абарона застанецца ўключанай, нават калі вы адключыце Узмоцненую абарону.</string>
+  <string name="enhance_mode_intro">Падтрымлівае ўсталёўку толькі праграм, якія прайшлі праверку GetApps</string>
+  <string name="enhance_mode_open_tip">Спачатку ўключыце Mi Абарону</string>
+  <string name="install_failed_secure_frp">"У мэтах вашай бяспекі Android не дазваляе ўсталёўваць праграмы адразу пасля скіду прылады, калі ваш акаўнт Google усё яшчэ ўваходзіць у сістэму."</string>
+  <string name="install_failed_secure_frp_suggestion">"Крок 1: націсніце і ўключыце \"Асноўныя сэрвісы Google\".
+Крок 2. Дадайце акаўнт Google, у які вы ўвайшлі перад скідам налад прылады.
+%1$s"</string>
+  <string name="install_failed_secure_frp_suggestion_clickable">Адкрыць налады</string>
+  <string name="open_safe_mode">Уключыць</string>
+  <string name="permissoion_management">Дазволы</string>
+  <string name="security_mode_open_title">Вітаем</string>
+  <string name="settings_security_mode_service_detailed_msg_1">Абарона ад рызыкоўных праграм</string>
+  <string name="settings_security_mode_service_detailed_msg_2">Маніторынг паводзін праграмы</string>
+  <string name="settings_security_mode_service_detailed_msg_3">Абарона прыватнасці</string>
+  <string name="settings_security_mode_service_detailed_msg_4">Усталяванне бяспечных праграм</string>
 </resources>

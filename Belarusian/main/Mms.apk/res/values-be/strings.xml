@@ -1724,7 +1724,7 @@
   <string name="vital_signs_data_allergy">Алергія: %s</string>
   <string name="vital_signs_data_disease">Хранічныя станы: %s</string>
   <string name="vital_signs_data_high_bpm">Высокі пульс, апошні раз: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
-  <string formatted="false" name="vital_signs_data_high_bpm_multi">Высокі пульс, некалькі разоў за апошнюю гадзіну. Самы апошні %1$d%–2$d вуд/хв. (%3$s–%4$s)</string>
+  <string name="vital_signs_data_high_bpm_multi">Высокі пульс, некалькі разоў за апошнюю гадзіну. Самы апошні %1$d%–%2$d вуд/хв. (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_bpm">Нізкі пульс, апошняе: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_bpm_multi">Шматразовае зніжэнне пульса за апошнюю гадзіну. Самы апошні: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_spo2">Нізкі SpO₂, апошняе: %1$d%%–%2$d%% (%3$s–%4$s)</string>
@@ -1774,4 +1774,54 @@
   <string name="xiaomi_account_login_content">"У сувязі з адпаведнымі законамі і правіламі для выкарыстання функцый, звязаных з ШІ, патрабуецца праверка асобы.
 Увайдзіце ў свой акаўнт Xiaomi, каб выкарыстоўваць гэтую функцыю."</string>
   <string name="xiaomi_account_login_title">Увайсці з дапамогай акаўнта Xiaomi</string>
+  <string name="ai_sum_internal_test_agree">Згодны</string>
+  <string name="ai_sum_internal_test_content">Зводка паведамленняў штучнага інтэлекту выкарыстоўвае шырокія магчымасці мадэлі для абагульнення паведамленняў і паказу вам ключавой інфармацыі. Уключэнне гэтай функцыі крыху павялічыць энергаспажыванне.</string>
+  <string name="ai_sum_internal_test_disagree">Не згодны</string>
+  <string name="ai_sum_internal_test_title">Бэта-тэст Зводкi паведамленняў ШI</string>
+  <string name="chatbot_info_title">Асноўная інфармацыя</string>
+  <string name="dialog_sim_locked_message_translation_for_pad">Ваша SIM-карта не цалкам працуе з гэтай прыладай, таму што яна не адпавядае ўмовам вашай падпіскі. Калі ў вас ёсць якія-небудзь пытанні ці вам патрэбна дадатковая інфармацыя па гэтым пытанні, звярніцеся ў сэрвісныя цэнтры Xiaomi або ў краму, якая прадала вам прадукцыю.</string>
+  <string name="miuix_navigator_category_group_collapse">Згарнуць</string>
+  <string name="miuix_navigator_category_group_expand">Разгарнуць</string>
+  <string name="mms_icp">Рэгістрацыйны нумар ICP: 10046444-33A</string>
+  <string name="mx_activate_status_desc_query_activte_info_translation_for_pad">Праверка інфармацыі SIM-карты…</string>
+  <string name="mx_dspt_listview_translation_for_pad">Адпраўляйце паведамленні на іншыя прылады Xiaomi без спагнання аплаты, калі вы падлучаны да Інтэрнэту</string>
+  <string name="mx_dspt_translation_for_pad">Адпраўляйце паведамленні на іншыя прылады Xiaomi без спагнання аплаты, калі вы падлучаны да інтэрнэту</string>
+  <string name="pref_title_perm_storage_translation_for_pad">Доступ да сховішча</string>
+  <string name="rcs_ad_close">Закрыць гэтую рэкламу</string>
+  <string name="rcs_ad_name">Рэклама</string>
+  <string name="rcs_bw_allow">Дазволіць</string>
+  <string name="rcs_bw_app_not_found">Праграма не знойдзена</string>
+  <string name="rcs_bw_cancel">Адмена</string>
+  <string name="rcs_bw_close">Закрыць</string>
+  <string name="rcs_bw_download_desc">Калі ласка, пачакайце падчас загрузкі</string>
+  <string name="rcs_bw_download_title">Браўзер абмену паведамленнямі 5G</string>
+  <string name="rcs_bw_link_copied">Спасылка скапіявана</string>
+  <string name="rcs_bw_menu_copy">Капіяваць спасылку</string>
+  <string name="rcs_bw_menu_jump">Адкрыць у браўзеры</string>
+  <string name="rcs_bw_menu_refresh">Абнавіць</string>
+  <string name="rcs_bw_menu_search">Пошук на старонцы</string>
+  <string name="rcs_bw_menu_share">Адправіць у кантакты</string>
+  <string name="rcs_bw_network_error_desc" formatted="false">Паведамленне пра памылку (%d,%s)</string>
+  <string name="rcs_bw_network_error_title">Немагчыма адкрыць старонку</string>
+  <string name="rcs_bw_open_file_failed">Збой доступу да файлаў</string>
+  <string name="rcs_bw_permission_tip_audio">Запыт доступа да мікрафона</string>
+  <string name="rcs_bw_permission_tip_location">Запыт доступа да вашага месцазнаходжання</string>
+  <string name="rcs_bw_permission_tip_media_id">Запыт доступа да інфармацыі аб вашай прыладзе</string>
+  <string name="rcs_bw_permission_tip_midi">Запыт доступа да вашай прылады MIDI</string>
+  <string name="rcs_bw_permission_tip_video">Запыт на выкарыстанне вэб-камеры</string>
+  <string name="rcs_bw_preview_image">праверце фота</string>
+  <string name="rcs_bw_refuse">Адмовіцца</string>
+  <string name="rcs_bw_retry">Дакраніцеся да экрана, каб перазагрузіць</string>
+  <string name="rcs_bw_save_image">захаваць выяву</string>
+  <string name="rcs_bw_share_image">падзяліцца выявамi</string>
+  <string name="rcs_bw_share_title_http_tip">Вэб-старонка прадастаўлена %s</string>
+  <string name="rcs_bw_start_app_failed">Збой адкрыцця праграмы</string>
+  <string name="rcs_msg_privacy_policy">Палітыка прыватнасці абмену паведамленнямі 5G</string>
+  <string name="rcs_summary_silence_message_translation_for_pad">Адключыць апавяшчэнні аб паведамленнях, калі настольны кліент працуе</string>
+  <string name="restored_to_phone_memory_translation_for_pad">Адноўлена</string>
+  <string name="second_mms_introduction_translation_for_pad">Пераключыцеся на другую прастору, каб мець магчымасць праглядаць асабістыя паведамленні</string>
+  <string name="select_sim_translation_for_pad">Абярыце SIM-карту</string>
+  <string name="sim_copy_to_phone_memory_translation_for_pad">Капіяваць у памяць прылады</string>
+  <string name="url_fraud_dangerous_alert_translation_for_pad">Вэб-сайт, які вы спрабуеце наведаць, можа быць небяспечным. Гэта можа пашкодзіць вашу прыладу і дадзеныя. Усё роўна наведаць?\n%s</string>
+  <string name="vital_signs_toast_exception">Немагчыма атрымаць дадзеныя аб жыццёва важных паказчыках</string>
 </resources>

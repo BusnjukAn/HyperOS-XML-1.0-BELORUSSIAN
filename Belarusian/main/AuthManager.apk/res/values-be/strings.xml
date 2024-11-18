@@ -472,4 +472,5 @@
   <string name="clip_notification_close_summary">Перастаць атрымліваць напамінкі, калі праграма атрымлівае доступ да буфера абмену?</string>
   <string name="clip_notification_close_title">Адключыць напамінкі аб доступе да буфера абмену</string>
   <string name="overlay_read_clip_toast">Праграма \"%1$s\" атрымала доступ да буфера абмену</string>
+  <string name="permdesc_nearby_wifi_devices">Дазволіць гэтай праграме падлучацца да бліжэйшых прылад праз Wi-Fi, ажыццяўляць вяшчанне на іх і вызначаць іх адноснае месцазнаходжанне.</string>
 </resources>

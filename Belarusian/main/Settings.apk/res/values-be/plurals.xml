@@ -1008,9 +1008,9 @@
         <item quantity="few">Зарадка. Узровень зарада батарэі зараз складае %d працэнта.</item>
     </plurals>
     <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%1$d праграм, у тым ліку %2$s</item>
-        <item quantity="one">%1$d праграма, уключаючы %2$s</item>
-        <item quantity="few">%1$d праграмы, уключаючы %2$s</item>
+        <item quantity="other">%2$d праграм, у тым ліку %1$s</item>
+        <item quantity="one">%2$d праграма, у тым ліку %1$s</item>
+        <item quantity="few">%2$d праграмы, у тым ліку %1$s</item>
     </plurals>
     <plurals name="notification_frequency_summary">
         <item quantity="other">Каля %d элементаў у дзень</item>

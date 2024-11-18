@@ -192,4 +192,8 @@
       <item quantity="other">Адмена сэрвісу (%d сек.)</item>
       <item quantity="one">Адмена сэрвісу (%d сек.)</item>
     </plurals>
+    <plurals name="satellite_pa_megathermal_turn_off_message">
+        <item quantity="other">Прылада перагрэлася. Спадарожнікавая сувязь адключыцца праз %d сек.</item>
+        <item quantity="one">Прылада перагрэлася. Спадарожнікавая сувязь адключыцца праз %d сек.</item>
+    </plurals>
 </resources>

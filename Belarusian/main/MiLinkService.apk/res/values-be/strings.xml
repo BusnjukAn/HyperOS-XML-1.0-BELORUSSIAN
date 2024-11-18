@@ -1580,4 +1580,6 @@
   <string name="temperature_warning_dialog_title">Выкарыстанне камеры для некалькіх прылад немагчыма</string>
   <string name="tv_remote_auth_cancel">Адмена</string>
   <string name="tv_remote_auth_title">Увядзіце праверачны код тэлевізара</string>
+  <string name="connect_settings_share_file">Доступ да файлаў</string>
+  <string name="connect_settings_summary_share_file">Доступ да лакальных файлаў з бліжэйшых кампутараў</string>
 </resources>

@@ -81,7 +81,7 @@
   <string name="candy">Цукеркі</string>
   <string name="carousel">Карусель</string>
   <string name="celesta">Чэлеста</string>
-  <string name="change_brightness">Рэгулёўка яркасці</string>
+  <string name="change_brightness">Рэгуляванне яркасці</string>
   <string name="child">Дзяцінства</string>
   <string name="childhood">Дзяцінства</string>
   <string name="chimes">Бой гадзінніка</string>
@@ -685,4 +685,12 @@
   <string name="global_macmini">Мой Mac mini</string>
   <string name="global_macpro">Мой Mac Pro</string>
   <string name="global_macstudio">Мой Mac Studio</string>
+  <string name="aon_music_double_press_support_scene_des">Прайграванне або прыпыненне музыкі</string>
+  <string name="aon_music_left_right_support_scene_des">Пераход да папярэдняй ці наступнай песні</string>
+  <string name="aon_music_up_down_support_scene_des">Рэгуляванне гучнасці музыкі</string>
+  <string name="aon_office_up_down_support_scene_des">Пераход да папярэдняй або наступнай старонцы прэзентацыі або дакумента</string>
+  <string name="aon_short_video_up_down_support_scene_des">Пераход да папярэдняга або наступнага відэа</string>
+  <string name="aon_video_double_press_support_scene_des">Прайграванне або прыпыненне відэа</string>
+  <string name="aon_video_left_right_support_scene_des">Рэгуляванне ходу відэа пры праглядзе ў альбомнай арыентацыі</string>
+  <string name="aon_video_up_down_support_scene_des">Рэгуляванне гучнасці відэа</string>
 </resources>

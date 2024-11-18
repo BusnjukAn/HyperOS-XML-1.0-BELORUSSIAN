@@ -155,7 +155,7 @@
   <string name="accessibility_ethernet_disconnected">Ethernet адлучаны.</string>
   <string name="accessibility_feature_state_off">Выключана</string>
   <string name="accessibility_feature_state_on">Уключана</string>
-  <string name="accessibility_fingerprint_label">Сканер адбіткаў пальцаў</string>
+  <string name="accessibility_fingerprint_label">Сканар адбіткаў пальцаў</string>
   <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Памер шрыфта дададзены ў хуткія налады. Правядзіце пальцам уніз, каб змяніць памер шрыфта ў любы час.</string>
   <string name="accessibility_found_all_devices">Не паказваецца слыхавы апарат?</string>
   <string name="accessibility_found_hearing_devices">Даступныя слыхавыя апараты</string>
@@ -465,7 +465,7 @@
   <string name="adb_keys_warning_message">Забараніць доступ да адладкі па USB для ўсіх камп\'ютараў, якім ён быў дазволены?</string>
   <string name="adb_pair_method_code_summary">Спалучаць новыя прылады з дапамогай шасцізначнага кода</string>
   <string name="adb_pair_method_code_title">Спалучыць прыладу з дапамогай кода спалучэння</string>
-  <string name="adb_pair_method_qrcode_summary">Спалучаць новыя прылады з дапамогай сканера QR-кода</string>
+  <string name="adb_pair_method_qrcode_summary">Спалучаць новыя прылады з дапамогай сканара QR-кода</string>
   <string name="adb_pair_method_qrcode_title">Спалучыць прыладу з дапамогай QR-кода</string>
   <string name="adb_paired_devices_title">Спалучаныя прылады</string>
   <string name="adb_pairing_device_dialog_failed_msg">Пераканайцеся, што прылада падлучана да той самай сеткі.</string>
@@ -512,13 +512,13 @@
   <string name="add_fingerprint_instruction_title">Даданне адбітка</string>
   <string name="add_fingerprint_move_fast">Трымайце палец на экране крыху даўжэй</string>
   <string name="add_fingerprint_name_suggest_text">Імя адбітка пальца</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Крыху перамясціце палец і прыкладзіце яго да сканера зноў, каб дадаць ўсе астатнія часткі адбітка пальца.</string>
-  <string name="add_fingerprint_put_finger_msg">Прыкладзіце палец да сканера і падніміце, калі адчуеце вібрацыю.</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Крыху перамясціце палец і прыкладзіце яго да сканара зноў, каб дадаць ўсе астатнія часткі адбітка пальца.</string>
+  <string name="add_fingerprint_put_finger_msg">Прыкладзіце палец да сканара і падніміце, калі адчуеце вібрацыю.</string>
   <string name="add_fingerprint_put_finger_title">Даданне адбітка</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Крыху перамясціце палец</string>
   <string name="add_fingerprint_success_msg">Паспяхова дададзена</string>
   <string name="add_fingerprint_text">Дадаць адбітак пальца</string>
-  <string name="add_fingerprint_toast_text">Прыкладзіце палец да сканера</string>
+  <string name="add_fingerprint_toast_text">Прыкладзіце палец да сканара</string>
   <string name="add_front_fingerprint_instruction_msg">У вашай прыладзе сканар адбіткаў пальцаў убудаваны ў кнопку «Дадому».</string>
   <string name="add_guest_failed">Не ўдалося стварыць новага госця</string>
   <string name="add_new">Дадаць</string>
@@ -2342,7 +2342,7 @@
   <string name="confirm_enable_oem_unlock_title">Дазволіць OEM разблакаванне?</string>
   <string name="confirm_erase">Выдаліць</string>
   <string name="confirm_fingerprint">Пацвердзіце ваш адбітак пальца</string>
-  <string name="confirm_fingerprint_msg">Прыкладзіце палец да сканера</string>
+  <string name="confirm_fingerprint_msg">Прыкладзіце палец да сканара</string>
   <string name="confirm_frp_credential_message">Налады прылады былі скінуты. Вы можаце разблакаваць яе з дапамогай папярэдняга пароля.</string>
   <string name="confirm_frp_credential_skip_txt">Выкарыстоўваць акаўнт Google</string>
   <string name="confirm_frp_credential_title">Разблакаванне пасля сістэмнага скіду</string>
@@ -3599,7 +3599,7 @@
   <string name="fingerprint_payment">Аплата адбіткам пальца</string>
   <string name="fingerprint_removal_failed">Не атрымалася выдаліць адбітак пальца, паспрабуйце яшчэ раз</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Хуткі прагляд апавяшчэнняў</string>
-  <string name="fingerprint_swipe_for_notifications_summary">Каб праверыць апавяшчэннi, правядзіце пальцам уніз па сканеры адбіткаў пальцаў на заднім боку тэлефона.</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Каб праверыць апавяшчэннi, правядзіце пальцам уніз па сканару адбіткаў пальцаў на заднім боку тэлефона.</string>
   <string name="fingerprint_swipe_for_notifications_title">Правядзіце пальцам, каб убачыць апавяшчэннi</string>
   <string name="fingerprint_unlock_press_type">Націск</string>
   <string name="fingerprint_unlock_set_unlock_password">Адбіткак пальца + пароль</string>
@@ -3993,7 +3993,7 @@
   <string name="gxzw_anim_title">Анімацыя адбітка</string>
   <string name="gxzw_aod_show_summary">Вазьміце прыладу ў рукі або дакраніцеся да экрана, каб з\'явіўся значок адбітка пальца. Гэта функцыя павялічвае спажыванне энергіі сістэмай, але дазваляе хутчэй разблакаваць прыладу.</string>
   <string name="gxzw_aod_show_tittle">Значок адбітка на выключаным экране</string>
-  <string name="gxzw_dialog_message">Для нармальнай працы экраннага сканера адбіткаў не выкарыстоўвайце сродкі абароны экрана. Калі вы лічыце, што абарона экрана ўсё ж неабходная, абярыце адзін з сумяшчальных варыянтаў.</string>
+  <string name="gxzw_dialog_message">Для нармальнай працы экраннага сканара адбіткаў не выкарыстоўвайце сродкі абароны экрана. Калі вы лічыце, што абарона экрана ўсё ж неабходная, абярыце адзін з сумяшчальных варыянтаў.</string>
   <string name="gxzw_dialog_not_show_again">Не паказваць зноў</string>
   <string name="gxzw_dialog_ok">Зразумела</string>
   <string name="gxzw_dialog_title">Пра экранны сканар адбіткаў</string>
@@ -4995,8 +4995,8 @@
   <string name="lockscreen_privacy_controls_setting_toggle">Паказ элементаў кіравання прыладай</string>
   <string name="lockscreen_privacy_controls_summary">Доступ да элементаў кіравання пры заблакаваным экране</string>
   <string name="lockscreen_privacy_not_secure">Спачатку трэба наладзіць блакаванне экрана</string>
-  <string name="lockscreen_privacy_qr_code_scanner_setting_toggle">Паказаць сканер QR-кодаў</string>
-  <string name="lockscreen_privacy_qr_code_scanner_summary">Дазволіць доступ да сканера QR-кодаў з экрана блакавання</string>
+  <string name="lockscreen_privacy_qr_code_scanner_setting_toggle">Паказаць сканар QR-кодаў</string>
+  <string name="lockscreen_privacy_qr_code_scanner_summary">Дазволіць доступ да сканара QR-кодаў з экрана блакавання</string>
   <string name="lockscreen_privacy_wallet_setting_toggle">Паказ кашалька</string>
   <string name="lockscreen_privacy_wallet_summary">Дазволіць доступ да кашалька з заблакаванага экрана і хуткіх налад</string>
   <string name="lockscreen_quick_affordances_title">Цэтлікі</string>
@@ -6882,7 +6882,7 @@
   <string name="privacy_password_fingerprint_confirm_failed">Не атрымалася праверыць адбітак</string>
   <string name="privacy_password_fingerprint_confirm_succes">Адбітак правераны</string>
   <string name="privacy_password_fingerprint_dialog_error_title">Не атрымалася адсканаваць адбіткі пальцаў, паспрабуйце яшчэ раз</string>
-  <string name="privacy_password_fingerprint_dialog_message">Прыкладзіце палец да сканера</string>
+  <string name="privacy_password_fingerprint_dialog_message">Прыкладзіце палец да сканара</string>
   <string name="privacy_password_fingerprint_dialog_title">Адскануйце адбітак пальца</string>
   <string name="privacy_password_login_and_add_account">Увайсці і дадаць</string>
   <string name="privacy_password_never_remind">Не пытаць зноў</string>
@@ -7818,8 +7818,8 @@
   <string name="security_settings_face_settings_use_face_category">Распазнаванне для</string>
   <string name="security_settings_face_watch_preference_summary">Твар і гадзіннік \"%s\" дададзены</string>
   <string name="security_settings_fingerprint">Адбітак пальца</string>
-  <string name="security_settings_fingerprint_bad_calibration">Не ўдалося скарыстаць сканер адбіткаў пальцаў. Звярніцеся ў сэрвісны цэнтр.</string>
-  <string name="security_settings_fingerprint_bad_calibration_title">Не ўдалося скарыстаць сканер адбіткаў пальцаў</string>
+  <string name="security_settings_fingerprint_bad_calibration">Не ўдалося скарыстаць сканар адбіткаў пальцаў. Звярніцеся ў сэрвісны цэнтр.</string>
+  <string name="security_settings_fingerprint_bad_calibration_title">Не ўдалося скарыстаць сканар адбіткаў пальцаў</string>
   <string name="security_settings_fingerprint_enroll_consent_introduction_title">Дазволіць разблакаванне адбіткам</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Выдаліць</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Імя</string>
@@ -7860,7 +7860,7 @@
   <string name="security_settings_fingerprint_enroll_start_title">Дакраніцеся да сэнсара</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_message">Указальным пальцам дакраніцеся да сэнсара на задняй панэлі тэлефона.</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Ой, гэта не датчык</string>
-  <string name="security_settings_fingerprint_enroll_udfps_title">Націсніце і ўтрымлівайце сканер адбіткаў пальцаў</string>
+  <string name="security_settings_fingerprint_enroll_udfps_title">Націсніце і ўтрымлівайце сканар адбіткаў пальцаў</string>
   <string name="security_settings_fingerprint_multiple_face_watch_preference_summary">Твар, адбіткі пальцаў і гадзіннік \"%s\" дададзены</string>
   <string name="security_settings_fingerprint_multiple_watch_preference_summary">Адбіткі пальцаў і гадзіннік \"%s\" дададзены</string>
   <string name="security_settings_fingerprint_preference_summary">{count,plural, =1{Дададзены адбітак пальца}one{Дададзены # адбітак пальца}few{Дададзена # адбіткі пальцаў}many{Дададзена # адбіткаў пальцаў}other{Дададзена # адбітка пальцаў}}</string>
@@ -7875,12 +7875,12 @@
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Калі вы ўжываеце функцыю, відарысы выкарыстоўваюцца для абнаўлення мадэлі адбітка пальца. Відарысы, якія выкарыстоўваліся для стварэння мадэлі адбітка пальца, ніколі не захоўваюцца. На вашым тэлефоне бяспечна захоўваецца толькі сама мадэль, і яна нікуды не адпраўляецца. Уся апрацоўка выконваецца толькі на вашым тэлефоне.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Вы можаце ў любы час выдаліць мадэль адбітка пальца ці выключыць функцыю у Наладах. Мадэлі адбітка пальца будуць захоўвацца на тэлефоне, пакуль вы іх не выдаліце.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_5">Ваш тэлефон можа быць разблакаваны без вашага намеру, напрыклад, калі хтосьці паднясе яго да вашага пальца.</string>
-  <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">Каб атрымліваць найлепшыя вынікі, карыстайцеся ахоўнай плёнкай, якая мае сертыфікат \"Made for Google\". Калі выкарыстоўваць іншыя ахоўныя плёнкі, сканер адбіткаў пальцаў можа не працаваць.</string>
+  <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">Каб атрымліваць найлепшыя вынікі, карыстайцеся ахоўнай плёнкай, якая мае сертыфікат \"Made for Google\". Калі выкарыстоўваць іншыя ахоўныя плёнкі, сканар адбіткаў пальцаў можа не працаваць.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Каб спраўджваць асобу дзіцяці, функцыя Pixel Imprint стварае ўнікальную мадэль адбітка яго пальца. Для стварэння мадэлі трэба адсканіраваць палец дзіцяці ў розных паставах.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Калі дзіця ўжывае функцыю разблакоўкі адбіткам, відарысы выкарыстоўваюцца для абнаўлення мадэлі адбітка пальца. Відарысы, якія выкарыстоўваліся для стварэння мадэлі адбітка пальца дзіцяці, ніколі не захоўваюцца. На тэлефоне бяспечна захоўваецца толькі сама мадэль, і яна нікуды не адпраўляецца. Уся апрацоўка выконваецца толькі на тэлефоне.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Вы і ваша дзіця можаце ў любы час выдаліць мадэль адбітка пальца ці выключыць функцыю разблакоўкі адбіткам у Наладах. Мадэлі адбітка пальца будуць захоўвацца на тэлефоне, пакуль іх не выдаляць.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_5">Тэлефон можна разблакаваць, нават калі дзіця не збіралася гэта рабіць, напрыклад, калі хтосьці прыкладзе палец дзіцяці да тэлефона.</string>
-  <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">Каб атрымліваць найлепшыя вынікі, карыстайцеся ахоўнай плёнкай, якая мае сертыфікат \"Made for Google\". Калі выкарыстоўваць іншыя ахоўныя плёнкі, сканер адбіткаў пальцаў вашага дзіцяці можа не працаваць.</string>
+  <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">Каб атрымліваць найлепшыя вынікі, карыстайцеся ахоўнай плёнкай, якая мае сертыфікат \"Made for Google\". Калі выкарыстоўваць іншыя ахоўныя плёнкі, сканар адбіткаў пальцаў вашага дзіцяці можа не працаваць.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Важная інфармацыя</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">Як гэта працуе</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Аўтэнтыфікацыя адбіткам пальца</string>
@@ -7889,7 +7889,7 @@
   <string name="security_settings_require_screen_on_to_auth_keywords">Разблакаванне экрана</string>
   <string name="security_settings_require_screen_on_to_auth_title">Дакраніцеся, каб разблакіраваць у любы час</string>
   <string name="security_settings_sfps_animation_a11y_label">Працэнт выканання рэгістрацыі адбітка пальца: %d</string>
-  <string name="security_settings_sfps_enroll_find_sensor_message">Сканер адбіткаў пальцаў знаходзіцца на кнопцы сілкавання. Гэта плоская кнопка побач з выпуклай кнопкай гучнасці на бакавой грані тэлефона.</string>
+  <string name="security_settings_sfps_enroll_find_sensor_message">Сканар адбіткаў пальцаў знаходзіцца на кнопцы сілкавання. Гэта плоская кнопка побач з выпуклай кнопкай гучнасці на бакавой грані тэлефона.</string>
   <string name="security_settings_sfps_enroll_find_sensor_title">Дакраніцеся да кнопкі сілкавання, не націскаючы яе</string>
   <string name="security_settings_sfps_enroll_finger_center_title">Прыкладзіце да датчыка падушачку пальца</string>
   <string name="security_settings_sfps_enroll_fingertip_title">Прыкладзіце да датчыка кончык пальца</string>
@@ -7898,9 +7898,9 @@
   <string name="security_settings_sfps_enroll_right_edge_title">Нарэшце, прыкладзіце да датчыка палец правым бокам</string>
   <string name="security_settings_sfps_enroll_start_message">Не націскаючы кнопку, утрымлівайце палец на датчыку, пакуль не адчуеце вібрацыю.\n\nКожны раз злёгку варушыце пальцам. Гэта працэдура дапаможа больш дакладна зафіксаваць адбітак пальца.</string>
   <string name="security_settings_title">Бяспека і месцазнаходжанне</string>
-  <string name="security_settings_udfps_enroll_a11y">Каб знайсці сканер, павадзіце пальцам па экране. Націсніце і ўтрымлівайце сканер адбіткаў пальцаў.</string>
+  <string name="security_settings_udfps_enroll_a11y">Каб знайсці сканар, павадзіце пальцам па экране. Націсніце і ўтрымлівайце сканар адбіткаў пальцаў.</string>
   <string name="security_settings_udfps_enroll_edge_message">Прыкладзіце палец да датчыка адным бокам і ўтрымлівайце яго, потым павярніце іншым бокам</string>
-  <string name="security_settings_udfps_enroll_find_sensor_message">Сканер адбіткаў пальцаў знаходзіцца на экране. Адбітак будзе адсканіраваны на наступным экране.</string>
+  <string name="security_settings_udfps_enroll_find_sensor_message">Сканар адбіткаў пальцаў знаходзіцца на экране. Адбітак будзе адсканіраваны на наступным экране.</string>
   <string name="security_settings_udfps_enroll_find_sensor_start_button">Запусціць</string>
   <string name="security_settings_udfps_enroll_find_sensor_title">Як дадаць адбітак пальца</string>
   <string name="security_settings_udfps_enroll_fingertip_title">Прыкладзіце да датчыка кончык пальца</string>
@@ -7910,7 +7910,7 @@
   <string name="security_settings_udfps_enroll_repeat_message">Кожны раз падчас руху абразка адбітка пальца ўтрымлівайце палец націснутым. Гэта дзеянне дапаможа атрымаць поўны адбітак пальца.</string>
   <string name="security_settings_udfps_enroll_repeat_title_touch_icon">Сачыце за абразком адбітка пальца</string>
   <string name="security_settings_udfps_enroll_right_edge_title">Прыкладзіце палец правым краем</string>
-  <string name="security_settings_udfps_enroll_start_message">Утрымлівайце палец на сканеры, пакуль не адчуеце вібрацыю</string>
+  <string name="security_settings_udfps_enroll_start_message">Утрымлівайце палец на сканары, пакуль не адчуеце вібрацыю</string>
   <string name="security_settings_udfps_enroll_title_one_more_time">Яшчэ адзін раз</string>
   <string name="security_settings_udfps_side_fingerprint_help">Прыкладзіце палец да датчыка адным бокам і ўтрымлівайце яго, потым павярніце іншым бокам</string>
   <string name="security_settings_udfps_tip_fingerprint_help">Падніміце і дакраніцеся зноў</string>
@@ -11824,11 +11824,11 @@
   <string name="aon_scanner_default_payment_method_title">Спосаб аплаты па змаўчанні</string>
   <string name="aon_scanner_dialog_message">Пры ўключэнні Хуткага сканара сканаваныя вамі QR-коды будуць перададзены ў Mi ШІ Сканар. Пераканайцеся, што вы разумееце і згаджаецеся з гэтым, перш чым працягваць. Сканаваныя вамі QR-коды не будуць захоўвацца лакальна або загружацца ў воблака. Звярніце ўвагу, што выкарыстанне гэтай функцыі можа крыху павялічыць агульнае энергаспажыванне.</string>
   <string name="aon_scanner_dialog_title">Заява аб прыватнасцi</string>
-  <string name="aon_scanner_disclaimer_message">Хуткі сканер прапануе хуткі і просты спосаб сканавання QR-кодаў. Пасля ўключэння гэтай функцыі вы зможаце хутка сканаваць QR-коды і адразу пераходзіць на адпаведную старонку. Перад сканаваннем пераканайцеся, што вы цалкам разумееце змесціва і паслугі, якія прадстаўляюцца QR-кодам. Вырашыце, ці вы хочаце сканаваць яго або перайсці па спасылцы на іншы сэрвіс. Калі вы вырашыце скарыстацца паслугамі трэціх асоб, любыя наступствы і юрыдычныя рызыкі кладуцца на вас. Звярніце ўвагу, што Xiaomi не дае ніякіх відавочных або пэўныя гарантый на змесціва QR-кода, прадукты і паслугі, якi прапануе трэцімі асобамі.</string>
+  <string name="aon_scanner_disclaimer_message">Хуткі сканар прапануе хуткі і просты спосаб сканавання QR-кодаў. Пасля ўключэння гэтай функцыі вы зможаце хутка сканаваць QR-коды і адразу пераходзіць на адпаведную старонку. Перад сканаваннем пераканайцеся, што вы цалкам разумееце змесціва і паслугі, якія прадстаўляюцца QR-кодам. Вырашыце, ці вы хочаце сканаваць яго або перайсці па спасылцы на іншы сэрвіс. Калі вы вырашыце скарыстацца паслугамі трэціх асоб, любыя наступствы і юрыдычныя рызыкі кладуцца на вас. Звярніце ўвагу, што Xiaomi не дае ніякіх відавочных або пэўныя гарантый на змесціва QR-кода, прадукты і паслугі, якi прапануе трэцімі асобамі.</string>
   <string name="aon_scanner_disclaimer_title">Адмова ад адказнасці</string>
-  <string name="aon_scanner_download_message">Хуткі сканер выкарыстоўвае Mi ШІ Сканар для прадастаўлення сваіх паслуг. Гэта азначае, што QR-коды, якія вы скануеце, будуць перададзены ў Mi ШІ Сканар. Пераканайцеся, што вы разумееце і згаджаецеся з гэтым, перш чым працягнуць усталёўку.</string>
+  <string name="aon_scanner_download_message">Хуткі сканар выкарыстоўвае Mi ШІ Сканар для прадастаўлення сваіх паслуг. Гэта азначае, што QR-коды, якія вы скануеце, будуць перададзены ў Mi ШІ Сканар. Пераканайцеся, што вы разумееце і згаджаецеся з гэтым, перш чым працягнуць усталёўку.</string>
   <string name="aon_scanner_download_title">Усталяваць Mi ШІ Сканар</string>
-  <string name="aon_scanner_settings">Хуткі сканер</string>
+  <string name="aon_scanner_settings">Хуткі сканар</string>
   <string name="aon_scanner_status_close">Выкл.</string>
   <string name="aon_scanner_status_open">Укл.</string>
   <string name="aon_scanner_summary" formatted="false">Знаходзячыся на галоўным экране, накіруйце прыладу на QR-код у межах %d см, пакуль не з\'явіцца запыт, і ўтрымлівайце на працягу %d секунд для сканавання</string>
@@ -12062,7 +12062,7 @@
   <string name="enhanced_ai_applications">Паскарэнне праграм ШІ</string>
   <string name="enhanced_ai_applications_summary">Выкарыстоўвайце ШІ для абнаўлення праграм і атрымлівайце асалоду ад больш інтэлектуальных паслуг</string>
   <string name="hearing_stream_option">Параметры гуку</string>
-  <string name="impunity_declaration_content">"Сканеру неабходна выкарыстоўваць вашу камеру і апрацоўваць выявы, якія вы робіце падчас выкарыстання праграмы. Не выкарыстоўвайце Сканар для фатаграфавання аб\'ектаў, якія змяшчаюць вашу асабістую інфармацыю. Націскаючы \"Згодзен\", вы згаджаецеся з нашай &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font> і дазваляеце Сканеру падлучацца да Інтэрнэту."</string>
+  <string name="impunity_declaration_content">"Сканару неабходна выкарыстоўваць вашу камеру і апрацоўваць выявы, якія вы робіце падчас выкарыстання праграмы. Не выкарыстоўвайце Сканар для фатаграфавання аб\'ектаў, якія змяшчаюць вашу асабістую інфармацыю. Націскаючы \"Згодзен\", вы згаджаецеся з нашай &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font> і дазваляеце Сканару падлучацца да Інтэрнэту."</string>
   <string name="impunity_declaration_negative_text">Выхад</string>
   <string name="keyboard_layout_not_support_hint">Непадтрымліваемая раскладка</string>
   <string name="lamp_effect_settings">Эфекты</string>
@@ -12091,4 +12091,16 @@
   <string name="unchecked_app_title">Светлавыя эфекты выключаны</string>
   <string name="voice_assist_summary">Ваш персанальны разумны памочнік</string>
   <string name="factory_reset_loading">Выкананне скіду да заводскіх налад…</string>
+  <string name="advanced_screen_paper_mode_title_new">Камфорт для вачэй</string>
+  <string name="back_strap_image_simplified_text">Калі прылада ляжыць экранам уніз з выключаным экранам, падсвятленне будзе адлюстроўваць напамінкі аб апавяшчэннях</string>
+  <string name="font_preview_text_content">"Прыклад тэксту:
+
+Xiaomi нястомна стварае цудоўныя прадукты па сумленных цэнах, каб дазволіць усім у свеце атрымліваць асалоду ад лепшага жыцця з дапамогай інавацыйных тэхналогій."</string>
+  <string name="photography_handle_charge_settings">Налады зарадкі</string>
+  <string name="photography_handle_function_settings">Налады дзяржальні камеры</string>
+  <string name="photography_handle_sn">Серыйны нумар</string>
+  <string name="photography_handle_update_and_maintain">Абнаўленні</string>
+  <string name="satellite_management_title">Спадарожнікавая сетка</string>
+  <string name="text_layout_optimization_switch_label">Аптымізаваць макет тэксту</string>
+  <string name="text_layout_optimization_switch_toast">Немагчыма аптымізаваць макет тэксту з бягучым шрыфтам</string>
 </resources>

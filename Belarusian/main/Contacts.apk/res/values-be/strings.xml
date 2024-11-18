@@ -1600,7 +1600,8 @@
   <string name="hint_distance">Для забеспячэння стабільнасці злучэння падчас імпарту дадзеных трымайце абедзве прылады побач адна з адной.</string>
   <string name="notification_title_export">Экспарт кантактаў</string>
   <string name="notification_title_import">Імпарт кантактаў</string>
-  <string name="contacts_information_ipc">Рэгістрацыйны нумар ICP: Пекін 10046444-77A</string>
+  <string name="contacts_information_ipc">Рэгістрацыйны нумар ICP: 10046444-77A</string>
   <string name="split_screen_fab_toast">Перацягнiце, каб выкарыстоўваць панэль набору нумара</string>
   <string name="add_google_account_dialog_btn">Выкарыстоўваць акаўнт Google</string>
+  <string name="bluetooth_chat">Узаемадзеянне паміж прыладамі</string>
 </resources>

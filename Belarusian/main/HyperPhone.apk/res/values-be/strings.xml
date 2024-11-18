@@ -422,4 +422,8 @@
   <string name="wifi_call_setting">Выклікі праз Wi-Fi</string>
   <string name="wifi_call_setting_vodafone_de">Выклікі Wi-Fi</string>
   <string name="wifi_call_setting_vodafone_uk">Выклік Wi-Fi</string>
+  <string name="fivega_dialog_cancel">Адмена</string>
+  <string name="fivega_dialog_summary">Уключэнне гэтай функцыі можа выклікаць праблемы сеткавай сумяшчальнасці. Уключыць у любым выпадку?</string>
+  <string name="fivega_feature_dialog_ok">Уключыць</string>
+  <string name="fivega_protocol_dialog_ok">Пераключыць</string>
 </resources>

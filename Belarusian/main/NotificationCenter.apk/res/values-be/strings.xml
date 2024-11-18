@@ -370,19 +370,22 @@
   <string name="notification_aon_title_hide">Схаваць апавяшчэнні</string>
   <string name="ai_dialog_negative_button_text">Не дазваляць</string>
   <string name="ai_dialog_postive_button_text">Дазволіць</string>
-  <string name="ai_dialog_text">Зводка апавяшчэнняў ШІ падае інтэлектуальныя зводкі ключавой інфармацыі з апавяшчэнняў. Xiaomi неабходна атрымаць доступ да змесціва апавяшчэнняў і апрацаваць яго, каб даць гэтую функцыю, але Xiaomi не будзе захоўваць гэтую інфармацыю.</string>
+  <string name="ai_dialog_text">ШI-зводка апавяшчэнняў падае інтэлектуальныя зводкі ключавой інфармацыі з апавяшчэнняў. Xiaomi неабходна атрымаць доступ да змесціва апавяшчэнняў і апрацаваць яго, каб даць гэтую функцыю, але Xiaomi не будзе захоўваць гэтую інфармацыю.</string>
   <string name="ai_dialog_title">Дазволіць доступ да апавяшчэнняў</string>
-  <string name="ai_enhanced_summary">Інтэлектуальная зводка апавяшчэнняў і тэкставых паведамленняў для адлюстравання больш важнага кантэнту</string>
-  <string name="ai_enhanced_title">Зводка паведамленняў ШІ</string>
-  <string name="ai_notification_illustrate_text">"Інтэлектуальна сумуйце доўгі кантэнт у апавяшчэннях і тэкставых паведамленнях і адлюстроўвайце зводку змесціва ў спісе папярэдняга прагляду, каб дапамагчы вам хутка атрымаць важную інфармацыю ў сцэне папярэдняга прагляду.
-Кантэнт (уключаючы любыя асабістыя дадзеныя ў ім) будзе апрацоўвацца Xiaomi, але Xiaomi не будзе захоўваць гэтыя дадзеныя."</string>
-  <string name="ai_notification_summary">Зводка апавяшчэнняў ШІ падае інтэлектуальныя зводкі ключавой інфармацыі з апавяшчэнняў. Гэтая функцыя крыху павялічыць энергаспажыванне.</string>
-  <string name="ai_notification_title">Зводка апавяшчэнняў ШІ</string>
-  <string name="dialog_privacy_text_with_link"><Data>Прачытайце і прыміце нашу &lt;a href=https://privacy.mi.com/AISummary/zh_CN/>Палітыку прыватнасці Зводкі паведамленняў ШІ&lt;/a></Data> <Data > і &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>Палітыку прыватнасці Зводкі апавяшчэнняў ШІ&lt;/a> перад выкарыстаннем гэтай функцыі.</Data></string>
+  <string name="ai_enhanced_summary">Атрымлівайце разумныя зводкі апавяшчэнняў і паведамленняў</string>
+  <string name="ai_enhanced_title">ШI-брыфінг</string>
+  <string name="ai_notification_illustrate_text">ШI-брыфінг выбірае самую важную інфармацыю з апавяшчэнняў і паведамленняў і адлюстроўвае яе ў спісе папярэдняга прагляду.\nXiaomi будзе апрацоўваць змесціва апавяшчэнняў і паведамленняў (уключаючы любыя асабістыя дадзеныя), але не будзе захоўваць яго.</string>
+  <string name="ai_notification_summary">ШI-зводка апавяшчэнняў падае інтэлектуальныя зводкі ключавой інфармацыі з апавяшчэнняў. Гэтая функцыя крыху павялічыць энергаспажыванне.</string>
+  <string name="ai_notification_title">ШI-зводка апавяшчэнняў</string>
+  <string name="dialog_privacy_text_with_link"><Data>Прачытайце і прыміце нашы &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>Пагадненне карыстальніка ШІ-брыфінгу&lt;/a></Data> <Data> і &lt;a href=https://privacy.mi.com/AISummary/zh_CN/>Палітыку канфідэнцыйнасці ШІ-брыфінгу&lt;/a> перад выкарыстаннем гэтай функцыі.</Data></string>
   <string name="mi_account_login_dialog_button_text">Увайсці</string>
   <string name="mi_account_login_dialog_text">У сувязі з дзеючымі законамі і правіламі для выкарыстання функцый, звязаных з ШІ, патрабуецца праверка асобы. Увайдзіце ў акаўнт Xiaomi, каб выкарыстоўваць гэтую функцыю.</string>
   <string name="mi_account_login_dialog_title">Увайдзіце ў акаўнт Xiaomi</string>
   <string name="privacy_text">Xiaomi неабходна атрымаць доступ да змесціва апавяшчэнняў (якое можа ўключаць асабістую інфармацыю) і апрацаваць яго, каб даць гэтую функцыю, але Xiaomi не будзе захоўваць гэтую інфармацыю.</string>
   <string name="privacy_text_with_link"><Data>Азнаёмцеся з нашай &lt;a href=https://privacy.mi.com/AISummary/en_US/>Палітыкай прыватнасці&lt;/a></Data><Data>, каб зразумець , як мы кіруем вашымі дадзенымі. Для атрымання дадатковай інфармацыі аб гэтай паслузе гл. наша &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>Пагадненне карыстальніка&lt;/a>.</Data></string>
   <string name="privacy_title">Умовы і палажэнні</string>
+  <string name="ai_internal_test_negative_text">Не згаджацца</string>
+  <string name="ai_internal_test_positive_text">Пагадзіцца</string>
+  <string name="ai_internal_test_text">ШI-зводка апавяшчэнняў выкарыстоўвае магчымасці вялікай мадэлі для абагульнення апавяшчэнняў і адлюстравання ключавой інфармацыі. Уключэнне гэтай функцыі крыху павялічыць энергаспажыванне.</string>
+  <string name="ai_internal_test_title">Бэта-тэставанне ШI-зводкі апавяшчэнняў</string>
 </resources>

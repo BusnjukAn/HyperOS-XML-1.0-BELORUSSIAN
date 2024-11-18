@@ -1389,4 +1389,6 @@
   <string name="pin_toast">Правядзіце пальцам уверх ад ніжняй частцы экрана і зрабіце паўзу, каб адмацаваць гэту праграму</string>
   <string name="pin_toast_nav">Націсніце i утрымлівайце кнопкі \"Назад\" і \"Папярэдні прагляд\", каб адмацаваць гэту праграму.</string>
   <string name="split_operation_guide_title">Як карыстацца падзеленым экранам</string>
+  <string name="keyboard_layout_input_method_language">"Мова: "</string>
+  <string name="keyboard_layout_not_support_hint">Непадтрымліваемая раскладка</string>
 </resources>

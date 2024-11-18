@@ -2333,4 +2333,16 @@
   <string name="fiveg_interruption_remind">"Здаецца, ваша SIM-карта %s не падтрымлівае паслугі 5G SA. Звярніцеся да свайго аператара для атрымання дадатковай інфармацыі."</string>
   <string name="fiveg_interruption_remind_title">"Немагчыма выкарыстоўваць паслугі 5G"</string>
   <string name="satellite_enable_non_emergency_mode_string">Пратэстуйце рэжым рэальнага спадарожніка без eSOS (толькі адладкавая зборка)</string>
+  <string name="offline_call_has_call">Іншы чалавек заняты. Паўтарыце спробу праз хвіліну ці дзве.</string>
+  <string name="offline_call_not_match_contact">Не атрымалася патэлефанаваць. Вы не з\'яўляецеся кантактам іншага чалавека.</string>
+  <string name="satellite_exit">Выйсці</string>
+  <string name="satellite_pa_megathermal_message">Прылада занадта гарачая для ўключэння спадарожнікавай сувязі. Пачакайце, пакуль яна астыне, і паспрабуйце яшчэ раз.</string>
+  <string name="satellite_pa_megathermal_title">Прылада перагрэлася</string>
+  <string name="satellite_unable_open_title">Немагчыма ўключыць спадарожнікавую сувязь</string>
+  <string name="satellite_xingwang_setting">Спадарожнікавая сувязь Xingwang</string>
+  <string name="wfc_mode_ims_preferred_title">Званок праз IMS</string>
+  <string name="xingwang_satellite_findout_settings_title">Аб спадарожнікавай сувязі Tiantong</string>
+  <string name="xingwang_satellite_mobile_settings_summary">Падтрымліваюцца толькі SIM-карты з падтрымкай спадарожнікавай сувязі China Telecom або іншыя аператары, якія падтрымліваюцца</string>
+  <string name="xingwang_satellite_mobile_settings_title">Уключыць спадарожнікавую сувязь</string>
+  <string name="xingwang_satellite_privacy_withdrawal_setting">Адмяніць паслугі спадарожнікавай сувязі Tiantong</string>
 </resources>

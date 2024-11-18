@@ -320,4 +320,6 @@
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="open_wifi_settings_china">Адкрыць налады Wi-Fi</string>
   <string name="unlock_help_china">Падлучыцеся да сеткі.\nПераканайцеся, што ўсталяваная SIM-карта дзейная (калі падтрымліваецца прыладай) і прылада падлучана да дзейнай сеткі Wi-Fi.\n\nЗабылі пароль?\nПерайдзіце на id.mi.com, каб скінуць пароль.\n\nНе можаце актываваць прыладу?\nПерайдзіце на i.mi.com/ss і адпраўце заяўку на разблакоўку прылады.</string>
+  <string name="notification_locate_device">Выяўленне прылад</string>
+  <string name="notification_open_find">Уключаны Пошук прылады</string>
 </resources>

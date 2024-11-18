@@ -834,4 +834,14 @@
   <string name="airecorder_mic_in_use_while_in_call_tip">"Немагчыма запісваць, калі выкарыстоўваецца мікрафон"</string>
   <string name="airecorder_record_while_in_call_tip">"Немагчыма запісваць падчас выклікаў"</string>
   <string name="mic_in_use_while_in_call_tip">"Немагчыма запісваць, калі выкарыстоўваецца мікрафон"</string>
+  <string name="cant_generate_summary_by_account_un_login1">"Увайдзіце ў свой акаўнт Xiaomi, каб ствараць зводкі. "</string>
+  <string name="cant_generate_summary_by_account_un_login2">Увайсці</string>
+  <string name="cant_generate_summary_by_block_list_error">Вам было забаронена выкарыстоўваць гэтую функцыю з-за шматлікіх парушэнняў нашых правілаў</string>
+  <string name="cant_generate_summary_by_language_type_limit">Немагчыма ствараць зводкі для гэтай мовы</string>
+  <string name="cant_generate_summary_by_network_error1">"Адбылася памылка сеткі. "</string>
+  <string name="cant_generate_summary_by_network_error2">Паўтарыць спробу</string>
+  <string name="cant_generate_summary_by_sensitive_content">Нельга стварыць зводку адчувальнага зместу</string>
+  <string name="cant_generate_summary_by_unkonw_error">Адбылася невядомая памылка</string>
+  <string name="cant_generate_summary_by_word_limit">Занадта мала або занадта многа сімвалаў. Немагчыма стварыць зводку.</string>
+  <string name="summary_is_generating">Стварэнне зводкі… </string>
 </resources>

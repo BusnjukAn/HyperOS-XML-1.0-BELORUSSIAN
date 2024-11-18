@@ -1077,8 +1077,8 @@
   <string name="milink_toast_des">Ваша сістэма не была абноўлена да HyperOS. Адскануйце QR-код версіі не для HyperOS.</string>
   <string name="milink_update_des">Калі ласка, перайдзіце ў краму праграм, каб абнавіць праграму Узаемазлучальнасць да апошняй версіі і паўтарыце спробу.</string>
   <string name="milink_update_title">Перайсці да абнаўлення</string>
-  <string name="no_payment_software_installed">Плацежнае праграмнае забеспячэнне не ўстаноўлена. Спачатку ўсталюйце Mi Pay, WeChat або Alipay.</string>
-  <string name="no_support_multi_window">Сканер не падтрымлівае падзелены экран і плаваючыя вокны</string>
+  <string name="no_payment_software_installed">Плацежнае праграмнае забеспячэнне не ўсталявана. Спачатку ўсталюйце Mi Pay, WeChat або Alipay.</string>
+  <string name="no_support_multi_window">Сканар не падтрымлівае падзелены экран і плаваючыя вокны</string>
   <string name="please_enable_bluetooth_retry">Калі ласка, уключыце Bluetooth і паўтарыце спробу</string>
   <string name="text_ipc_record_number">ICP 10046444-90A &gt;</string>
 </resources>

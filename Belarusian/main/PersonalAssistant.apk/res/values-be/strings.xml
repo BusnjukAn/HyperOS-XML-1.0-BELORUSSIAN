@@ -1209,4 +1209,6 @@
   <string name="pa_travel_title_travel_refuse_permission">Ануляваць дазволы на месцазнаходжанне</string>
   <string name="pa_travel_title_travel_refuse_permission_message">Адклікаць сваю згоду на доступ сховішча праграм да вашага месцазнаходжання праз Mi ШI? Вы можаце кіраваць іншымі дазволамі ў наладах прапаноў Mi ШI.</string>
   <string name="pa_travel_train_unauthorized_ai_tip">Дазвольце доступ да месцазнаходжання, каб атрымліваць своечасовыя абнаўленні</string>
+  <string name="pa_widget_edit_calendar_switch_closed_toast">Вы не ўбачыце маючыя адбыцца падзеі, якія адлюстроўваюцца на віджэце</string>
+  <string name="pa_widget_edit_calendar_switch_opened_toast">Вы ўбачыце маючыя адбыцца падзеі, якія адлюстроўваюцца на віджэце</string>
 </resources>

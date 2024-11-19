@@ -1413,4 +1413,9 @@
   <string name="search_visual_health">Статыстыка часу прагляду экрана; нездаровы і здаровы прагляд экрана;</string>
   <string name="welcome_text_pad">З дапамогай функцыі \"Здаровае выкарыстанне прылады\" вы можаце праверыць час выкарыстання і прагляду экрана, а таксама атрымліваць напамінкі, якія дапамогуць вам выпрацаваць здаровыя звычкі. Націсніце ніжэй, каб пачаць выкарыстоўваць гэтую функцыю.</string>
   <string name="advanced_paper_mode_title">Камфорт для вачэй</string>
+  <string name="anti_flicker_mode_new_data">Універсальнае зацямненне DC</string>
+  <string name="anti_flicker_mode_summary_new_data">Выкарыстоўвайце пры поўнай яркасці, каб паменшыць зрокавую стомленасць</string>
+  <string name="normal_mode_new_data">Зацямненне PWM (высокачастотнае)</string>
+  <string name="normal_mode_summary_new_data">Выкарыстоўвайце пры нізкай яркасці, каб паменшыць зрокавую стомленасць</string>
+  <string name="not_allowed_for_child">Гэтая функцыя недаступная для непаўналетніх</string>
 </resources>

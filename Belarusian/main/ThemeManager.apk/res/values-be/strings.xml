@@ -2068,4 +2068,15 @@
   <string name="miui_clock_pad_exclusive_b_format_week_full_date">dd.M EE</string>
   <string name="miui_eastern_art_b_data_view_format">d.M</string>
   <string name="miui_eastern_art_b_week_view_format">EEE</string>
+  <string name="ai_account_violated_service_unavailable_try_again_later">Ваш уліковы запіс некалькі разоў парушыў нашы правілы і быў заблакаваны. Паўтарыце спробу пазней.</string>
+  <string name="ai_estimated_two_three_minutes" formatted="false">Гэта зойме %1d–%2d хв.</string>
+  <string name="ai_generating">Стварэнне…</string>
+  <string name="ai_image_format_does_not_support_generation">Непадтрымліваемы фармат</string>
+  <string name="ai_image_size_too_large">Выява занадта вялікая</string>
+  <string name="ai_in_line">"Вы ў чарзе…"</string>
+  <string name="ai_select_images_in_the_following_formats">Абярыце выявы ў любым з наступных падтрымліваемых фарматаў: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC і HEIF.</string>
+  <string name="ai_select_images_smaller_than_one_hundred">Абярыце выяву памерам менш за %d Мб і паспрабуйце яшчэ раз.</string>
+  <string name="ai_service_temporarily_unavailable">Функцыя недаступная</string>
+  <string name="ai_service_unavailable">Функцыя недаступная</string>
+  <string name="ai_waiting_in_line_please_wait">Вы ў чарзе. Заставайцеся з намі…</string>
 </resources>

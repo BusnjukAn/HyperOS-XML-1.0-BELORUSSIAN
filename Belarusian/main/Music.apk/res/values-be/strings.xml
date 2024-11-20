@@ -2252,4 +2252,6 @@
   <string name="asm_dialog_talk_one">Як справы?</string>
   <string name="asm_dialog_talk_three">Вось для пачатку %d-месячная бясплатная пробная версія</string>
   <string name="asm_dialog_talk_two">Давайце знаёміцца ​​з новай музыкай разам!</string>
+  <string name="insight_detail_overview">Агляд</string>
+  <string name="insight_detail_search_and_play">Шукаць і граць</string>
 </resources>

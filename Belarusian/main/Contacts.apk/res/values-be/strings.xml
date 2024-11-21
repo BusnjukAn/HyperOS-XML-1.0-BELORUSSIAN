@@ -1604,4 +1604,5 @@
   <string name="split_screen_fab_toast">Перацягнiце, каб выкарыстоўваць панэль набору нумара</string>
   <string name="add_google_account_dialog_btn">Выкарыстоўваць акаўнт Google</string>
   <string name="bluetooth_chat">Узаемадзеянне паміж прыладамі</string>
+  <string name="callrecordview_item_op_time_ai_automatic_answer">Аўтаадказ ШI</string>
 </resources>

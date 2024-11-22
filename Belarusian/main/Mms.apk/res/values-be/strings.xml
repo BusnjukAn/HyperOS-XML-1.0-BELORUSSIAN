@@ -1724,7 +1724,7 @@
   <string name="vital_signs_data_allergy">Алергія: %s</string>
   <string name="vital_signs_data_disease">Хранічныя станы: %s</string>
   <string name="vital_signs_data_high_bpm">Высокі пульс, апошні раз: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
-  <string name="vital_signs_data_high_bpm_multi">Высокі пульс, некалькі разоў за апошнюю гадзіну. Самы апошні %1$d%–%2$d вуд/хв. (%3$s–%4$s)</string>
+  <string name="vital_signs_data_high_bpm_multi">Высокі пульс, некалькі разоў за апошнюю гадзіну. Самы апошні %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_bpm">Нізкі пульс, апошняе: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_bpm_multi">Шматразовае зніжэнне пульса за апошнюю гадзіну. Самы апошні: %1$d–%2$d вуд/хв. (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_spo2">Нізкі SpO₂, апошняе: %1$d%%–%2$d%% (%3$s–%4$s)</string>

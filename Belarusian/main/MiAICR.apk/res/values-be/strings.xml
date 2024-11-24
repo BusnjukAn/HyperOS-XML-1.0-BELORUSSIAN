@@ -103,7 +103,7 @@
   <string name="cognition_permission_content_connect">"Чытанне стану злучэння прылады: калі вы карыстаецеся такімі службамі, як выразанне смарт-карты NFC, вы можаце ўключыць дазвол на счытванне злучэння прылады, каб атрымаць інфармацыю аб стане падключанай прылады. "</string>
   <string name="cognition_permission_content_know">Я ведаю</string>
   <string name="cognition_permission_content_location">"Пазіцыянаванне: калі вы выкарыстоўваеце такія паслугі, як ідэнтыфікацыя рэзідэнта і выразанне смарт-карты NFC, вы можаце атрымаць геаграфічнае месцазнаходжанне, уключыўшы дазвол на пазіцыянаванне. "</string>
-  <string name="cognition_permission_content_no">Яшчэ не</string>
+  <string name="cognition_permission_content_no">Не цяпер</string>
   <string name="cognition_permission_content_phone_state">"Чытанне стану тэлефона: калі вы карыстаецеся такімі службамі, як выразанне смарт-карты NFC, вы можаце атрымаць інфармацыю аб стане тэлефона, уключыўшы дазвол на чытанне стану тэлефона. "</string>
   <string name="cognition_permission_content_set">Каб уключыць</string>
   <string name="cognition_permission_content_top">Гэты сэрвіс прадастаўляецца механізмам Mi ШI і запытвае ў вас наступныя дазволы. Мы будзем строга выконваць адпаведныя законы для абароны вашай асабістай інфармацыі: </string>

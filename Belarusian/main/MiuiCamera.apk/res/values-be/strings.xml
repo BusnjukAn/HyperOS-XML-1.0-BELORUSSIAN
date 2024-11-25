@@ -1586,7 +1586,7 @@
   <string name="pref_camera_coloreffect_entry_none">Звычайны</string>
   <string name="pref_camera_coloreffect_entry_sketch">Выява</string>
   <string name="pref_camera_coloreffect_entry_small_face">Сціснуць</string>
-  <string name="pref_camera_coloreffect_entry_vivid">Яскрава</string>
+  <string name="pref_camera_coloreffect_entry_vivid">Яскравы</string>
   <string name="pref_camera_coloreffect_entry_vsco_a4">Аналагавы</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Матавы</string>
   <string name="pref_camera_coloreffect_title">Фільтры</string>
@@ -2770,7 +2770,7 @@
   <string name="audio_gain_mutex_3d_tip">Рэгуляванне гучнасці не працуе з аб\'ёмны імерсіўным аудыё</string>
   <string name="audio_gain_mutex_all_tip">Рэгуляванне гучнасці не працуе з аб\'ёмны імерсіўным аудыё або з разумным шумапрыглушэннем</string>
   <string name="audio_gain_mutex_nr_tip">Рэгуляванне гучнасці не працуе з разумным шумапрыглушэннем</string>
-  <string name="audio_track_mutex_truecolor_setting_tips">"Адсочванне крыніцы не падтрымліваецца для відэа Dolby Vision/8K/60FPS"</string>
+  <string name="audio_track_mutex_truecolor_setting_tips">Адсочванне крыніцы не падтрымліваецца для відэа %s кадр/сек у 8K з Dolby Vision</string>
   <string name="cinematic_flare_circle">Звычайны</string>
   <string name="cinematic_flare_oval">Шырокі</string>
   <string name="cinematic_focus_view_bg_tip">Сачыльны аўтафокус заблакаваны</string>
@@ -2834,7 +2834,7 @@
   <string name="unsupported_microphones_audio_single_tips">"Франтальны гук не працуе са знешнімі мікрафонамі"</string>
   <string name="unsupported_microphones_audio_track_tips">"Адсочванне крыніцы не працуе са знешнімі мікрафонамі"</string>
   <string name="unsupported_microphones_audio_type_tips">"Немагчыма выбраць тыпы запісанага гуку з дапамогай знешніх мікрафонаў"</string>
-  <string name="video_quality_audio_track_conflict_toast">"Адсочванне крыніцы не падтрымліваецца для відэа 8K/60FPS"</string>
+  <string name="video_quality_audio_track_conflict_toast">Адсочванне крыніцы не падтрымліваецца для відэа %s кадр/сек у 8K</string>
   <string name="cv_lens_standard">Стандарт</string>
   <string name="accessibility_picturesize_real_cinematic_button">Суадносіны бакоў два цэлая тры дзевяць на адзін</string>
   <string name="aiwatermark_location_waiting_hint">Доступ да месцазнаходжання…</string>
@@ -3171,7 +3171,7 @@
   <string name="widget_camera_red_video_talk_back">Стварайце відэашэдэўры</string>
   <string name="workspace_manually_custom_official_aperture">Вялікая апертура</string>
   <string name="workspace_manually_custom_official_slow">Павольны затвор</string>
-  <string name="workspace_manually_custom_official_snap">Хуткая прывязка</string>
+  <string name="workspace_manually_custom_official_snap">Хуткі здымак</string>
   <string name="workspace_manually_custom_official_starlight">Зорныя сляды</string>
   <string name="workspace_manually_desc_custom_import_title">Імпартаваць наборы параметраў</string>
   <string name="workspace_manually_desc_custom_ugc">Наборы параметраў</string>
@@ -3332,4 +3332,14 @@
   <string name="agent_workspace_tbc">Вывучэнне сцэны</string>
   <string name="agent_workspace_tbc_use_default">"Вывучэнне сцэны…
 Устаноўлены параметры камеры па змаўчанні"</string>
+  <string name="audio_gain_mutex_az_tip">Уключыце маштабаванне крыніцы гуку/інтэлектуальнае шумапрыглушэнне/3D-стэрэагук не падтрымлівае рэгуляванне ўзмацнення</string>
+  <string name="camera_handle_customize_button_50M">50 МП</string>
+  <string name="cinematic_intro_img_text">Рэжым кіно</string>
+  <string name="download_network_error">Не атрымалася спампаваць. Праверце налады сеткі.</string>
+  <string name="parameter_peak_raw_description_mm_new">Фармат Raw запісвае зыходныя дадзеныя здымкаў і падыходзіць для пост-апрацоўкі здымкаў.\nУсталюйце любыя суадносіны бакоў, у фармаце RAW выйдзе %s выява</string>
+  <string name="street_description_focal_distance_summary">Хутка пераключайцеся паміж рознымі адлегласцямі факусоўкі для прагляду некалькіх ракурсаў.</string>
+  <string name="tips_record_exclude_screen_recoder_quality">Ідзе запіс экрана, немагчыма запісаць %s</string>
+  <string name="color_effect_entry_forest_green">Сасна</string>
+  <string name="color_effect_entry_distinct">Яркі</string>
+  <string name="exo_track_role_closed_captions">Субцітры</string>
 </resources>

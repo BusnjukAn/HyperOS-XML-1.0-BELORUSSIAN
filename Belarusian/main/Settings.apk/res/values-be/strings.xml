@@ -4201,7 +4201,7 @@
   <string name="ingress_rate_limit_no_limit_entry">Без абмежаванняў</string>
   <string name="ingress_rate_limit_summary">Наладзьце абмежаванне ўваходнай паласы прапускання для ўсіх сетак, якія забяспечваюць падлучэнне да інтэрнэту.</string>
   <string name="ingress_rate_limit_title">Абмежаванне хуткасці спампоўвання праз сетку</string>
-  <string name="inner_screen_and_resolution_title">Памер і разрозненне унутранага экрана</string>
+  <string name="inner_screen_and_resolution_title">Памер і раздзяляльнасць унутранага экрана</string>
   <string name="input_assistance">Дапамога па ўводзе</string>
   <string name="input_device_category">Прылада ўводу</string>
   <string name="input_method">Клавіятура</string>
@@ -6401,7 +6401,7 @@
   <string name="other_settings_sync_settings">Сінхранізаваць</string>
   <string name="other_sound_settings_title">Дадатковыя налады</string>
   <string name="other_user_category_title">Іншыя карыстальнікі</string>
-  <string name="outer_screen_and_resolution_title">Памер і разрозненне вонкавага экрана</string>
+  <string name="outer_screen_and_resolution_title">Памер і раздзяляльнасць вонкавага экрана</string>
   <string name="overlay_display_devices_title">Эмуляцыя другасных экранаў</string>
   <string name="overlay_option_device_default">Стандартная налада</string>
   <string name="overlay_settings">Паказваць паверх іншых праграм</string>
@@ -12103,4 +12103,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="satellite_management_title">Спадарожнікавая сетка</string>
   <string name="text_layout_optimization_switch_label">Аптымізаваць макет тэксту</string>
   <string name="text_layout_optimization_switch_toast">Немагчыма аптымізаваць макет тэксту з бягучым шрыфтам</string>
+  <string name="wifi_reconnect_failed_text">Ваш пароль Wi-Fi няверны. Увядзіце яго яшчэ раз.</string>
+  <string name="wifi_reconnect_failed_text_china">Ваш пароль Wi-Fi няверны. Увядзіце яго яшчэ раз.</string>
+  <string name="wifi_reconnect_failed_title">Няверны пароль Wi-Fi</string>
+  <string name="wifi_reconnect_failed_title_china">Няверны пароль Wi-Fi</string>
 </resources>

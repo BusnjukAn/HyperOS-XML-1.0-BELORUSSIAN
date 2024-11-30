@@ -2215,4 +2215,5 @@
   <string name="custom_lockscreen">Наладзіць экран блакавання</string>
   <string name="fullaod_apply_video_depth_toast">Стыль AOD пераключаны на Карыстальніцкі</string>
   <string name="screen_share_dialog_spinner_text">Вобласць</string>
+  <string name="dist_compute_title">Вылічальная падтрымка</string>
 </resources>

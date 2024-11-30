@@ -779,7 +779,7 @@
   <string name="full_aod_not_support_toast_notification">Бягучая пастаянна ўключанага экрана не падтрымлівае эфектаў апавяшчэнняў</string>
   <string name="kg_aod_settings_depth_video_toast">Пры выкарыстанні эфекту глыбіні падтрымліваецца толькі наладжвальны рэжым «Пастаянна ўключаны экран»</string>
   <string name="kg_apply_to_all_alert_dialog_negative_text">Толькі на экран блакавання</string>
-  <string name="kg_apply_to_all_alert_dialog_positive_text">Ужыць</string>
+  <string name="kg_apply_to_all_alert_dialog_positive_text">Ужыць да абодвух</string>
   <string name="kg_apply_to_all_alert_dialog_title">Ужыць гэтыя шпалеры таксама да працоўнага стала?</string>
   <string name="kg_classic_item_lunar_date1">Традыцыйны кітайскі каляндар</string>
   <string name="kg_depth_preset_button_download">Спампаваць дынамічныя шпалеры</string>
@@ -815,9 +815,9 @@
   <string name="kg_font_filter_hsl_title">Карыстацкі колер</string>
   <string name="kg_font_filter_magazine_a_b_primary_label">Час</string>
   <string name="kg_font_filter_magazine_a_b_secondary_label">Подпіс</string>
-  <string name="kg_font_filter_magazine_c_style_1_primary_label">Галоўны</string>
+  <string name="kg_font_filter_magazine_c_style_1_primary_label">Асноўны</string>
   <string name="kg_font_filter_magazine_c_style_3_primary_label">Гадзіны</string>
-  <string name="kg_font_filter_magazine_c2_secondary_label">Хвіліны</string>
+  <string name="kg_font_filter_magazine_c2_secondary_label">Дадатковы</string>
   <string name="kg_font_filter_object_label_date">Дата</string>
   <string name="kg_font_filter_object_label_date_color">Колер даты</string>
   <string name="kg_font_filter_object_label_decorate">Дэкаратыўныя элементы</string>
@@ -841,7 +841,7 @@
   <string name="kg_title_content">Змест</string>
   <string name="kg_title_fonts_and_content">Шрыфт і змест</string>
   <string name="kg_title_name">Шрыфт</string>
-  <string name="kg_typesetting_string">Макет</string>
+  <string name="kg_typesetting_string">Стыль</string>
   <string name="kg_wallpaper_filter_title">Эфекты шпалер</string>
   <string name="kg_wallpaper_filter_type_crystallized">Крышталі</string>
   <string name="kg_wallpaper_filter_type_focus">Фокус</string>
@@ -869,4 +869,8 @@
   <string name="kg_effects_not_support_gallery_tip">"Немагчыма ўсталяваць эфекты пры выкарыстанні слайд-шоў шпалер"</string>
   <string name="kg_template_title_classic_phone">Пейзаж</string>
   <string name="kg_template_title_magazine_phone">Людзі</string>
+  <string name="kg_dialog_apply_successful">Ужыта паспяхова</string>
+  <string name="kg_dialog_enable_depth_function">Спачатку ўключыце эфект глыбіні</string>
+  <string name="kg_dialog_no_content_available_the_moment">Тут пакуль нічога няма</string>
+  <string name="kg_dialog_too_much_time_blocking">Гадзіннік схаваны. Немагчыма выкарыстоўваць эфект глыбіні.</string>
 </resources>

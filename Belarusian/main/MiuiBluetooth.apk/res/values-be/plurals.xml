@@ -124,4 +124,9 @@
     <item quantity="few">%d хвіліны таму</item>
     <item quantity="many">%d хвілін таму</item>
   </plurals>
+  <plurals name="offline_call_map_distance_meters">
+        <item quantity="other">Адлегласць: %d метраў</item>
+        <item quantity="one">Адлегласць: %d метр</item>
+        <item quantity="few">Адлегласць: %d метра</item>
+    </plurals>
 </resources>

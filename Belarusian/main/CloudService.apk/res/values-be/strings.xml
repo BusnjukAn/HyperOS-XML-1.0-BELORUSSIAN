@@ -1061,7 +1061,7 @@
   <string name="offline_find_doing_enable">Уключэнне вызначэння месцазнаходжання ў аўтаномным рэжыме…</string>
   <string name="offline_find_function">Афлайн-месцазнаходжанне</string>
   <string name="offline_find_msg_to_open_1">Уключыце функцыю вызначэння месцазнаходжання ў аўтаномным рэжыме на гэтай прыладзе, каб мець магчымасць праглядаць месцазнаходжанне іншых прылад, якія знаходзяцца ў аўтаномным рэжыме.</string>
-  <string name="offline_find_msg_to_open_2">Праверце, ці з\'яўляецца гэта прылада даверанай, і ўключыце функцыю вызначэння месцазнаходжання ў аўтаномным рэжыме, каб мець магчымасць праглядаць месцазнаходжанне іншых прылад, якія знаходзяцца ў аўтаномным рэжыме.</string>
+  <string name="offline_find_msg_to_open_2">Уключыце гэтую функцыю, каб мець магчымасць вызначаць месцазнаходжанне гэтай прылады або праглядаць месцазнаходжанне іншых прылад, калі яны не падлучаныя да сеткі.</string>
   <string name="offline_find_msg_to_open_3">Каб абараніць бяспеку вашых дадзеных, праверце, ці з\'яўляецца гэта прылада даверанай, перш чым уключаць функцыю вызначэння месцазнаходжання ў аўтаномным рэжыме.</string>
   <string name="offline_find_title_to_open_1">Уключыць функцыю вызначэння месцазнаходжання ў аўтаномным рэжыме</string>
   <string name="offline_find_title_to_open_2">Праверыць гэтую прыладу</string>
@@ -1150,4 +1150,8 @@
   <string name="verify_camera_google_permission_positive_button">Зразумела</string>
   <string name="verify_warning_verify_dialog_message">Увядзіце код пацверджання на %s</string>
   <string name="verify_warning_verify_dialog_title">Праверыць Xiaomi акаўнт</string>
+  <string name="verify_notification_text_find_device_push">Дазвольце іншай прыладзе вызначаць месцазнаходжанне гэтай прылады</string>
+  <string name="verify_notification_title_find_device_push">Іншая прылада ўключыла функцыю \"Афлайн-месцазнаходжанне\"</string>
+  <string name="verify_warning_dialog_message_find_device">"Функцыя \"Афлайн-месцазнаходжанне\" уключаная для %s. Пасля ўключэння гэтай функцыі вы зможаце праверыць месцазнаходжанне сваёй прылады, калі яна знаходзіцца ў аўтаномным рэжыме."</string>
+  <string name="verify_warning_dialog_title_find_device">\"Афлайн-месцазнаходжанне\" уключана для іншай прылады</string>
 </resources>

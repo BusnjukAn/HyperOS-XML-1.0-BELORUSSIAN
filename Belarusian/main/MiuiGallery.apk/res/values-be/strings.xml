@@ -4200,4 +4200,6 @@
   <string name="recovery_confirm_button">Аднавіць</string>
   <string name="recovery_confirm_text">Аднавіць гэты элемент зараз?</string>
   <string name="today_of_year_no_more_data">Больш няма элементаў для адлюстравання</string>
+  <string name="global_my">"Мая прылада
+%1$s"</string>
 </resources>

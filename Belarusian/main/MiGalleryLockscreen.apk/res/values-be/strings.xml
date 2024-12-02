@@ -1167,4 +1167,6 @@
   <string name="lks_click_to_add_to_carousel">Націсніце, каб дадаць у слайд-шоў</string>
   <string name="sst_my_wallpaper_desc">Прагледзець шпалеры з Каруселі шпалер</string>
   <string name="sst_my_wallpaper_title">Мае шпалеры</string>
+  <string name="add_to_my_wallpaper_success_toast">Дададзена ў \"Мае шпалеры\"</string>
+  <string name="sst_no_wallpaper">Тут пакуль нічога няма</string>
 </resources>

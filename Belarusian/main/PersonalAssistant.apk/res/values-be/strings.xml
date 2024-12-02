@@ -295,7 +295,7 @@
   <string name="pa_lite_setting_service_memory_summary">Ачыстка памяці адным дотыкам</string>
   <string name="pa_lite_setting_service_my_schedule">Каляндар</string>
   <string name="pa_lite_setting_service_my_schedule_summary">Прагляд маючых адбыцца падзей</string>
-  <string name="pa_lite_setting_service_note">Нататкі</string>
+  <string name="pa_lite_setting_service_note">Нататкі (4×2)</string>
   <string name="pa_lite_setting_service_note_summary">Прагляд сваіх нататак</string>
   <string name="pa_lite_setting_service_quick_func">Цэтлікі</string>
   <string name="pa_lite_setting_service_quick_func_summary">Часта выкарыстоўваемыя праграмы і службы</string>
@@ -1211,4 +1211,5 @@
   <string name="pa_travel_train_unauthorized_ai_tip">Дазвольце доступ да месцазнаходжання, каб атрымліваць своечасовыя абнаўленні</string>
   <string name="pa_widget_edit_calendar_switch_closed_toast">Вы не ўбачыце маючыя адбыцца падзеі, якія адлюстроўваюцца на віджэце</string>
   <string name="pa_widget_edit_calendar_switch_opened_toast">Вы ўбачыце маючыя адбыцца падзеі, якія адлюстроўваюцца на віджэце</string>
+  <string name="pa_lite_setting_service_note_small">Нататкі (2×2)</string>
 </resources>

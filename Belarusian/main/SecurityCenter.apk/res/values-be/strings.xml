@@ -2426,9 +2426,9 @@
   <string name="title_app_lock_disable">Абарона праграм</string>
   <string name="title_app_update">Даступнае абнаўленне</string>
   <string name="title_auto_update">Аўтаматычнае абнаўленне</string>
-  <string name="title_background_connection">Не можаце карыстаць %s у фоне?</string>
-  <string name="title_block_calls_from_cantacts">Прапускаеце выклікі ад кантактаў?</string>
-  <string name="title_block_calls_from_strangers">Прапускаеце важныя выклікі?</string>
+  <string name="title_background_connection">Не можаце карыстаць %s у фоне</string>
+  <string name="title_block_calls_from_cantacts">Прапускаеце выклікі ад кантактаў</string>
+  <string name="title_block_calls_from_strangers">Прапускаеце важныя выклікі</string>
   <string name="title_chain_start">Узаемны запуск абмежаваны</string>
   <string name="title_cleaner_cloudscan">Воблачная праверка смецця</string>
   <string name="title_cloud_account">Xiaomi акаўнт</string>
@@ -2443,8 +2443,8 @@
   <string name="title_dev_no">Рэжым распрацоўшчыка ўключаны</string>
   <string name="title_dev_yes">Рэжым распрацоўшчыка адключаны</string>
   <string name="title_device_not_root">Root-доступ не дазволены</string>
-  <string name="title_do_not_disturb">Вы не чуеце ваш званок?</string>
-  <string name="title_eye_shield">Колер экрана выглядае не так?</string>
+  <string name="title_do_not_disturb">Не чуваць мелодыю выклiка</string>
+  <string name="title_eye_shield">Колер экрана выглядае не так</string>
   <string name="title_find_device">Пошук</string>
   <string name="title_first_aid_kit">Рашэнне праблем</string>
   <string name="title_flow_notification">Апавяшчэнне аб мабільным трафіку</string>
@@ -2476,7 +2476,7 @@
   <string name="title_rcs_switch">Уключыць паведамленні China Mobile</string>
   <string name="title_realname_verify">ID праверка</string>
   <string name="title_reply">Водгук</string>
-  <string name="title_restrict_data_usage">%s не можа падлучыцца да інтэрнэту?</string>
+  <string name="title_restrict_data_usage">%s не можа падлучыцца да інтэрнэту</string>
   <string name="title_show_notification">Віджэт панэлі апавяшчэнняў</string>
   <string name="title_system_auto_download">Аўтаматычная спампоўка абнаўленняў уключана</string>
   <string name="title_telecom_operator">Аўтарэгуляванне</string>
@@ -7590,4 +7590,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="net_error">Адбылася памылка сеткі</string>
   <string name="sp_network_privacy_dialog_message_new">Бяспека (уключаючы кампаненты бяспекі сістэмы) павінна падлучацца да Інтэрнэту, каб мець магчымасць прадастаўляць функцыі сканавання на вірусы. Дазволіць зараз?</string>
   <string name="vb_movie_power_hint_new">Наладзьце эфекты для надзвычайнага прагляду.\nГэтая функцыя павялічыць спажыванне энергіі.</string>
+  <string name="game_toolbox_display_enhance_view_frc_notice">Нататка:\nКалі ўключана інтэлектуальная частата кадраў, гульнявыя і іншыя прылады вызначэння частаты кадраў могуць недакладна яе вызначаць. Фактычную частату кадраў глядзіце на панэлі прадукцыйнасці.</string>
+  <string name="game_toolbox_performance_config_frc_notice">Калі ўключаны прыярытэт частаты кадраў, фактычная частата кадраў адлюстроўваецца на панэлі прадукцыйнасці</string>
+  <string name="game_toolbox_performance_config_resolution_notice">Калі ўключаны прыярытэт выявы, фактычная частата кадраў адлюстроўваецца на панэлі прадукцыйнасці</string>
 </resources>

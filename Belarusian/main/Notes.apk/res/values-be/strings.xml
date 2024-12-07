@@ -1272,4 +1272,5 @@
   <string name="ai_title_stop_extension">Спыніць пашырэнне</string>
   <string name="ai_title_stop_polish">Спыніць дапрацоўку</string>
   <string name="ai_title_stop_summary">Спыніць стварэнне зводкі</string>
+  <string name="image_action_copy">Капіяваць выяву</string>
 </resources>

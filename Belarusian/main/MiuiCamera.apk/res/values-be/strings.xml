@@ -3342,4 +3342,5 @@
   <string name="color_effect_entry_forest_green">Сасна</string>
   <string name="color_effect_entry_distinct">Яркі</string>
   <string name="exo_track_role_closed_captions">Субцітры</string>
+  <string name="toast_handle_not_found">Спачатку ўсталюйце адпаведную праграму</string>
 </resources>

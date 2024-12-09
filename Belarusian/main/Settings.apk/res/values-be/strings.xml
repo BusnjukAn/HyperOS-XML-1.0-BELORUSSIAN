@@ -3412,7 +3412,7 @@
   <string name="external_source_untrusted">Забаронена</string>
   <string name="extreme_threats_summary">Атрымліваць абвесткі аб надзвыч. пагрозах для жыцця і маёмасці</string>
   <string name="extreme_threats_title">Надзвычайныя пагрозы</string>
-  <string name="eye_gaze_dialog_message">Пры ўключэнні функцыі \"Адсочванне погляду\" прылада не будзе блакавацца, калі выявіць, што вы глядзіце на экран. Характарыстыкі вашага твару не будуць прааналізаваны, і інфармацыя аб вашым твары не будзе захоўвацца на вашай прыладзе або загружацца ў воблака. Уключыць функцыю?</string>
+  <string name="eye_gaze_dialog_message">Калі гэтая функцыя ўключаная, сістэма вызначыць, ці гледзіце вы на экран, але рысы вашага твару не будуць аналізавацца, і гэтыя дадзеныя не будуць захоўвацца на вашай прыладзе або загружацца ў воблака. Уключыць зараз?</string>
   <string name="eye_gaze_dialog_title">Апавяшчэнне аб бяспецы</string>
   <string name="eye_gaze_summary">Прылада не будзе блакавацца, калі выявіць, што вы глядзіце на экран</string>
   <string name="eye_gaze_summary_fold_device">Прылада не заблакуецца, калі выявіць, што вы глядзіце на знешні экран</string>
@@ -10870,7 +10870,7 @@
   <string name="photography_handle_quick_launch_camera_title">Хуткі запуск</string>
   <string name="wifi_stx_logs_disabled">Часопісы Wi-Fi STx адключаныя</string>
   <string name="wifi_stx_logs_enabled">Часопісы Wi-Fi STx уключаныя</string>
-  <string name="gaze_lock_screen_summary">Прылада застанецца разблакаванай, калі вы гледзіце на экран, і заблакуецца, калі вы адведзяце погляд, каб абараніць вашу прыватнасць, перавызначаючы вашу аўтаматычную наладу часу блакавання.</string>
+  <string name="gaze_lock_screen_summary">Прылада застанецца разблакаванай, калі вы гледзіце на экран, і заблакуецца, калі вы адведзяце погляд, каб абараніць вашу прыватнасць, перавызначаючы вашу наладу часу аўтаматычнага блакавання.</string>
   <string name="gaze_lock_screen_title">Выяўленне прысутнасці</string>
   <string name="camera_grip_firmware_need_update">Абнаўленне</string>
   <string name="camera_grip_firmware_new_version">Абноўлена</string>
@@ -12107,4 +12107,22 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="wifi_reconnect_failed_text_china">Ваш пароль Wi-Fi няверны. Увядзіце яго яшчэ раз.</string>
   <string name="wifi_reconnect_failed_title">Няверны пароль Wi-Fi</string>
   <string name="wifi_reconnect_failed_title_china">Няверны пароль Wi-Fi</string>
+  <string name="allow_badge_summary">Дазволіць паказ чырвонай кропкі з нумарам на абразках працоўнага стала для абазначэння апавяшчэнняў або новага кантэнту</string>
+  <string name="allow_ongoing_summary">Дазволіць апавяшчэнні, якія можна выдаліць толькі ўручную</string>
+  <string name="gesture_lockcreen_doubletap_wakeup_title">Падвойны націск на экран блакавання для абуджэння</string>
+  <string name="gesture_lockcreen_sleep_title">Падвойны націск на экран блакавання для пераходу ў спячы рэжым</string>
+  <string name="gesture_lockcreen_wakeup_mode_doubletap">Пры падвойным націску</string>
+  <string name="gesture_lockcreen_wakeup_mode_none">Няма</string>
+  <string name="gesture_lockcreen_wakeup_mode_singletap">Пры націску</string>
+  <string name="gesture_lockcreen_wakeup_title">Абуджэнне экрана</string>
+  <string name="gxzw_recognizing_anim_a">Пульсацыя</string>
+  <string name="gxzw_recognizing_anim_b">Спіраль</string>
+  <string name="gxzw_recognizing_anim_c">Арэол</string>
+  <string name="gxzw_recognizing_anim_d">Хваля</string>
+  <string name="gxzw_recognizing_anim_e">Апертура</string>
+  <string name="gxzw_recognizing_anim_f">Дыфузія</string>
+  <string name="leave_lockscreen_summary">Прылада заблакуецца, калі вы адыдзеце ад экрана</string>
+  <string name="wifi_scan_notify_text_scanning_off">Каб павысіць дакладнасць вызначэння месцазнаходжання, уключыце Сканіраванне Wi-Fi у LINK_BEGINНаладах сканавання Wi-FiLINK_END.</string>
+  <string name="wifi_scan_throttling">Рэгуляванне сканавання Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">Зніжае выдатак зарада батарэі і павялічвае прадукцыйнасць сеткі</string>
 </resources>

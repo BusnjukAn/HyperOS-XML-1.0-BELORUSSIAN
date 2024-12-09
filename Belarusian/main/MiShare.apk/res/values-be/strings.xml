@@ -62,7 +62,7 @@
   <string name="device_offline">Іншая прылада не ў сеткі. Паўтарыце.</string>
   <string name="device_status_failed">Не атрымалася адправіць</string>
   <string name="device_status_sending">Адпраўка…</string>
-  <string name="device_status_success">Адпраўлена паспяхова</string>
+  <string name="device_status_success">Адпраўлена</string>
   <string name="device_status_waiting">Чаканне…</string>
   <string name="device_type_oppo_phone">OPPO</string>
   <string name="device_type_pc">Кампутар</string>
@@ -162,7 +162,7 @@
   <string name="midnight">Ноч</string>
   <string name="mishare_folder_in_file_explorer">Правадыр > Абмен файламі</string>
   <string name="mishare_service_channel_desc">Паведамленнi аб працэсах Абмена файламі</string>
-  <string name="mishare_settings_summary_international">Абмен файламі дазваляе адпраўляць элементы па бесправадной сеткі на іншыя прылады паблізу.\nГэта функцыя падтрымліваецца OPPO, Vivo, Realme і іншымі вытворцамі смартфонаў. Вы можаце праверыць спіс падтрымліваемых прылад на афіцыйным сайце любога абранага брэнда.</string>
+  <string name="mishare_settings_summary_international">Тэлефоны і планшэты Xiaomi\nІншыя прылады Android: vivo, realme, OPPO і іншыя брэнды могуць падтрымліваць гэту функцыю. Для атрымання падрабязнай інфармацыі звярніцеся на афіцыйны сайт кожнай маркі.</string>
   <string name="mishare_state_protection">Уключаць абмен файламі аўтаматычна</string>
   <string name="mishare_state_protection_summary">Аўтаматычнае ўключэнне абмену файламі пры ўключэнні Bluetooth або Wi-Fi</string>
   <string name="mishare_state_protection_summary_china">Аўтаматычнае ўключэнне абмену файламі пры ўключэнні Bluetooth або Wi-Fi</string>
@@ -285,7 +285,7 @@
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">Суб</string>
-  <string name="scanning_device_tips">Пошук прылад паблізу ... Пераканайцеся, што іншая прылада знаходзіцца ў рэжыме выяўлення.</string>
+  <string name="scanning_device_tips">Пошук прылад паблізу. Іншы чалавек павінен уключыць Абмен файламі у Цэнтры кіравання.</string>
   <string name="scanning_only_xiaomi_device">Гэты элемент можна перадаць толькі на прылады Xiaomi або Black Shark</string>
   <string name="search_menu_title">Пошук</string>
   <string name="seize_content">Спыніце сумеснае выкарыстанне экрана, каб можна было перадаваць элементы. Спыніць?</string>
@@ -373,7 +373,7 @@
   <string name="transfer_intercept_to_remote">Не атрымалася адправіць: %1$s</string>
   <string name="transfer_to_pc_summary">Апошняя версія праграмнага забеспячэння AIoT, усталяваная на Xiaomi наўтбуках, з\'яўляецца сумяшчальнай з абменам файламі. Вы можаце прагледзець на вэб-сайце Xiaomi спіс мадэляў наўтбукаў, якія падтрымліваюцца. Калі ваш наўтбук ёсць у спісе, але AIoT не ўсталявана на ім, абнавіце BIOS вашага наўтбука і драйвер сеткавага адаптара і загрузіце AIoT.</string>
   <string name="transfer_to_pc_summary_new"><Data>Апошняя версія праграмнага забеспячэння MIUI+, усталяваная на Xiaomi наўтбуках, з\'яўляецца сумяшчальнай з абменам файламі. Вы можаце прагледзець на вэб-сайце MIUI+ спіс мадэляў наўтбукаў, якія падтрымліваюцца. (&lt;a href=%1$s>%2$s&lt;/a>). Калі ваш наўтбук ёсць у спісе, але MIUI+ не ўсталявана на ім, абнавіце BIOS вашага наўтбука і драйвер сеткавага адаптара і загрузіце MIUI+.</Data></string>
-  <string name="transfer_to_pc_title">Перадача на кампутар</string>
+  <string name="transfer_to_pc_title">Выяўленне кампутараў</string>
   <string name="transfer_to_phone_summary">Уключыце Абмен файламі пры дапамозе перамыкача ў Панэлі апавяшчэнняў. Пасля гэтага вы зможаце бачыць прылады паблізу, калі захочаце перадаць фота альбо файл. Націсніце на прыладу атрымальніка, каб адправіць аб\'ект, якім хочаце падзяліцца.</string>
   <string name="transfer_to_phone_title">Перадача на мабільны тэлефон</string>
   <string name="transfer_to_summary">Уключыце Абмен файламі з дапамогай перамыкача на панэлі апавяшчэнняў. Абярыце прыладу атрымальніка з спісу даступных прылад паблізу, каб перадаць файлы або фота.</string>
@@ -477,7 +477,7 @@
   <string name="send_one_zip_dialog_desc">%2$d ZIP-файл \"%3$s\" ад %1$s</string>
   <string name="send_one_zip_dialog_desc_received">Атрыманы %2$d ZIP-файл \"%3$s\" ад %1$s</string>
   <string name="send_one_zip_dialog_desc_receiving">Атрыманне %2$d ZIP-файла \"%3$s\" ад %1$s</string>
-  <string name="sub_title_turbo_mode">Супер хуткія перадачы паміж тэлефонамі і планшэтамі Xiaomi. Падчас перадачы сетка будзе адключана.</string>
+  <string name="sub_title_turbo_mode">Калі гэтая функцыя ўключана, сетка будзе адключана падчас перадачы.</string>
   <string name="sub_title_withdraw_privacy_policy_consent">Адкліканне згоды на Палітыку канфідэнцыяльнасці таксама адключыць Абмен файламі</string>
   <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager цяпер падтрымлівае Абмен файламі! Вы можаце знайсці спіс падтрымоўваных мадэляў кампутараў &lt;a href=%1$s>тут&lt;/a>.</Data></string>
   <string name="withdraw">Адклікаць</string>
@@ -495,7 +495,7 @@
   <string name="call_notification_ongoing_text">Бягучы выклік</string>
   <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
   <string name="err_send_short_connect_error">Не атрымалася падлучыцца</string>
-  <string name="err_send_short_remote_busy">Не турбаваць</string>
+  <string name="err_send_short_remote_busy">Прылада занятая</string>
   <string name="err_send_short_remote_cancel">Адменена</string>
   <string name="err_send_short_remote_refuse">Адхіленыя</string>
   <string name="err_send_short_remote_timeout">Няма адказу</string>
@@ -513,8 +513,8 @@
   <string name="toast_or_desc_advert_all_close">Абмен файламі адключаны</string>
   <string name="toast_or_desc_advert_all_open">Абмен файламі ўключаны на %d хвілін(-ы)</string>
   <string name="transfer_to_different_account_summary">Спачатку пераканайцеся, што Абмен файламі ўключаны ў Цэнтры кіравання. Ваша прылада будзе даступна для выяўлення іншым прыладам на працягу %d хвілін.</string>
-  <string name="transfer_to_different_account_title">Выяўленне прылад у розных акаўнтах</string>
-  <string name="transfer_to_same_account_summary">Прылады ў рамках аднаго акаўнта павінны лёгка выяўляцца. Пераканайцеся, што Абмен файламі ўключаны ў Наладах.</string>
+  <string name="transfer_to_different_account_title">Выяўленне тэлефонаў і планшэтаў</string>
+  <string name="transfer_to_same_account_summary">Каб перанесці аб\'екты на прылады, на якіх выкананы ўваход у ваш акаўнт, спачатку пераканайцеся, што версія сістэмы іншай прылады абноўлена да Xiaomi HyperOS або навейшай, а праграма Абмен файламі абноўлена да версіі 3.0.0 ці навейшай. Усталюйце статус атрымання «З гэтага акаўнта». У адваротным выпадку вам давядзецца ўключыць Абмен файламі ў Цэнтры кіравання, каб мець магчымасць атрымліваць файлы ад каго-небудзь на працягу %d хвілін.</string>
   <string name="transfer_to_same_account_title">Выяўленне прылад у рамках аднаго акаўнта</string>
   <string name="global_imac">Мой iMac</string>
   <string name="global_ipad">Мой iPad</string>
@@ -523,4 +523,20 @@
   <string name="global_macmini">Мой Mac mini</string>
   <string name="global_macpro">Мой Mac Pro</string>
   <string name="global_macstudio">Мой Mac Studio</string>
+  <string name="err_send_short_send_cancel">Перанос адменены</string>
+  <string name="global_my">Мая прылада\n%1$s</string>
+  <string name="mishare_device_find_conditions_comment">Выяўленне прылад</string>
+  <string name="mishare_device_version_comment">* Прылады, якія ўвайшлі ў адзін і той жа Xiaomi акаўнт, могуць аўтаматычна распазнаваць адна адну як давераныя прылады і атрымліваць паведамленні адна ад адной. Для гэтай функцыі патрабуецца, каб на абедзвюх прыладах была ўсталяваная АС Xiaomi HyperOS, а праграма Абмен файламі была абноўлена да версіі 3.0.0 ці пазнейшай.</string>
+  <string name="mishare_support_device_comment">Падтрымоўваныя прылады</string>
+  <string name="mishare_support_device_summary">Тэлефоны, планшэты і наўтбукі Xiaomi\nAndroid-прылады іншых вытворцаў: vivo, Realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO</string>
+  <string name="mishare_support_device_summary_ios">Тэлефоны, планшэты і наўтбукі Xiaomi\nПрылады Apple: iPhone, iPad, Mac\nПрылады Android іншых вытворцаў: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO</string>
+  <string name="share_canceled">Перанос адменены</string>
+  <string name="share_complete">Перанос выкананы</string>
+  <string name="share_failed">Не ўдалося выканаць перанос</string>
+  <string name="share_notification_receive_confirm_content">Ад %1$s</string>
+  <string name="share_refuse">Перанос адхілены</string>
+  <string name="share_send_notification_describe">Атрымальнік: %1$s</string>
+  <string name="sub_title_mishare_switch_mine_desc">Перш чым усталяваць статут атрымання «З гэтага акаўнта», пераканайцеся, што версія сістэмы іншай прылады абноўлена да Xiaomi HyperOS або навейшай, а праграма Абмен файламі абноўлена да версіі 3.0.0 ці навейшай.</string>
+  <string name="transfer_to_different_account_summary_ios" formatted="false">%d. На абедзвюх прыладах (Xiaomi і іншых прыладах Android) неабходна ўключыць Абмен файламі ў Цэнтры кіравання. Вы зможаце атрымліваць файлы ад каго заўгодна на працягу %d хвілін.\n%d. На iPhone і iPad неабходна ўключыць Службы ўзаемазвязнасці Xiaomi і пераканацца, што абедзве прылады падлучаны да адной і той жа лакальнай сеткі.</string>
+  <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1&gt;%1$d&lt;/xliff:g&gt;. На наўтбуку Xiaomi пераканайцеся, што Xiaomi PC Manager спампаваны, затым уключыце Абмен файламі ў Цэнтры кіравання, каб атрымліваць файлы. Cпіс падтрымліваемых мадэляў кампутараў прыводзіцца &lt;a href=%2$s&gt;тут&lt;/a&gt;.&lt;br&gt;&lt;xliff:g id=mishare_ios_2 refersto=2&gt;%3$d&lt;/xliff:g&gt;. На Mac неабходна ўключыць Службы ўзаемазвязнасці Xiaomi і пераканацца, што абедзве прылады падлучаныя да адной і той жа лакальнай сеткі.</Data></string>
 </resources>

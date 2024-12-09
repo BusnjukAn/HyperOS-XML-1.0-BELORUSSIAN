@@ -2216,4 +2216,14 @@
   <string name="fullaod_apply_video_depth_toast">Стыль AOD пераключаны на Карыстальніцкі</string>
   <string name="screen_share_dialog_spinner_text">Вобласць</string>
   <string name="dist_compute_title">Вылічальная падтрымка</string>
+  <string name="connected_with_car">Падлучана да аўтамабіля</string>
+  <string name="connected_with_pad">Падлучана да планшэта</string>
+  <string name="connected_with_pc">Падлучана да кампутара</string>
+  <string name="connected_with_phone">Падлучана да тэлефона</string>
+  <string name="connected_with_tv">Падлучана да тэлевізара</string>
+  <string name="using_house_play">Выкарыстанне прайгравання па ўсёй хаце</string>
+  <string name="using_sound_box">Выкарыстанне дынаміка</string>
+  <string name="using_sound_box_screen">Выкарыстанне дынаміка з экранам</string>
+  <string name="using_stereo">Выкарыстанне стэрэа</string>
+  <string name="using_wireless_headset">Выкарыстанне навушнікаў</string>
 </resources>

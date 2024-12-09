@@ -1006,8 +1006,8 @@
   <string name="trans_switching_5g">Пераключэнне да 5GHz Wi-Fi…</string>
   <string name="trans_time_format_second">Менш за хвіліну</string>
   <string name="trans_time_spent">Прайшло часу: %s</string>
-  <string name="trans_wait_trans_data">Падлучана да старой прылады.\nЧакаце перадачы…</string>
-  <string name="trans_waiting_ensurance">Пераканайцеся, што старая прылада на\nі Mi Трансфер уключаная</string>
+  <string name="trans_wait_trans_data">Падлучана да старой прылады.\nЧаканне перадачы…</string>
+  <string name="trans_waiting_ensurance">Пераканайцеся, што i старая прылада\nі Mi Трансфер уключаныя</string>
   <string name="trans_waiting_for_sender">Чаканне далучэння старой прылады…</string>
   <string name="trans_wlan_tips_message">Не адключайце Wi-Fi і не перахадзіце на іншыя сеткі падчас перадачы дадзеных. У іншым выпадку Mi Трансфер не зможа перадаць дадзеныя.</string>
   <string name="trans_wlan_tips_title">Не выключайце Wi-Fi</string>
@@ -1043,4 +1043,8 @@
   <string name="yesterday">Учора</string>
   <string name="button_select">Выбраць</string>
   <string name="set_app_suspend">Цяпер выконваецца рэзервовае капіяванне гэтай праграмы. Дачакайцеся завяршэння рэзервовага капіявання і паспрабуйце яшчэ раз.</string>
+  <string name="open_compatibility_mode">Уключыць</string>
+  <string name="skip_compatibility_mode">Прапусціць</string>
+  <string name="subtitle_compatibility_mode">Гэтыя праграмы несумяшчальныя з %d-бітнай архітэктурай. Націсніце ніжэй, каб уключыць рэжым сумяшчальнасці праграм і аднавіць гэтыя праграмы.</string>
+  <string name="title_compatibility_mode">Рэжым сумяшчальнасці праграм</string>
 </resources>

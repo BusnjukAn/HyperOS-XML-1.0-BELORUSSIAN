@@ -785,4 +785,6 @@
   <string name="feature_page_uninstall">Выдаліць</string>
   <string name="miuix_navigator_category_group_collapse">Згарнуць</string>
   <string name="miuix_navigator_category_group_expand">Разгарнуць</string>
+  <string name="no_support_open">"Немагчыма адкрыць гэты элемент"</string>
+  <string name="task_has_been_deleted">Гэтая задача была выдаленая</string>
 </resources>

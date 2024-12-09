@@ -192,4 +192,7 @@
         <item quantity="other">Чаканне запампоўкi. Засталося файлаў: %1$s.</item>
         <item quantity="one">Чаканне запампоўкi. Засталося файлаў: %1$s.</item>
     </plurals>
+    <plurals name="operation_delete_desc_vip">
+        <item quantity="other">Вы зможаце аднавіць гэты элемент на працягу %d дзён з \"Нядаўна выдаленых элементаў\". Выдаліць зараз?</item>
+    </plurals>
 </resources>

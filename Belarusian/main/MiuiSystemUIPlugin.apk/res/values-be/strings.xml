@@ -596,4 +596,11 @@
   <string name="volume_adjust_panel_title">Панэль рэгулявання гучнасці</string>
   <string name="menu_new_display_open">Адкрыць у новым акне</string>
   <string name="menu_pc_open">Адкрыць на кампутары</string>
+  <string name="flashlight_brightness_adjustment">Змяніць яркасць ліхтарыка</string>
+  <string name="flashlight_button_close">Выключыць ліхтарык</string>
+  <string name="flashlight_button_open">Уключыць ліхтарык</string>
+  <string name="flashlight_notification_button">Перамыкач ліхтарыка</string>
+  <string name="flashlight_notification_channel_name">Статус ліхтарыка</string>
+  <string name="flashlight_notification_content_text">Ліхтарык уключаны</string>
+  <string name="flashlight_notification_content_title">Ліхтарык</string>
 </resources>

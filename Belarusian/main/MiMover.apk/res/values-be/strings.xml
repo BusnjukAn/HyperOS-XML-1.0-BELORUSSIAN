@@ -1098,4 +1098,7 @@
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
   <string name="xiaomi_update_sdk_update_dialog_cancel">Не цяпер</string>
   <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
+  <string name="dialog_backup_service_missing_btn">Зразумела</string>
+  <string name="dialog_backup_service_missing_content">Немагчыма выкарыстоўваць Mi Трансфер, бо служба рэзервовага капіявання недаступная.</string>
+  <string name="dialog_backup_service_missing_title">Немагчыма выкарыстоўваць Mi Трансфер</string>
 </resources>

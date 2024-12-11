@@ -2952,7 +2952,7 @@
   <string name="privacy_cloud_confirm">Уключыць сінхранізацыю</string>
   <string name="privacy_cloud_confirm_content1">Палітыка прыватнасці воблака Xiaomi</string>
   <string name="privacy_cloud_confirm_content2">Карыстацкая дамова</string>
-  <string name="privacy_cloud_confirm_detail"><Data>Пасля ўключэння сінхранізацыі фота і відэа з гэтай прылады будуць загружаныя ў воблака Xiaomi і аб\'яднаны з раней сінхранізаваныя элементамі (калі ёсць). Перш чым працягнуць, азнаёмцеся з &lt;a href=\"%1$s\"&gt;Карыстацкай дамовай&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Палітыкай прыватнасці&lt;/a&gt; воблака Xiaomi.</Data></string>
+  <string name="privacy_cloud_confirm_detail"><Data>Пасля ўключэння сінхранізацыі фота і відэа з гэтай прылады будуць загружаныя ў воблака Xiaomi і аб\'яднаны з раней сінхранізаваныя элементамі (калі ёсць). Перш чым працягнуць, азнаёмцеся з &lt;a href=\"%1$s\">Карыстацкай дамовай&lt;/a> i &lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a> воблака Xiaomi.</Data></string>
   <string name="privacy_cloud_confirm_detail_negative">Выхад</string>
   <string name="privacy_cloud_confirm_detail_positive">Згодзен</string>
   <string name="privacy_cloud_confirm_rejected">Згода на Палітыку прыватнасці воблака Xiaomi была адклікана для гэтага ўліковага запісу. Паспрабуйце выкарыстоўваць іншы уліковы запіс.</string>
@@ -2960,7 +2960,7 @@
   <string name="privacy_detail_map">Праглядзець палітыку прыватнасці карты Галерэі</string>
   <string name="privacy_entrance">Прыватнасць</string>
   <string name="privacy_map">Карта Галерэі</string>
-  <string name="privacy_map_detail"><Data>Гэтая служба дазваляе праглядаць фота і відэа з інфармацыяй пра месцазнаходжанне на карце. Мы выкарыстоўваем Baidu Map Open SDK, каб даць вам гэтую паслугу. Прачытайце і прыміце &lt;a href=\"%1$s\"&gt;Палітыку прыватнасці карт Baidu&lt;/a&gt;, перш чым працягнуць.</Data></string>
+  <string name="privacy_map_detail"><Data>Гэтая служба дазваляе праглядаць фота і відэа з інфармацыяй пра месцазнаходжанне на карце. Мы выкарыстоўваем Baidu Map Open SDK, каб даць вам гэтую паслугу. Прачытайце і прыміце &lt;a href=\"%1$s\">Палітыку прыватнасці карт Baidu&lt;/a>, перш чым працягнуць.</Data></string>
   <string name="privacy_map_detail_content">Палітыка прыватнасці карт Baidu</string>
   <string name="privacy_permission">Дазволы</string>
   <string name="privacy_permission_account">Акаўнты</string>
@@ -3201,7 +3201,7 @@
   <string name="cta_screenthrow_declare">Каб трансляваць выяву з экрана гэтай прылады на знешнія маніторы, гэтай праграме неабходна падлучэнне да Інтэрнэту.</string>
   <string name="fail_reason_migrate">Апрацоўка элементаў… Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="home_sdcard_op_tip_msg">Не атрымалася выканаць гэтае дзеянне для ўсіх абраных выяў. Размантуйце і зноў падключыце SD-карту.</string>
-  <string name="home_sdcard_tip_msg">Здаецца, ваша SD-карта даступная толькі для чытання. Размантуйце і зноў падключыце яе ў меню Налады &gt; Аб тэлефоне &gt; Сховішча.</string>
+  <string name="home_sdcard_tip_msg">Здаецца, ваша SD-карта даступная толькі для чытання. Размантуйце і зноў падключыце яе ў меню Налады > Аб тэлефоне > Сховішча.</string>
   <string name="gallery_uninstall_description_content">Галерэя – гэта сістэмная праграма, якая дазваляе праглядаць, кіраваць і сінхранізаваць фота і відэа на ўсіх падлучаных прыладах. Калі вы выдаліце Галерэю, вы страціце элементы, якія вы зрабілі асабістымі. Усё роўна выдаліць?</string>
   <string name="gallery_uninstall_description_title">Выдаліць Галерэю?</string>
   <string name="change_baby_album_choose_from_photos">Выбраць з альбома</string>
@@ -4200,6 +4200,10 @@
   <string name="recovery_confirm_button">Аднавіць</string>
   <string name="recovery_confirm_text">Аднавіць гэты элемент зараз?</string>
   <string name="today_of_year_no_more_data">Больш няма элементаў для адлюстравання</string>
-  <string name="global_my">"Мая прылада
-%1$s"</string>
+  <string name="global_my">Мая прылада/n%1$s</string>
+  <string name="ai_process_grogress_tip">Аналіз элементаў галерэі %1$s</string>
+  <string name="ai_process_grogress_tip_search">Аналіз выяў галерэі %1$s</string>
+  <string name="ai_progress_grogress_tip_guide">Ваша прылада будзе аналізаваць элементы хутчэй, калі яна зараджаецца і экран выключаны</string>
+  <string name="map_privacy_dialog_content_new"><Data>Гэтая служба адлюстроўвае фота і відэа, адсартаваныя па месцазнаходжанню, стварае альбомы паездак і дазваляе вам шукаць элементы па месцазнаходжанню. Каб даць вам азначаныя вышэй паслугі, мы выкарыстоўваем Baidu Maps Open Platform SDK. Прачытайце і прыміце &lt;a href=\"%1$s\">Заяву аб сумесным выкарыстанні дадзеных трэцім бокам&lt;/a> перад выкарыстаннем гэтай паслугі.</Data></string>
+  <string name="privacy_watermark_word_count_full">Немагчыма ўвесці больш сімвалаў</string>
 </resources>

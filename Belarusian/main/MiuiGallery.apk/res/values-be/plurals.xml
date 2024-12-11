@@ -926,4 +926,8 @@
         <item quantity="one">Паказаць %d абраны элемент</item>
         <item quantity="few">Паказаць %d абраных элемента</item>
     </plurals>
+    <plurals name="privacy_watermark_word_count_not_full">
+        <item quantity="other">Увядзіце яшчэ да %d сімвалаў</item>
+        <item quantity="one">Увядзіце яшчэ да %d сімвала</item>
+    </plurals>
 </resources>

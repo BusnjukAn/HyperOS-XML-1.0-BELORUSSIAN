@@ -12122,7 +12122,4 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="gxzw_recognizing_anim_e">Апертура</string>
   <string name="gxzw_recognizing_anim_f">Дыфузія</string>
   <string name="leave_lockscreen_summary">Прылада заблакуецца, калі вы адыдзеце ад экрана</string>
-  <string name="wifi_scan_notify_text_scanning_off">Каб павысіць дакладнасць вызначэння месцазнаходжання, уключыце Сканіраванне Wi-Fi у LINK_BEGINНаладах сканавання Wi-FiLINK_END.</string>
-  <string name="wifi_scan_throttling">Рэгуляванне сканавання Wi-Fi</string>
-  <string name="wifi_scan_throttling_summary">Зніжае выдатак зарада батарэі і павялічвае прадукцыйнасць сеткі</string>
 </resources>

@@ -1224,4 +1224,5 @@
   <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
   <string name="navigation_guide_circle_search_summary">Націсніце і ўтрымлівайце поўнаэкранны індыкатар, каб выкарыстоўваць \"Круг для пошуку\"</string>
   <string name="navigation_guide_circle_search_title">Круг для пошуку</string>
+  <string name="miui_widget_menu_replace_text_new">Замяніць</string>
 </resources>

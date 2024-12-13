@@ -670,4 +670,5 @@
   <string name="secure_screen_hint">"Для абароны вашай прыватнасці,
 выканайце гэта дзеянне на сваім тэлефоне."</string>
   <string name="subscreen_multi_window_tips">Вертыкальны дысплей не падтрымліваецца. Пераключыцеся назад на гарызантальны дысплей.</string>
+  <string name="phone_connect_with_car_toast">Тэлефон падлучаны да аўтамабіля</string>
 </resources>

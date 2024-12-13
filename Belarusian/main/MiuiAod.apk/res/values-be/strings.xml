@@ -754,7 +754,7 @@
   <string name="tiny_kg_recommend_tip">Шукаеце іншыя налады?</string>
   <string name="tiny_kg_settings_view_btn_check_off">Выкл.</string>
   <string name="tiny_kg_settings_view_btn_check_on">Укл.</string>
-  <string name="tiny_kg_template_category_doodle_title">Дудлы</string>
+  <string name="tiny_kg_template_category_doodle_title">Замалёўкі</string>
   <string name="tiny_kg_template_category_image_title">Партрэты</string>
   <string name="tiny_kg_template_category_pets_title">Хатнія гадаванцы</string>
   <string name="tiny_kg_template_number_reach_upper_limit">Немагчыма дадаць больш шпалер. Выдаліце ​​некаторыя, перш чым дадаваць новыя.</string>
@@ -877,4 +877,6 @@
   <string name="kg_depth_preset_dialog_download_button">Спампаваць</string>
   <string name="kg_depth_preset_dialog_image_button">Статычная версія</string>
   <string name="kg_depth_preset_dialog_title">Спампаваць дынамічныя шпалеры</string>
+  <string name="kg_doodle_text_not_support_clock_tip">Немагчыма выкарыстоўваць замалёўкі пры выкарыстанні гэтага гадзіннiка</string>
+  <string name="kg_exit">Выхад</string>
 </resources>

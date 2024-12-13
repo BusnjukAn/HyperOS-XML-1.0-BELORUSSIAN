@@ -5238,7 +5238,7 @@
   <string name="sim_lock_start_bind_device_superscript">Рэкамендуецца</string>
   <string name="sim_lock_start_bind_device_title">Заблакаваць SIM-карту і прывязаць да прылады</string>
   <string name="sim_lock_start_close_dialog_enable">ОК</string>
-  <string name="sim_lock_start_close_dialog_message">Адключэнне гэтай функцыі зробіць вашу SIM-карту больш уразлівай для пагроз бяспекі. Пакінуць гэтую функцыю уключанай?</string>
+  <string name="sim_lock_start_close_dialog_message">Адключэнне гэтай функцыі зробіць вашу SIM-карту больш уразлівай для пагроз бяспекі. Усё роўна адключыць?</string>
   <string name="sim_lock_start_close_dialog_title">Увага</string>
   <string name="sim_lock_start_confirm_password_title">Пацвердзіць блакаванне экрана</string>
   <string name="sim_lock_start_keyguard_dialog_cancel">Адмяніць</string>
@@ -7528,7 +7528,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="system_permission_declare_optional_default_grant"><Data>Для забеспячэння лепшага карыстацкага досведу гэтай праграме патрабуюцца наступныя дадатковыя дазволы: %1s. Для атрымання больш падрабязнай інфармацыі аб тым, як мы апрацоўваем вашу асабістую інфармацыю, націсніце &lt;a href=\"test\">тут&lt;/a>. Вы можаце кіраваць сваімі дазволамі ў любы час у наладах.</Data></string>
   <string name="title_request_perm_accessibility">Дазволіць %1$s кіраваць вашай прыладай?</string>
   <string name="usage_access_title">Доступ да статыстыкі выкарыстання</string>
-  <string name="location_services_title">Службы вызначэння месцазнаходжання</string>
+  <string name="location_services_title">Месцазнаходжанне</string>
   <string name="cs_tool_box_max_screen_guide_case_1_new">Паспрабуйце сінхронны пераклад, паляпшэнне і іншыя інструменты для канферэнц-сувязі ў панэлі інструментаў \"Выклік\"</string>
   <string name="cs_tool_box_max_screen_guide_case_2_new">Паспрабуйце паляпшэнне і іншыя інструменты для канферэнц-сувязі ў панэлі інструментаў \"Выклік\"</string>
   <string name="cs_tool_box_max_screen_guide_case_3_new">Паспрабуйце шэраг функцый для канферэнц-сувязі ў панэлі інструментаў \"Выклік\"</string>
@@ -7593,4 +7593,18 @@ Xiaomi Gaming Cooler"</string>
   <string name="game_toolbox_display_enhance_view_frc_notice">Нататка:\nКалі ўключана інтэлектуальная частата кадраў, гульнявыя і іншыя прылады вызначэння частаты кадраў могуць недакладна яе вызначаць. Фактычную частату кадраў глядзіце на панэлі прадукцыйнасці.</string>
   <string name="game_toolbox_performance_config_frc_notice">Калі ўключаны прыярытэт частаты кадраў, фактычная частата кадраў адлюстроўваецца на панэлі прадукцыйнасці</string>
   <string name="game_toolbox_performance_config_resolution_notice">Калі ўключаны прыярытэт выявы, фактычная частата кадраў адлюстроўваецца на панэлі прадукцыйнасці</string>
+  <string name="face_unlock">Разблакаванне па твару</string>
+  <string name="finger_or_face_unlock">Разблакаванне адбіткам пальца або тварам</string>
+  <string name="finger_unlock">Разблакаванне адбіткам пальца</string>
+  <string name="game_toolbox_performance_config_custom_notice_new">Вы можаце наладзіць суперраздзяляльнасць і інтэлектуальную частату кадраў для кіравання частатой кадраў і якасцю выявы. &lt;font color=%s>Фактычная частата кадраў адлюстроўваецца на панэлі прадукцыйнасці.&lt;/font></string>
+  <string name="game_toolbox_performance_config_frc_notice_new">Прыярытэт частаты кадраў павялічвае частату кадраў з дапамогай інтэлектуальнай частаты кадраў. &lt;font color=%s>Фактычная частата кадраў адлюстроўваецца на панэлі прадукцыйнасці.&lt;/font></string>
+  <string name="game_toolbox_performance_config_resolution_notice_new">Прыярытэт выявы паляпшае якасць выявы з дапамогай суперраздзяляльнасцi і кіруе частатой кадраў з дапамогай інтэлектуальнай частаты кадраў. &lt;font color=%s>Фактычная частата кадраў адлюстроўваецца на панэлі прадукцыйнасці.&lt;/font></string>
+  <string name="grant_dialog_button_onetime">Дазволіць адзін раз</string>
+  <string name="password_or_finger_unlock">Разблакаванне па паролю або адбітку пальца</string>
+  <string name="password_switch">Выкарыстоўваць пароль</string>
+  <string name="password_unlock">Разблакаванне па паролю</string>
+  <string name="pc_18W_high_power_reverse_charging_summary">Зараджайце хутчэй з дапамогай магутнай зваротнай зарадкі. USB-падлучэнне выкарыстоўваецца толькі для зарадкі.</string>
+  <string name="pc_18W_high_power_reverse_charging_title">Зваротная зарадка</string>
+  <string name="pc_camera_handle_setting_title">Зарадка праз ручку</string>
+  <string name="pc_smart_charge_button_summary_new">Каб падоўжыць тэрмін службы батарэі, сістэма даведаецца, як вы зараджаеце сваю прыладу, і спыніць зарадку, калі ўзровень зарада батарэі дасягне %1$s у адпаведных сітуацыях</string>
 </resources>

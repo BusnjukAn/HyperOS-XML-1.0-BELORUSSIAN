@@ -1008,14 +1008,14 @@
   <string name="theme_component_title_boot_animation">Анімацыя загрузкі</string>
   <string name="theme_component_title_boot_audio">Мелодыя загрузкі</string>
   <string name="theme_component_title_clock">Гадзіннік</string>
-  <string name="theme_component_title_contact">Клавіятура</string>
+  <string name="theme_component_title_contact">Тэлефон</string>
   <string name="theme_component_title_font">Шрыфты</string>
   <string name="theme_component_title_framework">Сістэма</string>
   <string name="theme_component_title_homepage">Хатняя старонка</string>
   <string name="theme_component_title_icon">Абразкi</string>
   <string name="theme_component_title_launcher">Працоўны стол</string>
-  <string name="theme_component_title_lockstyle">Стыль блакавання</string>
-  <string name="theme_component_title_lockwallpaper">Экран блакавання</string>
+  <string name="theme_component_title_lockstyle">Экран блакавання</string>
+  <string name="theme_component_title_lockwallpaper">Шпалеры блакавання</string>
   <string name="theme_component_title_miwallpaper">MIUI шпалеры</string>
   <string name="theme_component_title_mms">Паведамленні</string>
   <string name="theme_component_title_notification">Апавяшчэнні</string>

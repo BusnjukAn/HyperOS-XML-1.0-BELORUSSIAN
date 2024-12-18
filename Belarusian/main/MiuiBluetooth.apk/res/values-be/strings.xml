@@ -240,7 +240,7 @@
   <string name="mi_band_vibrate_sms">Вібраваць пры атрыманні SMS</string>
   <string name="mi_band_vibrate_sms_in_contacts">Паведамленні ад кантактаў</string>
   <string name="mi_band_vibrate_sms_no_contacts">Паведамленні з невядомых нумароў</string>
-  <string name="mi_home_device_find">Знайсці %1$s</string>
+  <string name="mi_home_device_find">Выяўленне прылад</string>
   <string name="mi_home_device_ignore">Адмена</string>
   <string name="mi_home_device_start_binding">Падлучыцца</string>
   <string name="mi_key_alert_dialog_message">Націсніце ОК, каб адключыць сігнал.</string>

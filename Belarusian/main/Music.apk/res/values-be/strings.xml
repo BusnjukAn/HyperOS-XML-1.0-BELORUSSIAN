@@ -2254,4 +2254,27 @@
   <string name="asm_dialog_talk_two">Давайце знаёміцца ​​з новай музыкай разам!</string>
   <string name="insight_detail_overview">Агляд</string>
   <string name="insight_detail_search_and_play">Шукаць і граць</string>
+  <string name="asm_congratulations">Віншуем!</string>
+  <string name="asm_euro_try_one_month">Паспрабуйце адзін месяц бясплатна</string>
+  <string name="asm_grab_coupon">Вы атрымалі купон на бясплатную %d-месячную падпіску</string>
+  <string name="asm_mill_song_click">"Мільёны цудоўных песень ўсяго
+"<font size="38"><b>у адным націску ад вас</b></font></string>
+  <string name="asm_song_to_soul">"Супервысокая якасць дазваляе вам
+"<font size="55"><b>пачуць кожную ноту</b></font></string>
+  <string name="asm_vip_share_rights">Падпішыцеся і атрымаеце гэтыя выдатныя перавагі</string>
+  <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
+  <string name="home_tab_webpage">Агляд</string>
+  <string name="insight_detail_hot_music">Папулярныя песні %s</string>
+  <string name="insight_rank">Рэйтынг песень</string>
+  <string name="insight_web_favorite_toast">Вэб-старонка дададзеная ў закладкі ў анлайн-калекцыю вэб-старонак</string>
+  <string name="insight_web_overview">Выяўлены рэсурс для спампоўкі</string>
+  <string name="webpage_hot_rank">Папулярнае</string>
+  <string name="webpage_pop_rank">Лідэры чартаў</string>
+  <string name="webpage_rec_today">Сённяшнія рэкамендацыі</string>
+  <string name="webpage_recent_play">Нядаўна прайграныя</string>
+  <string name="webpage_remove_store">Выдалена</string>
+  <string name="webpage_store_delete_desc">Выдаліць гэты аб\'ект зараз?</string>
+  <string name="webpage_store_from">"Дададзена: "</string>
+  <string name="webpage_store_title">Выбраныя вэб-старонкі</string>
+  <string name="webpage_view_all">Паказаць усё</string>
 </resources>

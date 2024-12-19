@@ -69,7 +69,7 @@
   <string name="input_method_clipboard_move_cursor_guide2">Правядзіце пальцам па гарызанталі</string>
   <string name="input_method_clipboard_participle">Асобныя словы</string>
   <string name="input_method_clipboard_settings_button">Налады</string>
-  <string name="input_method_clipboard_tips">Скапіяваныя элементы будуць выдалены з буфера абмену праз %d гадзін.</string>
+  <string name="input_method_clipboard_tips">Скапіяваныя элементы будуць выдалены з буфера абмену праз 48 гадзін.</string>
   <string name="input_method_edit_phrase_text">Рэдагаваць частыя выразы</string>
   <string name="input_method_function_clipboard">Буфер абмену і частыя выразы</string>
   <string name="input_method_function_clipboard_des">Націсніце, каб прагледзець змесціва буфера абмену і частыя выразы</string>

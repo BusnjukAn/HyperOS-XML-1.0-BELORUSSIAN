@@ -240,7 +240,7 @@
   <string name="mi_band_vibrate_sms">Вібраваць пры атрыманні SMS</string>
   <string name="mi_band_vibrate_sms_in_contacts">Паведамленні ад кантактаў</string>
   <string name="mi_band_vibrate_sms_no_contacts">Паведамленні з невядомых нумароў</string>
-  <string name="mi_home_device_find">Выяўленне прылад</string>
+  <string name="mi_home_device_find">Знойдзена \"%1$s\"</string>
   <string name="mi_home_device_ignore">Адмена</string>
   <string name="mi_home_device_start_binding">Падлучыцца</string>
   <string name="mi_key_alert_dialog_message">Націсніце ОК, каб адключыць сігнал.</string>
@@ -644,6 +644,6 @@
   <string name="user_agreement_title">Заява аб прыватнасцi для сувязі паміж прыладамі</string>
   <string name="virtual_moresttings">дадатковыя налады</string>
   <string name="config_net_device_ignore">Адмена</string>
-  <string name="config_net_device_title_find_headset">Знайсці %1$s</string>
-  <string name="config_net_download_tips">Усталюйце праграму Mi Здароўе, увайдзіце ў сістэму і паднясіце тэлефон да прылады.</string>
+  <string name="config_net_device_title_find_headset">Знойдзена \"%1$s\"</string>
+  <string name="config_net_download_tips">Усталюйце праграму Mi Здароўе i увайдзіце ў сістэму, каб мець магчымасць падлучыцца да вашай носнай прылады.</string>
 </resources>

@@ -1157,4 +1157,5 @@
   <string name="find_device_permissions_header_without_offline_find">З дапамогай функцыі \"Пошук прылады\" вы можаце знайсці, адсачыць і заблакаваць сваю прыладу, калі яна згубілася. Для нармальнай працы гэтай праграмы патрабуюцца наступныя дазволы:</string>
   <string name="find_device_status_summary_without_offline_find">Уключыце, каб знайсці і адсачыць сваю прыладу або выдаліць яе дадзеныя выдалена</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone_without_offline_find">Вы можаце выкарыстоўваць функцыю \"Пошук прылады\", каб знайсці, заблакаваць або выдаліць дадзеныя на сваёй прыладзе, калі яна згубілася.</string>
+  <string name="privacy_dialog_finddevice_all_purpose_pad_without_offline_find">Вы можаце выкарыстоўваць функцыю \"Пошук прылады\", каб знайсці, заблакаваць або выдаліць дадзеныя на сваёй прыладзе, калі яна згубілася.</string>
 </resources>

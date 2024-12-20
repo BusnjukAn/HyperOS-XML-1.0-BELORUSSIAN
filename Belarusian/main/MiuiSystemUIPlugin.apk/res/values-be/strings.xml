@@ -604,4 +604,5 @@
   <string name="flashlight_notification_content_text">Ліхтарык уключаны</string>
   <string name="flashlight_notification_content_title">Ліхтарык</string>
   <string name="flashlight_not_available">Немагчыма выкарыстоўваць ліхтарык пры выкарыстанні камеры</string>
+  <string name="quick_settings_camera_grip_charge">Зарадка праз ручку</string>
 </resources>

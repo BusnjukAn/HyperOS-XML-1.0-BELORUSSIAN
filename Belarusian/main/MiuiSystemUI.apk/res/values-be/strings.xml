@@ -2226,4 +2226,5 @@
   <string name="using_sound_box_screen">Выкарыстанне дынаміка з экранам</string>
   <string name="using_stereo">Выкарыстанне стэрэа</string>
   <string name="using_wireless_headset">Выкарыстанне навушнікаў</string>
+  <string name="accessibility_quick_settings_handle_handsfree_battery_level">Падлучаная ручка</string>
 </resources>

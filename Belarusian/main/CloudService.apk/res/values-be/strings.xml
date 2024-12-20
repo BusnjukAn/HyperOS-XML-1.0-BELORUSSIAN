@@ -1154,4 +1154,7 @@
   <string name="verify_notification_title_find_device_push">Іншая прылада ўключыла функцыю \"Афлайн-месцазнаходжанне\"</string>
   <string name="verify_warning_dialog_message_find_device">"Функцыя \"Афлайн-месцазнаходжанне\" уключаная для %s. Пасля ўключэння гэтай функцыі вы зможаце праверыць месцазнаходжанне сваёй прылады, калі яна знаходзіцца ў аўтаномным рэжыме."</string>
   <string name="verify_warning_dialog_title_find_device">\"Афлайн-месцазнаходжанне\" уключана для іншай прылады</string>
+  <string name="find_device_permissions_header_without_offline_find">З дапамогай функцыі \"Пошук прылады\" вы можаце знайсці, адсачыць і заблакаваць сваю прыладу, калі яна згубілася. Для нармальнай працы гэтай праграмы патрабуюцца наступныя дазволы:</string>
+  <string name="find_device_status_summary_without_offline_find">Уключыце, каб знайсці і адсачыць сваю прыладу або выдаліць яе дадзеныя выдалена</string>
+  <string name="privacy_dialog_finddevice_all_purpose_phone_without_offline_find">Вы можаце выкарыстоўваць функцыю \"Пошук прылады\", каб знайсці, заблакаваць або выдаліць дадзеныя на сваёй прыладзе, калі яна згубілася.</string>
 </resources>

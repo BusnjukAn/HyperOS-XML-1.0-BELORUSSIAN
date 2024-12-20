@@ -669,4 +669,6 @@
   <string name="session_failed_invalid_token_detail">Увайсці яшчэ раз</string>
   <string name="session_failed_invalid_token_title">Няверныя ўліковыя дадзеныя</string>
   <string name="session_failed_reason_invalid_token">Няверныя ўліковыя дадзеныя для ўваходу. Увайдзіце яшчэ раз.</string>
+  <string name="cloud_backup_detail_state_summary_china_content_description">Патрабуецца падлучэнне да Wi-Fi, зарад батарэі не менш за %s і выключаны экран</string>
+  <string name="cloud_backup_detail_state_summary_content_description">Патрабуецца падлучэнне да Wi-Fi, зарад батарэі не менш за %s і выключаны экран</string>
 </resources>

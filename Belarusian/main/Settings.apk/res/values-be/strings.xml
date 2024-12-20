@@ -12097,7 +12097,7 @@
 
 Xiaomi нястомна стварае цудоўныя прадукты па сумленных цэнах, каб дазволіць усім у свеце атрымліваць асалоду ад лепшага жыцця з дапамогай інавацыйных тэхналогій."</string>
   <string name="photography_handle_charge_settings">Налады зарадкі</string>
-  <string name="photography_handle_function_settings">Налады дзяржальні камеры</string>
+  <string name="photography_handle_function_settings">Налады ручкі камеры</string>
   <string name="photography_handle_sn">Серыйны нумар</string>
   <string name="photography_handle_update_and_maintain">Абнаўленні</string>
   <string name="satellite_management_title">Спадарожнікавая сетка</string>
@@ -12122,4 +12122,9 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="gxzw_recognizing_anim_e">Апертура</string>
   <string name="gxzw_recognizing_anim_f">Дыфузія</string>
   <string name="leave_lockscreen_summary">Прылада заблакуецца, калі вы адыдзеце ад экрана</string>
+  <string name="photography_handle_charge_state_choice_always">Заўсёды</string>
+  <string name="photography_handle_charge_state_choice_emergency">Экстраная</string>
+  <string name="photography_handle_charge_state_summary_new">Пачаць зарадку гэтай прылады ад ручкі камеры пасля падлучэння</string>
+  <string name="photography_handle_emergency_charge_summary">Пачаць экстраную зарадку, калі зарад батарэі апусціцца ніжэй за %1$s</string>
+  <string name="photography_handle_emergency_charge_title">Узровень экстранай зарадкі</string>
 </resources>

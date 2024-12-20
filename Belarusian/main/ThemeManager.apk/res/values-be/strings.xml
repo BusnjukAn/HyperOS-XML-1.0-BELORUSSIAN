@@ -2052,7 +2052,6 @@
   <string name="vlog_talkback_view_play">Прайграць</string>
   <string name="ai_cannot_scrolling_with_the_screen">"Немагчыма ўключыць пракрутку для гэтых шпалер"</string>
   <string name="carousel_no_set_wallpaper_effects">"Немагчыма ўсталяваць эфекты, калі ўключаная Карусель шпалер"</string>
-  <string name="ai_generate_waiting">Цяпер у чарзе занадта шмат людзей, паспрабуйце пазней!</string>
   <string name="bottomsheet_action_collapse">Згарнуць ніжні ліст</string>
   <string name="bottomsheet_action_expand">Разгарнуць ніжні ліст</string>
   <string name="bottomsheet_drag_handle_clicked">Падвойны націск на маркер перамяшчэння</string>
@@ -2069,7 +2068,7 @@
   <string name="miui_eastern_art_b_data_view_format">d.M</string>
   <string name="miui_eastern_art_b_week_view_format">EEE</string>
   <string name="ai_account_violated_service_unavailable_try_again_later">Ваш уліковы запіс некалькі разоў парушыў нашы правілы і быў заблакаваны. Паўтарыце спробу пазней.</string>
-  <string name="ai_estimated_two_three_minutes" formatted="false">Гэта зойме %1d–%2d хв.</string>
+  <string name="ai_estimated_two_three_minutes" formatted="false">Гэта зойме ад %d да %d хв.</string>
   <string name="ai_generating">Стварэнне…</string>
   <string name="ai_image_format_does_not_support_generation">Непадтрымліваемы фармат</string>
   <string name="ai_image_size_too_large">Выява занадта вялікая</string>
@@ -2079,4 +2078,5 @@
   <string name="ai_service_temporarily_unavailable">Функцыя недаступная</string>
   <string name="ai_service_unavailable">Функцыя недаступная</string>
   <string name="ai_waiting_in_line_please_wait">Вы ў чарзе. Заставайцеся з намі…</string>
+  <string name="ai_generate_waiting">Сервер заняты. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
 </resources>

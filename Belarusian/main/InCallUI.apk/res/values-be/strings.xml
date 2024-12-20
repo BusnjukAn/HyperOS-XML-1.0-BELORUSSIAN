@@ -528,10 +528,11 @@
   <string name="start_call_record">Пачаць</string>
   <string name="satellite_cancel">Адмена</string>
   <string name="satellite_ok">Выкарыстоўваць</string>
-  <string name="focus_notification_in_calling">Падчас размовы</string>
+  <string name="focus_notification_in_calling">Ідзе выклік</string>
   <string name="on_call_recording">Запіс</string>
   <string name="offline_call_chat_text">Сувязь паміж прыладамі</string>
   <string name="offline_call_rssi_great_text">Моцны сігнал</string>
   <string name="offline_call_rssi_poor_text">Слабы сігнал</string>
   <string name="offline_call_rssi_poor_toast">Слабы сігнал Bluetooth. Гэта можа паўплываць на якасць сувязі.</string>
+  <string name="satellite_service_provider_tiantong">Прадастаўлена Tiantong</string>
 </resources>

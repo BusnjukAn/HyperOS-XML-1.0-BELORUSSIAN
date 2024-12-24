@@ -1173,4 +1173,13 @@
   <string name="solar_term_white_dews">Белыя росы</string>
   <string name="solar_term_winter_begins">Пачатак зімы</string>
   <string name="solar_term_winter_solstice">Зімовае сонцастаянне</string>
+  <string name="device_header">"%1$d. Усе прылады павінны быць аўтарызаваны ў адным уліковым запісе Xiaomi.
+%2$d. Прылады павінны быць падлучаны да Wi-Fi або выкарыстоўваць мабільныя дадзеныя."</string>
+  <string name="device_header_china">"%1$d. Усе прылады павінны быць аўтарызаваны ў адным уліковым запісе Xiaomi.
+%2$d. Прылады павінны быць падлучаны да Wi-Fi або выкарыстоўваць мабільныя дадзеныя."</string>
+  <string name="device_not_found">Няма падлучаных прылад</string>
+  <string name="device_not_found_tips">Пераканайцеся, што іншыя прылады аўтарызаваны ў вашым уліковым запісе Xiaomi</string>
+  <string name="device_tips">Выбар падлучаных прылад дапаможа нам хутчэй прааналізаваць праблему. Вы можаце загружаць часопісы як з гэтай прылады, так і з абраных прылад.</string>
+  <string name="feedback_choose_device">Абраць прыладу</string>
+  <string name="feedback_choose_device_hint">Вы не абралі ніводнай прылады</string>
 </resources>

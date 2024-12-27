@@ -1230,4 +1230,7 @@ ID:%s
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
   <string name="xiaomi_update_sdk_update_dialog_cancel">Не зараз</string>
   <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
+  <string name="pasport_register_dialog_message">Стварыць акаўнт Xiaomi па нумару тэлефона %s зараз?</string>
+  <string name="passport_register_dialog_positive">Стварыць</string>
+  <string name="passport_register_dialog_title">Стварыць акаўнт Xiaomi</string> 
 </resources>

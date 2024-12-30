@@ -758,7 +758,7 @@
   <string name="rerecognize_dialog_positive_button">Расшыфраваць</string>
   <string name="rerecognize_dialog_title">Расшыфраваць зноў?</string>
   <string name="retry_toast">Адбылася памылка сеткі. Паўтарыце.</string>
-  <string name="speaker">РазмаўлялыȀ</string>
+  <string name="speaker">"Размаўляючы(-ая) "</string>
   <string name="summary_content_need_deal">Задачы</string>
   <string name="summary_content_result_content">Асноўны змест</string>
   <string name="summary_content_theme">Тэма</string>
@@ -783,7 +783,7 @@
   <string name="airecorder_notification_recording_ticker">Гук у тэлефоне адключаны</string>
   <string name="airecorder_pause_status_focus_notification">Запіс прыпынены</string>
   <string name="airecorder_recording_status_focus_notification">Запіс</string>
-  <string name="airecorder_speaker">РазмаўляючыȀ</string>
+  <string name="airecorder_speaker">"Размаўляючы(-ая) "</string>
   <string name="airecorder_stop_status_focus_notification">Запіс завершаны</string>
   <string name="airecorder_text_btn_complete">Завяршыць</string>
   <string name="airecorder_text_btn_pause">Паўза</string>
@@ -844,4 +844,13 @@
   <string name="cant_generate_summary_by_unkonw_error">Адбылася невядомая памылка</string>
   <string name="cant_generate_summary_by_word_limit">Занадта мала або занадта многа сімвалаў. Немагчыма стварыць зводку.</string>
   <string name="summary_is_generating">Стварэнне зводкі… </string>
+  <string name="airecorder_os2_notification_recording">Ідзе запіс</string>
+  <string name="airecorder_os2_off_screen_notification_stop">Запіс завершаны</string>
+  <string name="notice_for_ai_search_tips">Падрабязней</string>
+  <string name="talkback_component_exit_button">Зачыніць плаваючае акно</string>
+  <string name="talkback_return_speak_location">Вярнуцца да сінхранізаванага прайгравання</string>
+  <string name="talkback_traslation_ai_recognize">Схаваць тэкставае поле</string>
+  <string name="text_for_build_database_progress_state_paused">Запісы будуць аналізавацца на вашай прыладзе, каб даць больш дакладныя вынікі</string>
+  <string name="text_for_build_database_progress_state_running">Аналіз запісаў для атрымання больш дакладных вынікаў…</string>
+  <string name="text_for_build_database_progress_state_stooping">Запісы будуць прааналізаваны на вашай прыладзе для атрымання больш дакладных вынікаў.\nУ цяперашні час прыпынена. Аналіз адновіцца, калі вы не будзеце выкарыстоўваць сваю прыладу.</string>
 </resources>

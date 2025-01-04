@@ -12131,4 +12131,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="gemini_description">Майце зносіны з Gemini, каб атрымаць цудоўныя ідэі. Атрымлівайце дапамогу ў навучанні новымі спосабамі, напісанні падзячных лістоў, планаванні мерапрыемстваў і многім іншым. Выкарыстоўвайце тэкст, голас, фатаграфіі і камеру, каб атрымаць дапамогу новымі спосабамі. <a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the-gemini-app-from-the-google-play-store">Даведайцеся аб даступнасці.</a></string>
   <string name="gemini_function">Паляпшайце свае ідэі з дапамогай Google Gemini, вашага новага памочніка на аснове штучнага інтэлекту</string>
   <string name="gemini_setting">Налада Gemini</string>
+  <string name="back_strap_image_new_text">Уключыце гэтую функцыю, каб атрымліваць візуальныя апавяшчэнні і персаналізаваныя светлавыя эфекты</string>
+  <string name="back_strap_off">Выкл.</string>
+  <string name="back_strap_on">Укл.</string>
+  <string name="back_strap_on_back_light_display">Толькі калі экран павернуты ўніз</string>
 </resources>

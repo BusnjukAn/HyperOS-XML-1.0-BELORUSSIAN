@@ -550,7 +550,7 @@
   <string name="filter_description_dialog_content">Вы можаце імпартаваць табліцы пошуку колеру CUBE для дадання карыстальніцкіх фільтраў.</string>
   <string name="filter_description_dialog_title">Карыстальніцкія фільтры</string>
   <string name="filter_diy_import">Імпарт</string>
-  <string name="filter_diy_import_first_time_pop_tips">Націсніце і ўтрымлівайце для змены</string>
+  <string name="filter_diy_import_first_time_pop_tips">Націсніце і ўтрымлівайце, каб дадаць у абранае</string>
   <string name="filter_diy_import_toast_fail">Не атрымалася імпартаваць</string>
   <string name="filter_diy_import_toast_out_of_limit">Вы можаце імпартаваць да %d табліц пошуку колеру CUBE.</string>
   <string name="filter_diy_tip_dialog_cancel">Скасаваць</string>
@@ -2168,7 +2168,7 @@
   <string name="vlog_pro_not_support">Гэтая разроснасць не падтрымліваецца</string>
   <string name="vlog_pro_ok">Пераключыць</string>
   <string name="vlog_pro_title">Відэарэдактар</string>
-  <string name="vlog_quality">Якасць відэа</string>
+  <string name="vlog_quality">Якасць</string>
   <string name="vlog_quality_bitrate_auto">Аўта</string>
   <string name="vlog_quality_bitrate_high">Высокі</string>
   <string name="vlog_quality_bitrate_low">Нізкі</string>

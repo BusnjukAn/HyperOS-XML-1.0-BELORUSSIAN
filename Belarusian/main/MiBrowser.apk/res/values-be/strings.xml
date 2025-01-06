@@ -2609,7 +2609,7 @@
   <string name="decompressed_files">Вынятыя файлы</string>
   <string name="error_icon_content_description">Памылка</string>
   <string name="exposed_dropdown_menu_content_description">Паказаць выпадное меню</string>
-  <string name="homepage_tab_tips_chatgpt">Пазнаёмцеся з нашым новым пошукам ШI</string>
+  <string name="homepage_tab_tips_chatgpt">Націсніце тут, каб выкарыстоўваць новыя функцыі штучнага інтэлекту</string>
   <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="item_view_role_description">Укладка</string>
   <string name="jump_web_learn_more">Адкрыць зыходную вэб-старонку</string>
@@ -3287,4 +3287,7 @@
   <string name="web_ai_summary_page">Зводка старонкі</string>
   <string name="web_ai_translate_error">Не атрымалася перавесці</string>
   <string name="head_figure_image">Выява загалоўка</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="text_input_layout_default_content_description">Гэта стандартнае апісанне кантэнту</string>
+  <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
 </resources>

@@ -1212,4 +1212,5 @@
   <string name="pa_widget_edit_calendar_switch_closed_toast">Вы не ўбачыце маючыя адбыцца падзеі, якія адлюстроўваюцца на віджэце</string>
   <string name="pa_widget_edit_calendar_switch_opened_toast">Вы ўбачыце маючыя адбыцца падзеі, якія адлюстроўваюцца на віджэце</string>
   <string name="pa_lite_setting_service_note_small">Нататкі (2×2)</string>
+  <string name="pa_comm_voice_error_privacy_update_toast">Палітыка прыватнасці Mi ШI была абноўлена. Пагадзіцеся з новай Палітыкай прыватнасці і паўтарыце спробу.</string>
 </resources>

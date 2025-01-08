@@ -962,7 +962,7 @@ ID:%s
   <string name="qrcode_login_entry_text"><Data>Увайшлі ў сістэму на іншай прыладзе? Скарыстайцеся &lt;a href=>хуткім уваходам&lt;/a></Data></string>
   <string name="qrcode_login_load_refresh"><Data>Тэрмін дзеяння QR-кода скончыўся. Націсніце, каб &lt;a href=>абнавіць&lt;/a>.</Data></string>
   <string name="qrcode_login_load_retry"><Data>Не атрымалася загрузіць. &lt;a href=>Паспрабуйце зноў&lt;/a>.</Data></string>
-  <string name="qrcode_login_message">Адскануйце код пры дапамозе праграмы Сканар або іншай праграмы Xiaomi, каб увайсці ў свой акаўнт Xiaomi</string>
+  <string name="qrcode_login_message">Перайдзіце ў Налады > Xiaomi акаўнт на сваёй прыладзе Xiaomi і адскануйце QR-код для ўваходу, або выкарыстоўвайце іншы сканар QR-кодаў</string>
   <string name="qrcode_login_title">Адскануйце, каб увайсці</string>
   <string name="confirm_bundled_phone_dialog_confirm">Пацвярджаю</string>
   <string name="confirm_bundled_phone_dialog_confirm_timer">Пацвярджаю (%d сек.)</string>
@@ -1232,5 +1232,15 @@ ID:%s
   <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
   <string name="pasport_register_dialog_message">Стварыць акаўнт Xiaomi па нумару тэлефона %s зараз?</string>
   <string name="passport_register_dialog_positive">Стварыць</string>
-  <string name="passport_register_dialog_title">Стварыць акаўнт Xiaomi</string> 
+  <string name="passport_register_dialog_title">Стварыць акаўнт Xiaomi</string>
+  <string name="data_access_management">Кіраванне доступам да дадзеных</string>
+  <string name="fcm_fallback_notification_channel_label">Рознае</string>
+  <string name="passport_close_dialog_close_btn">Адключыць</string>
+  <string name="passport_close_dialog_hint">Калі вы выключыце гэтую функцыю, двухфактарная аўтэнтыфікацыя больш не запатрабуецца пры ўваходзе ў акаўнт. Гэта можа зменшыць бяспечнасць вашага акаўнта.</string>
+  <string name="passport_close_dialog_open_btn">Не адключаць</string>
+  <string name="passport_close_two_factor_auth">Адключыць двухфактарную аўтэнтыфікацыю</string>
+  <string name="passport_device_code_dialog_hint">Нікому не паведамляйце гэты код</string>
+  <string name="passport_set_password_hint">Усталюйце пароль акаўнта, каб выкарыстоўваць двухфактарную аўтэнтыфікацыю</string>
+  <string name="passport_two_factor_auth">Двухфактарная аўтэнтыфікацыя</string>
+  <string name="passport_two_factor_auth_hint">Уключыце, каб патрабаваць двухфактарную аўтэнтыфікацыю пры ўваходзе ў ваш акаўнт</string>
 </resources>

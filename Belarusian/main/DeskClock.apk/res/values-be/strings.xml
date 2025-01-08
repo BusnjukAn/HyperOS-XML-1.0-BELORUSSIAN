@@ -251,7 +251,7 @@
   <string name="no_alarm_setting">Няма будзільнікаў</string>
   <string name="no_worldclock">Няма гадзіннікаў</string>
   <string name="not_update">Не цяпер</string>
-  <string name="oneshot_alarm">Выдаліць пасля таго, як зазвініць</string>
+  <string name="oneshot_alarm">Выдаліць пасля спрацоўвання будзільніка</string>
   <string name="open_keep_screen">Экран будзе ўключаны</string>
   <string name="open_sleep_record">Уключыць</string>
   <string name="other_category_title">Іншыя дазволы</string>

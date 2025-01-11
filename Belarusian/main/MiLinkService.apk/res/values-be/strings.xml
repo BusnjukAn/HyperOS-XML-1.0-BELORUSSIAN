@@ -1582,4 +1582,16 @@
   <string name="tv_remote_auth_title">Увядзіце праверачны код тэлевізара</string>
   <string name="connect_settings_share_file">Доступ да файлаў</string>
   <string name="connect_settings_summary_share_file">Доступ да лакальных файлаў з бліжэйшых кампутараў</string>
+  <string name="appcirculate_toast_app_max_screen_count">Не ўдаецца адкрыць больш вокнаў</string>
+  <string name="appcirculate_toast_pad_connection_car">Планшэт падлучаны да аўтамабіля</string>
+  <string name="appcirculate_toast_phone_connection_car">Тэлефон падлучаны да аўтамабіля</string>
+  <string name="disconnect_access">Адключыць</string>
+  <string name="dist_file_notification_subtitle">\"%s\" хоча атрымаць доступ да файлаў гэтай прылады</string>
+  <string name="dist_file_notification_title">Доступ да файлаў паміж прыладамі</string>
+  <string name="is_accessed_by">\"%1$s\" атрымлівае доступ да гэтай прылады</string>
+  <string name="nearby_device_file_access">Атрымліваць апавяшчэнне, калі прылады паблізу атрымліваюць доступ да файлаў гэтай прылады</string>
+  <string name="open_wlan_other_toast">Уключыце Wi-Fi на іншай прыладзе і паспрабуйце яшчэ раз</string>
+  <string name="open_wlan_other_toast_china">Уключыце Wi-Fi на іншай прыладзе і паспрабуйце яшчэ раз</string>
+  <string name="open_wlan_self_toast">Уключыце Wi-Fi і паспрабуйце яшчэ раз</string>
+  <string name="open_wlan_self_toast_china">Уключыце Wi-Fi і паспрабуйце яшчэ раз</string>
 </resources>

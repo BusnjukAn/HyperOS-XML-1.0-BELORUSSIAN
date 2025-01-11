@@ -1793,8 +1793,8 @@
   <string name="ai_read_the_privacy_policy"><Data> Прачытайце і прыміце нашы &lt;a href=\"%1$s\">пагадненне &lt;/a> і &lt;a href=\"%2$s\">Палітыку канфідэнцыйнасці &lt;/a>, перш чым працягнуць.</Data></string>
   <string name="ai_read_the_privacy_policy_pad"><Data> Прачытайце і прыміце нашы &lt;a href=\"%1$s\">пагадненне &lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці у дачыненні шпалер і персаналізацыі &lt;/a>, перш чым працягнуць.</Data></string>
   <string name="ai_select_again">Выбраць</string>
-  <string name="ai_select_message">Выбірайце толькі выявы пейзажаў, гарадоў, раслін і аўтамабіляў і пераканайцеся, што асноўны аб\'ект выявы бачны выразна і нічым не загароджаны.</string>
-  <string name="ai_select_title">Немагчыма апрацаваць выявы</string>
+  <string name="ai_select_message">Абярыце фатаграфію, на якой аб\'ект добра бачны.</string>
+  <string name="ai_select_title">Не атрымалася згенераваць</string>
   <string name="ai_select_wallpaper">Выбраць шпалеры</string>
   <string name="ai_wallpaper">Дынамічныя шпалеры ШІ</string>
   <string name="ai_wallpaper_account_exception">Падобна на тое, узнікла праблема з вашай уліковай запісам. Паўтарыце спробу пазней ці зменіце уліковую запіс.</string>
@@ -1806,7 +1806,7 @@
   <string name="ai_wallpaper_i_know">Зразумела</string>
   <string name="ai_wallpaper_inside_invitation">Бэта-тэст дынамічных шпалер ШІ</string>
   <string name="ai_wallpaper_inside_invitation_agree">Згодны</string>
-  <string name="ai_wallpaper_inside_invitation_description">Гэтая функцыя выкарыстоўвае магчымасці вялікіх мадэляў для выкарыстання фатаграфій ландшафтаў, гарадоў, раслін і аўтамабіляў для стварэння дынамічных відэашпаляў. Націсніце \" Згодны \", каб паспрабаваць!</string>
+  <string name="ai_wallpaper_inside_invitation_description">Гэтая функцыя выкарыстоўвае магчымасці вялікай мадэлі для стварэння дынамічных шпалер са статычных выяў. Націсніце \"Згодны\", каб паспрабаваць!</string>
   <string name="ai_wallpaper_inside_invitation_disagree">Ня згодны</string>
   <string name="ai_wallpaper_network_connection_exception">Ня атрымалася падключыцца да сеткі</string>
   <string name="ai_wallpaper_network_exception">Адбылася памылка сеткі</string>
@@ -1967,7 +1967,7 @@
   <string name="kg_guidance_dialog_title">Зусім новы персаналізаваны Экран блакавання</string>
   <string name="kg_hierarchy_loading_tip">Выяўленне пластоў…</string>
   <string name="kg_hierarchy_not_support_avoid_tip">Адрэгулюйце пазіцыю шпалер, каб зрабіць эфект глыбіні бачным</string>
-  <string name="kg_hierarchy_not_support_gallery_tip">Немагчыма прымяніць эфекты глыбіні да аб\'ектаў слайд-шоў</string>
+  <string name="kg_hierarchy_not_support_gallery_tip">Немагчыма ўключыць эфект глыбіні пры выкарыстанні слайд-шоў шпалер</string>
   <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">Шпалеры трэціх бакоў не падтрымліваюць эфекты глыбіні</string>
   <string name="kg_hierarchy_not_support_wallpaper_tip">Гэтыя шпалеры не падтрымліваюць эфект глыбіні</string>
   <string name="kg_hierarchy_switch_label">Эфект глыбіні</string>
@@ -2079,4 +2079,23 @@
   <string name="ai_service_unavailable">Функцыя недаступная</string>
   <string name="ai_waiting_in_line_please_wait">Вы ў чарзе. Заставайцеся з намі…</string>
   <string name="ai_generate_waiting">Сервер заняты. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="download_limit">Немагчыма загрузіць больш элементаў зараз. Паўтарыце спробу пазней.</string>
+  <string name="kg_dialog_apply_link_video_wallpaper_confirm_title">Ужыць тэму</string>
+  <string name="kg_dialog_apply_link_video_wallpaper_nagetive_button">Адмена</string>
+  <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Ужыць</string>
+  <string name="kg_dialog_apply_link_video_wallpaper_wallpaper_confirm">Цяпер вы выкарыстоўваеце набор шпалер. Калі прымяніць новую тэму, шпалеры экрана блакавання і працоўнага стала будуць заменены, а AOD будзе адноўлены да папярэдняга стылю. Ужыць у любым выпадку?</string>
+  <string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">Шпалеры іншых вытворцаў не падтрымліваюць замалёўкі</string>
+  <string name="kg_effects_not_support_gallery_tip">Немагчыма ўсталяваць эфекты пры выкарыстанні слайд-шоў шпалер</string>
+  <string name="mashup_sound">Прыродны мікс</string>
+  <string name="resource_alarm_default_with_brackets">Гук будзільніка (%1$s)</string>
+  <string name="resource_default_with_brackets">Мелодыя выкліку па змаўчанні (%1$s)</string>
+  <string name="resource_notification_default_with_brackets">Гук паведамлення (%1$s)</string>
+  <string name="resource_ringtone_default_with_brackets">Мелодыя выкліку (%1$s)</string>
+  <string name="ai_generate_add_latter">Дадайце новыя фатаграфіі, калі гэты працэс будзе завершаны.</string>
+  <string name="ai_generate_latter">Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="ai_generating_loading">Стварэнне</string>
+  <string name="ai_in_line_match">Сервер заняты</string>
+  <string name="ai_pic_unavailable_content">Пераканайцеся, што асноўная частка выявы выразная і не перакрытая</string>
+  <string name="ai_pic_unavailable_title">Выява не адпавядае патрабаванням для стварэння</string>
+  <string name="ai_wallpaper_inside_invitation_description_all">Гэтая функцыя выкарыстоўвае магчымасці вялікай мадэлі для стварэння дынамічных шпалер са статычных выяў. Націсніце \"Згодны\", каб паспрабаваць!</string>
 </resources>

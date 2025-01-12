@@ -2309,9 +2309,9 @@
   <string name="network_not_available">няма сеткі</string>
   <string name="no_net">Сетка зараз не знойдзена</string>
   <string name="no_url">Няправільны адрас прайгравання</string>
-  <string name="please_click_select">Калі ласка, пстрыкніце верхняе правае меню, каб выбраць файл</string>
-  <string name="please_select">Калі ласка, выберыце або ўсталюйце правільны файл</string>
-  <string name="select_file">Выберыце файл</string>
+  <string name="please_click_select">Калі ласка, нацiсніце на верхняе правае меню, каб выбраць файл</string>
+  <string name="please_select">Калі ласка, абярыце або ўсталюйце правільны файл</string>
+  <string name="select_file">Абярыце файл</string>
   <string name="sound">Гук</string>
   <string name="sound_off">Гук выключаны</string>
   <string name="sound_on">Гук уключаны</string>
@@ -2319,9 +2319,9 @@
   <string name="stop">Спыніць</string>
   <string name="swap">Пераключыць</string>
   <string name="tip_not_mp4_video">Гэта відэа не ў фармаце mp4, аперацыя перайсцi наперад не можа быць выканана</string>
-  <string name="tips_not_wifi">Вы зараз карыстаецеся мабільнай сеткай, і працяг гульні будзе спажываць трафік</string>
-  <string name="tips_not_wifi_cancel">Спыніць гульню</string>
-  <string name="tips_not_wifi_confirm">Працягнуць гульню</string>
+  <string name="tips_not_wifi">Вы зараз карыстаецеся мабільнай сеткай, і працяг прайгравання будзе спажываць трафік</string>
+  <string name="tips_not_wifi_cancel">Спыніць прайграванне</string>
+  <string name="tips_not_wifi_confirm">Працягнуць прайграванне</string>
   <string name="wrong_audio_format">Не аўдыяфайл</string>
   <string name="wrong_video_format">Не відэафайл</string>
 </resources>

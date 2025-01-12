@@ -694,4 +694,11 @@
   <string name="aon_video_left_right_support_scene_des">Рэгуляванне ходу відэа пры праглядзе ў альбомнай арыентацыі</string>
   <string name="aon_video_up_down_support_scene_des">Рэгуляванне гучнасці відэа</string>
   <string name="global_my">Мая прылада\n%1$s</string>
+  <string name="dialog_enable_mic_btn_negative">Адмена</string>
+  <string name="dialog_enable_mic_btn_positive">Уключыць</string>
+  <string name="dialog_enable_mic_message">Каб выкарыстоўваць гэтую функцыю, спачатку ўключыце мікрафон.</string>
+  <string name="dialog_enable_mic_title">Уключыце мікрафон</string>
+  <string name="projection_prevent_chain_start_toast">Немагчыма адкрыць запытаную праграму</string>
+  <string name="toast_mic_muted">Мікрафон выключаны</string>
+  <string name="toast_mic_unmuted">Мікрафон уключаны</string>
 </resources>

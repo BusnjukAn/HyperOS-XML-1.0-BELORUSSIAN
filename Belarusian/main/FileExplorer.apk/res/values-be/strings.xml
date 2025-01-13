@@ -1148,4 +1148,8 @@
   <string name="cloud_recently_deleted">Нядаўна выдаленыя</string>
   <string name="miuix_navigator_category_group_collapse">Згарнуць</string>
   <string name="miuix_navigator_category_group_expand">Разгарнуць</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_popup_window_default_title">Усплываючае акно</string>
+  <string name="text_input_layout_default_content_description">Апісанне кантэнту па змаўчанні</string>
+  <string name="text_input_layout_default_error">Памылка па змаўчанні</string>
 </resources>

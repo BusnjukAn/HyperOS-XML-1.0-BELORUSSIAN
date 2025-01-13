@@ -885,4 +885,7 @@ dd.MM"</string>
   <string name="status_bar_alarm_alert">Званок будзільніка</string>
   <string name="timer_pause_notification">Паўза</string>
   <string name="timer_running_notification">Таймер</string>
+  <string name="click_to_view_alarm">Націсніце, каб прагледзець будзільнік</string>
+  <string name="locked_show_arriving_alarm_summary">Адлюстроўваць на экране блакавання будзільнікі, якія зазвоняць на працягу %d гадзін</string>
+  <string name="locked_show_arriving_alarm_title">Паказваць будзільнікі на экране блакавання</string>
 </resources>

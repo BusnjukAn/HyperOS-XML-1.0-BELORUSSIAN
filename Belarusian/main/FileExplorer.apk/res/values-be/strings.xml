@@ -915,11 +915,11 @@
   <string name="action_cache_to_local">Спампаваць на прыладу</string>
   <string name="action_release_file_cache">Ачысціць кэш</string>
   <string name="cancel_mi_drive">Адмяніць паслугі Mi дыска</string>
-  <string name="cancel_mi_drive_alert_description" formatted="false">Выдаліце ўсе аб\'екты з Mi дыска, каб адмяніць паслугі. Выканайце наступныя дзеянні, каб выдаліць аб\'екты:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. На пачатковай старонцы Mi дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстоўвайце гэтую кнопку, каб выбраць да 200 файлаў за раз і выдаліць іх.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Пасля гэтага ачысціце нядаўна выдаленыя аб\'екты.</string>
+  <string name="cancel_mi_drive_alert_description" formatted="false">Выдаліце ​​ўсе аб\'екты з Mi дыска, каб адмяніць паслугі. Выканайце наступныя дзеянні для выдалення аб\'ектаў:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. На галоўнай старонцы Mi дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстоўвайце гэтую кнопку, каб выбраць да &lt;xliff:g id=delete_number refersto=200>%2d&lt;/xliff:g> файлаў, і выдаліце ​​іх. Калі колькасць файлаў больш &lt;xliff:g id=delete_max refersto=200>%3d&lt;/xliff:g>, паўтарыце працэс.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%4d&lt;/xliff:g>. Пасля выдалення ўсіх аб\'ектаў выдаліце ​​ўсе файлы з тэчкі «Нядаўна выдаленыя аб\'екты».</string>
   <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Мы рэкамендуем ствараць рэзервовыя копіі вашых аб\'ектаў перад іх выдаленнем. Для гэтага зайдзіце на i.mi.com, націсніце на Mi дыск і спампуйце свае аб\'екты на кампутар.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Звярніце ўвагу, што нядаўна выдаленыя аб\'екты не могуць быць адноўлены пасля іх выдалення.</string>
   <string name="cancel_mi_drive_confirm_button">Адмяніць паслугі</string>
   <string name="cancel_mi_drive_confirm_description">Калі вы працягнеце, вы адмяніце паслугі Mi дыска. Мы спынім збор вашай асабістай інфармацыі, а ўжо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу ўказанага перыяду ў адпаведнасці з дастасавальнымі законамі і правіламі, калі не патрабуецца іншае.</string>
-  <string name="cancel_mi_drive_confirm_hint">Адмена паслуг Mi дыска не паўплывае на выкарыстанне вамі іншых прадуктаў і паслуг Xiaomi. Калі вы хочаце выдаліць свой Xiaomi акаўнт, вы можаце зрабіць гэта &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;тут&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="cancel_mi_drive_confirm_hint">Адмена паслуг Mi дыска не паўплывае на выкарыстанне вамі іншых прадуктаў і паслуг Xiaomi. Калі вы хочаце выдаліць свой Xiaomi акаўнт, вы можаце зрабіць гэта &lt;font color=#0097FF>&lt;a href=%1$s>тут&lt;/a>&lt;/font>.</string>
   <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">Наступныя аб\'екты будуць выдаленыя назаўжды пасля адмены паслуг:&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Усе аб\'екты ў Mi дыску, уключаючы, апроч іншага, дакументы, асабістыя файлы і выдаленыя аб\'екты.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Дазволы прылады, налады і іншы кэшаваны кантэнт.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Гісторыя спамповак і запамповак Mi дыска.</string>
   <string name="cancel_mi_drive_privacy_revoked_retry">Уключыце Mi дыск і паспрабуйце зноў</string>
   <string name="cancel_mi_drive_success">Паслугі паспяхова адмененыя</string>
@@ -1021,7 +1021,7 @@
   <string name="permission_storage_title">Атрымаць доступ да сховішча прылады</string>
   <string name="permission_storage_title_pad">Доступ да сховішча прылады</string>
   <string name="pre_privacy_recall">Адкліканне згоды</string>
-  <string name="privacy_recall_alert_description" formatted="false">Выдаліце ўсе аб\'екты з Mi дыска, каб адклікаць згоду. Выканайце наступныя дзеянні, каб выдаліць аб\'екты:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. На пачатковай старонцы Mi дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстоўвайце гэтую кнопку, каб выбраць да 200 файлаў за раз і выдаліць іх.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Пасля гэтага ачысціце нядаўна выдаленыя аб\'екты.</string>
+  <string name="privacy_recall_alert_description" formatted="false">Выдаліце ​​ўсе аб\'екты з Mi дыска, каб адклікаць згоду з Палітыкай прыватнасці. Выканайце наступныя дзеянні для выдалення аб\'ектаў:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. На галоўнай старонцы Mi дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстайце гэтую кнопку, каб выбраць да&lt;xliff:g id=delete_number refersto=200>%2d&lt;/xliff:g> файлаў, і выдаліце ​​іх. Калі колькасць файлаў перавышае &lt;xliff:g id=delete_max refersto=200>%3d&lt;/xliff:g>, паўтарыце гэты працэс.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%4d&lt;/xliff:g>. Пасля гэтага ачысціце тэчку «Нядаўна выдаленыя аб\'екты».</string>
   <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Мы рэкамендуем ствараць рэзервовыя копіі вашых аб\'ектаў перад іх выдаленнем. Для гэтага зайдзіце на i.mi.com, націсніце на Mi дыск і спампуйце свае аб\'екты на кампутар.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Звярніце ўвагу, што нядаўна выдаленыя аб\'екты не могуць быць адноўлены пасля іх выдалення.</string>
   <string name="privacy_recall_confirm_button">Адклікаць</string>
   <string name="privacy_recall_confirm_description">Калі вы працягнеце, вы адклікаеце сваю згоду з Палітыкай канфідэнцыйнасці Правадыра. Мы перастанем збіраць вашу асабістую інфармацыю. Асабістая інфармацыя, якая ўжо сабрана і захавана, будзе выдаленая на працягу пэўнага перыяду ў адпаведнасці з дастасавальнымі законамі і нарматыўнымі актамі, калі не патрабуецца іншае.</string>
@@ -1120,22 +1120,22 @@
   <string name="file_cloud_guide_message_permissions">Гэтая праграма можа запытваць наступныя дазволы: доступ да аб\'ектаў і іх даданне ў сховішча прылады, доступ да спісу праграм, усталяваных на прыладзе, і адпраўка апавяшчэнняў. Вы можаце змяніць дазволы ў любы час у Наладах.</string>
   <string name="file_cloud_parse_download_success">Захавана</string>
   <string name="file_cloud_parse_title">Анлайн-файлы</string>
-  <string name="file_cloud_parsing">Аналіз файла…</string>
+  <string name="file_cloud_parsing">Выконваецца воблачная апрацоўка…</string>
   <string name="file_cloud_process_file_Size">"Памер: "</string>
   <string name="file_cloud_process_message">У залежнасці ад памеру файла гэта можа заняць некалькі хвілін. Вы можаце адмяніць працэс або націснуць «Пачакаць», каб ён завяршыўся ў фонавым рэжыме.</string>
   <string name="file_cloud_processing">Апрацоўка…</string>
   <string name="file_cloud_setting">Налады файла</string>
   <string name="file_cloud_setting_item_view_message">Праглядайце файлы iWork, Xmind і *.psd онлайн</string>
   <string name="file_cloud_setting_item_view_title">Анлайн-файлы</string>
-  <string name="file_parse_fail">Не ўдалося прааналізаваць файл</string>
+  <string name="file_parse_fail">Не атрымалася завяршыць воблачную апрацоўку</string>
   <string name="file_parse_loading">Выконваецца транскадаванне. Гэта можа заняць хвіліну.</string>
   <string name="file_parse_outpace_1gb">Памер гэтага файла перавышае %1$d Гб, і яго нельга прагледзець у гэтай праграме. Вы можаце адкрыць яго з дапамогай іншай праграмы.</string>
   <string name="file_parse_outpace_1mb">Памер гэтага файла перавышае %1$d Мб, і яго нельга прагледзець у гэтай праграме. Вы можаце адкрыць яго з дапамогай іншай праграмы.</string>
   <string name="menu_cloud_view_project">Трансляцыя</string>
   <string name="menu_cloud_view_share">Падзяліцца</string>
   <string name="menu_cloud_view_stamp">Друк</string>
-  <string name="notification_fail">Не атрымалася апрацаваць</string>
-  <string name="notification_success">Паспяхова апрацавана</string>
+  <string name="notification_fail">Не атрымалася завяршыць воблачную апрацоўку</string>
+  <string name="notification_success">Воблачная апрацоўка завершана</string>
   <string name="operation_too_fast_again_later">Не так хутка! Паспрабуйце яшчэ раз праз адну–дзве хвіліны.</string>
   <string name="server_exception_busy">Сервер заняты. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
   <string name="ai_search_progress">Аналіз файлаў… (%s)</string>
@@ -1152,4 +1152,10 @@
   <string name="miuix_popup_window_default_title">Усплываючае акно</string>
   <string name="text_input_layout_default_content_description">Апісанне кантэнту па змаўчанні</string>
   <string name="text_input_layout_default_error">Памылка па змаўчанні</string>
+  <string name="ai_search_building_database">Аналіз файлаў для атрымання больш дакладных вынікаў…</string>
+  <string name="ai_search_building_database_pause">Файлы будуць аналізавацца на вашай прыладзе, каб даць больш дакладныя вынікі</string>
+  <string name="operation_check_cloud_space">Прагляд</string>
+  <string name="operation_delete_cloud_upload_record">Адмяніць</string>
+  <string name="operation_upload_err_full_manage_space">Воблачнае сховішча запоўнена. Абнавіце тарыфны план захоўвання або выдаліце ​​непатрэбныя аб\'екты. Націсніце «Прагляд», каб прагледзець сваё воблачнае сховішча або кіраваць ім, або «Адмяніць», каб выдаліць гэтую задачу спампоўкі.</string>
+  <string name="otg_data_safely_exiting">Хвілінку…</string>
 </resources>

@@ -1020,4 +1020,12 @@
         <item quantity="other">Пошук %d праграм</item>
         <item quantity="one">Пошук %d праграмы</item>
     </plurals>
+    <plurals name="screen_timeout_summary_minute">
+        <item quantity="other">Пасля %d хв. бяздзейнасці</item>
+        <item quantity="one">Пасля %d хв. бяздзейнасці</item>
+    </plurals>
+    <plurals name="screen_timeout_summary_second">
+        <item quantity="other">Пасля %d сек. бяздзейнасці</item>
+        <item quantity="one">Пасля %d сек. бяздзейнасці</item>
+    </plurals>
 </resources>

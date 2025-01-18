@@ -672,7 +672,7 @@
   <string name="enable_esim_dialog_title">Уключыць eSIM</string>
   <string name="enable_esim_error_toast_message">"Немагчыма ўключыць eSIM"</string>
   <string name="enable_esim_progress_activating_message">Уключэнне eSIM…</string>
-  <string name="enable_esim_summary">Адключыць SIM %s пасля ўключэння</string>
+  <string name="enable_esim_summary">eSIM заменіць SIM %s</string>
   <string name="enable_esim_title">Уключыць eSIM</string>
   <string name="enable_fdn">Уключыць фіксаваны набор</string>
   <string name="enable_fdn_ok">Адключыць фіксаваны набор</string>

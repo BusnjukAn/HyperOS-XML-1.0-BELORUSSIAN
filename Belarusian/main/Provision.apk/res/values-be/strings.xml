@@ -891,4 +891,6 @@
   <string name="terms_of_use_label_use_network_china_append">Калі ваша прылада актывавана, да сеткі падлучаюцца наступныя службы:</string>
   <string name="title_fingers_and_faces">Усталяваць адбітак пальца і дадзеныя твару</string>
   <string name="title_only_fingerprint">Усталяваць адбітак пальца</string>
+  <string name="get_audio_and_video_information_settings">Доступ да фатаграфій, відэа і аўдыё, якія захоўваюцца на прыладзе</string>
+  <string name="permission_get_audio_and_video_summary_settings">Для налады фатаграфій профілю і прадпрагляду мелодый выкліку (уключаючы Налады)</string>
 </resources>

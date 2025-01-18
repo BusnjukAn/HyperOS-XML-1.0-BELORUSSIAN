@@ -1824,4 +1824,26 @@
   <string name="sim_copy_to_phone_memory_translation_for_pad">Капіяваць у памяць прылады</string>
   <string name="url_fraud_dangerous_alert_translation_for_pad">Вэб-сайт, які вы спрабуеце наведаць, можа быць небяспечным. Гэта можа пашкодзіць вашу прыладу і дадзеныя. Усё роўна наведаць?\n%s</string>
   <string name="vital_signs_toast_exception">Немагчыма атрымаць дадзеныя аб жыццёва важных паказчыках</string>
+  <string name="beidou_cannot_receive_airmode">Адключыце рэжым палёту, каб атрымліваць паведамленні</string>
+  <string name="beidou_cannot_send_mms">"Спадарожнікавая сувязь BeiDou не падтрымлівае MMS"</string>
+  <string name="beidou_cannot_use">Адключыце спадарожнікавую сувязь Tiantong і паспрабуйце яшчэ раз</string>
+  <string name="beidou_exceed_send_limit">"У гэтым месяцы больш паведамленняў адпраўляць нельга"</string>
+  <string name="beidou_exceed_words_limit">Выдаліце ​​некалькі сімвалаў, каб мець магчымасць адпраўляць</string>
+  <string name="beidou_from_contacts">Адказаць ад %s</string>
+  <string name="beidou_identification_fail_receive">"Не атрымалася аўтэнтыфікавацца. Немагчыма атрымліваць паведамленні праз BeiDou."</string>
+  <string name="beidou_identification_fail_send">"Не атрымалася аўтэнтыфікавацца. Немагчыма адпраўляць паведамленні праз BeiDou."</string>
+  <string name="beidou_introduce">Даведайцеся больш пра спадарожнікавую сувязь BeiDou</string>
+  <string name="beidou_location_failed">"Немагчыма атрымаць месцазнаходжанне. Выйдзіце на адкрытую прастору і паспрабуйце яшчэ раз."</string>
+  <string name="beidou_max_support_contact_number">Дадайце да %d кантактаў</string>
+  <string name="beidou_message">Спадарожнікавыя паведамленні BeiDou</string>
+  <string name="beidou_new_message">Адправіць</string>
+  <string name="beidou_open_location_service">Спадарожнікавым паведамленням BeiDou неабходны дазвол на доступ да вашага месцазнаходжання для нармальнай працы.</string>
+  <string name="beidou_query_remain_time">Праверыць баланс</string>
+  <string name="beidou_query_remain_time_failed">"Немагчыма праверыць баланс"</string>
+  <string name="beidou_receive_message">Атрымаць</string>
+  <string name="beidou_satellite_sms_notification">Гэтае паведамленне было адпраўлена праз спадарожнікавую сувязь BeiDou</string>
+  <string name="beidou_sim_not_support">"SIM-карта не падтрымлівае спадарожнікавую сувязь BeiDou"</string>
+  <string name="beidou_to_contacts">Атрымальнік: %s</string>
+  <string name="progress_start_tips">Аналіз паведамленняў для больш дакладных вынікаў…</string>
+  <string name="progress_stop_tips">Паведамленні будуць прааналізаваны на вашай прыладзе для прадастаўлення больш дакладных вынікаў</string>
 </resources>

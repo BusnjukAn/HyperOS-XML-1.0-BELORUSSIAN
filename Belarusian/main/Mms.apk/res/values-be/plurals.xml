@@ -235,4 +235,17 @@
         <item quantity="other">Частата пульсу: %1$d вуд/хв. (%2$s)</item>
         <item quantity="one">Частата пульсу: %1$d вуд/хв. (%2$s)</item>
     </plurals>
+    <plurals name="beidou_receive_remain_time">
+        <item quantity="other">Вы можаце атрымаць яшчэ адно паведамленне праз %d сек.</item>
+        <item quantity="one">Вы можаце атрымаць яшчэ адно паведамленне праз %d сек.</item>
+    </plurals>
+    <plurals name="beidou_remain_times">
+        <item quantity="other">" (засталося %d паведамленняў)"</item>
+        <item quantity="one">" (засталося %d паведамленне)"</item>
+        <item quantity="few">" (засталося %d паведамлення)"</item>
+    </plurals>
+    <plurals name="beidou_send_remain_time">
+        <item quantity="other">Вы можаце даслаць яшчэ адно паведамленне праз %d сек.</item>
+        <item quantity="one">Вы можаце даслаць яшчэ адно паведамленне праз %d сек.</item>
+    </plurals>
 </resources>

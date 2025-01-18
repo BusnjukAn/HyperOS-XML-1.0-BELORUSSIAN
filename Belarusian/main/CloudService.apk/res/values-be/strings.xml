@@ -1158,4 +1158,13 @@
   <string name="find_device_status_summary_without_offline_find">Уключыце, каб знайсці і адсачыць сваю прыладу або выдаліць яе дадзеныя выдалена</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone_without_offline_find">Вы можаце выкарыстоўваць функцыю \"Пошук прылады\", каб знайсці, заблакаваць або выдаліць дадзеныя на сваёй прыладзе, калі яна згубілася.</string>
   <string name="privacy_dialog_finddevice_all_purpose_pad_without_offline_find">Вы можаце выкарыстоўваць функцыю \"Пошук прылады\", каб знайсці, заблакаваць або выдаліць дадзеныя на сваёй прыладзе, калі яна згубілася.</string>
+  <string name="cloud_storage_full_international_upgrade_default_text">Недастаткова месца для захоўвання. Сінхранізацыя з воблакам прыпыненая.</string>
+  <string name="cloud_storage_international_almost_full_upgrade_text">Сховішча запоўнена. Сінхранізацыя з воблакам прыпыненая.</string>
+  <string name="jump_market_dialog_btn_cancel">Адмена</string>
+  <string name="jump_market_dialog_btn_open">Адкрыць</string>
+  <string name="jump_market_dialog_message">Гэтая функцыя не падтрымліваецца сістэмнай структурай. Вы можаце абнавіць яе ў GetApps. Адкрыць GetApps зараз?</string>
+  <string name="jump_market_dialog_title">Увага</string>
+  <string name="progress_notification_downloaded">Загрузка завершана</string>
+  <string name="progress_notification_downloading">Прагрэс: %d%%</string>
+  <string name="progress_notification_name">Загрузка плагіна</string>
 </resources>

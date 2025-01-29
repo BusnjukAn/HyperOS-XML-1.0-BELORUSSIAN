@@ -1173,7 +1173,7 @@
   <string name="layout_upgrade_toast_message">Ваш выгляд працоўнага стала абноўлены новым дынамічным алгарытмам. Радкі і слупкі на працоўным стале былі адкарэктаваныя, каб стварыць больш гнуткую прастору і палепшанае адлюстраванне элементаў.</string>
   <string name="layout_upgrade_toast_title">Выгляд працоўнага стала абноўлены</string>
   <string name="new_folder_picker_sliding_button_tab_text">Сартаваць праграмы аўтаматычна</string>
-  <string name="talkback_systemaction_item_cts">Круг для пошуку</string>
+  <string name="talkback_systemaction_item_cts">Абвесці для пошуку</string>
   <string name="bottomsheet_action_collapse">Згарнуць ніжні аркуш</string>
   <string name="bottomsheet_action_expand">Разгарнуць ніжні аркуш</string>
   <string name="bottomsheet_drag_handle_clicked">Маркер перацягвання націснуты двойчы</string>
@@ -1222,8 +1222,8 @@
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
   <string name="xiaomi_update_sdk_update_dialog_cancel">Не зараз</string>
   <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
-  <string name="navigation_guide_circle_search_summary">Націсніце і ўтрымлівайце поўнаэкранны індыкатар, каб выкарыстоўваць \"Круг для пошуку\"</string>
-  <string name="navigation_guide_circle_search_title">Круг для пошуку</string>
+  <string name="navigation_guide_circle_search_summary">Націсніце і ўтрымлівайце поўнаэкранны індыкатар, каб выкарыстоўваць \"Абвесці для пошуку\"</string>
+  <string name="navigation_guide_circle_search_title">Абвесці для пошуку</string>
   <string name="miui_widget_menu_replace_text_new">Замяніць</string>
   <string name="shortcut_menu_add_widget">Дадаць віджэт</string>
   <string name="system_shortcuts_size_adapt">Наладзіць памер</string>

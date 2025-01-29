@@ -1234,7 +1234,7 @@
   <string name="bottom_bar_smallwindow_text">Адпусціце, каб замацаваць</string>
   <string name="bubble_app_empty_page">Немагчыма знайсці праграмы, якія падтрымліваюць бурбалкі для размоў на гэтай прыладзе</string>
   <string name="bubble_app_manage">Кіраванне бурбалкамі размоў</string>
-  <string name="bubble_notification">Бубалкі размоў</string>
+  <string name="bubble_notification">Бурбалкі размоў</string>
   <string name="bubble_notification_switch">Паказваць бурбалкі размовы</string>
   <string name="bubble_notification_switch_desc">Калі праграма абмену паведамленнямі ў плаваючым акне схавана на краі экрана, паказваць ўваходныя паведамленні ў бурбалках</string>
   <string name="contentDescription">Перамяшчэнне акна</string>
@@ -1375,7 +1375,7 @@
   <string name="how_to_split_screen_combination">Камбінацыя падзеленага экрана</string>
   <string name="how_to_split_screen_combination_summary_pad">Стварэнне цэтлiкаў для камбінацый падзеленага экрана з дапамогай панэлі праграм</string>
   <string name="how_to_use_freeform">Выкарыстанне плаваючых вокнаў</string>
-  <string name="miui_bubbles_notification">Бубалкі размоў</string>
+  <string name="miui_bubbles_notification">Бурбалкі размоў</string>
   <string name="miui_bubbles_notification_status_opened">Укл.</string>
   <string name="miui_desktop_mode_settings">Працоўная станцыя</string>
   <string name="miui_desktop_mode_settings_title">Працоўная станцыя</string>

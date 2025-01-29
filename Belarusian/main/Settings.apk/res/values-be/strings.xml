@@ -11588,7 +11588,7 @@
   <string name="outdoor_mode">Рэжым \"На вуліцы\"</string>
   <string name="outdoor_mode_summary">Уключыце, каб павялічыць яркасць дысплея. Ваша прылада будзе награвацца і спажываць больш энергіі.</string>
   <string name="long_press_editor_style_summary">Націсніце і ўтрымлівайце экран блакавання, каб змяніць гадзіннiк і шпалеры</string>
-  <string name="long_press_editor_style_title">Націсніце і ўтрымлівайце для змены</string>
+  <string name="long_press_editor_style_title">Націснуць і ўтрымліваць для змены</string>
   <string name="cooler_reset">Націсніце %d раз для спалучэння</string>
   <string name="guest_name_category_title">Госці</string>
   <string name="net_slicing_switch_summary">Выкарыстанне мультыплексавання сетак у адной інфраструктуры для адладкі (даступнае, калі прадастаўляецца вашым аператарам)</string>
@@ -12127,7 +12127,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="photography_handle_charge_state_summary_new">Пачаць зарадку гэтай прылады ад ручкі камеры пасля падлучэння</string>
   <string name="photography_handle_emergency_charge_summary">Пачаць экстраную зарадку, калі зарад батарэі апусціцца ніжэй за %1$s</string>
   <string name="photography_handle_emergency_charge_title">Узровень экстранай зарадкі</string>
-  <string name="circle_to_search_title">Круг для пошуку</string>
+  <string name="circle_to_search_title">Абвесці для пошуку</string>
   <string name="gemini_description">Майце зносіны з Gemini, каб атрымаць цудоўныя ідэі. Атрымлівайце дапамогу ў навучанні новымі спосабамі, напісанні падзячных лістоў, планаванні мерапрыемстваў і многім іншым. Выкарыстоўвайце тэкст, голас, фатаграфіі і камеру, каб атрымаць дапамогу новымі спосабамі. <a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the-gemini-app-from-the-google-play-store">Даведайцеся аб даступнасці.</a></string>
   <string name="gemini_function">Паляпшайце свае ідэі з дапамогай Google Gemini, вашага новага памочніка на аснове штучнага інтэлекту</string>
   <string name="gemini_setting">Налада Gemini</string>

@@ -11772,7 +11772,7 @@
   <string name="reset_private_space_delete_title">Выдаліць асабістую прастору</string>
   <string name="searchview_clear_text_content_description">Ачысціць тэкст</string>
   <string name="searchview_navigation_content_description">Назад</string>
-  <string name="securitycenter_sidebar_box">Баковая панэль інструментаў</string>
+  <string name="securitycenter_sidebar_box">Бакавая панэль інструментаў</string>
   <string name="server_name_title">Імя сервера</string>
   <string name="settingslib_category_private">Асабістае</string>
   <string name="sim_action_restart_dialog_cancel">Выкарыстоўваць толькі %1$s</string>

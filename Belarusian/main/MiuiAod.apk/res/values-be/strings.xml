@@ -879,4 +879,13 @@
   <string name="kg_depth_preset_dialog_title">Спампаваць дынамічныя шпалеры</string>
   <string name="kg_doodle_text_not_support_clock_tip">Немагчыма выкарыстоўваць замалёўкі пры выкарыстанні гэтага гадзіннiка</string>
   <string name="kg_exit">Выхад</string>
+  <string name="kg_live_photo_land_tips">Гарызантальныя жывыя фота можна ўсталяваць толькі як статычныя фота</string>
+  <string name="kg_wallpaper_blur_effect">Размыццё шпалер</string>
+  <string name="kg_wallpaper_scroll_type_disable_tips">Немагчыма ўключыць пракрутку для гэтых шпалер</string>
+  <string name="kg_wallpaper_scroll_type_tips">Пракрутка шпалер</string>
+  <string name="miui_clock_os2_pad_exclusive_b_air_quality">ІЯП</string>
+  <string name="miui_clock_os2_pad_exclusive_b_ultraviolet_radiation">УФІ</string>
+  <string name="kg_dialog_apply_super_wallpaper_negative_button">Адмена</string>
+  <string name="miui_eastern_art_b_data_view_format">d.M</string>
+  <string name="miui_eastern_art_b_week_view_format">EEE</string>
 </resources>

@@ -1169,4 +1169,9 @@
   <string name="sst_my_wallpaper_title">Мае шпалеры</string>
   <string name="add_to_my_wallpaper_success_toast">Дададзена ў \"Мае шпалеры\"</string>
   <string name="sst_no_wallpaper">Тут пакуль нічога няма</string>
+  <string name="lks_cta_summary1_new">Гэта праграма прадастаўляе шырокі выбар рэкамендуемых шпалер, якія ахопліваюць такія тэмы, як падарожжа, хатнія жывёлы, ежа, мастацтва і многае іншае.</string>
+  <string name="lks_cta_summary2_new">Для прадастаўлення паслуг Каруселі шпалер неабходна падлучэнне да Інтэрнэту. Перш чым працягнуць, прачытайце і прыміце &lt;font color =\'#0D84FF\'&gt;&lt;a href=\'%1$s\'&gt;Пагадненне карыстальніка&lt;/font&gt;&lt;/a&gt; і &lt;font color =\'#0D84FF\'&gt;&lt;a href=\'%2$s\'&gt;Палiтыку прыватнасці&lt;/font&gt;&lt;/a&gt;.</string>
+  <string name="left_lks_see_more">Прагледзець</string>
+  <string name="left_lks_subscribe">Прадзаказ</string>
+  <string name="left_lks_unlocked_download_tip">%s будзе загружана, калі вы разблакуеце сваю прыладу. Вы можаце адмяніць гэта дзеянне ў панэлі апавяшчэнняў.</string>
 </resources>

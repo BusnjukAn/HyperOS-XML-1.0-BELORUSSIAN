@@ -1813,4 +1813,22 @@
         <item quantity="other">Батарэя прылады разраджана. Пераход у рэжым гібернацыі праз %1$d сек. Прадукцыйнасць і ўзровень сігналу могуць крыху знізіцца.</item>
         <item quantity="one">Батарэя прылады разраджана. Пераход у рэжым гібернацыі праз %1$d сек. Прадукцыйнасць і ўзровень сігналу могуць крыху знізіцца.</item>
     </plurals>
+    <plurals name="mark_call_intercept_threshold_dialog_title">
+        <item quantity="other">Парог: %d</item>
+        <item quantity="one">Парог: %d</item>
+    </plurals>
+    <plurals name="storage_fbo_btn_result_time">
+        <item quantity="other">Засталося %1$d хв.</item>
+        <item quantity="one">Засталося %1$d хв.</item>
+    </plurals>
+    <plurals name="storage_fbo_finish_tip">
+        <item quantity="other">Завершана дэфрагментацыя. Арганізавана %1$d фрагментаў.</item>
+        <item quantity="one">Завершана дэфрагментацыя. Арганізаваны %1$d фрагмент.</item>
+        <item quantity="few">Завершана дэфрагментацыя. Арганізавана %1$d фрагмента.</item>
+    </plurals>
+    <plurals name="storage_fbo_notification_finish_content">
+        <item quantity="other">Арганізавана %1$d фрагментаў</item>
+        <item quantity="one">Арганізаваны %1$d фрагмент</item>
+        <item quantity="few">Арганізавана %1$d фрагмента</item>
+    </plurals>
 </resources>

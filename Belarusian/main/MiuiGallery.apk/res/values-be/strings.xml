@@ -884,7 +884,7 @@
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">Гб</string>
   <string name="grant_permission_go_and_set">Усталяваць</string>
-  <string name="grant_permission_text">Для звычайнай працы Галерэі патрэбны доступ да \n%s\n, націсніце \"Наладзіць\", каб перайсці да дазволаў.</string>
+  <string name="grant_permission_text">Дазвольце Галерэі доступ да ўсіх фота і відэа на вашай прыладзе. Вы можаце прадаставіць гэты дазвол у Наладах.</string>
   <string name="grant_permission_title">Дазволіць доступ</string>
   <string name="grant_permission_unlock_and_set">Разблакаваць</string>
   <string name="has_invalid_recipient">Недапушчальныя атрымальнікі: %1$s</string>

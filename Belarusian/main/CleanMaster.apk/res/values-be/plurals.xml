@@ -127,9 +127,10 @@
         <item quantity="many">Не запускалася %d гадоў</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="one">%d праграма доўга не запускалася, звярніце ўвагу.</item>
-        <item quantity="few">%d праграмы доўга не запускалася, звярніце ўвагу.</item>
-        <item quantity="many">%d праграм доўга не запускалася, звярніце ўвагу.</item>
+        <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> праграм доўга не запускаліся, звярніце ўвагу.&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> праграма доўга не запускалася, звярніце ўвагу.&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> праграмы доўга не запускаліся, звярніце ўвагу.&lt;/Data></item>
+        <item quantity="many">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> праграм доўга не запускаліся, звярніце ўвагу.&lt;/Data></item>
     </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="one">"Ачыстка %1$d файла (%2$d%%)
@@ -204,9 +205,10 @@
     <item quantity="one">Знойдзен %d вялікі файл</item>
   </plurals>
   <plurals name="dc_item_summary_uninstall_app">
-    <item quantity="other">Знойдзена %d рэдка выкарыстоўваемых праграм</item>
-    <item quantity="few">Знойдзена %d рэдка выкарыстоўваемых праграмы</item>
-    <item quantity="one">Знойдзена %d рэдка выкарыстоўваемая праграма</item>
+        <item quantity="other">&lt;Data>Знойдзены &lt;font color=#0097FF>%d&lt;/font> праграм&lt;/Data></item>
+        <item quantity="one">&lt;Data>Знойдзена &lt;font color=#0097FF>%d&lt;/font> праграма&lt;/Data></item>
+        <item quantity="few">&lt;Data>Знойдзены &lt;font color=#0097FF>%d&lt;/font> праграмы&lt;/Data></item>
+        <item quantity="many">&lt;Data>Знойдзены &lt;font color=#0097FF>%d&lt;/font> праграм&lt;/Data></item>
   </plurals>
   <plurals name="dc_item_summary_video">
     <item quantity="other">Знойдзена %d відэа</item>
@@ -417,8 +419,8 @@
         <item quantity="one">%d набор</item>
     </plurals>
     <plurals name="repeated_file_compression_dc_subtitle">
-        <item quantity="other"><Data>&lt;font color=#0097FF>%d&lt;/font> набораў дублікатаў файлаў</Data></item>
-        <item quantity="few"><Data>&lt;font color=#0097FF>%d&lt;/font> набору дублікатаў файлаў</Data></item>
-        <item quantity="one"><Data>&lt;font color=#0097FF>%d&lt;/font> набор дублікатаў файлаў</Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> набораў дублікатаў файлаў&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> набору дублікатаў файлаў&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> набор дублікатаў файлаў&lt;/Data></item>
     </plurals>
 </resources>

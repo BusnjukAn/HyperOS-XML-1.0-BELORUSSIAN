@@ -916,8 +916,8 @@
   <string name="powerful_acceleration_notification_summary">Націсніце, каб вызваліць больш месца</string>
   <string name="powerful_acceleration_notification_title">Дэфрагментацыя завершана</string>
   <string name="powerful_acceleration_tip">Унутраная памяць схільная фрагментацыі, што можа значна запаволіць працу вашай прылады. Дэфрагментацыя фізічна разбівае вашыя файлы на найменшую колькасць фрагментаў, памяншаючы затрымку.</string>
-  <string name="powerful_acceleration_tip_high"><Data>Ваша сховішча &lt;font color=#ff0000 >моцна&lt;/font> фрагментаванае. Дэфрагментацыя можа вырашыць праблему.</Data></string>
-  <string name="powerful_acceleration_tip_middle"><Data>Ваша сховішча &lt;font color=#ff0000 >злёгку&lt;/font> фрагментаванае. Дэфрагментацыя можа вырашыць праблему.</Data></string>
+  <string name="powerful_acceleration_tip_high">&lt;Data>Ваша сховішча &lt;font color=#ff0000 >моцна&lt;/font> фрагментаванае. Дэфрагментацыя можа вырашыць праблему.&lt;/Data></string>
+  <string name="powerful_acceleration_tip_middle">&lt;Data>Ваша сховішча &lt;font color=#ff0000 >злёгку&lt;/font> фрагментаванае. Дэфрагментацыя можа вырашыць праблему.&lt;/Data></string>
   <string name="powerful_acceleration_toast">Дэфрагментацыя будзе выконвацца тады, калі вы не выкарыстоўваеце прыладу</string>
   <string name="rs_clean_size_free_space">Вызваліць %s</string>
   <string name="rs_clean_size_storage_size">Занята %1$s/%2$s</string>
@@ -1293,7 +1293,7 @@
   <string name="other_file">Іншыя элементы</string>
   <string name="other_file_compression">Іншыя элементы</string>
   <string name="repeated_file_compression">Сціскаць паўтаральныя файлы</string>
-  <string name="repeated_file_compression_result_subtitle"><Data>Сціснуць ≈&lt;font color=#F22424>%s&lt;/font> файлаў і працягваць праглядаць іх як звычайна</Data></string>
+  <string name="repeated_file_compression_result_subtitle">&lt;Data>Сціснуць ≈&lt;font color=#F22424>%s&lt;/font> файлаў і працягваць праглядаць іх як звычайна&lt;/Data></string>
   <string name="stop_compression">Спыніць</string>
   <string name="stop_compression_tips">Спыніць сціск файлаў? Элементы, якія ўжо былі сціснутыя, будуць захаваны.</string>
   <string name="to_compress">Сціснуць</string>
@@ -1339,4 +1339,5 @@
   <string name="notifications_permission_title">Дазволіць праграме адпраўляць вам паведамленні?</string>
   <string name="offline_dialog_image_description">Значок</string>
   <string name="offline_dialog_text">Дзякуй за праяўлены інтарэс!\nМы абагулім з вамі больш інфармацыі, калі вы зноў падключыцеся да інтэрнэту.</string>
+  <string name="pref_title_engine">Вызначэнні сканавання</string>
 </resources>

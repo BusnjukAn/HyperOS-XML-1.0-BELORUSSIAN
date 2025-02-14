@@ -584,7 +584,7 @@
   <string name="privacy_policy">Палітыка прыватнасці</string>
   <string name="privacy_policy_reject_confirm_msg">Вы не зможаце працягваць выкарыстоўваць Воблака Xiaomi, калі не пагодзіцеся з новай версіяй яго &lt;a href=%1$s>&lt;u>Палітыкі прыватнасці&lt;/u>&lt;/a>. Згодны з абноўленай Палітыкай прыватнасці?</string>
   <string name="privacy_policy_reject_confirm_title">Увага</string>
-  <string name="privacy_policy_revoked_msg">Згода на Палітыку прыватнасці Воблака Xiaomi была адклікана для гэтага ўліковага запісу. Паспрабуйце выкарыстоўваць іншы уліковы запіс.</string>
+  <string name="privacy_policy_revoked_msg">Вы адклікалі сваю згоду з Палітыкай прыватнасці Воблака Xiaomi, і ўсе вашы дадзеныя, якія захоўваюцца ў воблаку, былі ачышчаны. Пераключыцеся на іншы ўліковы запіс, каб выкарыстоўваць гэтую службу.</string>
   <string name="privacy_policy_update_msg">Палітыка прыватнасці Воблака Xiaomi абноўлена:&lt;br/>%1$s&lt;br/>Прачытайце і прыміце новую версію &lt;a href=%2$s>&lt;u>Палітыкі прыватнасці&lt;/u>&lt;/a>, перш чым працягнуць.</string>
   <string name="privacy_policy_update_title">Абноўленая палітыка прыватнасці</string>
   <string name="privacy_runtime_perm_calendar_desc">Для сінхранізацыі падзей календара</string>
@@ -1167,4 +1167,9 @@
   <string name="progress_notification_downloaded">Загрузка завершана</string>
   <string name="progress_notification_downloading">Прагрэс: %d%%</string>
   <string name="progress_notification_name">Загрузка плагіна</string>
+  <string name="gallery_auto_sync_fail_international_noti_content">Недастаткова месца для захоўвання ў воблаку</string>
+  <string name="manual_activation">Актываваць паўторна</string>
+  <string name="micloud_manual_cloud_storage_full_international_summary">Немагчыма сінхранізаваць фатаграфіі, кантакты і іншыя элементы.</string>
+  <string name="privacy_policy_revoked_btn_msg">Зразумела</string>
+  <string name="privacy_policy_revoked_msg_contains_manual_activation">Вы адклікалі сваю згоду з Палітыкай прыватнасці Воблака Xiaomi, і ўсе вашы дадзеныя, якія захоўваюцца ў воблаку, былі ачышчаны. Каб зноў выкарыстаць гэтую службу, пагадзіцеся з Палітыкай прыватнасці на сайце i.mi.com. У мэтах бяспекі вы можаце актываваць уліковы запіс толькі адзін раз у дзень.</string>
 </resources>

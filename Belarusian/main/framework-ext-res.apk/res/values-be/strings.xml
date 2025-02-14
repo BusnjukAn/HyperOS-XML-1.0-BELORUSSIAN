@@ -701,4 +701,5 @@
   <string name="projection_prevent_chain_start_toast">Немагчыма адкрыць запытаную праграму</string>
   <string name="toast_mic_muted">Мікрафон выключаны</string>
   <string name="toast_mic_unmuted">Мікрафон уключаны</string>
+  <string name="wallpaper_group_pets_title">Хатнія жывёлы</string>
 </resources>

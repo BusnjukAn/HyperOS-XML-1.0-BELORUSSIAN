@@ -1704,4 +1704,5 @@
   <string name="apply_auto_insert_ai_event_button">Уключыць</string>
   <string name="auto_insert_ai_event_toast">ШІ-памочнік па падзеях уключаны</string>
   <string name="setting_auto_insert">ШІ-памочнік па падзеях</string>
+  <string name="count_down_holiday">Зваротны адлік да свят</string>
 </resources>

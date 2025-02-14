@@ -2408,4 +2408,6 @@
   <string name="satellite_state_occlusion_prompt">Пазбягайце будынкаў і дрэў, якія могуць блакаваць сігнал</string>
   <string name="satellite_state_retry">Працягваць спрабаваць</string>
   <string name="satellite_state_voice_reg_fail_exit">Выхад</string>
+  <string name="enable_2g_summary_eu">Выкарыстоўваць сотавыя злучэнні 2G. Для экстраных выклікаў 2G заўсёды ўключаны.</string>
+  <string name="enable_2g_title_eu">Дазволіць 2G</string>
 </resources>

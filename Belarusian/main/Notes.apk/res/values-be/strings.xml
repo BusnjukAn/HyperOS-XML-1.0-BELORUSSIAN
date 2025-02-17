@@ -1275,4 +1275,13 @@
   <string name="image_action_copy">Капіяваць выяву</string>
   <string name="ai_search_database_building_progress">Аналіз нататак для атрымання больш дакладных вынікаў…</string>
   <string name="new_ai_search_database_building_pause">Нататкі будуць аналізавацца на вашай прыладзе, каб прадаставіць больш дакладныя вынікі</string>
+  <string name="ai_local_device_low_battery_title">Нізкі зарад батарэі. Зарадзіце і паўтарыце спробу.</string>
+  <string name="ai_local_device_over_heat_title">Прылада перагрэлася. Паўтарыце спробу пазней.</string>
+  <string name="ai_local_language_unsupported_title">Гэтая мова не падтрымліваецца</string>
+  <string name="ai_local_network_error_title">Падлучыцеся да сеткі і паўтарыце спробу</string>
+  <string name="aicr_download_confirm">Спампаваць</string>
+  <string name="aicr_download_content">Спампуйце неабходныя вялікія мадэлі, каб выкарыстоўваць функцыі ШI-пісьменніка. Спампаваць зараз?</string>
+  <string name="aicr_download_title">Спампаваць вялікую мадэль</string>
+  <string name="toast_refuse_to_record_when_in_call_new">Немагчыма запісаць гук падчас выклікаў</string>
+  <string name="toast_refuse_to_record_when_mic_in_use">Немагчыма запісаць гук, пакуль выкарыстоўваецца мікрафон</string>
 </resources>

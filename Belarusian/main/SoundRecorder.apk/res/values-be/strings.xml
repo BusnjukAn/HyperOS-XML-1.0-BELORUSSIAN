@@ -853,4 +853,5 @@
   <string name="text_for_build_database_progress_state_paused">Запісы будуць аналізавацца на вашай прыладзе, каб даць больш дакладныя вынікі</string>
   <string name="text_for_build_database_progress_state_running">Аналіз запісаў для атрымання больш дакладных вынікаў…</string>
   <string name="text_for_build_database_progress_state_stooping">Запісы будуць прааналізаваны на вашай прыладзе для атрымання больш дакладных вынікаў.\nУ цяперашні час прыпынена. Аналіз адновіцца, калі вы не будзеце выкарыстоўваць сваю прыладу.</string>
+  <string name="playback_menu_copy_text">Капіяваць тэкст</string>
 </resources>

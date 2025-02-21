@@ -1418,4 +1418,16 @@
   <string name="normal_mode_new_data">Зацямненне PWM (высокачастотнае)</string>
   <string name="normal_mode_summary_new_data">Выкарыстоўвайце пры нізкай яркасці, каб паменшыць зрокавую стомленасць</string>
   <string name="not_allowed_for_child">Гэтая функцыя недаступная для непаўналетніх</string>
+  <string name="continue_use_category_title">Абмежаванне бесперапыннага выкарыстання</string>
+  <string name="continue_use_switch_title">Абмежаваць бесперапыннае выкарыстанне прылады</string>
+  <string name="limit_know">Зразумела</string>
+  <string name="no_limit_category_title">Выключэнні праграм</string>
+  <string name="pcl_net_code_request_reached">Нельга адправіць больш кодаў</string>
+  <string name="search_app_empty">Звязаных праграм не знойдзена</string>
+  <string name="search_category_empty">Звязаных катэгорый не знойдзена</string>
+  <string name="skip_forced_rest">Прапусціць</string>
+  <string name="weekday_limit_category_title">Абмежаванні па буднях</string>
+  <string name="weekday_limit_switch_title">Абмежаваць выкарыстанне па буднях</string>
+  <string name="weekend_limit_category_title">Абмежаванні на выхадныя</string>
+  <string name="weekend_limit_switch_title">Абмежаваць выкарыстанне на выхадных</string>
 </resources>

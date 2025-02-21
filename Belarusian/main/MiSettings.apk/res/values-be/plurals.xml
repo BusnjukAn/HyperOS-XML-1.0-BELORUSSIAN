@@ -641,4 +641,16 @@
         <item quantity="few">Увядзіце %s лічбы</item>
         <item quantity="many">Увядзіце %s лічбаў</item>
     </plurals>
+    <plurals name="continue_use_notify">
+        <item quantity="other">Вы выкарыстоўвалі сваю прыладу на працягу %d хв.</item>
+        <item quantity="one">Вы выкарыстоўвалі сваю прыладу на працягу %d хв.</item>
+    </plurals>
+    <plurals name="forced_rest_notify">
+        <item quantity="other">Вы зможаце выкарыстоўваць яе зноў праз %d хв.</item>
+        <item quantity="one">Вы зможаце выкарыстоўваць яе зноў праз %d хв.</item>
+    </plurals>
+    <plurals name="limit_app_prolong_minute">
+        <item quantity="other">>Падоўжыць на %d хв.</item>
+        <item quantity="one">Падоўжыць на %d хв.</item>
+    </plurals>
 </resources>

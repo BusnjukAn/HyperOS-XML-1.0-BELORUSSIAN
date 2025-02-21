@@ -1023,7 +1023,7 @@
   <string name="text_price">Кошт</string>
   <string name="toast_save_photo">Выява захавана ў альбоме</string>
    <string name="aon_no_install_app_tip">Гэтую старонку неабходна адкрыць у пазначанай праграме, спачатку ўсталюйце адпаведную праграму.</string>
-  <string name="aon_no_network_tip">Для сканавання кода патрабуецца падлучэнне да Інтэрнэту, калі ласка, уключыце Wi-Fi або мабільную сетку</string>
+  <string name="aon_no_network_tip">Уключыце Wi-Fi або мабільныя дадзеныя і паспрабуйце яшчэ раз</string>
   <string name="aon_no_support_code_tip">Гэты тып QR-кода пакуль не падтрымліваецца, паспрабуйце іншыя метады сканавання</string>
   <string name="aon_opened_dialog_des">Пасля ўключэння хуткага сканавання кода сістэма выявіць QR-код, і інфармацыя аб выяўленні не будзе захоўвацца лакальна або загружана ў воблака. Пасля ўключэння гэта павялічыць спажыванне энергіі.</string>
   <string name="aon_opened_dialog_title">Заява аб бяспецы і напамін</string>
@@ -1050,7 +1050,7 @@
   <string name="language_entry_russian">Руская</string>
   <string name="milink_toast_des">Ваша сістэма не была абноўлена да HyperOS. Адскануйце QR-код версіі не для HyperOS.</string>
   <string name="milink_update_des">Калі ласка, перайдзіце ў краму праграм, каб абнавіць праграму Узаемазлучальнасць да апошняй версіі і паўтарыце спробу.</string>
-  <string name="milink_update_title">Перайсці да абнаўлення</string>
+  <string name="milink_update_title">Абнавіць</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="multi_qr_hint_message">Націсніце стрэлку, каб перайсці на старонку</string>
   <string name="no_payment_software_installed">Плацежнае праграмнае забеспячэнне не ўсталявана. Спачатку ўсталюйце Mi Pay, WeChat або Alipay.</string>
@@ -1079,6 +1079,6 @@
   <string name="transfer_document_ppt_summary">Сканаванне ў PDF/Сканаванне слайдаў</string>
   <string name="transfer_document_ppt_table_summary">Сканаваць у PDF/Сканаваць слайды/Сканаваць табліцу Excel</string>
   <string name="translate_choose_language">Выберыце мову</string>
-  <string name="web_url_confirm_content">QR-код, які вы адскануеце, прывядзе да спасылкі, якая можа быць рызыкоўнай. Гэта можа быць звязана са шкоднаснымі вэб-сайтамі або сеткавымі пасткамі, якія могуць пашкодзіць бяспецы вашай прылады або асабістай прыватнасці. Калі вы вырашыце працягнуць, пераканайцеся, што вы цалкам разумееце адпаведныя рызыкі.</string>
-  <string name="web_url_confirm_title">Напамін аб бяспецы</string>
+  <string name="web_url_confirm_content">Гэты QR-код вядзе на небяспечную спасылку, якая можа нанесці шкоду бяспецы вашай прылады або вашай прыватнасці. Калі вы вырашыце працягнуць, пацвердзіце, што цалкам усведамляеце гэтыя рызыкі.</string>
+  <string name="web_url_confirm_title">Апавяшчэнне аб бяспецы</string>
 </resources>

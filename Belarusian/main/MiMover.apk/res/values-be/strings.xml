@@ -1101,4 +1101,5 @@
   <string name="dialog_backup_service_missing_btn">Зразумела</string>
   <string name="dialog_backup_service_missing_content">Немагчыма выкарыстоўваць Mi Трансфер, бо служба рэзервовага капіявання недаступная.</string>
   <string name="dialog_backup_service_missing_title">Немагчыма выкарыстоўваць Mi Трансфер</string>
+  <string name="err_data_protection">На старой прыладзе ўключана пашыраная абарона дадзеных. Патрабуецца праверка.</string>
 </resources>

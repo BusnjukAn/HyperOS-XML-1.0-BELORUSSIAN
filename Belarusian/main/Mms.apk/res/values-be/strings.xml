@@ -1846,4 +1846,5 @@
   <string name="beidou_to_contacts">Атрымальнік: %s</string>
   <string name="progress_start_tips">Аналіз паведамленняў для больш дакладных вынікаў…</string>
   <string name="progress_stop_tips">Паведамленні будуць прааналізаваны на вашай прыладзе для прадастаўлення больш дакладных вынікаў</string>
+  <string name="beidou_support_cta_tips">Гэта праграма таксама можа чытаць, рэдагаваць, адпраўляць і атрымліваць спадарожнікавыя паведамленні BeiDou.</string>
 </resources>

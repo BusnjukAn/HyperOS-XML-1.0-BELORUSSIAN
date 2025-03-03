@@ -1158,4 +1158,5 @@
   <string name="operation_delete_cloud_upload_record">Адмяніць</string>
   <string name="operation_upload_err_full_manage_space">Воблачнае сховішча запоўнена. Абнавіце тарыфны план захоўвання або выдаліце ​​непатрэбныя аб\'екты. Націсніце «Прагляд», каб прагледзець сваё воблачнае сховішча або кіраваць ім, або «Адмяніць», каб выдаліць гэтую задачу спампоўкі.</string>
   <string name="otg_data_safely_exiting">Хвілінку…</string>
+  <string name="file_error_cannt_view">Адбылася памылка. Немагчыма прагледзець файл.</string>
 </resources>

@@ -204,4 +204,12 @@
         <item quantity="few">"%d секунды прайшлi без падлучэння да спадарожніка.
 Вы можаце працягнуць спробы ці выйсці зараз."</item>
     </plurals>
+    <plurals name="beidou_receiving">
+        <item quantity="other">Атрыманне (%d сек.)</item>
+        <item quantity="one">Атрыманне (%d сек.)</item>
+    </plurals>
+    <plurals name="beidou_sending">
+        <item quantity="other">Адпраўка (%d сек.)</item>
+        <item quantity="one">Адпраўка (%d сек.)</item>
+    </plurals>
 </resources>

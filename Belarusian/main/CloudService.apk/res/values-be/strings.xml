@@ -138,7 +138,7 @@
   <string name="feedback_custom_hint">Апішыце праблемы, з якімі вы сутыкнуліся. Калі вы можаце падаць прапановы, мы будзем удзячныя за больш падрабязную інфармацыю!</string>
   <string name="find_device">Пошук прылады</string>
   <string name="find_device_dspt_provision">Пры страце прылады вы зможаце выявіць яе месцазнаходжанне, заблакаваць або ачысціць дадзеныя на &lt;font color=#0097FF>%s&lt;/font>. Гэтую функцыю можна актываваць у Наладах у любы час.</string>
-  <string name="find_device_gdpr_prompt">Уключыўшы Пошук прылады, вы прымаеце нашу <a href="app://com.miui.cloudservice.gdpr.license"><u>Палітыку прыватнасці</u></a>. Для скасавання дазволу адключыце гэтую функцыю.</string>
+  <string name="find_device_gdpr_prompt">"Уключаючы функцыю \"Пошук прылады\", вы згаджаецеся з "<u><a href="app://com.miui.cloudservice.gdpr.license">Палітыкай прыватнасці Воблака Xiaomi</a></u> Каб адклікаць сваю згоду з Палітыкай прыватнасці, адключыце гэтую функцыю.</string>
   <string name="find_device_operation_failure_rpc">Не ўдалося выканаць аперацыю праз памылку RPC.</string>
   <string name="find_device_permissions_footer">Націсніце \"Надаць\", каб надаць выбраныя вамі дазволы.</string>
   <string name="find_device_permissions_header">Сардэчна запрашаем у Пошук прылады! Вы можаце выкарыстоўваць гэту праграму для пошуку, адсочвання і блакіроўкі вашай прылады, калі яа страчана. Для пошуку прылады патрабуюцца наступныя дазволы:</string>
@@ -996,7 +996,7 @@
   <string name="e2ee_device_verification_os_tip">Абнавіце да Xiaomi HyperOS 2 або больш позняй версіі</string>
   <string name="e2ee_device_verification_result_subtitle">Прылады, якія выйшлі з вашага акаўнта Xiaomi, не змогуць выкарыстоўваць Воблака Xiaomi і іншыя звязаныя сэрвісы, пакуль не ўвойдуць у сістэму зноў.</string>
   <string name="e2ee_device_verification_result_title">Усе прылады выйшлі з сістэмы</string>
-  <string name="e2ee_device_verification_tip">Выдаліць гэтую прыладу з вашага акаўнта</string>
+  <string name="e2ee_device_verification_tip">Націсніце тут, каб выдаліць гэтую прыладу</string>
   <string name="e2ee_dialog_close_subtitle">Дадзеныя, абароненыя гэтай функцыяй, больш не будуць падтрымліваць скразное шыфраванне, а пашыраная абарона дадзеных будзе адключаная на ўсіх прыладах.</string>
   <string name="e2ee_dialog_close_title">Адключыць пашыраную абарону дадзеных</string>
   <string name="e2ee_dialog_exit_account_subtitle">Калі прылада выходзіць з сістэмы, пашыраная абарона дадзеных аўтаматычна адключаецца. Гэта не паўплывае на іншыя прылады. Калі вы зноў увойдзеце ў сістэму, вам трэба будзе зноў уключыць гэтую функцыю.</string>
@@ -1167,9 +1167,24 @@
   <string name="progress_notification_downloaded">Загрузка завершана</string>
   <string name="progress_notification_downloading">Прагрэс: %d%%</string>
   <string name="progress_notification_name">Загрузка плагіна</string>
-  <string name="gallery_auto_sync_fail_international_noti_content">Недастаткова месца для захоўвання ў воблаку</string>
+  <string name="gallery_auto_sync_fail_international_noti_content">Недастаткова месца для захоўвання. Немагчыма завяршыць сінхранізацыю фатаграфій.</string>
   <string name="manual_activation">Актываваць паўторна</string>
-  <string name="micloud_manual_cloud_storage_full_international_summary">Немагчыма сінхранізаваць фатаграфіі, кантакты і іншыя элементы.</string>
+  <string name="micloud_manual_cloud_storage_full_international_summary">Немагчыма сінхранізаваць фатаграфіі і кантакты.</string>
   <string name="privacy_policy_revoked_btn_msg">Зразумела</string>
   <string name="privacy_policy_revoked_msg_contains_manual_activation">Вы адклікалі сваю згоду з Палітыкай прыватнасці Воблака Xiaomi, і ўсе вашы дадзеныя, якія захоўваюцца ў воблаку, былі ачышчаны. Каб зноў выкарыстаць гэтую службу, пагадзіцеся з Палітыкай прыватнасці на сайце i.mi.com. У мэтах бяспекі вы можаце актываваць уліковы запіс толькі адзін раз у дзень.</string>
+  <string name="calendar_sync_item_permission">каляндар</string>
+  <string name="call_log_sync_item_permission">гісторыя выклікаў</string>
+  <string name="contacts_sync_item_permission">кантакты</string>
+  <string name="e2ee_need_bind_phone_button_sure">Зразумела</string>
+  <string name="e2ee_need_bind_phone_subtitle">Вы не дадалі нумар тэлефона для аднаўлення. Калі вы забудзеце пароль, вы не зможаце ўвайсці ў сістэму. Дадайце нумар тэлефона для аднаўлення, каб аднавіць пароль.</string>
+  <string name="e2ee_need_bind_phone_title">Дадайце нумар тэлефона для аднаўлення</string>
+  <string name="privacy_runtime_perm_get_installed_apps_desc">Для сінхранізацыі дадзеных праграмы</string>
+  <string name="privacy_runtime_perm_get_installed_apps_title">Доступ да дадзеных праграмы</string>
+  <string name="request_manual_notification_permission_labels">Каб пераканацца, што вы атрымліваеце важныя апавяшчэнні, дазвольце гэтай праграме адпраўляць апавяшчэнні ў Наладах.</string>
+  <string name="request_manual_various_permissions_labels_exclude_notification_permission">Каб пераканацца, што важныя дадзеныя (%1$s) могуць быць сінхранізаваныя з воблакам, падайце гэтай праграме наступныя дазволы ў Наладах: %2$s.</string>
+  <string name="request_manual_various_permissions_labels_include_notification_permission">Каб пераканацца, што вы атрымліваеце важныя апавяшчэнні і важныя дадзеныя (%1$s) могуць быць сінхранізаваныя з воблакам, дазвольце гэтай праграме адпраўляць апавяшчэнні і падайце наступныя дазволы ў Наладах: %2$s.</string>
+  <string name="request_permissions_dialog_negative_button_mes">Не зараз</string>
+  <string name="request_permissions_dialog_positive_button_mes">Зразумела</string>
+  <string name="request_permissions_labels">Здаецца, вы не дазволілі Воблаку Xiaomi доступ да наступных тыпаў інфармацыі: %1$s. Каб пераканацца, што ўсе элементы могуць быць нармальна сінхранізаваныя з воблакам, падайце Воблаку Xiaomi наступныя дазволы: %2$s.</string>
+  <string name="sms_sync_item_permission">паведамленні</string>
 </resources>

@@ -266,4 +266,5 @@
   <string name="del_credential_progress_text">Выдаленне…</string>
   <string name="open">Уключыць</string>
   <string name="setting">Запіс</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Пацвердзіце пароль другой прасторы</string>
 </resources>

@@ -888,4 +888,5 @@
   <string name="kg_dialog_apply_super_wallpaper_negative_button">Адмена</string>
   <string name="miui_eastern_art_b_data_view_format">d.M</string>
   <string name="miui_eastern_art_b_week_view_format">EEE</string>
+  <string name="aod_multi_window_not_support">Гэтае дзеянне не падтрымліваецца ў рэжыме падзеленага экрана</string>
 </resources>

@@ -421,7 +421,7 @@
   <string name="undo_grant_dialog_message">Пасля скасавання дазволу Xiaomi спыніць збор дадзеных, патрэбных для гэтай функцыі (IMEI, ID прылады, версія сістэмы, рэгіён і г.д.). Скасаваць дазвол?</string>
   <string name="undo_privacy_menu">Скасаваць аўтарызацыю</string>
   <string name="undo_success">Паспяхова скасавана</string>
-  <string name="use_google_open">Абуджэнне з дапамогай Памочніка Google</string>
+  <string name="use_google_open">Абуджэнне з дапамогай Асістэнта Google</string>
   <string name="use_xiaoai_open">Абуджаць галасавымі камандамі</string>
   <string name="wating">Хвілінку…</string>
   <string name="weibo_send">Адправіць у Weibo</string>
@@ -791,7 +791,7 @@
   <string name="google_assistant_guide_message">Вы можаце націснуць і ўтрымліваць кнопку \"Сілкаванне\" на працягу %s сек., каб пачаць зносіны з Google Асістэнтам. Усталяваць гэты цэтлiк зараз?</string>
   <string name="google_assistant_guide_ok">Усталяваць</string>
   <string name="google_assistant_guide_tip">*Націсніце і ўтрымлівайце кнопку \"Сілкаванне\" на працягу %s сек., каб адкрыць меню выключэння.</string>
-  <string name="google_assistant_guide_title">Google Асістэнт</string>
+  <string name="google_assistant_guide_title">Асістэнт Google</string>
   <string name="guide_confirm">Зразумела</string>
   <string name="guide_media_play_pause">Прайграванне і прыпыненне відэа і аўдыё</string>
   <string name="guide_media_process">Наладзіць ход прайгравання</string>
@@ -912,7 +912,7 @@
   <string name="long_press_power_guide_settings">Налады</string>
   <string name="long_press_power_guide_title">Абуджэнне з дапамогай кнопкі \"Сілкаванне\"</string>
   <string name="long_press_power_key">Доўгі націск на кнопку \"Сілкаванне\"</string>
-  <string name="long_press_power_key_half_of_second">Націсніце і ўтрымлівайце кнопку \"Сілкаванне\" 0,5 с, каб уключыць Google Асістэнт</string>
+  <string name="long_press_power_key_half_of_second">Націсніце і ўтрымлівайце кнопку \"Сілкаванне\" %s сек., каб уключыць Асістэнта Google</string>
   <string name="long_press_power_key_half_second">Націсніце і ўтрымлівайце кнопку \"Сілкаванне\" %s сек.</string>
   <string name="long_press_power_key_tips"><Data>Доўгі націск на кнопку сілкавання &lt;font color=#999999>Хутчэй і зручней&lt;/font></Data></string>
   <string name="long_press_volume_down">Доўгае націсканне кнопкі змяншэння гучнасці</string>
@@ -994,7 +994,7 @@
   <string name="power_key_how_power_force_off_detail">Націсніце і ўтрымлівайце кнопку сілкавання, пакуль прылада не перазагрузіцца</string>
   <string name="power_key_how_power_off">Як адкрыць старонку завяршэння працы</string>
   <string name="power_key_how_power_off_detail">Націсніце і ўтрымлівайце кнопку сілкавання на працягу 3 с</string>
-  <string name="power_key_how_start">Як запусціць Google Асістэнта</string>
+  <string name="power_key_how_start">Як запусціць Асістэнта Google</string>
   <string name="power_key_how_start_detail">Утрымлівайце кнопку \"Сілкаванне\" на працягу 0,5 с. Адпусціце і гаварыце.</string>
   <string name="power_key_start_enjoy">Пазнаёмцеся з Google Асістэнтам</string>
   <string name="power_key_start_guide">Запуск Google Асістэнта з дапамогай кнопкі \"Сілкаванне\" на поўнаэкранных прыладах</string>
@@ -1391,4 +1391,31 @@
   <string name="split_operation_guide_title">Як карыстацца падзеленым экранам</string>
   <string name="keyboard_layout_input_method_language">"Мова: "</string>
   <string name="keyboard_layout_not_support_hint">Непадтрымліваемая раскладка</string>
+  <string name="drag_app_to_pad">Націсніце і ўтрымлівайце, затым перацягніце, каб адкрыць на планшэце</string>
+  <string name="drag_app_to_pc">Націсніце і ўтрымлівайце, затым перацягніце, каб адкрыць на кампутары</string>
+  <string name="genimi_wake_up_guide_know">Зразумела</string>
+  <string name="genimi_wake_up_guide_press_power_and_volume_up_message">Націсніце кнопкі сілкавання і павелічэння гучнасці, каб выключыць сілкаванне або перазагрузіць</string>
+  <string name="genimi_wake_up_guide_press_power_key_message">Націсніце і ўтрымлівайце кнопку сілкавання %s с, а затым адпусціце для доступу да Gemini</string>
+  <string name="genimi_wake_up_guide_settings">Налады</string>
+  <string name="genimi_wake_up_guide_title">Адкрыць з дапамогай кнопкі сілкавання</string>
+  <string name="global_stylus_native_summary">Пераўтвараць рукапісны тэкст, напісаны ў любой тэкставай вобласці, у друкаваны тэкст (падтрымліваюцца толькі некаторыя спосабы ўводу)</string>
+  <string name="guide_insert_blank_tip">Намалюйце вертыкальную лінію, каб падзяліць сімвалы. Паўтарыце, каб злучыць іх.</string>
+  <string name="handwriting_enable_dialog_cancel">Адмяна</string>
+  <string name="handwriting_enable_dialog_confirm">Налады</string>
+  <string name="handwriting_enable_dialog_message">Бягучая клавіятура не падтрымлівае «Стілус». Вы можаце змяніць свае перавагі ў Наладах.</string>
+  <string name="handwriting_enable_dialog_title">«Стілус» выключаны</string>
+  <string name="handwriting_enable_dialog_unprompt">Больш не паказваць</string>
+  <string name="inputmethod_switch_automatic">Метад уводу будзе пераключацца аўтаматычна пры ўключэнні «Стілуса»</string>
+  <string name="keyboard_layout_multiple_method_hint">Націсніце Ctrl+Space для пераключэння паміж раскладкамі клавіятуры</string>
+  <string name="keyboard_layout_thai">Тайскі</string>
+  <string name="open_system_optimization">Спачатку ўключыце аптымізацыю сістэмы</string>
+  <string name="power_off_press_power_and_volume_up_message">Націсніце кнопкі сілкавання і павелічэння гучнасці</string>
+  <string name="power_off_press_power_key_message">Утрымлівайце кнопку сілкавання %s сек.</string>
+  <string name="power_off_title">Выключыце сілкаванне ці перазагрузіце</string>
+  <string name="securitycenter_sidebar_box">Бакавая панэль інструментаў</string>
+  <string name="support_current_inputmethod">Бягучая клавіятура</string>
+  <string name="tablet_screen_settings">Функцыі для планшэтаў</string>
+  <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Правядзіце трыма пальцамі па ўнутраным экране, каб адкрыць Падзяленне экрана</string>
+  <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Правядзіце трыма пальцамі па гарызанталі, каб адкрыць Падзяленне экрана</string>
+  <string name="xspace_manager_restrictions_add_user">Гэтая функцыя абмежавана адміністратарам вашай прылады або карпаратыўнай палітыкай</string>
 </resources>

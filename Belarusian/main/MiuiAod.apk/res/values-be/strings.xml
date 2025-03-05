@@ -889,4 +889,5 @@
   <string name="miui_eastern_art_b_data_view_format">d.M</string>
   <string name="miui_eastern_art_b_week_view_format">EEE</string>
   <string name="aod_multi_window_not_support">Гэтае дзеянне не падтрымліваецца ў рэжыме падзеленага экрана</string>
+  <string name="kg_gallery_reset_magic_type_tips">Немагчыма ўсталяваць эфекты пры выкарыстанні слайд-шоў шпалер. Адноўлена зыходная выява.</string>
 </resources>

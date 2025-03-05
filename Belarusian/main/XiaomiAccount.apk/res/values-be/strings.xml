@@ -1243,4 +1243,7 @@ ID:%s
   <string name="passport_set_password_hint">Усталюйце пароль акаўнта, каб выкарыстоўваць двухфактарную аўтэнтыфікацыю</string>
   <string name="passport_two_factor_auth">Двухфактарная аўтэнтыфікацыя</string>
   <string name="passport_two_factor_auth_hint">Уключыце, каб патрабаваць двухфактарную аўтэнтыфікацыю пры ўваходзе ў ваш акаўнт</string>
+  <string name="wear_account_auth_failed_message">"Выканайце наступныя дзеянні, каб зноў увайсці ў сістэму:
+%1$d. Падключыце тэлефон і носную прыладу.
+%2$d. Адкрыйце Mi Здароўе і ўвайдзіце ў сістэму."</string>
 </resources>

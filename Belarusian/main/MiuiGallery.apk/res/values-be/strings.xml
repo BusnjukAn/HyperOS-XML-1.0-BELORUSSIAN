@@ -4206,4 +4206,7 @@
   <string name="ai_progress_grogress_tip_guide">Ваша прылада будзе аналізаваць элементы хутчэй, калі яна зараджаецца і экран выключаны</string>
   <string name="map_privacy_dialog_content_new"><Data>Гэтая служба адлюстроўвае фота і відэа, адсартаваныя па месцазнаходжанню, стварае альбомы паездак і дазваляе вам шукаць элементы па месцазнаходжанню. Каб даць вам азначаныя вышэй паслугі, мы выкарыстоўваем Baidu Maps Open Platform SDK. Прачытайце і прыміце &lt;a href=\"%1$s\">Заяву аб сумесным выкарыстанні дадзеных трэцім бокам&lt;/a> перад выкарыстаннем гэтай паслугі.</Data></string>
   <string name="privacy_watermark_word_count_full">Немагчыма ўвесці больш сімвалаў</string>
+  <string name="google_storage_progress" formatted="false">%s Гб з %s Гб</string>
+  <string name="google_storage_progress_btn_get_more_storage">Атрымаць больш месца ў сховішчы</string>
+  <string name="google_storage_progress_title">Выкарыстоўванае сховішча</string>
 </resources>

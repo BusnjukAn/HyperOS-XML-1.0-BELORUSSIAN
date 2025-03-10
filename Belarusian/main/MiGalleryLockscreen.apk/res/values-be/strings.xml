@@ -1174,4 +1174,23 @@
   <string name="left_lks_see_more">Прагледзець</string>
   <string name="left_lks_subscribe">Прадзаказ</string>
   <string name="left_lks_unlocked_download_tip">%s будзе загружана, калі вы разблакуеце сваю прыладу. Вы можаце адмяніць гэта дзеянне ў панэлі апавяшчэнняў.</string>
+  <string name="avatar_talkback">Фота профілю</string>
+  <string name="checked_talkback">Уключана</string>
+  <string name="desktop_preview_talkback">Папярэдні прагляд працоўнага стала</string>
+  <string name="double_tap_to_switch_talkback">Падвойны дотык для пераключэння</string>
+  <string name="image_talkback">Выява</string>
+  <string name="lock_screen_preview_talkback">Папярэдні прагляд экрана блакавання</string>
+  <string name="logged_in_talkback">Уваход выкананы</string>
+  <string name="nickname_talkback">Мянушка</string>
+  <string name="not_logged_in_talkback">Уваход не выкананы</string>
+  <string name="not_subscribed_talkback">Не падпісаны</string>
+  <string name="subscribe_talkback">Падпісацца</string>
+  <string name="subscribed_talkback">Падпісаны</string>
+  <string name="switch_action_talkback">Пераключальнік</string>
+  <string name="switch_button_talkback">Пераключыць</string>
+  <string name="switch_disabled_talkback">Адключана</string>
+  <string name="switched_off_talkback">Выключана</string>
+  <string name="switched_on_talkback">Уключана</string>
+  <string name="unchecked_talkback">Выключана</string>
+  <string name="xiaomi_account_talkback">Xiaomi акаўнт</string>
 </resources>

@@ -161,7 +161,7 @@
   <string name="app_name_miuiringtone">Мелодыя</string>
   <string name="app_name_miuiwallpaper">Шпалеры</string>
   <string name="app_name_recorder">Дыктафон</string>
-  <string name="app_name_screenshot">Скрыншоты</string>
+  <string name="app_name_screenshot">Скрыншоты і запісы экрана</string>
   <string name="available_size">Даступна: %s</string>
   <string name="big5_summary">Стандартная кадыроўка ў традыцыйнай кітайскай версіі Windows</string>
   <string name="big5_title">BIG5</string>
@@ -1159,4 +1159,8 @@
   <string name="operation_upload_err_full_manage_space">Воблачнае сховішча запоўнена. Абнавіце тарыфны план захоўвання або выдаліце ​​непатрэбныя аб\'екты. Націсніце «Прагляд», каб прагледзець сваё воблачнае сховішча або кіраваць ім, або «Адмяніць», каб выдаліць гэтую задачу спампоўкі.</string>
   <string name="otg_data_safely_exiting">Хвілінку…</string>
   <string name="file_error_cannt_view">Адбылася памылка. Немагчыма прагледзець файл.</string>
+  <string name="ai_search_building_database_details">Падрабязнасці</string>
+  <string name="ftp_anonymous_warning_confirm">Выкарыстаць</string>
+  <string name="ftp_login_confirm">Увайсці</string>
+  <string name="view_decompress_files">Прагляд</string>
 </resources>

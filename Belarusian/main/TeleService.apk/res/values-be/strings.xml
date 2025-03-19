@@ -2425,7 +2425,7 @@
   <string name="beidou_satellite_impact_phone_message">Калі ўключаная спадарожнікавая сувязь, Wi-Fi, мабільныя дадзеныя і рэжым палёту будуць адключаныя і недаступныя. Пакуль гэтая функцыя ўключана, службы GPS выкарыстоўваюцца толькі для адпраўкі паведамленняў. Адпраўка паведамленняў праз спадарожнік патрабуе больш энергіі, чым звычайны абмен паведамленнямі, таму ваша прылада будзе спажываць энергію хутчэй, чым звычайна.</string>
   <string name="beidou_satellite_impact_phone_title">Як выкарыстанне спадарожнікавай сувязі паўплывае на маю прыладу?</string>
   <string name="beidou_satellite_introduction_title">Спадарожнікавыя паведамленні BeiDou</string>
-  <string name="beidou_satellite_send_receive_sms_message">Пасля ўключэння спадарожнікавай сувязі паведамленні будуць адпраўляцца і прымацца праз спадарожнік BeiDou. Вы можаце адпраўляць паведамленні да 4 кантактам адначасова, кожнае паведамленне можа змяшчаць да 20 кітайскіх іерогліфаў. Чым больш кантактаў вы вылучыце, тым менш сімвалаў можна будзе адправіць. Уключаная інфармацыя аб месцазнаходжанні будзе ўлічвацца як частка дазволеных сімвалаў.</string>
+  <string name="beidou_satellite_send_receive_sms_message">Пасля ўключэння спадарожнікавай сувязі паведамленні будуць адпраўляцца і прымацца праз спадарожнік BeiDou. Вы можаце адпраўляць паведамленні да 4 кантактам адначасова, кожнае паведамленне можа змяшчаць да 19 кітайскіх іерогліфаў. Чым больш кантактаў вы вылучыце, тым менш сімвалаў можна будзе адправіць. Уключаная інфармацыя аб месцазнаходжанні будзе ўлічвацца як частка дазволеных сімвалаў.</string>
   <string name="beidou_satellite_send_receive_sms_title">Як адпраўляць і атрымліваць паведамленні праз BeiDou?</string>
   <string name="beidou_satellite_use_message">У раёнах без сотавага сігналу, такіх як горы, пустыні і акіяны, або ў сітуацыях, калі наземныя сістэмы сувязі былі разбураны стыхійнымі бедствамі, вы ўсё роўна можаце выкарыстоўваць спадарожнікавую сувязь для адпраўкі і атрымання паведамленняў, пакуль вобласць, у якой вы знаходзіцеся, адкрыта і не мае перашкод на поўдні.</string>
   <string name="beidou_satellite_use_title">Навошта выкарыстоўваць спадарожнікавую сувязь?</string>
@@ -2441,10 +2441,13 @@
   <string name="satellite_flash_time_out_title">Абнаўленне прашыўкі</string>
   <string name="satellite_flashing_toast">Немагчыма абнавіць прашыўку. Паўторыце спробу пазней.</string>
   <string name="satellite_management_title">Спадарожнікавая сетка</string>
-  <string name="satellite_network_error">Памылка спадарожнікавай сувязі. Пачакайце хвіліну ці дзве і перазапусціце функцыі спадарожніка.</string>
+  <string name="satellite_network_error">Адбылася памылка сеткі. Адключыце спадарожнікавую сувязь і ўключыце яе зноў.</string>
   <string name="satellite_switch_alert">Слабы спадарожнікавы сігнал, калі ласка, пераналадзіць спадарожнік</string>
   <string name="satellite_xingwang_findout_settings_title">Аб спадарожнікавай сувязі Tiantong</string>
   <string name="satellite_xingwang_mobile_settings_summary">Падтрымлівае толькі SIM-карты з падтрымкай спадарожнікаў ад China Telecom або іншых падтрымліваемых аператараў</string>
   <string name="satellite_xingwang_mobile_settings_title">Уключыць спадарожнікавую сувязь</string>
   <string name="satellite_xingwang_privacy_withdrawal_setting">Адмяніць паслугі спадарожнікавай сувязі Tiantong</string>
+  <string name="satellite_setting_disabled_summary">Адпраўка і атрыманне тэкставых паведамленняў праз спадарожнік. Не ўключана ў ваш акаўнт.</string>
+  <string name="satellite_setting_enabled_summary">Адпраўка і атрыманне тэкставых паведамленняў праз спадарожнік. Уключана ў ваш акаўнт.</string>
+  <string name="satellite_setting_title">Спадарожнікавыя паведамленні</string>
 </resources>

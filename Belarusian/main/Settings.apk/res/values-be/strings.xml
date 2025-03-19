@@ -9411,7 +9411,7 @@
   <string name="usb_control_device">Гэта прылада</string>
   <string name="usb_control_host">Падлучаная прылада</string>
   <string name="usb_control_title">Рэжым працы USB</string>
-  <string name="usb_default_info">Гэтыя налады прымяняюцца, калі падлучана іншая прылада, а ваш тэлефон разблакаваны. Падлучайце толькі давераныя прылады.</string>
+  <string name="usb_default_info">Гэтыя налады будуць ужытыя пры падлучэнні іншай прылады і разблакаванні гэтай прылады. Падлучайцеся толькі да давераных прылад.</string>
   <string name="usb_default_label">Стандартная канфігурацыя USB</string>
   <string name="usb_eject">Выняць USB сховішча</string>
   <string name="usb_eject_summary">Адключыць USB-сховішча, каб бяспечна яго дастаць</string>
@@ -12143,4 +12143,10 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="sos_delete_emergency_contacts_dialog_title">Выдаліць экстраны кантакт</string>
   <string name="sos_delete_last_emergency_contacts_dialog_message">Для працы функцыі экстранага выкліку патрабуецца прынамсі адзін экстраны кантакт. Калі вы выдаліце ​​свой апошні экстраны кантакт, гэтая функцыя будзе адключаная.</string>
   <string name="sos_emergency_contacts_empty_text">Тут пакуль нічога няма</string>
+  <string name="back_strap_app_notification_title">Апавяшчэнні праграм</string>
+  <string name="back_strap_call_reminder_title">Уваходныя выклікі</string>
+  <string name="back_strap_other_seetings">Дадатковыя налады</string>
+  <string name="lamp_effect_brightness">Яркасць</string>
+  <string name="lamp_effect_color">Колер</string>
+  <string name="block_no_connected_devices">Няма падлучаных прылад</string>
 </resources>

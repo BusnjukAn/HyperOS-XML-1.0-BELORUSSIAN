@@ -1227,4 +1227,6 @@
   <string name="miui_widget_menu_replace_text_new">Замяніць</string>
   <string name="shortcut_menu_add_widget">Дадаць віджэт</string>
   <string name="system_shortcuts_size_adapt">Наладзіць памер</string>
+  <string name="announce_for_checked_after">адзначана, %1$s</string>
+  <string name="announce_for_unchecked_after">не адзначана, %1$s</string>
 </resources>

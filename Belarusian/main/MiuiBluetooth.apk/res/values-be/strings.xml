@@ -648,4 +648,6 @@
   <string name="config_net_download_tips">Усталюйце праграму Mi Здароўе i увайдзіце ў сістэму, каб мець магчымасць падлучыцца да вашай носнай прылады.</string>
   <string name="request_open_bluetooth_title">Дазволіць уключаць Bluetooth?</string>
   <string name="xpan_bt_toast">Пераключана на Wi-Fi %s Мбіт/с без страт гуку</string>
+  <string name="glasses_download_title">Усталяваць праграму \"Xiaomi Smart Glasses\"</string>
+  <string name="request_open_bluetooth_title">Дазволіць уключэнне Bluetooth?</string>
 </resources>

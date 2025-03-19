@@ -1102,4 +1102,25 @@
   <string name="dialog_backup_service_missing_content">Немагчыма выкарыстоўваць Mi Трансфер, бо служба рэзервовага капіявання недаступная.</string>
   <string name="dialog_backup_service_missing_title">Немагчыма выкарыстоўваць Mi Трансфер</string>
   <string name="err_data_protection">На старой прыладзе ўключана пашыраная абарона дадзеных. Патрабуецца праверка.</string>
+  <string name="err_receiver_no_space">Немагчыма выканаць перанос. Недастаткова памяці на новай прыладзе.</string>
+  <string name="force_update_button_neutral_guest">Зразумела</string>
+  <string name="force_update_button_scan_host">Усталяваць</string>
+  <string name="force_update_content_guest">Абнавіце Mi Трансфер на новай прыладзе, каб мець магчымасць пераносіць элементы.</string>
+  <string name="force_update_content_host">Абнавіце Mi Трансфер на старой прыладзе, каб мець магчымасць пераносіць элементы.</string>
+  <string name="force_update_title_guest">Абнавіце Mi Трансфер на новай прыладзе</string>
+  <string name="force_update_title_host">Абнавіце Mi Трансфер на старой прыладзе</string>
+  <string name="new_version_transfer_downloading">Абнаўленне Mi Трансфер</string>
+  <string name="new_version_transfer_upgrading">Абнаўленне…</string>
+  <string name="not_selectable">Немагчыма выбраць</string>
+  <string name="opposite_new_version_transfer_content">Пачакайце, пакуль іншая прылада абновіцца, і перазапусціце Mi Трансфер, затым націсніце, каб паўторна падлучыцца.</string>
+  <string name="opposite_new_version_transfer_title">Іншая прылада абнаўляецца</string>
+  <string name="security_connect_button_negative">Адмена</string>
+  <string name="security_connect_button_positive">Падлучыцца</string>
+  <string name="security_connect_content">Пераканайцеся, што коды падлучэння на абедзвюх прыладах супадаюць. Затым націсніце \"Падлучыцца\", каб перанесці элементы.</string>
+  <string name="security_connect_hint">Код падлучэння</string>
+  <string name="security_connect_title_guest">Падлучыцца да новай прылады зараз?</string>
+  <string name="security_connect_title_host">Падлучыцца да старой прылады зараз?</string>
+  <string name="transfer_no_memory_dialog_btn">Зразумела</string>
+  <string name="transfer_no_memory_dialog_summary">На новай прыладзе недастаткова месца для завяршэння перадачы. Ачысціце месца на прыладзе, каб завяршыць перадачу элементаў.</string>
+  <string name="transfer_no_memory_dialog_title">Недастаткова месца для захоўвання</string>
 </resources>

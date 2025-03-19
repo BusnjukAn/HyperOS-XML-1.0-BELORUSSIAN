@@ -426,4 +426,10 @@
   <string name="fivega_dialog_summary">Уключэнне гэтай функцыі можа выклікаць праблемы сеткавай сумяшчальнасці. Уключыць у любым выпадку?</string>
   <string name="fivega_feature_dialog_ok">Уключыць</string>
   <string name="fivega_protocol_dialog_ok">Пераключыць</string>
+  <string name="fivega_4cc_switch_summary">Пашыранае падлучэнне да сеткі 5G 4CC для тэставання (даступнае пры прадастаўленні вашым аператарам)</string>
+  <string name="fivega_4cc_switch_title">NR CA 4CC</string>
+  <string name="fivega_enhanced_network_gl_summary">Пашыранае падлучэнне да сеткі 5G для тэставання</string>
+  <string name="fivega_enhanced_network_gl_title">Параметры сеткі 5G+</string>
+  <string name="ulca_switch_summary">Уключыце для паляпшэння якасці ўзыходзячай сувязі. Фактычны эфект залежыць ад сеткі вашага аператара.</string>
+  <string name="ulca_switch_title">ULCA</string>
 </resources>

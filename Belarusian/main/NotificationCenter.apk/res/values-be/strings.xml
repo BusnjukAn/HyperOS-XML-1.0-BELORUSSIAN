@@ -178,7 +178,7 @@
   <string name="on">Укл.</string>
   <string name="pm">ПП</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
-  <string name="rule_keyguard_display">" Фармат"</string>
+  <string name="rule_keyguard_display">Параметры %s</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">С</string>
@@ -390,4 +390,20 @@
   <string name="ai_internal_test_title">Бэта-тэставанне ШI-зводкі апавяшчэнняў</string>
   <string name="notification_aon_land_support_dev_message">Каб вызначыць, ці глядзяць на экран некалькі чалавек, гэтая функцыя атрымлівае доступ да a франтальнай камеры пры адлюстраванні плывучага апавяшчэння. Сабраныя выявы выкарыстоўваюцца толькі для аналізу на прыладзе колькасці людзей, якія глядзяць на экран. Для большай дакладнасці гэтая функцыя падтрымліваецца толькі ў альбомнай арыентацыі. Змесціва апавяшчэнняў будзе ўтоена па змаўчанні ў партрэтнай арыентацыі.</string>
   <string name="notification_aon_land_support_dev_summary">Гэта мадэль падтрымлівае гэту функцыю толькі ў альбомнай арыентацыі. Змесціва апавяшчэнняў будзе ўтоена па змаўчанні ў партрэтнай арыентацыі.</string>
+  <string name="accessibility_sliding_button_state_description_off">выключаны</string>
+  <string name="accessibility_sliding_button_state_description_on">уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Неабраны</string>
+  <string name="accessibility_tab_statedesc_unselect">Неабраны</string>
+  <string name="ai_public_link"><Data>Рэгістрацыйны нумар: &lt;a href=https://www.cac.gov.cn/2024-04/02/c_1713729983803145.htm>Beijing-XiaoMiDuanCeWenBen-202412100047&lt;/a></Data></string>
+  <string name="ai_public_name">Назва мадэлі: тэст на прыладзе Xiaomi</string>
+  <string name="ai_public_title">Публічнае паведамленне</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае паведамленне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
+  <string name="miuix_appcompat_edit">Змяніць</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_progressbar_loading">Загрузка</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
 </resources>

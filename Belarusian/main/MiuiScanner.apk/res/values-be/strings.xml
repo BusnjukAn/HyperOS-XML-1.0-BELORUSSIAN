@@ -1081,4 +1081,14 @@
   <string name="translate_choose_language">Выберыце мову</string>
   <string name="web_url_confirm_content">Гэты QR-код вядзе на небяспечную спасылку, якая можа нанесці шкоду бяспецы вашай прылады або вашай прыватнасці. Калі вы вырашыце працягнуць, пацвердзіце, што цалкам усведамляеце гэтыя рызыкі.</string>
   <string name="web_url_confirm_title">Апавяшчэнне аб бяспецы</string>
+  <string name="accessibility_sliding_button_state_description_off">Выключана</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыму рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string>
+  <string name="miuix_progressbar_loading">Секундачку…</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
 </resources>

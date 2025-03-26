@@ -321,4 +321,14 @@
         <item quantity="other">Адправіць новы код (%s сек.)</item>
         <item quantity="one">Адправіць новы код (%s сек.)</item>
     </plurals>
+    <plurals name="display_number_of_devices">
+        <item quantity="other">Паказаны толькі першыя %s ненадзейных прылад.</item>
+        <item quantity="one">Паказана толькі першая %s ненадзейная прылада.</item>
+        <item quantity="few">Паказаны толькі першыя %s ненадзейных прылады.</item>
+    </plurals>
+    <plurals name="not_authenticated_devices">
+        <item quantity="other">Усяго ў вас %s ненадзейных прылад.</item>
+        <item quantity="one">Усяго ў вас %s ненадзейная прылада.</item>
+        <item quantity="few">Усяго ў вас %s ненадзейных прылады.</item>
+    </plurals>
 </resources>

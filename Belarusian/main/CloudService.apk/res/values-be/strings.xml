@@ -1187,4 +1187,5 @@
   <string name="request_permissions_dialog_positive_button_mes">Зразумела</string>
   <string name="request_permissions_labels">Здаецца, вы не дазволілі Воблаку Xiaomi доступ да наступных тыпаў інфармацыі: %1$s. Каб пераканацца, што ўсе элементы могуць быць нармальна сінхранізаваныя з воблакам, падайце Воблаку Xiaomi наступныя дазволы: %2$s.</string>
   <string name="sms_sync_item_permission">паведамленні</string>
+  <string name="e2ee_button_exit_all_devices">Выйсці на ўсіх прыладах</string>
 </resources>

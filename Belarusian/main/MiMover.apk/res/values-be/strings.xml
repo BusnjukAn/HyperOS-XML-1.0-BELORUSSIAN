@@ -1123,4 +1123,18 @@
   <string name="transfer_no_memory_dialog_btn">Зразумела</string>
   <string name="transfer_no_memory_dialog_summary">На новай прыладзе недастаткова месца для завяршэння перадачы. Ачысціце месца на прыладзе, каб завяршыць перадачу элементаў.</string>
   <string name="transfer_no_memory_dialog_title">Недастаткова месца для захоўвання</string>
+  <string name="accessibility_sliding_button_state_description_off">Выключана</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Неабраны</string>
+  <string name="accessibility_tab_statedesc_unselect">Неабраны</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
+  <string name="miuix_progressbar_loading">Загрузка</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
 </resources>

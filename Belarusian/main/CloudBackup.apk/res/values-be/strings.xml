@@ -684,4 +684,6 @@
   <string name="session_failed_privacy_revoked_btn_text">Прагледзець падрабязнасці</string>
   <string name="session_failed_privacy_revoked_title">Вы адклікалі сваю згоду з Палітыкай прыватнасці Воблака Xiaomi</string>
   <string name="session_interrupted_title_backup">Рэзервовае капіяванне прыпынена</string>
+  <string name="restore_from_this_device_unabled_talkback">Аднаўленне дадзеных, недаступнае</string>
+  <string name="session_progress">%1$d адсоткаў</string>
 </resources>

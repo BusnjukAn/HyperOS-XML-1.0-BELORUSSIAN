@@ -1430,4 +1430,16 @@
   <string name="weekday_limit_switch_title">Абмежаваць выкарыстанне па буднях</string>
   <string name="weekend_limit_category_title">Абмежаванні на выхадныя</string>
   <string name="weekend_limit_switch_title">Абмежаваць выкарыстанне на выхадных</string>
+  <string name="boot_dialog_message">З дапамогай дзіцячага рэжыму вы можаце дапамагчы свайму дзіцяці асвоіць карысныя звычкі выкарыстання прылады. Уключыць зараз?</string>
+  <string name="focus_records_image_description">Падзяліцца</string>
+  <string name="minors_boot_dialog_positive">Уключыць</string>
+  <string name="minors_mode_name">Дзіцячы рэжым</string>
+  <string name="minors_negativeButton">Адмена</string>
+  <string name="minors_not_allow_apps_hint">"Немагчыма выкарыстоўваць гэту праграму ў дзіцячым рэжыме"</string>
+  <string name="progress_image_illustrate_description">Падрабязнасці</string>
+  <string name="range_button_backward_description">Далей</string>
+  <string name="range_button_forward_description">Назад</string>
+  <string name="range_clear_icon_description">Выдаліць</string>
+  <string name="tip_modal_close">Закрыць</string>
+  <string name="visit_limit_version_dialog_checkbox">"Больш не паказваць"</string>
 </resources>

@@ -229,4 +229,8 @@
     <item>1.5x</item>
     <item>2x</item>
   </string-array>
+    <string-array name="mition_sickness_remind_time_items_text">
+        <item>У руху</item>
+        <item>Увесь час</item>
+    </string-array>
 </resources>

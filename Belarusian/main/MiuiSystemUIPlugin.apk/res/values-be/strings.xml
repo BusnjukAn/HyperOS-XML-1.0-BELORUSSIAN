@@ -605,4 +605,7 @@
   <string name="flashlight_notification_content_title">Ліхтарык</string>
   <string name="flashlight_not_available">Немагчыма выкарыстоўваць ліхтарык пры выкарыстанні камеры</string>
   <string name="quick_settings_camera_grip_charge">Зарадка праз ручку</string>
+  <string name="accessibility_long_action_text">Двойчы націсніце і ўтрымлівайце для налады</string>
+  <string name="qs_item_drag">Перацягванне</string>
+  <string name="qs_position_hint">Размешчана ў радку %1$d, слупок %2$d</string>
 </resources>

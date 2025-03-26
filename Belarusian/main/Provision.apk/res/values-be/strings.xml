@@ -893,4 +893,6 @@
   <string name="title_only_fingerprint">Усталяваць адбітак пальца</string>
   <string name="get_audio_and_video_information_settings">Доступ да фатаграфій, відэа і аўдыё, якія захоўваюцца на прыладзе</string>
   <string name="permission_get_audio_and_video_summary_settings">Для налады фатаграфій профілю і прадпрагляду мелодый выкліку (уключаючы Налады)</string>
+  <string name="other_settings_minor_mode">Дзіцячы рэжым</string>
+  <string name="other_settings_minor_mode_summary"><Data>"Дапамажыце непаўналетнім выпрацаваць здаровыя звычкі выкарыстання прылады. Калі дзіцячы рэжым уключаны, у наладах і на працоўным стале будзе дададзены цэтлік функцыі. Уключаючы гэтую функцыю, вы згаджаецеся з &lt;a href=%1$s>Палітыкай прыватнасці дзіцячага рэжыму&lt;/a>."</Data></string>  
 </resources>

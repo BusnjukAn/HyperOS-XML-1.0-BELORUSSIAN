@@ -1850,4 +1850,25 @@
   <string name="confirm_invalid_recipient">Зразумела</string>
   <string name="contain_invalid_recipient">"Здаецца, вы ўвялі недапушчальнае імя атрымальніка."</string>
   <string name="sp_mark_as_unread_menu_title">Адзначыць як непрачытанае</string>
+  <string name="accessibility_sliding_button_state_description_off">Выключана</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыму рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_progressbar_loading">Секундачку…</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="ai_summary_model_info">Назва мадэлі: тэкст на прыладзе Xiaomi</string>
+  <string name="ai_summary_public_info">Інфармацыя аб рэгістрацыі</string>
+  <string name="ai_summary_record"><Data>Нумар рэгістрацыі: &lt;a href=\"%1$s\">Beijing-XiaoMiDuanCeWenBen-202412100047&lt;/a></Data></string>
+  <string name="description_chatbot_favorite">Дададзена ў абранае</string>
+  <string name="description_chatbot_no_favorite">Не дададзена ў абранае</string>
+  <string name="view_more_button">Прагледзець падрабязнасці</string>
 </resources>

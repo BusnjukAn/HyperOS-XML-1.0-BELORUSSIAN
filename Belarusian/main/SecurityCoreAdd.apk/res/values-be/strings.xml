@@ -1446,11 +1446,15 @@
   <string name="guide_select_word_title">Вылучыць тэкст</string>
   <string name="guide_skip">Прапусціць</string>
   <string name="launch_xiaoai_screen_identification">Распазнанне экрана Xiaomi Hyper XiaoAi</string>
-  <string name="lp_display_shortcut_keys">Націсніце і ўтрымлівайце*для паказу камбінацый клавіш</string>
+  <string name="lp_display_shortcut_keys">Націсніце і ўтрымлівайце * для паказу камбінацый клавіш</string>
   <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
   <string name="preferences_esc">Налады</string>
   <string name="text_input_layout_default_content_description">Апісанне змесціва</string>
   <string name="text_input_layout_default_error">Памылка</string>
   <string name="tutorial_music_song_title_next_aon">The Breaks</string>
   <string name="voice_assist_super_ai">Xiaomi Hyper XiaoAi</string>
+  <string name="keyboard_touchpad_click_force">Націск на трэкпадзе</string>
+  <string name="keyboard_touchpad_click_force_medium">Сярэдні</string>
+  <string name="keyboard_touchpad_click_force_strong">Моцны</string>
+  <string name="keyboard_touchpad_click_force_weak">Слабы</string>
 </resources>

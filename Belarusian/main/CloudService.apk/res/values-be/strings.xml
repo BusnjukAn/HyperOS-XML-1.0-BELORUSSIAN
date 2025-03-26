@@ -1188,4 +1188,19 @@
   <string name="request_permissions_labels">Здаецца, вы не дазволілі Воблаку Xiaomi доступ да наступных тыпаў інфармацыі: %1$s. Каб пераканацца, што ўсе элементы могуць быць нармальна сінхранізаваныя з воблакам, падайце Воблаку Xiaomi наступныя дазволы: %2$s.</string>
   <string name="sms_sync_item_permission">паведамленні</string>
   <string name="e2ee_button_exit_all_devices">Выйсці на ўсіх прыладах</string>
+  <string name="accessibility_sliding_button_state_description_off">Выключана</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыму рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_progressbar_loading">Секундачку…</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
 </resources>

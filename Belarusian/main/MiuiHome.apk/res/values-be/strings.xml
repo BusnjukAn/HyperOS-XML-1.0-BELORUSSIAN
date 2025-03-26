@@ -1231,13 +1231,10 @@
   <string name="announce_for_unchecked_after">не адзначана, %1$s</string>
   <string name="accessibility_sliding_button_state_description_off">Выключана</string>
   <string name="accessibility_sliding_button_state_description_on">Уключана</string>
-  <string name="accessibility_tab_state_description_unselect">Неабраны</string>
-  <string name="accessibility_tab_statedesc_unselect">Неабраны</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
   <string name="icon_size_adjust">Правядзіце пальцам налева і направа, каб наладзіць памер абразка</string>
   <string name="miuix_accessibility_title">Загаловак</string>
-  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
-  <string name="miuix_appcompat_accessibility_new_message">Новае паведамленне</string>
-  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
   <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Пракруціце ўніз, каб закрыць</string>
   <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Пракруціце ўніз, каб перайсці ў рэжым паловы экрана</string>
   <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Пракруціце ўніз, каб перайсці ў мінімізаваны</string>
@@ -1249,7 +1246,6 @@
   <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Пераключана на палову экрана</string>
   <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Пераключана на максімізаваны</string>
   <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Пераключана на мінімізаваны</string>
-  <string name="miuix_progressbar_loading">Загрузка</string>
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="navigation_shortcut_back_key_long_press_title">Націсніце і ўтрымлівайце кнопку \"Назад\"</string>
   <string name="navigation_shortcut_gesture_line_double_click_title">Двойчы націсніце на індыкатар поўнага экрана</string>
@@ -1261,4 +1257,13 @@
   <string name="navigation_shortcut_key_setting_tip_title">Усталяваць цэтлiк</string>
   <string name="navigation_shortcut_key_settings">Цэтлiкі</string>
   <string name="navigation_shortcut_task_key_long_press_title">Націсніце і ўтрымлівайце кнопку \"Меню\"</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыму рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_progressbar_loading">Секундачку…</string>
+  <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
 </resources>

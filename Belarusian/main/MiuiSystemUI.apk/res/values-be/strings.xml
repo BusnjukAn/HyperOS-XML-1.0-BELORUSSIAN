@@ -2233,4 +2233,12 @@
   <string name="status_bar_next_alarm">Будзільнік спрацуе ў %1$s</string>
   <string name="miui_screen_rotation_freeze_portrait_message">Арыентацыя экрана ў партрэтным рэжыме заблакаваная</string>
   <string name="miplay_accessibility_cast">Абярыце прыладу</string>
+  <string name="miui_lock_eastern_art_date_curisive_12">dd MMM h:mm</string>
+  <string name="miui_lock_eastern_art_date_curisive_24">dd MMM H:mm</string>
+  <string name="miui_notification_menu_custom_fold">Групаваць у \"Дадатковыя апавяшчэнні\"</string>
+  <string name="miui_notification_menu_custom_unfold">Не групаваць</string>
+  <string name="miui_notification_menu_msg_custom_fold">Групаваць карыстацкія апавяшчэнні ад \"%1$s\" у \"Дадатковыя апавяшчэнні\"?</string>
+  <string name="miui_notification_menu_msg_custom_unfold">Паказваць карыстацкія апавяшчэнні ад \"%1$s\" у вобласці апавяшчэнняў?</string>
+  <string name="miui_notification_menu_title_custom_fold">Групаваць карыстацкія апавяшчэнні</string>
+  <string name="miui_notification_menu_title_custom_unfold">Спыніць групоўку карыстацкіх апавяшчэнняў</string>
 </resources>

@@ -595,7 +595,7 @@
   <string name="voice_print_new">Запісаць новы ўзор голасу</string>
   <string name="voice_print_note_description" formatted="false">Аптымізацыя па ўзору голасу — гэта тэхналогія, заснаваная на штучным інтэлекце, якая выкарыстоўвае унікальныя галасавыя характарыстыкі карыстальнікаў для зніжэння шуму. Гэтая тэхналогія вылучае асобныя акустычныя характарыстыкі, такія як інтанацыя, вышыня тону і хуткасць гаворкі. Перш чым выкарыстоўваць гэтую тэхналогію, вам неабходна запісаць прыкладна ад %d да %d секунд свайго голасу. Сістэма будзе вучыцца на вашым голасе, захоўваючы толькі ваш голас падчас выклікаў, фільтруючы пры гэтым любы фонавы шум і іншыя галасы.</string>
   <string name="voice_print_note_device">Адключыце знешнія прылады перад запісам</string>
-  <string name="voice_print_note_environment">Запісвайцеся ў адзіноце ў ціхім месцы. Трымайце прыладу на адлегласці паловы выцягнутай рукі ад сябе. Затым націсніце і ўтрымлівайце кнопку ніжэй і прачытайце наступны тэкст у раўнамерным тэмпе, выкарыстоўваючы свой звычайны голас.</string>
+  <string name="voice_print_note_environment">У ціхім становішчы наблізцеся да экрана, націсніце і ўтрымлівайце кнопку \"Запіс\", затым прачытайце наступны тэкст з сталай хуткасцю сваім звычайным голасам.</string>
   <string name="voice_print_note_in_call">Немагчыма запісаць узор голасу падчас выкліку</string>
   <string name="voice_print_num">Узор голасу: %s</string>
   <string name="voice_print_pref_name">Запісаць узор голасу</string>
@@ -618,4 +618,8 @@
   <string name="voice_print_note_generate_error">Не ўдалося стварыць узор голасу. Запішыце яшчэ раз.</string>
   <string name="voice_print_note_generating">Распазнаванне ўзору голасу…</string>
   <string name="clean_speaker_unavailable">Гэтая функцыя недаступная</string>
+  <string name="dolby_dax_geq_bar_chart_talkback" formatted="false">Эквалайзер, паўзунок %d, %s.</string>
+  <string name="dolby_dax_geq_select_click_tip_talkback">Двойчы націсніце для актывацыі</string>
+  <string name="dolby_dax_geq_select_not_selected_talkback">Не абрана</string>
+  <string name="dolby_dax_geq_select_selected_talkback">Абрана</string>
 </resources>

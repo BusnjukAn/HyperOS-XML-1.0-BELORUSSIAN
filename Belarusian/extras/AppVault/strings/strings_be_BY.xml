@@ -34,8 +34,13 @@
     <string name="app_settings">Налады</string>
     <string name="app_weather">Надвор'е</string>
     <string name="app_whatsapp">WhatsApp</string>
+    <string name="app_mivideo">Mi Вiдэа</string>
+    <string name="app_music">Музыка</string>
+    <string name="app_spotify">Spotify</string>
+    <string name="app_tiktok">TikTok</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Знешнія цэтлікі</string>
+    <string name="shortcuts_popular">Часта выкарыстоўваемыя</string>
     <string name="shortcuts_system">Сістэмныя цэтлікі</string>
     <!-- Shortcut names -->
     <string name="auto_optimize">Аптымізацыя</string>
@@ -149,4 +154,25 @@
     <string name="widget_pals_cat_desc">Мяў ~ не турбуйце мяне, калі я сплю…</string>
     <string name="widget_pals_dog">Сабачка</string>
     <string name="widget_pals_dog_desc">Гаў ~ пагуляй са мной!</string>
+    <string name="widget_calendar_month">Прагляд месяца</string>
+    <string name="widget_calendar_month_desc">Прагляд інфармацыі аб даце бягучага месяца</string>
+    <string name="widget_health_mens">Цыклы</string>
+    <string name="widget_health_mens_desc">Прагляд дадзеных аб менструацыі</string>
+    <string name="widget_mivideo_local">Лакальныя відэа</string>
+    <string name="widget_mivideo_local_desc">Хуткі доступ да лакальных аўдыя- і відэафайлаў</string>
+    <string name="widget_music_play">Прайгравальнік</string>
+    <string name="widget_music_play_desc">Хуткае кіраванне прайграваннем музыкі</string>
+    <string name="widget_spotify_music">Spotify</string>
+    <string name="widget_spotify_music_desc">Прайгравайце любімыя песні і знаходзьце новыя мелодыі прама з працоўнага стала</string>
+    <string name="widget_tiktok_search">Пошук</string>
+    <string name="widget_tiktok_search_desc">Знайдзіце змесціва, якое вас цікавіць</string>
+    <string name="widget_weather_custom">Надвор'е</string>
+    <string name="widget_weather_custom_desc">Наладзьце свой уласны віджэт надвор'я</string>
+    <string name="widget_weather_sun">Узыход і заход сонца</string>
+    <string name="widget_weather_sun_desc">Прагляд часу ўзыходу і заходу сонца для вашага месцазнаходжання</string>
+    <!--  Widget configs  -->
+    <string name="widget_config_calendar_dynamic_info">Паказаць падзеі</string>
+    <string name="widget_config_gallery_select_photo">Абярыце фатаграфіі</string>
+    <string name="widget_config_gallery_show_title">Паказаць загаловак</string>
+     <string name="widget_config_gallery_show_title_off">Загаловак не будзе адлюстроўвацца на віджэце працоўнага стала</string>
 </resources>

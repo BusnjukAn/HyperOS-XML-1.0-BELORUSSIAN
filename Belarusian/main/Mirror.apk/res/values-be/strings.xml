@@ -673,4 +673,8 @@
   <string name="phone_connect_with_car_toast">Тэлефон падлучаны да аўтамабіля</string>
   <string name="tips_check_in_phone_please">Прагледзець і працягнуць на тэлефоне</string>
   <string name="tips_set_with_phone_please">Працягнуць на тэлефоне</string>
+  <string name="accessibility_close_mirror">Закрыць Працоўны стол+</string>
+  <string name="accessibility_open_mirror">Разгарнуць Працоўны стол+</string>
+  <string name="accessibility_side_close_mirror">Згарнуць Працоўны стол+ на бакавую панэль</string>
+  <string name="content_des_mirror_has_connect">Адлюстраванне Працоўнага стала+</string>
 </resources>

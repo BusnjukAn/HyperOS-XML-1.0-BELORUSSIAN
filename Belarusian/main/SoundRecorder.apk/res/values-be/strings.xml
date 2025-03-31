@@ -869,4 +869,5 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="keyguard_shotcuts">Новы запіс</string>
 </resources>

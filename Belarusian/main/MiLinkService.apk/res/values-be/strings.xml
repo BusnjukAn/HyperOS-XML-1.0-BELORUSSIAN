@@ -1594,4 +1594,8 @@
   <string name="open_wlan_other_toast_china">Уключыце Wi-Fi на іншай прыладзе і паспрабуйце яшчэ раз</string>
   <string name="open_wlan_self_toast">Уключыце Wi-Fi і паспрабуйце яшчэ раз</string>
   <string name="open_wlan_self_toast_china">Уключыце Wi-Fi і паспрабуйце яшчэ раз</string>
+  <string name="connect_settings_summary_share_notification_pad_v2">Паказваць апавяшчэнні з тэлефонаў паблізу пры ўваходзе ў ваш Xiaomi акаўнт на гэтай прыладзе</string>
+  <string name="connect_settings_summary_share_notification_phone_v2">Паказваць важныя апавяшчэнні з тэлефона на вашым тэлевізары, планшэце і кампутары</string>
+  <string name="miplay_accessibility_more_settings">Дадатковыя налады</string>
+  <string name="upgrade_new_version">Даступна абнаўленне</string>
 </resources>

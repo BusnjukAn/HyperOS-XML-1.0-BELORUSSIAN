@@ -895,4 +895,6 @@
   <string name="permission_get_audio_and_video_summary_settings">Для налады фатаграфій профілю і прадпрагляду мелодый выкліку (уключаючы Налады)</string>
   <string name="other_settings_minor_mode">Дзіцячы рэжым</string>
   <string name="other_settings_minor_mode_summary"><Data>"Дапамажыце непаўналетнім выпрацаваць здаровыя звычкі выкарыстання прылады. Калі дзіцячы рэжым уключаны, у наладах і на працоўным стале будзе дададзены цэтлік функцыі. Уключаючы гэтую функцыю, вы згаджаецеся з &lt;a href=%1$s>Палітыкай прыватнасці дзіцячага рэжыму&lt;/a>."</Data></string>  
+  <string name="get_contact_information_settings">Доступ да кантактаў</string>
+  <string name="permission_reminder_mode_summary_settings">Для выбару тыпаў нагадванняў аб уваходных выкліках</string>
 </resources>

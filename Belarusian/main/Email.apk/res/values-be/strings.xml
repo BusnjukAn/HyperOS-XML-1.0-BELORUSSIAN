@@ -432,8 +432,8 @@
   <string name="download_cancel_confirm_message">Спампаванне будзе спынена</string>
   <string name="download_cancel_confirm_title">Спампаваць гэтае прымацаванне?</string>
   <string name="download_complete_not_cancel">Спампоўка завершана</string>
-  <string name="download_confirm_message">Спампаваць прымацаванні (%1$s)?</string>
-  <string name="download_confirm_title">Спампаваць прымацаванне</string>
+  <string name="download_confirm_message">Гэтае прымацаванне зойме каля %1$s месца ў сховішча. Спампаваць зараз?</string>
+  <string name="download_confirm_title">Спампаваць прымацаванне?</string>
   <string name="download_message_failed_for_too_large">Паведамленне занадта вялікае, каб спампаваць.</string>
   <string name="draft_count_format">" (%1$s)"</string>
   <string name="drawer_bank_bill">Банкаўскія выпіскі</string>
@@ -1863,4 +1863,12 @@
   <string name="notification_mutli_message_content">Націсніце для прагляду</string>
   <string name="sign_in_dialog_title">Абярыце спосаб уваходу</string>
   <string name="no_content_in_body">[Невядома]</string>
+  <string name="microsoft_imap_outlook_download_recommend_content_link">Кліент Outlook</string>
+  <string name="microsoft_imap_outlook_download_recommend_tip">Вы таксама можаце выкарыстоўваць кліент Outlook для доступу да дадатковых функцый электроннай пошты.</string>
+  <string name="microsoft_imap_setting_tip">Немагчыма сінхранізаваць электронныя лісты. Націсніце для ўхілення непаладак.</string>
+  <string name="microsoft_imap_tips_dialog_confirm">Зразумела</string>
+  <string name="microsoft_imap_tips_dialog_content_step_desc">Перайдзіце ў Налады > Пошта > Перасылка і IMAP, затым уключыце IMAP і POP.</string>
+  <string name="microsoft_imap_tips_dialog_content_step_title">Дзеянні</string>
+  <string name="microsoft_imap_tips_dialog_tips">Адкрыйце outlook.com на сваім кампутары і ўключыце IMAP, каб сінхранізаваць электронныя лісты.</string>
+  <string name="microsoft_imap_tips_dialog_title">Уключыць IMAP</string>
 </resources>

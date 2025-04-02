@@ -1784,8 +1784,8 @@
   <string name="ai_generate_text">Стварыць дынамічныя шпалеры</string>
   <string name="ai_generate_title">Стварыць дынамічныя шпалеры?</string>
   <string name="ai_generate_verify_text">Праверка змесціва выявы…</string>
-  <string name="ai_generate_wallpaper_done">Дынамічныя шпалеры ШІ паспяхова згенераваны</string>
-  <string name="ai_generate_wallpaper_fail">Ня атрымалася згенераваць дынамічныя шпалеры ШІ</string>
+  <string name="ai_generate_wallpaper_done">Шпалеры паспяхова згенераваныя</string>
+  <string name="ai_generate_wallpaper_fail">Не атрымалася згенераваць шпалеры</string>
   <string name="ai_generate_wallpaper_fail_message">Абраныя вамі фатаграфіі маглі парушыць нашы правілы. Абярыце новыя фатаграфіі.</string>
   <string name="ai_generating_wallpaper">Стварэнне шпалер…</string>
   <string name="ai_inquire_apply_wallpaper">Ужыць гэтыя шпалеры ?</string>

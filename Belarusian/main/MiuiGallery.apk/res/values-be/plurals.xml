@@ -930,5 +930,16 @@
         <item quantity="other">Увядзіце яшчэ да %d сімвалаў</item>
         <item quantity="one">Увядзіце яшчэ да %d сімвала</item>
     </plurals>
-    
+    <plurals name="picker_title_selection_format_multiple_os2">
+        <item quantity="other">Абярыце %1$d–%2$d фота</item>
+        <item quantity="one">Абярыце %1$d–%2$d фота</item>
+        <item quantity="few">Абярыце %1$d–%2$d фота</item>
+        <item quantity="many">Абярыце %1$d–%2$d фота</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component_format_os2">
+        <item quantity="other">Абярыце %1$d сегментаў</item>
+        <item quantity="one">Абярыце %1$d сегмент</item>
+        <item quantity="few">Абярыце %1$d сегмента</item>
+        <item quantity="many">Абярыце %1$d сегментаў</item>
+    </plurals>
 </resources>

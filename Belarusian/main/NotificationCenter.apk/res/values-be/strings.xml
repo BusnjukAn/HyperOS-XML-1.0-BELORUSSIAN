@@ -178,7 +178,7 @@
   <string name="on">Укл.</string>
   <string name="pm">ПП</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
-  <string name="rule_keyguard_display">Параметры %s</string>
+  <string name="rule_keyguard_display">Фармат</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">С</string>

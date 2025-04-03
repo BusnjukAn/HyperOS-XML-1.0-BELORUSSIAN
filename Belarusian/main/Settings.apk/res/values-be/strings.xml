@@ -3863,7 +3863,7 @@
   <string name="gesture_setting_off">Выключана</string>
   <string name="gesture_setting_on">Уключана</string>
   <string name="gesture_settings_activity_title">Налады жэстаў</string>
-  <string name="gesture_settings_title">Цэтлiкі жэстаў</string>
+  <string name="gesture_settings_title">Функцыі жэстаў</string>
   <string name="gesture_summary_go_back">Правядзіце трыма пальцамі ад левага ці правага боку</string>
   <string name="gesture_summary_go_home">Правядзіце трыма пальцамі ўверх у любым месцы сэнсарнай панэлі</string>
   <string name="gesture_summary_notifications">Правядзіце на галоўным экране трыма пальцамі ўніз</string>

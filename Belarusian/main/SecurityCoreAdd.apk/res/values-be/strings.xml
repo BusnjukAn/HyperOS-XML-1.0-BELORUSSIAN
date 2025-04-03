@@ -782,7 +782,7 @@
   <string name="gesture_hint_swipe_down">Правядзіце ўніз</string>
   <string name="gesture_hint_swipe_up">Правядзіце ўверх</string>
   <string name="gesture_hint_trigger">Разнаванне жэсту…</string>
-  <string name="gesture_settings_title">Цэтлiкі жэстаў</string>
+  <string name="gesture_settings_title">Функцыі жэстаў</string>
   <string name="global_stylus_summary">Пішыце ў любым тэкставым полі і пераўтварыце рукапісны ўвод у тэкст (падтрымліваюцца толькі англійская і кітайская мовы)</string>
   <string name="global_stylus_title">Рэдагаваць рукапісны тэкст</string>
   <string name="global_stylus_title_beta">Клерк (бэта)</string>
@@ -842,7 +842,7 @@
   <string name="keyboard_layout_dialog_title">Выберыце раскладку клавіятуры</string>
   <string name="keyboard_layout_picker_title">Раскладкі клавіятуры</string>
   <string name="keyboard_layouts_label">Клавіятура Xiaomi</string>
-  <string name="keyboard_mouse_touch">Клавіятура, мыш і трекпад</string>
+  <string name="keyboard_mouse_touch">Клавіятура, мыш і трэкпад</string>
   <string name="keyboard_shortcuts_helper">Гарачыя кнопкі</string>
   <string name="keyboard_shortcuts_helper_summary">Адлюстраваць даступныя цэтлiкі</string>
   <string name="knock_edge_area_invalid">Гэты жэст не працуе побач з бакамі экрана</string>
@@ -988,7 +988,7 @@
   <string name="open_maintenance_mode_tips">Вы толькі што выключылі рэжым тэхнічнага абслугоўвання і выдаляеце звязаныя даныя. Паўтарыце спробу пазней</string>
   <string name="other_advanced_settings">Дадатковыя налады</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
-  <string name="pointer_settings_category">Мыш/track pad</string>
+  <string name="pointer_settings_category">Мыш/трэкпад</string>
   <string name="pointer_speed">Хуткасць указальніка</string>
   <string name="power_key_how_power_force_off">Як выканаць прымусовую перазагрузку вашай прылады</string>
   <string name="power_key_how_power_force_off_detail">Націсніце і ўтрымлівайце кнопку сілкавання, пакуль прылада не перазагрузіцца</string>
@@ -1410,8 +1410,8 @@
   <string name="keyboard_layout_thai">Тайскі</string>
   <string name="open_system_optimization">Спачатку ўключыце аптымізацыю сістэмы</string>
   <string name="power_off_press_power_and_volume_up_message">Націсніце кнопкі сілкавання і павелічэння гучнасці</string>
-  <string name="power_off_press_power_key_message">Утрымлівайце кнопку сілкавання %s сек.</string>
-  <string name="power_off_title">Выключыце сілкаванне ці перазагрузіце</string>
+  <string name="power_off_press_power_key_message">Націсніце i ўтрымлівайце кнопку сілкавання %s сек.</string>
+  <string name="power_off_title">Выключэнне сілкавання ці перазагрузка</string>
   <string name="securitycenter_sidebar_box">Бакавая панэль інструментаў</string>
   <string name="support_current_inputmethod">Бягучая клавіятура</string>
   <string name="tablet_screen_settings">Функцыі для планшэтаў</string>

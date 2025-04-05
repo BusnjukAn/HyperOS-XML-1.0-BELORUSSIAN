@@ -474,4 +474,6 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="string_another_device_login">Выкарыстоўваць іншую прыладу</string>
+  <string name="string_another_device_sign_in">Выкарыстоўваць іншую прыладу</string>
 </resources>

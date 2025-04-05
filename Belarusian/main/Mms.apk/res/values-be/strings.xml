@@ -1306,8 +1306,8 @@
   <string name="system_permission_declare_privacy_link">Каб цалкам зразумець свае правы як карыстальніка, а таксама спосабы выкарыстання вашых дадзеных, прачытайце і прыміце нашу %1s.</string>
   <string name="web_content_invalid_hint">Адлюстраванне гэтага элемента абмежавана мясцовымі законамі і пастановамі</string>
   <string name="go_to">"Адкрыць "</string>
-  <string name="message_cannot_send_air_mode">Немагчыма адправіць паведамленнi.\nСпачатку выключыце рэжым палёту.</string>
-  <string name="message_cannot_send_sim_unavailable">Немагчыма адправіць паведамленнi.\nПраверце сваю SIM-карту.</string>
+  <string name="message_cannot_send_air_mode">Адключыце рэжым палёту, каб адпраўляць паведамленні</string>
+  <string name="message_cannot_send_sim_unavailable">Устаўце SIM-карту, каб адпраўляць паведамленні</string>
   <string name="message_failed_and_cotanct_operator">Адбылася памылка. &lt;font color="#1c86ee">Звяжыцеся з вашым аператарам сувязі&lt;/font>.</string>
   <string name="message_failed_and_feedback">Адбылася памылка. &lt;font color="#1c86ee">Паведаміце пра праблему&lt;/font>.</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Адмяніць выбар</string>

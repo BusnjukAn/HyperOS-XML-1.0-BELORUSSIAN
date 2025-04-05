@@ -12179,4 +12179,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="gxzw_anim_download_network_error">Не атрымалася атрымаць дадзеныя</string>
   <string name="gxzw_anim_switch">Уключыць анімацыю адбітка</string>
   <string name="photography_handle_low_battery_notify_title">Абнаўленне прашыўкі ручкі камеры</string>
+  <string name="bt_button_state_close">Выключаны</string>
+  <string name="bt_button_state_open">Уключаны</string>
+  <string name="lock_screen_shortcuts_subtitle">Дзейнічае толькі пры выкарыстанні тэмы \"Класічная\" ці \"Бязмежнасць\"</string>
+  <string name="lock_screen_shortcuts_title">Наладзіць цэтлікі</string>
 </resources>

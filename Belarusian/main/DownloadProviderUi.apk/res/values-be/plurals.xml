@@ -153,4 +153,14 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="action_description_all_paused">
+        <item quantity="other">%s спамповак прыпынены</item>
+        <item quantity="one">%s спампоўка прыпынена</item>
+        <item quantity="few">%s спампоўкi прыпынены</item>
+    </plurals>
+    <plurals name="action_description_all_start">
+        <item quantity="other">Пачаць %s спамповак</item>
+        <item quantity="one">Пачаць %s спампоўку</item>
+        <item quantity="few">Пачаць %s спампоўкi/item>
+    </plurals>
 </resources>

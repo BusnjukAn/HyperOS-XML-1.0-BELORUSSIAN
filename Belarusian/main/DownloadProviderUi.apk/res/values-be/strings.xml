@@ -802,4 +802,12 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="action_description_retry_downloading">Паўторная спроба выканана паспяхова</string>
+  <string name="action_description_retry_failed">Не атрымалася спампаваць</string>
+  <string name="action_description_retry_pending">Паўторная спроба прайшла паспяхова. Спампоўка чакаецца…</string>
+  <string name="cancel_description">Адменена</string>
+  <string name="miuix_item_view_accessibility_unselected">Не абрана</string>
+  <string name="miuix_navigator_category_group_collapsed">Закрыта</string>
+  <string name="miuix_navigator_category_group_expanded">Разгорнута</string>
+  <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string>
 </resources>

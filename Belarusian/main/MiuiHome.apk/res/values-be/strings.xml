@@ -1266,4 +1266,9 @@
   <string name="miuix_progressbar_loading">Секундачку…</string>
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="announce_for_indicator">Старонка %1$d. Усяго старонак: %2$d</string>
+  <string name="maml_download_dialog_message_kb">Для спампоўкі гэтага віджэта трэба %1$d Кб мабільных дадзеных. Спампаваць зараз?</string>
+  <string name="maml_download_dialog_message_mb">Для спампоўкі гэтага віджэта трэба %1$d Мб мабільных дадзеных. Спампаваць зараз?</string>
+  <string name="role_letter_scroller_talkback">Паласа пракруткі</string>
+  <string name="role_page_indicator_talkback">Індыкатар нумара старонкі</string>
 </resources>

@@ -4481,7 +4481,7 @@
   <string name="version_check_update">Праверыць абнаўлення</string>
   <string name="version_update_title">Абнавіць %s</string>
   <string name="allow_all">Дазволіць усім</string>
-  <string name="confirm_allow_all_permission">Дазволіць усім праграмам выкарыстоўваць гэтую функцыю?</string>
+  <string name="confirm_allow_all_permission">Дазволіць усім праграмам выкарыстоўваць гэты дазвол?</string>
   <string name="actionbar_button_up_description">Назад</string>
   <string name="afternoon">Поўдзень</string>
   <string name="am">ДП</string>
@@ -7504,7 +7504,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="audio_optimization_summary_v2">Павялічвае паглыбленьне падчас гульні і аптымізуе шумапрыглушэнне</string>
   <string name="combine_permission_action_foreground">Дазволіць пры выкарыстанні праграмы</string>
   <string name="combine_permission_title">%1$s запытвае наступныя дазволы</string>
-  <string name="cs_gesture_effect_title">Разнаванне жэстаў рук</string>
+  <string name="cs_gesture_effect_title">ШІ рэакцыі на жэсты</string>
   <string name="cs_pickup_enhance">Пашыранае</string>
   <string name="cs_pickup_private">Прыватнае</string>
   <string name="cs_pickup_private_desc">Улоўліваць гук толькі ад пэўных карыстальнікаў</string>
@@ -7660,6 +7660,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string>
   <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_popup_window_default_title">Усплываючае акно</string>
   <string name="miuix_progressbar_loading">Секундачку…</string>
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
@@ -7699,4 +7700,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="talkback_virus_scan_omitted">Не скануецца</string>
   <string name="talkback_virus_scan_risky">Небяспечна</string>
   <string name="talkback_virus_scan_safe">Бяспечна</string>
+  <string name="auto_task_typeface_font_size">Памер шрыфта</string>
+  <string name="auto_task_typeface_font_weight">Таўшчыня шрыфта</string>
+  <string name="game_toolbox_item_joystick_key_mapping">Кнопка кантролера</string>
 </resources>

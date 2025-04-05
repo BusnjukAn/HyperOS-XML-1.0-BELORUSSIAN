@@ -1852,4 +1852,8 @@
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>
     </plurals>
+    <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
+        <item quantity="other">Вы можаце адклікаць згоду праз %d сек.</item>
+        <item quantity="one">Вы можаце адклікаць згоду праз %d сек.</item>
+    </plurals>
 </resources>

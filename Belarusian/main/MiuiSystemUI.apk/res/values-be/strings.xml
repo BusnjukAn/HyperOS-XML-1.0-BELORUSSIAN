@@ -2241,4 +2241,5 @@
   <string name="miui_notification_menu_msg_custom_unfold">Паказваць карыстацкія апавяшчэнні ад \"%1$s\" у вобласці апавяшчэнняў?</string>
   <string name="miui_notification_menu_title_custom_fold">Групаваць карыстацкія апавяшчэнні</string>
   <string name="miui_notification_menu_title_custom_unfold">Спыніць групоўку карыстацкіх апавяшчэнняў</string>
+  <string name="gxzw_icon_access_tips">Іконка адбітка пальца</string>
 </resources>

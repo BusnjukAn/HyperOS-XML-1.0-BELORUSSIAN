@@ -476,4 +476,8 @@
         <item quantity="one">Зарадка. Узровень зарада батарэі зараз складае %d працэнт.</item>
         <item quantity="few">Зарадка. Узровень зарада батарэі зараз складае %d працэнта.</item>
     </plurals>
+    <plurals name="accessibility_descriptions_signal_strength">
+        <item quantity="other">>Узровень сігналу: %1$d з %2$d палос</item>
+        <item quantity="one">>Узровень сігналу: %1$d з %2$d паласы</item>
+    </plurals>
 </resources>

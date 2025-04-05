@@ -651,4 +651,5 @@
   <string name="glasses_download_title">Усталяваць праграму \"Xiaomi Smart Glasses\"</string>
   <string name="request_open_bluetooth_title">Дазволіць уключэнне Bluetooth?</string>
   <string name="sim_identify_failed">Немагчыма адкрыць. Не ўдалося распазнаць SIM-карту.</string>
+  <string name="mijia_glasses_download_title">Спачатку ўсталюйце Mijia Glasses</string>
 </resources>

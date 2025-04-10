@@ -966,8 +966,8 @@
   <string name="keyguard_shortcut_empty">Няма</string>
   <string name="keyguard_shortcut_open_failed">Не атрымалася запусціць праграму. Паспрабуйце ізноў.</string>
   <string name="keyguard_shortcut_slide_enter">Ссуньце, каб адкрыць</string>
-  <string name="keyguard_shortcut_tab_left">Левая</string>
-  <string name="keyguard_shortcut_tab_right">Правая</string>
+  <string name="keyguard_shortcut_tab_left">Злева</string>
+  <string name="keyguard_shortcut_tab_right">Справа</string>
   <string name="keyguard_shortcut_title">Цэтлікі</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_confirm">Зараз вы выкарыстоўваеце набор шпалер. Калі вы прыменіце новую тэму, шпалеры Экрана блакавання і Працоўнага стала будуць заменены. Усё роўна працягнуць?</string>
   <string name="kg_dialog_apply_super_wallpaper_confirm_title">Увага!</string>

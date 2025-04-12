@@ -161,6 +161,6 @@
     <plurals name="action_description_all_start">
         <item quantity="other">Пачаць %s спамповак</item>
         <item quantity="one">Пачаць %s спампоўку</item>
-        <item quantity="few">Пачаць %s спампоўкi/item>
+        <item quantity="few">Пачаць %s спампоўкi</item>
     </plurals>
 </resources>

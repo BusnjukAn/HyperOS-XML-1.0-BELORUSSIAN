@@ -1054,8 +1054,8 @@
   <string name="backup_summary_state_off">Выкл.</string>
   <string name="backup_summary_state_on">Укл.</string>
   <string name="badge_title">Дазволіць лічыльнік на абразку праграмы</string>
-  <string name="band_5G">" (дыяпазон 5 ГГц)"</string>
-  <string name="band_24G">" (дыяпазон 2.4 ГГц)"</string>
+  <string name="band_5G">" (дыяпазон %d ГГц)"</string>
+  <string name="band_24G">" (дыяпазон %f ГГц)"</string>
   <string name="baseband_version">Версія модуля сувязі</string>
   <string name="batch_delete_saved_network">Выдаліць абраныя сеткі: %s?</string>
   <string name="batch_delete_saved_networks">Выдаліць усе абраныя сеткі</string>
@@ -1764,12 +1764,12 @@
   <string name="bluetooth_talkback_input_peripheral">Прылада ўводу</string>
   <string name="bluetooth_talkback_phone">Тэлефон</string>
   <string name="bluetooth_tether_checkbox_text">Bluetooth-мадэм</string>
-  <string name="bluetooth_tethering_available_subtext">Агульны доступ да інтэрнэт-падлучэння тэлефона праз Bluetooth</string>
-  <string name="bluetooth_tethering_device_connected_subtext">Інтэрнэт-падлучэнне тэлефона выкарыстоўваецца 1 прыладай</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">Інтэрнэт-падлучэнне тэлефона выкарыстоўваецца %1$d прыладамі</string>
+  <string name="bluetooth_tethering_available_subtext">Доступ да інтэрнэт-падлучэння тэлефона праз Bluetooth адкрыты</string>
+  <string name="bluetooth_tethering_device_connected_subtext">Доступ да інтэрнэт-падлучэння тэлефона праз Bluetooth адкрыты для %d прылады</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">Доступ да інтэрнэт-падлучэння тэлефона праз Bluetooth адкрыты для %1$d прылад</string>
   <string name="bluetooth_tethering_errored_subtext">Адсутнічае падлучэнне</string>
-  <string name="bluetooth_tethering_off_subtext">Доступ да інтэрнэт-падлучэння праз Bluetooth адключаны</string>
-  <string name="bluetooth_tethering_subtext">Падзяліцеся інтэрнэт-падлучэннем праз Bluetooth</string>
+  <string name="bluetooth_tethering_off_subtext">Доступ да інтэрнэт-падлучэння праз Bluetooth закрыты</string>
+  <string name="bluetooth_tethering_subtext">Абагуліць падлучэнне да інтэрнэту тэлефона праз Bluetooth</string>
   <string name="bluetooth_turning_off">Адключэнне Bluetooth…</string>
   <string name="bluetooth_turning_on">Уключэнне Bluetooth…</string>
   <string name="bluetooth_unlock_add_device">Дадаць прыладу</string>
@@ -2006,9 +2006,9 @@
   <string name="call_records_name_1">Даша Сашына</string>
   <string name="call_records_name_2">Артур Вольскi</string>
   <string name="call_records_name_3">Марыя Калеснiкава</string>
-  <string name="call_records_summary_1">9:35 | 26 секунд</string>
-  <string name="call_records_summary_2">2 жніўня | 12 хв. 24 сек.</string>
-  <string name="call_records_summary_3">2 жніўня | 13 хв. 45 сек.</string>
+  <string name="call_records_summary_1">%1$d:%2$d ДП | %3$d сек.</string>
+  <string name="call_records_summary_2">%1$d жніўня | %2$d хв. %3$d сек.</string>
+  <string name="call_records_summary_3">%1$d жніўня | %2$d хв. %3$d сек.</string>
   <string name="call_settings_primary_user_only">Змяніць налады выклікаў ў Першай прасторы</string>
   <string name="call_settings_summary">Абраць галасавую пошту, перанакіраванне выклікаў, чаканне выклікаў, аўтаматычны вызначальнiк нумару</string>
   <string name="call_settings_title">Налады выклікаў</string>
@@ -2448,7 +2448,7 @@
   <string name="credentials_install">Усталёўка з SD-карты</string>
   <string name="credentials_install_summary">Усталяваць сертыфікаты з SD-карты</string>
   <string name="credentials_not_erased">Нельга ачысц. схов. сертыфік.</string>
-  <string name="credentials_password_too_short">Не менш за 8 сімвалаў</string>
+  <string name="credentials_password_too_short">Не менш за %d сімвалаў</string>
   <string name="credentials_reset">Выдаліць уліковыя дадзеныя</string>
   <string name="credentials_reset_hint">Выдаліце ​​ўсё змесціва?</string>
   <string name="credentials_reset_summary">Выдаліць усе сертыфікаты</string>
@@ -2759,10 +2759,10 @@
   <string name="default_launcher_title">Працоўны стол па змаўчанні</string>
   <string name="default_map_app_title">Праграма \"Карта\"</string>
   <string name="default_phone_app_title">{count,plural, =1{Праграма \"Тэлефон\"}one{Праграмы \"Тэлефон\"}few{Праграмы \"Тэлефон\"}many{Праграмы \"Тэлефон\"}other{Праграмы \"Тэлефон\"}}</string>
-  <string name="default_phone_title">Набраць</string>
+  <string name="default_phone_title">Праграма для выклікаў</string>
   <string name="default_popup_window_title">Усплывальнае акно</string>
   <string name="default_print_service_main_switch_title">Скарыстаць сэрвіс друку</string>
-  <string name="default_rule_name">Таймер 1</string>
+  <string name="default_rule_name">Таймер %d</string>
   <string name="default_see_all_apps_title">Паказаць усе праграмы</string>
   <string name="default_spell_checker">Стандартная праверка правапісу</string>
   <string name="default_string_of_regional_preference">Выкарыстоўваць стандартную праграму</string>
@@ -5019,10 +5019,10 @@
   <string name="long_press_home_key">Доўгае націсканне кнопкі Дадому</string>
   <string name="long_press_menu_key">Доўгае націсканне кнопкі Меню</string>
   <string name="long_press_menu_key_when_lock">Доўгае націсканне кнопкі Меню на экране блакавання</string>
-  <string name="long_press_power_key">Доўгае націсканне кнопкі \"Сілкаванне\"</string>
-  <string name="long_press_power_key_half_of_second">Запуск асістэнта кнопкай \"Сілкаванне\"</string>
-  <string name="long_press_power_key_half_second">Націсніце і ўтрымлівайце кнопку \"Сiлкаванне\" на працягу %s сек.</string>
-  <string name="long_press_power_key_tips"><Data>Націснуць і ўтрымліваць кнопку \"Сілкаванне\" &lt;font color=#999999>хутчэй і зручней&lt;/font></Data></string>
+  <string name="long_press_power_key">Доўгае націсканне на кнопку сілкавання</string>
+  <string name="long_press_power_key_half_of_second">Націсніце і ўтрымлівайце кнопку сілкавання %f сек., каб уключыць Google Асістэнта</string>
+  <string name="long_press_power_key_half_second">Націсніце і ўтрымлівайце кнопку сілкавання %s сек.</string>
+  <string name="long_press_power_key_tips"><Data>Доўгае націсканне на кнопку сілкавання &lt;font color=#999999>Хутчэй і зручней&lt;/font></Data></string>
   <string name="long_press_volume_down">Доўгае націсканне кнопкі змяншэння гучнасці</string>
   <string name="long_time">30 хв.</string>
   <string name="lost_internet_access_cancel">Заставацца ў сетцы Wi-Fi</string>
@@ -6510,7 +6510,7 @@
   <string name="password_unlock_title">Блакаванне</string>
   <string name="passwordIncorrect">Уведзены няправільны пароль</string>
   <string name="pc_install_manager">Устаноўка праз USB</string>
-  <string name="peak_refresh_rate_summary">Аўтаматычна павялічваць частату абнаўлення экрана з 60 да %1$s Гц для некаторага кантэнту. Павялічвае выдатак батарэі.</string>
+  <string name="peak_refresh_rate_summary">Аўтаматычна павялічвае частату абнаўлення пэўнага змесціва да %1$d Гц. Павышае выкарыстанне зараду батарэі.</string>
   <string name="peak_refresh_rate_title">Плыўны экран</string>
   <string name="peek_notification_icon_title">Паказваць абразкі ўваходных апавяшчэнняў</string>
   <string name="performance_category">Прадукцыйнасць</string>
@@ -6626,9 +6626,9 @@
   <string name="power_key_how_power_force_off">Як выканаць прымусовую перазагрузку вашай прылады</string>
   <string name="power_key_how_power_force_off_detail">Націсніце і ўтрымлівайце кнопку сілкавання, пакуль прылада не перазагрузіцца</string>
   <string name="power_key_how_power_off">Як адкрыць старонку завяршэння працы</string>
-  <string name="power_key_how_power_off_detail">Націсніце і ўтрымлівайце кнопку сілкавання на працягу 3 с</string>
+  <string name="power_key_how_power_off_detail">Націсніце і ўтрымлівайце кнопку сілкавання на працягу %d сек.</string>
   <string name="power_key_how_start">Як запусціць Google Асістэнта</string>
-  <string name="power_key_how_start_detail">Утрымлівайце кнопку \"Сілкаванне\" на працягу 0.5 сек. Адпусціце і гаварыце.</string>
+  <string name="power_key_how_start_detail">Утрымлівайце кнопку \"Сілкаванне\" на працягу %f сек. Адпусціце і гаварыце.</string>
   <string name="power_key_start_enjoy">Даведайцеся больш пра Google Асістэнт</string>
   <string name="power_key_start_guide">Запуск Google Асістэнта з дапамогай кнопкі \"Сілкаванне\" на поўнаэкранных прыладах</string>
   <string name="power_label">Сілкаванне</string>
@@ -8163,7 +8163,7 @@
   <string name="sim_action_switch_sub_dialog_text_single_sim">Нельга актываваць адначасова некалькі SIM-карт.\n\nПераключэнне не скасуе абслугоўванне ў аператара \"%1$s\".</string>
   <string name="sim_action_switch_sub_dialog_title">Пераключыцца на аператара \"%1$s\"?</string>
   <string name="sim_action_yes">Так</string>
-  <string name="sim_bad_pin">PIN павінен змяшчаць 4–8 лічбаў</string>
+  <string name="sim_bad_pin">PIN-код мусіць змяшчаць %1$d-%2$d лічбы(-аў)</string>
   <string name="sim_calls_always_use">Заўсёды выкарыстоўваць гэта для выклікаў</string>
   <string name="sim_calls_ask_first_prefs_title">Заўсёды пытацца</string>
   <string name="sim_card">SIM</string>
@@ -9899,7 +9899,7 @@
   <string name="wifi_ap_choose_vendor_dual_band">Двухдыяпазонны</string>
   <string name="wifi_ap_hidden_ssid">Схаваць SSID</string>
   <string name="wifi_ap_prefer_5G">Прыярытэтны дыяпазон 5,0 ГГц</string>
-  <string name="wifi_ap_prefer_6G">Дыяпазон 6.0 Ггц пераважна</string>
+  <string name="wifi_ap_prefer_6G">Дыяпазон %s Ггц пераважна</string>
   <string name="wifi_ap_ssid_off">Выкл.</string>
   <string name="wifi_ap_ssid_on">Укл.</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Пункт доступу перапоўнены</string>
@@ -11004,7 +11004,7 @@
   <string name="accessibility_shortcut_edit_screen_title">Рэдагаванне цэтлікаў спецыяльных магчымасцяў</string>
   <string name="accessibility_shortcut_state_off">Выключана</string>
   <string name="accessibility_tutorial_dialog_message_two_finger_triple">Каб запусціць і спыніць функцыю павелічэння, двойчы націсніце ў любым месцы экрана двума пальцамі.</string>
-  <string name="accessibility_tutorial_dialog_title_two_finger_double">Каб адкрыць, двойчы націсніце на экран двума пальцамі</string>
+  <string name="accessibility_tutorial_dialog_title_two_finger_double">Каб адкрыць, двойчы націсніце на экран %1$d пальцамі</string>
   <string name="accessibility_wifi_other_device">Падлучана да вашай прылады.</string>
   <string name="account_dashboard_title_with_passkeys">Паролі, ключы доступу і акаўнты</string>
   <string name="account_settings_menu_auto_sync_private">Аўтасінхраніз. асабістых дадзеных</string>
@@ -11086,10 +11086,10 @@
   <string name="bluetooth_scanning_on_info_message_auto_on_available">Калі Bluetooth уключаны, ваша прылада можа абменьвацца дадзенымі з іншымі Bluetooth-прыладамі паблізу. Такія функцыі, як \"Хуткі абмен\", \"Знайсці маю прыладу\" і вызначэнне месцазнаходжання прылады, выкарыстоўваюць Bluetooth.\n\Праграмы і службы па-ранейшаму могуць сканаваць прылады паблізу ў любы час, нават калі Bluetooth выключаны. Гэта можна выкарыстоўваць, напрыклад, для паляпшэння функцый і паслуг, заснаваных на месцазнаходжанні. Вы можаце змяніць гэта ў наладах сканавання Bluetooth.</string>
   <string name="bluetooth_screen_auto_on_title">Аўтаматычнае ўключэнне заўтра</string>
   <string name="bluetooth_talkback_hearing_aids">Слыхавыя апараты</string>
-  <string name="bounce_keys">Адмова клавіш</string>
-  <string name="bounce_keys_summary">Уключыць \"Адмову клавіш\" для фізічнай даступнасці клавіятуры</string>
-  <string name="camera_extensions_fallback_description">Уключае праграмную рэалізацыю па змаўчанні пашыраных функцый камеры, такіх як відэаздымка Eyes Free.</string>
-  <string name="camera_extensions_fallback_title">Дазволіць пашырэнні праграмнага забеспячэння камеры</string>
+  <string name="bounce_keys">Ігнараванне паўторнага націскання</string>
+  <string name="bounce_keys_summary">Паўторныя націсканні адной і той жа клавішы, ажыццёўленыя на працягу %1$d мс, ігнаруюцца</string>
+  <string name="camera_extensions_fallback_description">Дазваляе выкарыстоўваць стандартную праграмную рэалізацыю пашыраных функцый камеры, такіх як HDR, Начны рэжым і іншыя пашырэнні для камеры.</string>
+  <string name="camera_extensions_fallback_title">Дазволіць выкарыстанне пашырэнняў ПЗ камеры</string>
   <string name="category_name_about_satellite_messaging">Аб спадарожнікавых паведамленнях</string>
   <string name="category_name_how_it_works">Як гэта працуе</string>
   <string name="category_private">Асабістае</string>
@@ -12128,9 +12128,9 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="photography_handle_emergency_charge_summary">Пачаць экстраную зарадку, калі зарад батарэі апусціцца ніжэй за %1$s</string>
   <string name="photography_handle_emergency_charge_title">Узровень экстранай зарадкі</string>
   <string name="circle_to_search_title">Абвесці для пошуку</string>
-  <string name="gemini_description">Майце зносіны з Gemini, каб атрымаць цудоўныя ідэі. Атрымлівайце дапамогу ў навучанні новымі спосабамі, напісанні падзячных лістоў, планаванні мерапрыемстваў і многім іншым. Выкарыстоўвайце тэкст, голас, фатаграфіі і камеру, каб атрымаць дапамогу новымі спосабамі. <a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the-gemini-app-from-the-google-play-store">Даведайцеся аб даступнасці.</a></string>
-  <string name="gemini_function">Паляпшайце свае ідэі з дапамогай Google Gemini, вашага новага памочніка на аснове штучнага інтэлекту</string>
-  <string name="gemini_setting">Налада Gemini</string>
+  <string name="gemini_description">Размаўляйце ў чаце з Gemini, каб максімальна палепшыць свае ідэі. Атрымайце дапамогу ў навучанні, напісанні падзячных лістоў, планаванні мерапрыемстваў і многім іншым. Выкарыстоўвайце тэкст, голас, фатаграфіі і камеру, каб атрымліваць дапамогу новымі спосабамі. &lt;a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the-gemini-app-from-the-google-play-store">Падрабязней аб даступнасці&lt;/a></string>
+  <string name="gemini_function">Да максімуму палепшыце свае ідэі з дапамогай Gemini ад Google — вашага новага AI-памочніка</string>
+  <string name="gemini_setting">Наладжванне Gemini</string>
   <string name="back_strap_image_new_text">Уключыце гэтую функцыю, каб атрымліваць візуальныя апавяшчэнні і персаналізаваныя светлавыя эфекты</string>
   <string name="back_strap_off">Выкл.</string>
   <string name="back_strap_on">Укл.</string>
@@ -12183,4 +12183,34 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="bt_button_state_open">Уключаны</string>
   <string name="lock_screen_shortcuts_subtitle">Дзейнічае толькі пры выкарыстанні тэмы \"Класічная\" ці \"Бязмежнасць\"</string>
   <string name="lock_screen_shortcuts_title">Наладзіць цэтлікі</string>
+  <string name="bluetooth_xpan_devoption_description">Пашыраная персанальная сетка</string>
+  <string name="ciwlan_channel_name">Галасавая сувязь па мабільным Інтэрнеце</string>
+  <string name="connect_to_windows">Сувязь з Windows</string>
+  <string name="error_apn_type_empty">Поле тыпу APN не можа быць пустым.</string>
+  <string name="gxzw_dialog_message_kddi">Ахоўныя плёнкі могуць замінаць распазнанню адбіткаў пальцаў на экране.</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="mtrl_picker_announce_current_selection_none">няма</string>
+  <string name="pad_application_mode_name">Гарызантальны макет прыкладання</string>
+  <string name="product_page_name_des_super_ai">Ваш разумны персанальны памочнік</string>
+  <string name="search_flash_notifications_settings_title">Успышка званка; ўспышка; апавяшчэнне; хуткі; напамін; ўспышка</string>
+  <string name="search_flip_aod_settings_title">Вонкавы экран; Вялікі экран; Поўны экран</string>
+  <string name="search_flip_application_settings_title">Вонкавы экран; Вялікі экран; Поўны экран</string>
+  <string name="search_flip_dial_settings_title">Вонкавы экран; Вялікі экран; Поўны экран</string>
+  <string name="search_flip_screen_settings_title">Вялікі экран; поўны экран</string>
+  <string name="search_flip_wallpaper_settings_title">Вонкавы экран; Вялікі экран; Поўны экран</string>
+  <string name="side_sheet_accessibility_pane_title">Баковая панэль</string>
+  <string name="text_input_layout_default_content_description">Гэта апісанне кантэнту па змаўчанні</string>
+  <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="user_owner">Уладальнік</string>
+  <string name="zen_mode_schedule_duration">%1$d г., %2$d хв.</string>
+  <string name="zen_mode_set_calendar_category_title">Расклад</string>
+  <string name="zen_mode_set_calendar_link">Выкарыстоўваць каляндар</string>
+  <string name="zen_mode_set_calendar_title">Дадаць каляндар</string>
+  <string name="zen_mode_set_schedule_link">Расклад</string>
+  <string name="zen_mode_set_schedule_title">Усталяваць расклад</string>
+  <string name="zen_modes_add_mode">Дадаць рэжым</string>
+  <string name="zen_modes_list_title">Прыярытэтныя рэжымы</string>
+  <string name="wifi_hotspot_maximize_compatibility">Максімальная сумяшчальнасць</string>
+  <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Дапамагае іншым прыладам знаходзіць гэты пункт доступу. Павышае выкарыстанне зараду батарэi.</string>
+  <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Дапамагае іншым прыладам знаходзіць гэты пункт доступу. Зніжае хуткасць падлучэння пункту доступу.</string>
 </resources>

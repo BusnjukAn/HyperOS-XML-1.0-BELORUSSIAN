@@ -539,20 +539,9 @@
   <string name="sub_title_mishare_switch_mine_desc">Перш чым усталяваць статут атрымання «З гэтага акаўнта», пераканайцеся, што версія сістэмы іншай прылады абноўлена да Xiaomi HyperOS або навейшай, а праграма Абмен файламі абноўлена да версіі 3.0.0 ці навейшай.</string>
   <string name="transfer_to_different_account_summary_ios" formatted="false">%d. На абедзвюх прыладах (Xiaomi і іншых прыладах Android) неабходна ўключыць Абмен файламі ў Цэнтры кіравання. Вы зможаце атрымліваць файлы ад каго заўгодна на працягу %d хвілін.\n%d. На iPhone і iPad неабходна ўключыць Службы ўзаемазвязнасці Xiaomi і пераканацца, што абедзве прылады падлучаны да адной і той жа лакальнай сеткі.</string>
   <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1&gt;%1$d&lt;/xliff:g&gt;. На наўтбуку Xiaomi пераканайцеся, што Xiaomi PC Manager спампаваны, затым уключыце Абмен файламі ў Цэнтры кіравання, каб атрымліваць файлы. Cпіс падтрымліваемых мадэляў кампутараў прыводзіцца &lt;a href=%2$s&gt;тут&lt;/a&gt;.&lt;br&gt;&lt;xliff:g id=mishare_ios_2 refersto=2&gt;%3$d&lt;/xliff:g&gt;. На Mac неабходна ўключыць Службы ўзаемазвязнасці Xiaomi і пераканацца, што абедзве прылады падлучаныя да адной і той жа лакальнай сеткі.</Data></string>
-  <string name="accessibility_sliding_button_state_description_off">Выключана</string>
-  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
-  <string name="accessibility_tab_state_description_unselect">Неабраны</string>
-  <string name="accessibility_tab_statedesc_unselect">Неабраны</string>
   <string name="guide_operation">Правядзіце двума пальцамі ўлево або ўправа, каб пераключыцца.</string>
   <string name="guide_page" formatted="false">Старонка %d з %d старонак</string>
   <string name="international_privacy_dialog_title">Абмен файламі</string>
-  <string name="miuix_accessibility_title">Загаловак</string>
-  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
-  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
-  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
-  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
-  <string name="miuix_progressbar_loading">Загрузка</string>
-  <string name="miuix_show_password">Паказаць пароль</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
   <string name="accessibility_sliding_button_state_description_off">Адключана</string>
   <string name="accessibility_sliding_button_state_description_on">Уключана</string>

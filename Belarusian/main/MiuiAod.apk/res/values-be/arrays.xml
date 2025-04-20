@@ -12,8 +12,8 @@
     </string-array>
     <string-array name="big_time_clock_title_array">
         <item>Сістэмны шрыфт</item>
-        <item>Шырокі квадратны шрыфт</item>
-        <item>Просты чорны шрыфт</item>
-        <item>Шматслаёвы шрыфт</item>
+        <item>Шырокі квадратны</item>
+        <item>Просты чорны</item>
+        <item>Двухслаёвы</item>
     </string-array>
 </resources>

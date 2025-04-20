@@ -491,8 +491,8 @@
   <string name="new_local_button_backup">Рэзервовае капіяванне</string>
   <string name="new_local_button_restore">Аднаўленне</string>
   <string name="new_local_click_to_jump">Націсніце, каб прагледзець падрабязныя інструкцыі</string>
-  <string name="new_local_detail_description">Заўвага:\n%1$d. Скапіруйце рэзервовыя копіі на свой кампутар, каб пазбегнуць страты дадзеных. %2$s.\n%3$d. Рэзервовыя копіі будуць захаваны ў MIUI > Backup > AllBackup.</string>
-  <string name="new_local_detail_description_global">Заўвага.\n%1$d. Скапіюйце рэзервовыя копіі на свой кампутар, каб пазбегнуць страты дадзеных. %2$s.\n%3$d. Рэзервовыя копіі будуць захаваны ў MIUI > Backup > AllBackup.\n%4$d. Некаторыя праграмы могуць не падтрымліваць рэзервовае капіяванне.</string>
+  <string name="new_local_detail_description">Заўвага:\n%1$d. Скапіруйце рэзервовыя копіі на свой кампутар, каб пазбегнуць страты дадзеных. %2$s.\n%3$d. Рэзервовыя копіі будуць захаваны ў MIUI > backup > AllBackup.</string>
+  <string name="new_local_detail_description_global">Заўвага.\n%1$d. Скапіюйце рэзервовыя копіі на свой кампутар, каб пазбегнуць страты дадзеных. %2$s.\n%3$d. Рэзервовыя копіі будуць захаваны ў MIUI > backup > AllBackup.\n%4$d. Некаторыя праграмы могуць не падтрымліваць рэзервовае капіяванне.</string>
   <string name="new_local_tab_backup">Рэзервовае капіяванне</string>
   <string name="new_local_tab_backup_pad">Рэзервовае капіяванне</string>
   <string name="new_local_tab_restore">Аднаўленне</string>
@@ -501,7 +501,7 @@
   <string name="new_more_settings_label">Дадатковыя налады</string>
   <string name="new_pc_backup_content1">%1$d. Адкрыйце \"%2$s\".</string>
   <string name="new_pc_backup_content2">%d. Пачакайце, пакуль усе элементы захоўваюцца.</string>
-  <string name="new_pc_backup_content3">%d. Адкрыйце MIUI > Backup > AllBackup і знайдзіце тэчку рэзервовай копіі ці файл *.zip, які вы шукаеце, па даце ў імені.</string>
+  <string name="new_pc_backup_content3">%d. Адкрыйце MIUI > backup > AllBackup і знайдзіце тэчку рэзервовай копіі ці файл *.zip, які вы шукаеце, па даце ў імені.</string>
   <string name="new_pc_backup_content4">%d. Скапіруйце файл на свой кампутар.</string>
   <string name="new_pc_backup_restore_link">Мабільная прылада</string>
   <string name="new_pc_backup_restore_link_pad">Мабільная прылада</string>
@@ -511,8 +511,8 @@
   <string name="new_pc_backup_summary4">Заўвага: вы таксама можаце капіяваць фатаграфіі і відэа з DCIM.</string>
   <string name="new_pc_restore_content1">%d. Падлучыце мабільную прыладу да кампутара з дапамогай USB-кабеля.</string>
   <string name="new_pc_restore_content1_pad">%d. Падлучыце мабільную прыладу да кампутара з дапамогай кабеля USB.</string>
-  <string name="new_pc_restore_content2">%d. Скапіруйце рэзервовую копію з вашага кампутара ў MIUI > Backup > AllBackup.</string>
-  <string name="new_pc_restore_content2_pad">%d. Скапіруйце рэзервовую копію са свайго кампутара ў MIUI > Backup > AllBackup.</string>
+  <string name="new_pc_restore_content2">%d. Скапіруйце рэзервовую копію з вашага кампутара ў MIUI > backup > AllBackup.</string>
+  <string name="new_pc_restore_content2_pad">%d. Скапіруйце рэзервовую копію са свайго кампутара ў MIUI > backup > AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Адкрыйце \"%2$s\" і абярыце элементы для аднаўлення.</string>
   <string name="new_pc_title">Капіяваць рэзервовыя копіі</string>
   <string name="new_select_file">Аўдыё, відэа і файлы</string>

@@ -1137,4 +1137,7 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="ble_manual_authorization_content">Падайце неабходныя дазволы для пераносу элементаў з дапамогай Mi Трансфер. Вы можаце падаць гэтыя дазволы ў Наладах.</string>
+  <string name="ble_manual_authorization_positive_btn">Налады</string>
+  <string name="ble_manual_authorization_title">Патрабуемыя дазволы</string>
 </resources>

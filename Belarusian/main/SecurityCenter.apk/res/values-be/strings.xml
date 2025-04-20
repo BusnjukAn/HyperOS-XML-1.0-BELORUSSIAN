@@ -7669,8 +7669,8 @@ Xiaomi Gaming Cooler"</string>
   <string name="back_sound_no_support_oversea">SIM %1$d не падтрымлівае гэты план</string>
   <string name="beauty_fun_portrait_center_check">"Рэжым Ultra HD не падтрымлівае FocusFrame"</string>
   <string name="beauty_fun_ultra_clear_check">"FocusFrame не падтрымлівае рэжым Ultra HD"</string>
-  <string name="car_sickness_relief_comment_text">Пры выяўленні руху транспартнага сродку на абодвух баках экрана адлюстроўваюцца кропкі, якія паказваюць, ці рухаецца транспартны сродак, што можа дапамагчы адтэрмінаваць пачатак ўкалыхвання.</string>
-  <string name="car_sickness_relief_example_text_1">Калі транспартны сродак паскараецца ці запавольваецца</string>
+  <string name="car_sickness_relief_comment_text">Пры выяўленні руху аўтамабіля на абодвух баках экрана адлюстроўваюцца кропкі, якія паказваюць, ці рухаецца аўтамабіль, што можа дапамагчы адтэрмінаваць пачатак ўкалыхвання.</string>
+  <string name="car_sickness_relief_example_text_1">Калі аўтамабіль паскараецца ці запавольваецца</string>
   <string name="car_sickness_relief_example_text_2">Калі аўтамабіль паварочвае або мяняе паласу руху</string>
   <string name="car_sickness_remind_time_title">Індыкатары руху</string>
   <string name="car_sickness_title">Дапамога пры ўкалыхванні</string>
@@ -7703,4 +7703,8 @@ Xiaomi Gaming Cooler"</string>
   <string name="auto_task_typeface_font_size">Памер шрыфта</string>
   <string name="auto_task_typeface_font_weight">Таўшчыня шрыфта</string>
   <string name="game_toolbox_item_joystick_key_mapping">Кнопка кантролера</string>
+  <string name="pc_hidemode_performance_chip_title">Прадукцыйнасць (разгон)</string>
+  <string name="pc_power_mode_has_performance_chip">Павышэнне прадукцыйнасці (разгон)</string>
+  <string name="wireless_charging_no_reverser_charge_message">Немагчыма выкарыстоўваць зваротную зарадку, калі падключана зарадная прылада.</string>
+  <string name="wireless_charging_no_reverser_charge_title">Адключыце зарадную прыладу</string>
 </resources>

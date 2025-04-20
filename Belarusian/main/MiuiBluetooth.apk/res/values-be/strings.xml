@@ -634,7 +634,7 @@
   <string name="offline_connecting">Падлучэнне…</string>
   <string name="permgroupdesc_location">Дазволіць %1$s доступ да інфармацыі аб месцазнаходжанні?</string>
   <string name="phone_in_talk">Выклік ужо выконваецца</string>
-  <string name="remove_black_list_title">выдаліць чорны спіс</string>
+  <string name="remove_black_list_title">Выдаліць чорны спіс</string>
   <string name="start_failed_confirm">Зразумела</string>
   <string name="start_failed_content">Устаўце SIM-карту і ўвайдзіце ў акаўнт Xiaomi, каб выкарыстаць абмен дадзенымі паміж прыладамі.</string>
   <string name="start_failed_title">"Немагчыма ўключыць"</string>
@@ -642,7 +642,7 @@
   <string name="user_agreement_confirm">Згодзен</string>
   <string name="user_agreement_content">Сувязь паміж прыладамі — гэта галасавая служба выклікаў на аснове Bluetooth (далей названая \"Гэтая служба\"), якая прадастаўляецца Xiaomi Inc. (далей названая \"Xiaomi\", \"мы\", "наш" ці "нас"). Мы сур\'ёзна ставімся да абароны вашай прыватнасці і асабістай інфармацыі. Мы прадасавiм адпаведныя меры абароны вашай асабістай інфармацыі ў адпаведнасці з патрабаваннямі заканадаўства і галіновымі стандартамі. Калі вы ўключаеце гэтую функцыю, мы атрымліваем доступ да вашых кантактаў, нумару тэлефона, статусу ўваходу ў акаўнт Xiaomi, MAC-адрасу Bluetooth, статусу выкліку і статусу SIM-карты, каб вы маглі мець зносіны з абранымі кантактамі, калі яны не падлучаныя да Інтэрнэту. Калі вы ўключаеце \"Адлюстроўваць месцазнаходжанне\" і \"Уключаць аўтаматычна пры землятрусе\", мы збіраем ваша дакладнае месцазнаходжанне для адлюстравання абраным вамі кантактам.&lt;/b&lt;br&lt;b>Гэтая інфармацыя будзе апрацоўвацца толькі на вашым прыладу і не будуць загружаныя ў воблака.&lt;/b&lt;brПры выкарыстанні сувязі паміж прыладамі патрабуюцца наступныя дазволы:&lt;br&amp;bull; Дазволы Bluetooth: для здзяйснення галасавых выклікаў на найблізкія прылады&lt;br&amp;bull; Доступ да кантактаў: ​​для выяўлення і выкліку бліжэйшых кантактаў&lt;br&amp;bull; Дазвол на падлучэнне да Інтэрнэту: для падлучэння да сеткі і доступу да змесціва карты &lt;br&amp;bull; Доступ да месцазнаходжання: для адлюстравання дакладнага месцазнаходжання выбраным кантактам &lt;br&amp;bull; Дазволы для тэлефона: для доступу да статусу выкліку (сувязь паміж прыладамі не можа выкарыстоўвацца падчас выкліку)&lt;brКалі вы не згодны з вышэйпаказанымі дазволамі, вы не зможаце выкарыстоўваць гэтую службу.&lt;brНекаторыя функцыі прадастаўляюцца іншымі пастаўшчыкамі паслуг. Па гэтай прычыне нам неабходна прадставіць некаторую вашу асабістую інфармацыю гэтым трэцім асобам. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Націсніце тут, каб прагледзець&lt;/a абставіны, пры якіх мы перадаем вашу асабістую інфармацыю нашым афіляваным асобам, партнёрам і трэцім асобам.&lt;brМы будзем апрацоўваць вашу асабістую інфармацыю толькі на працягу перыяду збору, як апісана ў гэтай заяве аб канфiдэнцыяльнасцi або ў адпаведнасці з патрабаваннямі заканадаўства, якое прымяняецца.&lt;brМы стварылі спецыяльны аддзел па абароне асабістай інфармацыі. Калі ў вас ёсць якія-небудзь пытанні ці каментары наконт гэтай заявы аб канфiдэнцыяльнасцi або наконт нашага збору, выкарыстання або раскрыцця вашай асабістай інфармацыі, вы можаце звязацца з намі па адрасе &lt;a href=https://privacy.mi.com/support >https://privacy.mi.com/support&lt;/a>. Звычайна мы адказваем на працягу пятнаццаці працоўных дзён.\n    Націсніце \"Згодзен\", каб пацвердзіць, што вы прачыталі і згодны з гэтай заявай аб прыватнасцi.</string>
   <string name="user_agreement_title">Заява аб прыватнасцi для сувязі паміж прыладамі</string>
-  <string name="virtual_moresttings">дадатковыя налады</string>
+  <string name="virtual_moresttings">Дадатковыя налады</string>
   <string name="config_net_device_ignore">Адмена</string>
   <string name="config_net_device_title_find_headset">Знойдзена \"%1$s\"</string>
   <string name="config_net_download_tips">Усталюйце праграму Mi Здароўе i увайдзіце ў сістэму, каб мець магчымасць падлучыцца да вашай носнай прылады.</string>
@@ -651,4 +651,18 @@
   <string name="glasses_download_title">Усталяваць праграму \"Xiaomi Smart Glasses\"</string>
   <string name="sim_identify_failed">Немагчыма адкрыць. Не ўдалося распазнаць SIM-карту.</string>
   <string name="mijia_glasses_download_title">Спачатку ўсталюйце Mijia Glasses</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_progressbar_loading">Загрузка</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
 </resources>

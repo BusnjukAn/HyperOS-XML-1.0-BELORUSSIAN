@@ -12188,8 +12188,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="connect_to_windows">Сувязь з Windows</string>
   <string name="error_apn_type_empty">Поле тыпу APN не можа быць пустым.</string>
   <string name="gxzw_dialog_message_kddi">Ахоўныя плёнкі могуць замінаць распазнанню адбіткаў пальцаў на экране.</string>
-  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
-  <string name="mtrl_picker_announce_current_selection_none">няма</string>
+  <string name="mtrl_picker_announce_current_selection_none">Няма</string>
   <string name="pad_application_mode_name">Гарызантальны макет прыкладання</string>
   <string name="product_page_name_des_super_ai">Ваш разумны персанальны памочнік</string>
   <string name="search_flash_notifications_settings_title">Успышка званка; ўспышка; апавяшчэнне; хуткі; напамін; ўспышка</string>
@@ -12213,4 +12212,19 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="wifi_hotspot_maximize_compatibility">Максімальная сумяшчальнасць</string>
   <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Дапамагае іншым прыладам знаходзіць гэты пункт доступу. Павышае выкарыстанне зараду батарэi.</string>
   <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Дапамагае іншым прыладам знаходзіць гэты пункт доступу. Зніжае хуткасць падлучэння пункту доступу.</string>
+  <string name="accessibility_sliding_button_state_description_off">Адключана</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_progressbar_loading">Загрузка</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
 </resources>

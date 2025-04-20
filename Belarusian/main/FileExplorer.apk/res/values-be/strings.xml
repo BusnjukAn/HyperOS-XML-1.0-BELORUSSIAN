@@ -556,7 +556,7 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Перайсці ў рэжым уводу тэксту</string>
   <string name="mtrl_picker_toggle_to_year_selection">Націсніце, каб пераключыцца на выбар года</string>
   <string name="name_empty">Вы павінны ўвесці імя.</string>
-  <string name="need_open_content">Дазвольце правадніку атрымліваць доступ да вашых фота і файлаў для выкарыстання гэтай функцыі.</string>
+  <string name="need_open_content">Правадыру патрэбны дазволы на доступ да вашых фота і файлаў, каб адлюстроўваць і рэдагаваць аб\'екты. Вы можаце падаць гэты дазвол у Наладах.</string>
   <string name="need_open_permission">Патрабуюцца дазволы</string>
   <string name="need_read_storage_permission">Правадыр запытвае доступ да памяці прылады</string>
   <string name="network_not_available">Інтэрнэт недаступны</string>
@@ -1180,4 +1180,5 @@
   <string name="application_message">Апавяшчэнні праграм</string>
   <string name="collapse">Згарнуць</string>
   <string name="expand">Разгарнуць</string>
+  <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string>
 </resources>

@@ -1344,7 +1344,7 @@
   <string name="desc_paper_black_talkback">Чорны</string>
   <string name="desc_paper_white_talkback">Белы</string>
   <string name="desc_paper_yellow_talkback">Яечная шкарлупіна</string>
-  <string name="doodle_color_picker_bar">Паўзунок выбару колеру: двойчы націсніце, націсніце і ўтрымлівайце палец, каб выбраць колер.</string>
+  <string name="doodle_color_picker_bar">Панэль выбару колеру. Двойчы націсніце, утрымлівайце і правядзіце пальцам па экране, каб выбраць колеры.</string>
   <string name="export_select_empty">Абярыце хаця б адну старонку</string>
   <string name="handwrite_description_window">Акно рукапіснага ўводу</string>
   <string name="load_note_dialog">Хвілінку…</string>
@@ -1451,4 +1451,7 @@
   <string name="searchview_navigation_content_description">Назад</string>
   <string name="side_sheet_accessibility_pane_title">Бакавая панэль</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="llm_register_preference_title">Нумар рэгістрацыі сэрвісу мадэлі</string> 
+  <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string> 
+  <string name="privacy_preference_title">Нумар рэгістрацыі ICP</string>
 </resources>

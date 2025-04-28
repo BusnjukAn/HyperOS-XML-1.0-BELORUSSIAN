@@ -12174,10 +12174,10 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="status_bar_settings_connected_devices">Падлучаныя прылады</string>
   <string name="status_bar_settings_system_state">Сістэма</string>
   <string name="usb_switch_reverse_charge_failed">Недаступна</string>
-  <string name="gxzw_anim_category_mini">Мінімалістычны</string>
-  <string name="gxzw_anim_download_fail">Памылка загрузкі</string>
-  <string name="gxzw_anim_download_network_error">Не атрымалася атрымаць дадзеныя</string>
-  <string name="gxzw_anim_switch">Уключыць анімацыю адбітка</string>
+  <string name="gxzw_anim_category_mini">Мінімалістычная</string> 
+  <string name="gxzw_anim_download_fail">"Не атрымалася загрузіць"</string> 
+  <string name="gxzw_anim_download_network_error">Адбылася памылка сеткі</string> 
+  <string name="gxzw_anim_switch">Анімацыя адбіткаў</string>
   <string name="photography_handle_low_battery_notify_title">Абнаўленне прашыўкі ручкі камеры</string>
   <string name="bt_button_state_close">Выключаны</string>
   <string name="bt_button_state_open">Уключаны</string>
@@ -12227,4 +12227,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="ringer_mode_setting_summary_default">Адключыць уваходныя выклікі і апавяшчэнні</string> 
+  <string name="ringer_mode_setting_summary_tablet">Адключыць апавяшчэнні</string> 
+  <string name="zen_mode_summary2_default">Не будзе напамінкаў аб уваходных выкліках і апавяшчэннях</string> 
+  <string name="zen_mode_summary2_tablet">Не будзе напамінкаў аб апавяшчэннях</string>
 </resources>

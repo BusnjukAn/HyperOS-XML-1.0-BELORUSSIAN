@@ -1871,4 +1871,6 @@
   <string name="description_chatbot_favorite">Дададзена ў абранае</string>
   <string name="description_chatbot_no_favorite">Не дададзена ў абранае</string>
   <string name="view_more_button">Прагледзець падрабязнасці</string>
+  <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string> 
+  <string name="ok">Зразумела</string>
 </resources>

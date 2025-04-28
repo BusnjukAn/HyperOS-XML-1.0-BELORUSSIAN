@@ -1457,4 +1457,6 @@
   <string name="keyboard_touchpad_click_force_medium">Сярэдні</string>
   <string name="keyboard_touchpad_click_force_strong">Моцны</string>
   <string name="keyboard_touchpad_click_force_weak">Слабы</string>
+  <string name="launch_sound_recorder">Дыктафон</string> 
+  <string name="stylus_ota_fail_special_reason">Не атрымалася абнавіць стілус. Без гэтага абнаўлення ваш стілус можна будзе выкарыстоўваць толькі на экранах з частатой абнаўлення %1$d Гц. Падлучыце стілус паўторна або абнавіце ўручную.</string>
 </resources>

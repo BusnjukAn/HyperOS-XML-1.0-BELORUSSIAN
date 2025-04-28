@@ -2241,5 +2241,16 @@
   <string name="miui_notification_menu_msg_custom_unfold">Паказваць карыстацкія апавяшчэнні ад \"%1$s\" у вобласці апавяшчэнняў?</string>
   <string name="miui_notification_menu_title_custom_fold">Групаваць карыстацкія апавяшчэнні</string>
   <string name="miui_notification_menu_title_custom_unfold">Спыніць групоўку карыстацкіх апавяшчэнняў</string>
-  <string name="gxzw_icon_access_tips">Іконка адбітка пальца</string>
+  <string name="gxzw_icon_access_tips">Абразок адбітка пальца</string>
+  <string name="free_form_recommend_tip">Плаваючае акно</string> 
+  <string name="info_focus_download_end">Загружана</string> 
+  <string name="info_focus_download_start">Адкрыць плаваючае акно і дачакацца заканчэння загрузкі</string> 
+  <string name="info_focus_download_update">Прагрэс загрузкі</string> 
+  <string name="info_focus_match_end">Паспяхова супастаўлена</string> 
+  <string name="info_focus_match_start">Адкрыць плаваючае акно і дачакацца супастаўлення</string> 
+  <string name="info_focus_match_update">Супастаўленне…</string> 
+  <string name="info_focus_rebirth_end">Адроджана</string> 
+  <string name="info_focus_rebirth_start">Адкрыць плаваючае акно і дачакацца адраджэння</string> 
+  <string name="info_focus_rebirth_update">Чаканне адраджэння</string> 
+  <string name="split_screen_recommend_tip">Падзелены экран</string>
 </resources>

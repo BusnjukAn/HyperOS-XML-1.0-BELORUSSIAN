@@ -930,4 +930,5 @@
   <string name="unit_data_short_time_yr">г.</string>
   <string name="finance_interest">Працэнтная стаўка (%s)</string>
   <string name="unit_data_display_currency_mdl">Малдаўскі лей</string>
+  <string name="full_window">Разгарнуць</string>
 </resources>

@@ -789,4 +789,8 @@
   <string name="content_desc_activity_main_already_add_city">Дададзеныя месцазнаходжання</string>
   <string name="thanku_for_feedback">Дзякуй за водгук, вы можаце паўторна адкрыць відэа аб надвор\'і на старонцы налад.</string>
   <string name="logo_accu_content">Адкрыць сайт AccuWeather</string>
+  <string name="view_drag_end_talkback">%1$s, перамешчана ў радок: %2$s</string> 
+  <string name="view_drag_move_talkback">Перамясціць у радок: %s</string> 
+  <string name="view_not_select_talkback">Не абрана: %s</string> 
+  <string name="view_select_talkback">Абрана: %s</string>
 </resources>

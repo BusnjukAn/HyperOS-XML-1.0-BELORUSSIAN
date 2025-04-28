@@ -1091,4 +1091,27 @@
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string>
   <string name="miuix_progressbar_loading">Секундачку…</string>
   <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="content_description_add_button">Кнопка</string>
+  <string name="content_description_add_photo">Дадаць фота</string>
+  <string name="content_description_change">Змяніць аб\'ект</string>
+  <string name="content_description_checked">Націсніце двойчы для пераключэння</string>
+  <string name="content_description_document_sum">Спіс дакументаў, %s старонак</string>
+  <string name="content_description_move">Перамешчана ў канец %s</string>
+  <string name="content_description_movetop">Перамешчана ў пачатак</string>
+  <string name="content_description_next">Наступная старонка</string>
+  <string name="content_description_off">Закрыта</string>
+  <string name="content_description_on">Адкрыта</string>
+  <string name="content_description_page">Старонка %s</string>
+  <string name="content_description_pre">Папярэдняя старонка</string>
+  <string name="content_description_qr_arrow">Стрэлка QR-кода</string>
+  <string name="content_description_select">Выбрана</string>
+  <string name="content_description_switch">Пераключыць</string>
+  <string name="content_description_touch">Кнопка перакладу слоў, правядзіце двума пальцамі для актывацыі</string>
+  <string name="content_description_unselect">Не абрана</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
 </resources>

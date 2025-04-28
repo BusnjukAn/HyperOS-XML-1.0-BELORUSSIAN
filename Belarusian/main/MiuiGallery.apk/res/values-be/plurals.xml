@@ -942,4 +942,32 @@
         <item quantity="few">Абярыце %1$d сегмента</item>
         <item quantity="many">Абярыце %1$d сегментаў</item>
     </plurals>
+    <plurals name="hours_talkback">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="minutes_talkback">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
+    <plurals name="seconds_talkback">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+    </plurals>
+    <plurals name="photo_count_talkback">
+        <item quantity="other">%d шт.</item>
+        <item quantity="one">%d шт.</item>
+    </plurals>
+    <plurals name="send_live_photo_dialog_desc">
+        <item quantity="other">%1$s даслаў вам %2$d жывых фота</item>
+        <item quantity="one">%1$s даслаў вам %2$d жывое фота</item>
+    </plurals>
+    <plurals name="send_live_photo_dialog_desc_received">
+        <item quantity="other">Атрымана %2$d жывых фота ад %1$s</item>
+        <item quantity="one">Атрымана %2$d жывое фота ад %1$s</item>
+    </plurals>
+    <plurals name="send_live_photo_dialog_desc_receiving">
+        <item quantity="other">Атрыманне %2$d жывых фота ад %1$s</item>
+        <item quantity="one">Атрыманне %2$d жывога фота ад %1$s</item>
+    </plurals>
 </resources>

@@ -85,7 +85,7 @@
   <string name="all_apps_setting_drawer_title">З меню праграм</string>
   <string name="all_apps_setting_letter_scrollbar">А-Я</string>
   <string name="all_apps_setting_original_scrollbar">Па змаўчанні</string>
-  <string name="all_apps_setting_scroll_bar">Паласа прагорткі</string>
+  <string name="all_apps_setting_scroll_bar">Паласа пракруткі</string>
   <string name="all_apps_setting_title">Стыль працоўнага стала</string>
   <string name="all_apps_slide_up_tips">Жэст ўверх зарэзерваваны для адкрыцця спісу праграм. Пераключыцеся ў стандартны рэжым працоўнага стала і паспрабуйце зноў.</string>
   <string name="all_apps_suggestions">Прапановы праграм</string>
@@ -115,7 +115,7 @@
   <string name="announce_for_move">Перамясціць у радок %1$d слупок %2$d</string>
   <string name="announce_for_move_hotseat">Перамясціць у док-пазіцыю %1$d</string>
   <string name="announce_for_open_default_preview">Адчынена налады выбару пачатковага экрана</string>
-  <string name="announce_for_open_folder">Адкрыта тэчка %1$s</string>
+  <string name="announce_for_open_folder">Адкрыта \"%1$s\"</string>
   <string name="announce_for_open_launcher_menu">Меню адчынена</string>
   <string name="announce_for_search_bar">Панэль пошуку</string>
   <string name="announce_for_show_uninstall_dialog">Паявіўся дыялог выдалення. Скасуйце або пагадзіцеся.</string>
@@ -1271,4 +1271,13 @@
   <string name="maml_download_dialog_message_mb">Для спампоўкі гэтага віджэта трэба %1$d Мб мабільных дадзеных. Спампаваць зараз?</string>
   <string name="role_letter_scroller_talkback">Паласа пракруткі</string>
   <string name="role_page_indicator_talkback">Індыкатар нумара старонкі</string>
+  <string name="announce_to_drop_folder_grid_view">Адпраўлена на пазіцыю %1$d у тэчцы</string> 
+  <string name="announce_to_drop_folder_icon">Адпраўлена ў \"%1$s\"</string> 
+  <string name="announce_to_drop_hotseat">Дададзена на панэль</string> 
+  <string name="announce_to_drop_shortcut_icon">Адпраўлена ў %1$s і тэчку, створаную %2$s</string> 
+  <string name="announce_to_drop_trash">Адпраўлена ў сметніцу</string> 
+  <string name="announce_to_drop_workspace">Адпраўлена на старонку %1$d, радок %2$d, слупок %3$d</string> 
+  <string name="service_delivery_carousel_desc_talkback">Правядзіце пальцам уверх ці ўніз для выбару іншага віджэту ў групе</string> 
+  <string name="service_delivery_carousel_page_down_talkback">Правядзіце пальцам уніз для пераключэння. Бягучы віджэт: %1$s</string> 
+  <string name="service_delivery_carousel_page_up_talkback">Правядзіце пальцам уверх для пераключэння. Бягучы віджэт: %1$s</string>
 </resources>

@@ -4720,4 +4720,10 @@
   <string name="string_guide_switch_view">Націсніце для змены прадстаўлення</string>
   <string name="text_input_layout_default_content_description">Гэта апісанне кантэнту па змаўчанні</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="gallery_widget_editor_generate_random_text">Згенераваць выпадковы тэкст</string> 
+  <string name="hide">Схаваць</string> 
+  <string name="operation_video_to_live">Пераўтварыць у дынамічнае фота</string> 
+  <string name="seeking_progress_bar_talkback">Перайшлі да: %1$s %2$s %3$s</string> 
+  <string name="share_device_near_share">Сумеснае выкарыстанне прылад</string> 
+  <string name="share_device_near_share_image_describe">Проста паднясіце прыладу да вобласці NFC іншага тэлефона, каб хутка падзяліцца</string>
 </resources>

@@ -1856,4 +1856,8 @@
         <item quantity="other">Вы можаце адклікаць згоду праз %d сек.</item>
         <item quantity="one">Вы можаце адклікаць згоду праз %d сек.</item>
     </plurals>
+    <plurals name="main_minutes">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
 </resources>

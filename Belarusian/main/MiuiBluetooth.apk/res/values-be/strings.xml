@@ -665,4 +665,20 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="celluar_tether_disconect_title_pad_talkback">Планшэт, адключаны</string> 
+  <string name="celluar_tether_disconect_title_phone_talkback">Тэлефон, адключаны</string> 
+  <string name="easy_tether_click_button_description">Націсніце кнопку справа для падлучэння</string> 
+  <string name="easy_tether_click_celluar_button">Націсніце для падлучэння да мабільных дадзеных тэлефона</string> 
+  <string name="easy_tether_click_hotspot_button">Націсніце для падлучэння да пункту доступу тэлефона</string> 
+  <string name="easy_tether_statusbar_auto_connected_title_pad_talkback">Планшэт, падлучаны да пункту доступу %1$s</string> 
+  <string name="easy_tether_statusbar_auto_connected_title_v2_pad_talkback">Планшэт, падлучаны да мабільных дадзеных %1$s</string> 
+  <string name="easy_tether_statusbar_connect_fail_title_car_talk_back">Аўтамабіль не ўдалося падлучыцца</string> 
+  <string name="easy_tether_statusbar_connect_fail_title_pad_talk_back">Планшэт, не ўдалося падлучыцца</string> 
+  <string name="easy_tether_statusbar_connect_fail_title_phone_talk_back">Тэлефон, не ўдалося падлучыцца</string> 
+  <string name="easy_tether_statusbar_connecting_title_car_talk_back">Аўтамабіль, падлучэнне…</string> 
+  <string name="easy_tether_statusbar_connecting_title_pad_talk_back">Планшэт, падлучэнне…</string> 
+  <string name="easy_tether_statusbar_connecting_title_phone_talk_back">Тэлефон, падлучэнне…</string> 
+  <string name="easy_tether_statusbar_dialog_connected_title_car_talk_back">Аўтамабіль, падлучаны</string> 
+  <string name="easy_tether_statusbar_dialog_connected_title_pad_talk_back">Планшэт, падлучаны</string> 
+  <string name="easy_tether_statusbar_dialog_connected_title_phone_talk_back">Тэлефон, падлучаны</string>
 </resources>

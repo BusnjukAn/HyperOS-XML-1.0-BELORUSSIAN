@@ -1753,7 +1753,7 @@
   <string name="power_consume_other">Іншае</string>
   <string name="power_consume_rank_hardware">Апаратныя сродкі</string>
   <string name="power_consume_rank_software">Праграмы</string>
-  <string name="power_consume_rank_title">Выкарыстанне</string>
+  <string name="power_consume_rank_title">Звесткі аб выкарыстанні батарэі</string>
   <string name="power_consume_software_total_format">Праграмы: %s</string>
   <string name="power_customize_giveup_change">Скасаваць змены?</string>
   <string name="power_dialog_cancel">Скасаваць</string>
@@ -7733,4 +7733,13 @@ Xiaomi Gaming Cooler"</string>
   <string name="repeat_prompts">Павольней! Не адпраўляйце некалькі запытаў запар.</string> 
   <string name="title_flow_base_reminder">Напамінкі аб выкарыстанні дадзеных</string> 
   <string name="view_package_info">Прагледзець звесткі аб плане</string>
+  <string name="game_toolbox_auto_brightness_talkback">Аўтаяркасць</string> 
+  <string name="game_toolbox_btn_back_talkback">Назад</string> 
+  <string name="game_toolbox_screen_brightness_talkback">Яркасць экрана</string> 
+  <string name="game_toolbox_settings_talkback">Налады</string> 
+  <string name="usage_type_background_desk_power_consumption_time">Выкарыстанне ў фонавым рэжыме</string> 
+  <string name="usage_type_front_desk_power_consumption_time">Выкарыстанне ў актыўным рэжыме</string> 
+  <string name="usage_type_power_consumption_ratio">Выкарыстанне батарэі</string> 
+  <string name="usage_type_power_consumption_ratio_hint_binary">Энергія, спажываная %3$s, у працэнтах ад энергіі, спажываемай ўсімі праграмамі за апошнія %1$s %2$s</string> 
+  <string name="usage_type_power_consumption_ratio_hint_single">Энергія, спажываная %2$s, у працэнтах ад энергіі, спажываемай ўсімі праграмамі за апошнія %1$s</string>
 </resources>

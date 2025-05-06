@@ -1860,4 +1860,12 @@
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>
     </plurals>
+    <plurals name="usage_type_power_consumption_ratio_hint_hour">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="usage_type_power_consumption_ratio_hint_minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
 </resources>

@@ -115,7 +115,7 @@
   <string name="announce_for_move">Перамясціць у радок %1$d слупок %2$d</string>
   <string name="announce_for_move_hotseat">Перамясціць у док-пазіцыю %1$d</string>
   <string name="announce_for_open_default_preview">Адчынена налады выбару пачатковага экрана</string>
-  <string name="announce_for_open_folder">Адкрыта \"%1$s\"</string>
+  <string name="announce_for_open_folder">Адкрыць \"%1$s\"</string>
   <string name="announce_for_open_launcher_menu">Меню адчынена</string>
   <string name="announce_for_search_bar">Панэль пошуку</string>
   <string name="announce_for_show_uninstall_dialog">Паявіўся дыялог выдалення. Скасуйце або пагадзіцеся.</string>

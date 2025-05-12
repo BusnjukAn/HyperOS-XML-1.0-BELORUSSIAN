@@ -1705,4 +1705,11 @@
   <string name="auto_insert_ai_event_toast">ШІ-памочнік па падзеях уключаны</string>
   <string name="setting_auto_insert">ШІ-памочнік па падзеях</string>
   <string name="count_down_holiday">Зваротны адлік да свят</string>
+  <string name="desk_calendar_image_talkback">Выява настольнага календара</string> 
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string> 
+  <string name="miuix_popup_window_default_title">Усплываючае акно</string> 
+  <string name="month_widget_next_month">Наступны месяц</string> 
+  <string name="month_widget_prev_month">Папярэдні месяц</string> 
+  <string name="view_not_select_talkback">Не абрана: %s</string> 
+  <string name="view_select_talkback">Абрана: %s</string>
 </resources>

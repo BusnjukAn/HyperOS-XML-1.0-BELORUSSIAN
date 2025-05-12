@@ -346,7 +346,7 @@
   <string name="in_the_end">Больш няма аб\'ектаў</string>
   <string name="incall_show_apply">Відэа на выклік</string>
   <string name="incall_show_apply_fail">Не атрымалася ўсталяваць</string>
-  <string name="incall_show_apply_success">Відэа ўстаноўлена. Для адключэння гэтай функцыі \nперайдзіце ў Налады > Гук і вібрацыя > Відэа на выклік.</string>
+  <string name="incall_show_apply_success">Відэа ўстаноўлена</string>
   <string name="incall_show_apply_success_without_ringtone">Відэа ўстаноўлена. У ім няма гуку. Будзе выкарыстаная арыгінальная мелодыя.\nДля адключэння гэтай функцыі перайдзіце ў Налады > Гук і вібрацыя > Відэа на выклік.</string>
   <string name="incall_show_find_more">Знайсці яшчэ</string>
   <string name="incall_show_not_set">Няма відэа на выклік</string>

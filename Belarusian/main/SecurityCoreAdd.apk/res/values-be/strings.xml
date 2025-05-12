@@ -1459,4 +1459,9 @@
   <string name="keyboard_touchpad_click_force_weak">Слабы</string>
   <string name="launch_sound_recorder">Дыктафон</string> 
   <string name="stylus_ota_fail_special_reason">Не атрымалася абнавіць стілус. Без гэтага абнаўлення ваш стілус можна будзе выкарыстоўваць толькі на экранах з частатой абнаўлення %1$d Гц. Падлучыце стілус паўторна або абнавіце ўручную.</string>
+  <string name="check_protocol_msg_title">Адмова ад адказнасці за дадзеныя карыстальніка</string> 
+  <string name="close_maintenance_mode_title">Адключыць рэжым абслугоўвання</string> 
+  <string name="maintenance_mode_data_backup_agreement"><Data>Каб прадухіліць страту дадзеных, &lt;a href=\"%1$s\">стварыце рэзервовую копію дадзеных&lt;/a> перад адпраўкай прылады на абслугоўванне.</Data></string> 
+  <string name="maintenance_mode_user_data_disclaimer_agreement"><Data>Я прачытаў(ла) і згодны(ная) з &lt;a href=\"%1$s\">Адмовай ад адказнасці за дадзеныя карыстальніка&lt;/a></Data></string> 
+  <string name="open_maintenance_mode_title">Уключыць рэжым абслугоўвання</string>
 </resources>

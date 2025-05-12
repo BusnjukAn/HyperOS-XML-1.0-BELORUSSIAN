@@ -1633,4 +1633,8 @@
   <string name="state_selected">Абрана</string>
   <string name="total">усяго</string>
   <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string>
+  <string name="bh_pkg_current_month">Гэты месяц</string> 
+  <string name="bh_pkg_setting_talkback">Налады</string> 
+  <string name="bh_state_not_selected_talkback">Не абрана: SIM %1$s</string> 
+  <string name="bh_state_selected_talkback">Абрана: SIM %1$s</string>
 </resources>

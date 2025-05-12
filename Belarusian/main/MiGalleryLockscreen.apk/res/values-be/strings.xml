@@ -567,7 +567,7 @@
   <string name="passport_account_secure_info_pref_title">Інфармацыя аб акаўнце</string>
   <string name="passport_account_security_info_pref_title">Дадзеныя аб бяспецы</string>
   <string name="passport_account_user_avatar">Фота профілю</string>
-  <string name="passport_account_user_avatar_from_album">Галерэя</string>
+  <string name="passport_account_user_avatar_from_album">Абраць з Галерэі</string>
   <string name="passport_account_user_avatar_from_camera">Камера</string>
   <string name="passport_account_user_base_info">Асноўная інфармацыя</string>
   <string name="passport_account_user_details">Асабістыя дадзеныя</string>
@@ -675,7 +675,7 @@
   <string name="passport_request_error_invalid_token">Не атрымалася праверыць</string>
   <string name="passport_request_error_network">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="passport_request_error_unknown">Сістэмная памылка. Вярніцеся і паспрабуйце ізноў.</string>
-  <string name="passport_request_gallery_permission_message">Дазвольце доступ да Галерэі:&lt;br />Для ўстаноўкі фота профілю</string>
+  <string name="passport_request_gallery_permission_message">Гэтай праграме патрабуецца доступ да абраных элементаў Галерэі, каб усталяваць фатаграфію вашага профіля. Дазволіць?</string>
   <string name="passport_resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у папку для спаму вашай паштовай скрыні.</string>
   <string name="passport_resend_email_reach_limit_title">Занадта шмат спробаў</string>
   <string name="passport_resend_ticket">Паўторна адправіць код</string>
@@ -1193,4 +1193,24 @@
   <string name="switched_on_talkback">Уключана</string>
   <string name="unchecked_talkback">Выключана</string>
   <string name="xiaomi_account_talkback">Xiaomi акаўнт</string>
+  <string name="accessibility_sliding_button_state_description_off">Выключана</string> 
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string> 
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string> 
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string> 
+  <string name="miuix_accessibility_title">Загаловак</string> 
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string> 
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string> 
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыму рэдагавання</string> 
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string> 
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string> 
+  <string name="miuix_progressbar_loading">Секундачку…</string> 
+  <string name="miuix_show_password">Паказаць пароль</string> 
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string> 
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string> 
+  <string name="pasport_register_dialog_message">Стварыць Xiaomi акаўнт па нумару тэлефона %s зараз?</string> 
+  <string name="passport_password_hide_show">Схаваць пароль</string> 
+  <string name="passport_register_dialog_positive">Стварыць</string> 
+  <string name="passport_register_dialog_title">Стварыць Xiaomi акаўнт</string> 
+  <string name="passport_request_permission_title">Патрабуюцца дазволы</string> 
+  <string name="passport_third_sns_service_unavailable">Сэрвіс недаступны. Упэўніцеся, што праграма ўсталявана і не заблакавана.</string>
 </resources>

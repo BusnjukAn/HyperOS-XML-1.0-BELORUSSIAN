@@ -12231,4 +12231,15 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="ringer_mode_setting_summary_tablet">Адключыць апавяшчэнні</string> 
   <string name="zen_mode_summary2_default">Не будзе напамінкаў аб уваходных выкліках і апавяшчэннях</string> 
   <string name="zen_mode_summary2_tablet">Не будзе напамінкаў аб апавяшчэннях</string>
+  <string name="click_play_music">Націсніце для прайгравання рынгтона</string> 
+  <string name="miheadset_MFB_and_minus">Націсніце і ўтрымлівайце шматфункцыянальную кнопку і кнопку \"-\" на %d сек.</string> 
+  <string name="miheadset_double_MFB">Падвойны націск шматфункцыянальнай кнопкі</string> 
+  <string name="miheadset_long_press_MFB">Націсніце і ўтрымлівайце шматфункцыянальную кнопку на %d сек.</string> 
+  <string name="miheadset_long_press_minus">Націсніце і ўтрымлівайце кнопку \"-\" на %d сек.</string> 
+  <string name="miheadset_play_mode">Рэжым прайгравання</string> 
+  <string name="miheadset_plus_and_minus">Націсніце і ўтрымлівайце кнопкі \"+\" і \"-\" на %d сек.</string> 
+  <string name="miheadset_switch_play_order">Змяніць парадак прайгравання</string> 
+  <string name="miheadset_triple_MFB">Трайны націск шматфункцыянальнай кнопкі</string> 
+  <string name="miheadset_turn_on_off_swim">Пачаць/завяршыць заплыў</string> 
+  <string name="nearby_wifi_refresh_running">Абнавіць бег</string>
 </resources>

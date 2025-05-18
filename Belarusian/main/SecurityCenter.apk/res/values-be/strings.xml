@@ -7742,4 +7742,12 @@ Xiaomi Gaming Cooler"</string>
   <string name="usage_type_power_consumption_ratio">Выкарыстанне батарэі</string> 
   <string name="usage_type_power_consumption_ratio_hint_binary">Энергія, спажываная %3$s, у працэнтах ад энергіі, спажываемай ўсімі праграмамі за апошнія %1$s %2$s</string> 
   <string name="usage_type_power_consumption_ratio_hint_single">Энергія, спажываная %2$s, у працэнтах ад энергіі, спажываемай ўсімі праграмамі за апошнія %1$s</string>
+  <string name="app_manager_global_recommend_title">Для вас</string> 
+  <string name="phone_manage_content_description_add">Дадаць</string> 
+  <string name="phone_manage_content_description_remove">Выдаліць</string> 
+  <string name="phone_manage_edit_cancel">Адмена</string> 
+  <string name="phone_manage_edit_confirm">Захаваць змены</string> 
+  <string name="risk_app_restrict_network_btn">Зразумела</string> 
+  <string name="risk_app_restrict_network_message">Падлучэнне гэтай праграмы да Інтэрнэту было абмежавана па патрабаванні кампетэнтных органаў у сувязі з незвычайнымі паводзінамі.</string> 
+  <string name="risk_app_restrict_network_title">Немагчыма падлучыцца да Інтэрнэту</string>
 </resources>

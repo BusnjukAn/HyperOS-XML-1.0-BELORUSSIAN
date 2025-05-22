@@ -1017,8 +1017,8 @@
   <string name="permission_account_desc_pad">Для доступу да інфармацыі акаўнта, якая захоўваецца на вашай прыладзе</string>
   <string name="permission_account_title">Доступ да акаўнтаў прылады</string>
   <string name="permission_account_title_pad">Доступ да акаўнтаў прылады</string>
-  <string name="permission_storage_desc_pad">Для захавання фота і дакументаў на прыладзе</string>
-  <string name="permission_storage_title">Атрымаць доступ да сховішча прылады</string>
+  <string name="permission_storage_desc_pad">Чытанне і захаванне фота і файлаў на гэтай прыладзе</string>
+  <string name="permission_storage_title">Доступ да сховішча прылады</string>
   <string name="permission_storage_title_pad">Доступ да сховішча прылады</string>
   <string name="pre_privacy_recall">Адкліканне згоды</string>
   <string name="privacy_recall_alert_description" formatted="false">Выдаліце ​​ўсе аб\'екты з Mi дыска, каб адклікаць згоду з Палітыкай прыватнасці. Выканайце наступныя дзеянні для выдалення аб\'ектаў:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. На галоўнай старонцы Mi дыска націсніце і ўтрымлівайце аб\'ект, каб з\'явілася кнопка «Выбраць усё». Выкарыстайце гэтую кнопку, каб выбраць да&lt;xliff:g id=delete_number refersto=200>%2d&lt;/xliff:g> файлаў, і выдаліце ​​іх. Калі колькасць файлаў перавышае &lt;xliff:g id=delete_max refersto=200>%3d&lt;/xliff:g>, паўтарыце гэты працэс.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%4d&lt;/xliff:g>. Пасля гэтага ачысціце тэчку «Нядаўна выдаленыя аб\'екты».</string>
@@ -1181,4 +1181,22 @@
   <string name="collapse">Згарнуць</string>
   <string name="expand">Разгарнуць</string>
   <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string>
+  <string name="download_cad_dialog_message">Усталюйце ZWCAD для рэдагавання файлаў CAD. Усталяваць зараз?</string>
+  <string name="download_mi_wps_dialog_message">З дапамогай Mi Сродку прагляду дакументаў вы можаце праглядаць файлы ў любы час і ў любым месцы. Усталяваць зараз?</string>
+  <string name="download_mi_wps_dialog_title">Усталяваць Mi Сродак прагляду дакументаў</string>
+  <string name="file_exception">Адбылася памылка файла. Не ўдалося сканвертаваць.</string>
+  <string name="file_parse_layout_switch_failed">Не ўдалося змяніць макет.</string>
+  <string name="file_parse_loading_please_wait">Хвілінку…</string>
+  <string name="file_parse_menu_excel">Канвертаваць у Excel</string>
+  <string name="file_parse_menu_image">Канвертаваць у выяву</string>
+  <string name="file_parse_menu_pdf">Канвертаваць у PDF</string>
+  <string name="file_parse_menu_ppt">Канвертаваць у PowerPoint</string>
+  <string name="file_parse_menu_word">Канвертаваць у Word</string>
+  <string name="file_parse_running">Выконваецца воблачная апрацоўка…</string>
+  <string name="file_parse_search_result_empty">Нічога не знойдзена</string>
+  <string name="install_dialog_postion">Усталяваць</string>
+  <string name="menu_convert">Фармат канвертавання</string>
+  <string name="parse_webview_image_preview">Старонка %1$d. Усяго старонак: %2$d</string>
+  <string name="talkback_new_folder_name">Імя тэчкі</string>
+  <string name="talkback_new_name">Новае імя</string>
 </resources>

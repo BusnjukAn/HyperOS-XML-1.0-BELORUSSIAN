@@ -710,4 +710,7 @@
   <string name="typec_acc_not_support_cancel">Зразумела</string>
   <string name="typec_acc_not_support_message">Порт USB Type-C гэтага прадукта падтрымлівае толькі лічбавыя аўдыёпрылады.</string>
   <string name="typec_acc_not_support_tile">Прылада не падтрымліваецца</string>
+  <string name="share_device_near_share">Падзяліцца, калі побач</string> 
+  <string name="share_device_near_share_hide">Схаваць</string> 
+  <string name="share_device_near_share_image_describe">Размясціце вобласці NFC двух прылад блізка адзін да аднаго, каб пачаць абмен</string>
 </resources>

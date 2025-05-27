@@ -7750,4 +7750,15 @@ Xiaomi Gaming Cooler"</string>
   <string name="risk_app_restrict_network_btn">Зразумела</string> 
   <string name="risk_app_restrict_network_message">Падлучэнне гэтай праграмы да Інтэрнэту было абмежавана па патрабаванні кампетэнтных органаў у сувязі з незвычайнымі паводзінамі.</string> 
   <string name="risk_app_restrict_network_title">Немагчыма падлучыцца да Інтэрнэту</string>
+  <string name="antispam_add_black_number_message">Вамі ўведзены кароткі нумар. Блакаваць усе нумары, якія пачынаюцца з гэтых лічбаў?</string> 
+  <string name="antispam_add_black_number_negative">Не</string> 
+  <string name="antispam_add_black_number_positive">Так</string> 
+  <string name="antispam_st_all_net">Любое падлучэнне да Інтэрнэту</string> 
+  <string name="antispam_st_smart_close">Выкл.</string> 
+  <string name="antispam_st_smart_update">База дадзеных распазнання нумароў</string> 
+  <string name="antispam_st_smart_update_title">Абнавіць базу дадзеных распазнання нумароў</string> 
+  <string name="antispam_st_wlan_net">Толькі па Wi-Fi</string> 
+  <string name="antispam_st_wlan_net_china">Толькі па Wi-Fi</string> 
+  <string name="pc_battery_charging_error_message">Адбылася памылка зарадкі. Звярніцеся ў цэнтр пасляпродажнага абслугоўвання для рамонту.</string> 
+  <string name="pc_battery_charging_error_title">Памылка зарадкі</string>
 </resources>

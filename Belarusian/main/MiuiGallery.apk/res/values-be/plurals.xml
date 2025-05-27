@@ -134,8 +134,8 @@
     <item quantity="one">%d відэа</item>
   </plurals>
   <plurals name="collage_select_image_dynamic_range">
-    <item quantity="other">Калажы могуць утрымліваць %1$d-%2$d фота</item>
-    <item quantity="one">Калажы могуць утрымліваць %1$d-%2$d фота</item>
+    <item quantity="other">Калажы могуць змяшчаць %1$d-%2$d аб\'ектаў</item>
+    <item quantity="one">Калажы могуць змяшчаць %1$d-%2$d аб\'екта</item>
   </plurals>
   <plurals name="creation_max_image">
     <item quantity="other">Можна выбраць фота: %d</item>
@@ -955,8 +955,9 @@
         <item quantity="one">%d сек.</item>
     </plurals>
     <plurals name="photo_count_talkback">
-        <item quantity="other">%d шт.</item>
-        <item quantity="one">%d шт.</item>
+        <item quantity="other">%d аб\'ектаў</item>
+        <item quantity="one">%d аб\'ект</item>
+        <item quantity="few">%d аб\'екта</item>
     </plurals>
     <plurals name="send_live_photo_dialog_desc">
         <item quantity="other">%1$s даслаў вам %2$d жывых фота</item>
@@ -969,5 +970,10 @@
     <plurals name="send_live_photo_dialog_desc_receiving">
         <item quantity="other">Атрыманне %2$d жывых фота ад %1$s</item>
         <item quantity="one">Атрыманне %2$d жывога фота ад %1$s</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Абрана %1$d элементаў</item>
+        <item quantity="one">Абраны %1$d элемент</item>
+        <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
 </resources>

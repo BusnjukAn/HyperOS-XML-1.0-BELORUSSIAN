@@ -2253,4 +2253,5 @@
   <string name="info_focus_rebirth_start">Адкрыць плаваючае акно і дачакацца адраджэння</string> 
   <string name="info_focus_rebirth_update">Чаканне адраджэння</string> 
   <string name="split_screen_recommend_tip">Падзелены экран</string>
+  <string name="screen_pinning_toast_navigation_talkback_mode">Каб адмяніць замацаванне гэтай праграмы, націсніце і ўтрымлівайце кнопку \"Задачы\"</string>
 </resources>

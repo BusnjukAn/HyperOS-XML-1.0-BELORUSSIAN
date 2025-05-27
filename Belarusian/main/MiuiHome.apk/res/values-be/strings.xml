@@ -700,7 +700,7 @@
   <string name="remove_dialog_message">Вылучаныя праграмы ўтрымліваюць важныя сістэмныя функцыі. Вы можаце выдаліць толькі іх цэтлiкі з працоўнага стала.</string>
   <string name="remove_dialog_title_format">Выдаліць \"%s\" з працоўнага стала?</string>
   <string name="remove_invalidate_gadget_tips">Адзін з выкарыстоўваных вамі віджэтаў больш не даступны. Вы можаце выбраць іншы віджэт.</string>
-  <string name="remove_sys_app_content">Вы зноў зможаце дадаць цэтлiк на працоўны стол у Наладах > Праграмы > Кіраванне цэтлiкамі на працоўным стале. Выдаліць зараз?</string>
+  <string name="remove_sys_app_content">Вы збіраецеся выдаліць цэтлiк гэтай сістэмнай праграмы з працоўнага стала. Вы можаце дадаць яго зноў у меню \"Налады\" > \"Праграмы\" > \"%1$s\". Выдаліць зараз?</string>
   <string name="remove_sys_app_title">Выдаліць цэтлiк з працоўнага стала?</string>
   <string name="reset_cate_tip_content">Будуць адноўлены групы праграм па змаўчанні. Усё роўна працягнуць?</string>
   <string name="reset_cate_tip_title">Аднавіць групы па змаўчанні</string>

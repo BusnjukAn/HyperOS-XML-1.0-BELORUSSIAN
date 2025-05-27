@@ -2218,4 +2218,7 @@
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="pause_download_talkback">Прыпыніць загрузку</string>
   <string name="preview_image_talkback">Папярэдні прагляд</string>
+  <string name="carousel_wallpaper">Перамяшаць шпалеры</string> 
+  <string name="carousel_wallpaper_dlg_apply_home_btn">Толькі на працоўны стол</string> 
+  <string name="carousel_wallpaper_dlg_apply_lock_btn">Ужыць гэты набор шпалер таксама і на экран блакавання?</string>
 </resources>

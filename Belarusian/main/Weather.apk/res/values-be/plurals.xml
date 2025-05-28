@@ -197,4 +197,8 @@
         <item quantity="few">| %1$s чалавекі</item>
         <item quantity="many">| %1$s чалавек</item>
     </plurals>
+    <plurals name="button_confirm_to_second">
+        <item quantity="other">%1$s сек.</item>
+        <item quantity="one">%1$s сек.</item>
+    </plurals>
 </resources>

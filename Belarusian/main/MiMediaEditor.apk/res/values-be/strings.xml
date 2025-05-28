@@ -2567,4 +2567,9 @@
   <string name="video_editor_ok">OK</string>
   <string name="vlog_talkback_process_bar">Панэль пошуку відэа</string>
   <string name="vlog_talkback_video_clip">Відэакліп</string>
+  <string name="photo_editor_talkback_corp_preview">Прадпрагляд</string>
+  <string name="photo_editor_talkback_crop_preview_mirror">Люстраны папярэдні прагляд</string>
+  <string name="vlog_talkback_add_audio">Дадаць аўдыё</string>
+  <string name="vlog_talkback_add_caption">Дадаць тэкст</string>
+  <string name="vlog_talkback_edit_text">Надпіс</string>
 </resources>

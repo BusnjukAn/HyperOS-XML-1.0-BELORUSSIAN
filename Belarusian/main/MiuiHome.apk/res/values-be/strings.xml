@@ -1280,4 +1280,5 @@
   <string name="service_delivery_carousel_desc_talkback">Правядзіце пальцам уверх ці ўніз для выбару іншага віджэту ў групе</string> 
   <string name="service_delivery_carousel_page_down_talkback">Правядзіце пальцам уніз для пераключэння. Бягучы віджэт: %1$s</string> 
   <string name="service_delivery_carousel_page_up_talkback">Правядзіце пальцам уверх для пераключэння. Бягучы віджэт: %1$s</string>
+  <string name="announce_for_launcher_menu_close">Згорнута</string>
 </resources>

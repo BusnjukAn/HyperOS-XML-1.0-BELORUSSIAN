@@ -330,4 +330,6 @@
   <string name="v2_permission_location_desc_two">Для адлюстравання шыраты і даўгаты</string>
   <string name="icp_info">Рэгістрацыйны нумар ICP: Пекін ICP No. 10046444-115A</string>
   <string name="calibrate_rotate_more_again">Выяўлены магнітныя перашкоды. Перад каліброўкай выйдзіце на адкрытую прастору.</string>
+  <string name="mode_normal_switched">Пераключана на звычайны выгляд</string> 
+  <string name="mode_realwolrd_switched">Пераключана на прагляд у рэальным часе</string>
 </resources>

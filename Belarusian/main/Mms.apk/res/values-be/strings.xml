@@ -1874,4 +1874,7 @@
   <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string> 
   <string name="ok">Зразумела</string>
   <string name="page_indicator">Індыкатар старонкі</string>
+  <string name="attachment_panel_show_part_new">Старонка %1$d з %2$d</string> 
+  <string name="clear_recipient">Ачысціць</string> 
+  <string name="search_sms_in_action_mode">Пошук, пошук тэкставых паведамленняў, поле рэдагавання, адключана</string>
 </resources>

@@ -2254,4 +2254,5 @@
   <string name="info_focus_rebirth_update">Чаканне адраджэння</string> 
   <string name="split_screen_recommend_tip">Падзелены экран</string>
   <string name="screen_pinning_toast_navigation_talkback_mode">Каб адмяніць замацаванне гэтай праграмы, націсніце і ўтрымлівайце кнопку \"Задачы\"</string>
+  <string name="accessibility_recent_button">Кнопка меню</string>
 </resources>

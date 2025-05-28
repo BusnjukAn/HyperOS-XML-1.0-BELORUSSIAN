@@ -287,4 +287,7 @@
   <string name="input_method_phrase_no_content_text">Дадайце часта выкарыстоўваемыя фразы, каб хутка ўстаўляць іх пры рэдагаванні</string>
   <string name="clear_clipboard_data_confirm">Ачысціць усё змесціва буфера абмену зараз?</string>
   <string name="input_method_empty_text">Скапіяваныя аб\'екты можна прагледзець і ўставіць сюды</string>
+  <string name="phrase_edit_cancel_select_all_button">Адмяніць выбар</string> 
+  <string name="phrase_edit_select_all_button">Абраць усё</string> 
+  <string name="phrase_edit_select_all_cancel_button">Адмена</string>
 </resources>

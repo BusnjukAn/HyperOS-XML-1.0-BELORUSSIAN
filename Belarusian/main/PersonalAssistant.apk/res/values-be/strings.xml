@@ -1222,4 +1222,15 @@
   <string name="pa_page_metro_code_app_select_more">Больш праграм на гэтай прыладзе</string>
   <string name="pa_page_metro_code_app_select_other">Іншыя праграмы</string>
   <string name="pa_travel_card_label">Наступная паездка</string>
+  <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected">%s, абрана, двойчы краніце, каб выдаліць гэты элемент з віджэта</string> 
+  <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected_only_one">%s, абрана, абярыце хаця б адзін элемент, у дадзены момант абраны толькі гэты элемент</string> 
+  <string name="pa_accessibility_picker_widget_detail_select_image_multi_unselect">%s, не абрана, двойчы краніце, каб дадаць гэты элемент у віджэт</string> 
+  <string name="pa_accessibility_picker_widget_detail_select_image_single">%s, двойчы краніце, каб выкарыстоўваць гэты элемент у віджэце</string> 
+  <string name="pa_picker_purchase_fail_too_many_device_dialog_cancel">Адмена</string> 
+  <string name="pa_picker_purchase_fail_too_many_device_dialog_confirm">Змяніць акаўнт</string> 
+  <string name="pa_picker_purchase_fail_too_many_device_dialog_desc">Кожны акаўнт Xiaomi можа выкарыстоўваць віджэт на %d мабільных прыладах у год. Гэты акаўнт дасягнуў гэтага ліміту. Каб дадаць іншую прыладу, выкарыстоўвайце іншы акаўнт Xiaomi.</string> 
+  <string name="pa_picker_purchase_fail_too_many_device_dialog_title">Немагчыма дадаць больш прылад</string> 
+  <string name="pa_service_delivery_carousel_desc_talkback">Правядзіце пальцам уверх ці ўніз, каб выбраць іншы віджэт у групе</string> 
+  <string name="pa_service_delivery_carousel_page_down_talkback">Правядзіце пальцам уніз, каб пераключыцца. Бягучы віджэт: %1$s</string> 
+  <string name="pa_service_delivery_carousel_page_up_talkback">Правядзіце пальцам уверх, каб пераключыцца. Бягучы віджэт: %1$s</string>
 </resources>

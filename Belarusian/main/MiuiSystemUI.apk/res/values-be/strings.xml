@@ -1381,7 +1381,7 @@
   <string name="quick_settings_screenshot_label">Скрыншот</string>
   <string name="quick_settings_secondary_label_until">Да %s</string>
   <string name="quick_settings_sim_disabled">" (Адключана)"</string>
-  <string name="quick_settings_state_saved">Захаваныя</string>
+  <string name="quick_settings_state_saved">Захавана</string>
   <string name="quick_settings_state_wifi_select_nearby_ap">Абярыце бліжэйшыя сеткі Wi-Fi</string>
   <string name="quick_settings_state_wlan_select_nearby_ap">Абярыце бліжэйшыя сеткі Wi-Fi</string>
   <string name="quick_settings_sync_label">Сінхранізацыя</string>
@@ -2255,4 +2255,7 @@
   <string name="split_screen_recommend_tip">Падзелены экран</string>
   <string name="screen_pinning_toast_navigation_talkback_mode">Каб адмяніць замацаванне гэтай праграмы, націсніце і ўтрымлівайце кнопку \"Задачы\"</string>
   <string name="accessibility_recent_button">Кнопка меню</string>
+  <string name="accessibility_quick_settings_bluetooth_restricted">Падлучэнне абмежавана</string> 
+  <string name="qs_control_big_tile_state_disconnected">Не падлучана</string> 
+  <string name="quick_settings_connected">Падлучана</string>
 </resources>

@@ -897,4 +897,7 @@
   <string name="other_settings_minor_mode_summary"><Data>"Дапамажыце непаўналетнім выпрацаваць здаровыя звычкі выкарыстання прылады. Калі дзіцячы рэжым уключаны, у наладах і на працоўным стале будзе дададзены цэтлік функцыі. Уключаючы гэтую функцыю, вы згаджаецеся з &lt;a href=%1$s>Палітыкай прыватнасці дзіцячага рэжыму&lt;/a>."</Data></string>  
   <string name="get_contact_information_settings">Доступ да кантактаў</string>
   <string name="permission_reminder_mode_summary_settings">Для выбару тыпаў нагадванняў аб уваходных выкліках</string>
+  <string name="language_disabled_description">%1$s, недаступна</string> 
+  <string name="language_selected_description">%1$s, абрана</string> 
+  <string name="language_unselected_description">%1$s, двойчы націсніце для прымянення</string>
 </resources>

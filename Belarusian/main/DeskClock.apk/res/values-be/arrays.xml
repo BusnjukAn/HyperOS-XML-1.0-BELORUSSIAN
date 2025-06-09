@@ -721,4 +721,9 @@
         <item>З ПН па ПТ</item>
         <item>Абраць дні</item>
     </string-array>
+    <string-array name="timezone_search_bottom_sheet_mode_config">
+        <item>Аўта</item>
+        <item>Унізе</item>
+        <item>Плаваючы</item>
+    </string-array>
 </resources>

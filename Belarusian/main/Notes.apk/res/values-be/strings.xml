@@ -1476,4 +1476,13 @@
   <string name="doodle_pencil_stroke_5">Вельмі тоўсты</string>
   <string name="note_select_all_talkback">Усе абраныя</string>
   <string name="note_unselect_all_talkback">Усе абраныя адменены</string>
+  <string name="delete_talkback">Выдаліць, кнопка</string>
+  <string name="menu_hide_talkback">Устанавіць як асабістае, кнопка</string>
+  <string name="menu_move_to_talkback">Перамясціць у, кнопка</string>
+  <string name="menu_pin_talkback">Замацаваць зверху, кнопка</string>
+  <string name="new_notes_create_talkback_des">Націсніце, каб стварыць нататку</string>
+  <string name="new_todo_create_talkback_des">Націсніце, каб стварыць задачу</string>
+  <string name="slider_talkback">Слайдар</string>
+  <string name="todo_item_group_am">ДП</string>
+  <string name="todo_item_group_pm">ПП</string>
 </resources>

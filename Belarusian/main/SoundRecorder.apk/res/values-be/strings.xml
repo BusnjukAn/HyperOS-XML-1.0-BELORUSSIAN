@@ -870,4 +870,11 @@
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="keyguard_shotcuts">Новы запіс</string>
+  <string name="cancel_dialog_message">"Адмяніць адпраўку абраных аб'ектаў?"</string>
+  <string name="cancel_dialog_negative_button">Не скасоўваць</string>
+  <string name="cancel_dialog_positive_button">Адмена</string>
+  <string name="cancel_send">Адмяніць адпраўку</string>
+  <string name="playback_seekbar_content_description">Прагрэс прайгравання</string>
+  <string name="progress_dialog_message">Спампоўка…</string>
+  <string name="wave">Форма сігналу %s</string>
 </resources>

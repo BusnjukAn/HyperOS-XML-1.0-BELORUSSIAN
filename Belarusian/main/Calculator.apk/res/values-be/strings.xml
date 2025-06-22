@@ -947,10 +947,10 @@
   <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="preference_filing_number">Рэгістрацыйны нумар ICP: 10046444-114A</string>
-  <string name="preference_percentage">Алгарытм складання і аднімання працэнтаў</string>
-  <string name="preference_percentage_numericalvalue">Разлічыць па лікавым значэнні</string>
-  <string name="preference_percentage_numericalvalue_comments">Пераўтварыць працэнты ў дзесятковыя дробы і выканаць вылічэнні складання і аднімання.</string>
-  <string name="preference_percentage_proportion">прапарцыйна</string>
-  <string name="preference_percentage_proportion_comments">Множанне працэнта на папярэдні вынік разліку, а затым яго прыбаўленне або адніманне звычайна выкарыстоўваецца для разліку скідак.</string>
+  <string name="preference_percentage">Складанне і адніманне адсоткаў</string> 
+  <string name="preference_percentage_numericalvalue">Па кошце</string> 
+  <string name="preference_percentage_numericalvalue_comments">Пераўтварыцe адсоткi ў дзесятковы дроб, затым дадайце або адніміце.</string> 
+  <string name="preference_percentage_proportion">Па суадносінах</string> 
+  <string name="preference_percentage_proportion_comments">Спачатку прымяніце адсотак да папярэдняга выніку, а затым дадайце або адніміце — ідэальна падыходзіць для зніжак.</string> 
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
 </resources>

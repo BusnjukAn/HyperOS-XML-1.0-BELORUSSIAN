@@ -12242,4 +12242,6 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="miheadset_triple_MFB">Трайны націск шматфункцыянальнай кнопкі</string> 
   <string name="miheadset_turn_on_off_swim">Пачаць/завяршыць заплыў</string> 
   <string name="nearby_wifi_refresh_running">Абнаўленне</string>
+  <string name="toggle_rtt_preference_summary">Тэкст у рэальным часе (RTT) дазваляе выкарыстоўваць тэкст для зносін падчас тэлефоннага выкліку</string> 
+  <string name="toggle_rtt_preference_title">Выклік RTT</string>
 </resources>

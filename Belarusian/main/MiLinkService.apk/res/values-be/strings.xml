@@ -401,7 +401,7 @@
   <string name="device_desc_trust">Давераныя прылады</string>
   <string name="device_permission_authorize_dialog_message">Пасля атрымання гэтага дазволу гэта прылада зможа выкарыстоўваць %s для фатаграфавання і запісу відэа.</string>
   <string name="device_permission_authorize_dialog_title">Даць дазвол камеры на %s</string>
-  <string name="device_permission_dialog_message">Адкрыць Налады > Узаемазвязанасць > Узаемазвязанасць і дазволы на %s і спачатку дайце дазволы камеры.</string>
+  <string name="device_permission_dialog_message">Перайдзіце ў\"Налады\" > \"Узаемазвязанасць\" > \"Узаемазвязанасць і дазволы\" на %s і дайце камеры дазвол на выкарыстанне гэтай функцыі.</string>
   <string name="device_permission_dialog_positive_button">Зразумела</string>
   <string name="device_permission_dialog_title">Даць дазволы на %s</string>
   <string name="device_type_name_pad">Планшэт</string>
@@ -1290,7 +1290,7 @@
   <string name="help_page_step_1st_01_international">%1$d. Уключыце Miracast на Xiaomi TV.</string>
   <string name="local_camera_device">Гэта прылада</string>
   <string name="window_card_ml_find_null_camera">Не атрымалася знайсці камеру ці прыдатную для выкарыстання прыладу паблізу</string>
-  <string name="app_name_vtcamera">Камера для некалькіх прылад</string>
+  <string name="app_name_vtcamera">Выкарыстанне камер некалькіх прылад</string>
   <string name="cancel">Адмена</string>
   <string name="car_card_seat_heat_disabled">Часова недаступна</string>
   <string name="circulate_headset_error_headset_not_worn_single">Каб выкарыстоўваць гэтую функцыю, надзеньце навушнікі</string>
@@ -1580,7 +1580,7 @@
   <string name="temperature_warning_dialog_title">Выкарыстанне камеры для некалькіх прылад немагчыма</string>
   <string name="tv_remote_auth_cancel">Адмена</string>
   <string name="tv_remote_auth_title">Увядзіце праверачны код тэлевізара</string>
-  <string name="connect_settings_share_file">Доступ да файлаў</string>
+  <string name="connect_settings_share_file">Файлы паміж прыладамі</string>
   <string name="connect_settings_summary_share_file">Доступ да лакальных файлаў з бліжэйшых кампутараў</string>
   <string name="appcirculate_toast_app_max_screen_count">Не ўдаецца адкрыць больш вокнаў</string>
   <string name="appcirculate_toast_pad_connection_car">Планшэт падлучаны да аўтамабіля</string>
@@ -1707,4 +1707,14 @@
   <string name="upgrade_accessibility_upgrading">Абнаўленне…</string>
   <string name="upgrade_new_devices_version">Для гэтай прылады даступна абнаўленне</string>
   <string name="using_camera_of_device_description">Выкарыстоўваецца камера %1$s.</string>
+  <string name="circulate_edit_group_title">Калонкі або тэлевізары можна групаваць і адлюстроўваць разам, калі больш за %1$d прылад падлучаны да адной і той жа лакальнай сетк\n</string>
+  <string name="circulate_edit_sound_group_title">Групаваць калонкі</string>
+  <string name="circulate_edit_tv_group_title">Групаваць тэлевізары</string>
+  <string name="circulate_headset_error_group_device_not_support">Спачатку выключыце «Групаваць тэлевізары» ў «Змяніць групы прылад».</string>
+  <string name="circulate_sound_group_title">Група калонак</string>
+  <string name="circulate_tv_group_title">Група тэлевізараў</string>
+  <string name="edit_device_group">Змяніць групы прылад</string>
+  <string name="share_compute_powing_title_pad">Сумеснае выкарыстанне вылічальнай магутнасці з тэлефонам…</string>
+  <string name="share_compute_powing_title_phone">Сумеснае выкарыстанне вылічальнай магутнасці з планшэтам…</string>
+  <string name="state_computing_power">Выкарыстанне вылічальнай падтрымкі</string>
 </resources>

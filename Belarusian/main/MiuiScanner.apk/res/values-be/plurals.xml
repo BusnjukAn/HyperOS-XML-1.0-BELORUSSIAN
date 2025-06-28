@@ -135,4 +135,8 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="content_description_document_sum">
+       <item quantity="other">Дакументы, усяго старонак: %s</item>
+       <item quantity="one">Дакументы, усяго старонак: %s</item>
+    </plurals>
 </resources>

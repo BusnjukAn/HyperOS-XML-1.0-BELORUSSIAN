@@ -900,4 +900,5 @@
   <string name="language_disabled_description">%1$s, недаступна</string> 
   <string name="language_selected_description">%1$s, абрана</string> 
   <string name="language_unselected_description">%1$s, двойчы націсніце для прымянення</string>
+  <string name="title_setting_up_face">Наладзіць дадзеныя твару</string>
 </resources>

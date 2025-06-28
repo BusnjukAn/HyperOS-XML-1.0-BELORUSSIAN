@@ -622,4 +622,12 @@
   <string name="dolby_dax_geq_select_click_tip_talkback">Двойчы націсніце для актывацыі</string>
   <string name="dolby_dax_geq_select_not_selected_talkback">Не абрана</string>
   <string name="dolby_dax_geq_select_selected_talkback">Абрана</string>
+  <string name="super_effect_bass">УЗМАЦНЕННЕ БАСОЎ</string>
+  <string name="super_effect_custom">КАРЫСТАЛЬНІЦКІ ЭФЕКТ</string>
+  <string name="super_effect_default">ПА ЗМАЎЧАННІ</string>
+  <string name="super_effect_eq_reset">СКІНУЦЬ</string>
+  <string name="super_effect_eq_title">НАЛАДА ЭКВАЛАЙЗЕРА</string>
+  <string name="super_effect_surround">3D-ГУК</string>
+  <string name="super_effect_title">СУПЕРЭФЕКТ</string>
+  <string name="super_effect_voice">ЧЫСТЫ ГОЛАС</string>
 </resources>

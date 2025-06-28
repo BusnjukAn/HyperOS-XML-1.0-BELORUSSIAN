@@ -760,8 +760,8 @@
   <string name="select_item_summary_loading">Хвілінку…</string>
   <string name="select_mi_summary">Xiaomi і Redmi</string>
   <string name="select_mi_title">Xiaomi</string>
-  <string name="select_old_device_title">Выберыце мадэль старой прылады</string>
-  <string name="selected">Выбрана</string>
+  <string name="select_old_device_title">Абярыце тып старой прылады</string>
+  <string name="selected">Абрана</string>
   <string name="send">Даслаць</string>
   <string name="send_verification_code_fail">Не атрымалася адправіць код пацверджання</string>
   <string name="send_verification_code_fail_tips">Пераканайцеся, што на прыладзе Apple выкананы ўваход у гэты ўліковы запіс. У адваротным выпадку вы не зможаце атрымаць код.</string>
@@ -1140,4 +1140,7 @@
   <string name="ble_manual_authorization_content">Падайце неабходныя дазволы для пераносу элементаў з дапамогай Mi Трансфер. Вы можаце падаць гэтыя дазволы ў Наладах.</string>
   <string name="ble_manual_authorization_positive_btn">Налады</string>
   <string name="ble_manual_authorization_title">Патрабуемыя дазволы</string>
+  <string name="accessbility_install_qrcode">Усталяваць QR-код</string>
+  <string name="accessbility_item_collapsed">Згорнута</string>
+  <string name="accessbility_item_expanded">Разгорнута</string>
 </resources>

@@ -1868,4 +1868,28 @@
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>
     </plurals>
+    <plurals name="biometric_too_many_failed_confirmation_attempts_footer">
+        <item quantity="one">Паспрабуйце зноў праз %d секунду</item>
+        <item quantity="few">Паспрабуйце зноў праз %d секунды</item>
+        <item quantity="many">Паспрабуйце зноў праз %d секунд</item>
+        <item quantity="other">Паспрабуйце зноў праз %d секунд</item>
+    </plurals>
+    <plurals name="medical_info_person_age">
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d гады</item>
+        <item quantity="many">%d гадоў</item>
+        <item quantity="other">%d гадоў</item>
+    </plurals>
+    <plurals name="medical_info_sp_text_height">
+        <item quantity="one">%d см.</item>
+        <item quantity="few">%d см.</item>
+        <item quantity="many">%d см.</item>
+        <item quantity="other">%d см.</item>
+    </plurals>
+    <plurals name="medical_info_sp_text_weight">
+        <item quantity="one">%d кг.</item>
+        <item quantity="few">%d кг.</item>
+        <item quantity="many">%d кг.</item>
+        <item quantity="other">%d кг.</item>
+    </plurals>
 </resources>

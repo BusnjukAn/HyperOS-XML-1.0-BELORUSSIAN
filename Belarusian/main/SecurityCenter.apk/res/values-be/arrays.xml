@@ -233,4 +233,20 @@
         <item>У руху</item>
         <item>Увесь час</item>
     </string-array>
+    <string-array name="biometric_face_retry">
+        <item>Паспрабуйце яшчэ раз з выявай твару</item>
+        <item>Выкарыстаць адбітак пальца або пароль</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_new_arrays">
+        <item>Не вызначана</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_gender_arrays">
+        <item>Не вызначана</item>
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
 </resources>

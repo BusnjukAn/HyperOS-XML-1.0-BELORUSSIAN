@@ -432,4 +432,12 @@
   <string name="fivega_enhanced_network_gl_title">Параметры сеткі 5G+</string>
   <string name="ulca_switch_summary">Уключыце для паляпшэння якасці ўзыходзячай сувязі. Фактычны эфект залежыць ад сеткі вашага аператара.</string>
   <string name="ulca_switch_title">ULCA</string>
+  <string name="bwp_switch_summary">Выкарыстоўваць BWP для адладкі. Даступна толькі пры падтрымцы аператарам.</string>
+  <string name="bwp_switch_title">BWP</string>
+  <string name="rrc_inactive_switch_summary">Выкарыстоўваць неактыўны стан RRC для адладкі. Даступна толькі пры падтрымцы аператарам.</string>
+  <string name="rrc_inactive_switch_title">Неактыўны стан RRC</string>
+  <string name="rrc_segmentation_switch_summary">Выкарыстоўваць сегментацыю RRC для адладкі. Даступна толькі пры версіі пратакола R16 або R17 і падтрымцы аператарам.</string>
+  <string name="rrc_segmentation_switch_title">Сегментацыя RRC</string>
+  <string name="wus_switch_summary">Выкарыстоўваць WUS для адладкі. Даступна толькі пры версіі пратакола R16 або R17 і падтрымцы аператарам.</string>
+  <string name="wus_switch_title">WUS</string>
 </resources>

@@ -714,4 +714,6 @@
   <string name="share_device_near_share_hide">Схаваць</string> 
   <string name="share_device_near_share_image_describe">Размясціце вобласці NFC двух прылад блізка адзін да аднаго, каб пачаць абмен</string>
   <string name="user_switching_message">Пераключэнне на %1$s…</string>
+  <string name="miui_splitscreen_not_support_left_right_toast">\"%1$s\" не падтрымлівае гарызантальны рэжым падзелу экрана</string>
+  <string name="miui_splitscreen_not_support_top_bottom_toast">\"%1$s\" не падтрымлівае вертыкальны рэжым падзелу экрана</string>
 </resources>

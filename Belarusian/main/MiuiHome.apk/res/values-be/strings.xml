@@ -1282,4 +1282,5 @@
   <string name="service_delivery_carousel_page_up_talkback">Правядзіце пальцам уверх для пераключэння. Бягучы віджэт: %1$s</string>
   <string name="announce_for_launcher_menu_close">Згорнута</string>
   <string name="announce_folder_close">Закрыць \"%1$s\"</string>
+  <string name="accessibility_recent_task_clear_info">Ачысціць усе Нядаўнія</string>
 </resources>

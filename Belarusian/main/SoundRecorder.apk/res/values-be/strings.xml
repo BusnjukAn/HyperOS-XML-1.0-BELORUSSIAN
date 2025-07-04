@@ -830,7 +830,7 @@
   <string name="tips_for_build_database">Трымайце прыладу падлучанай да зараднай прылады. Яна прааналізуе гэты запіс хутчэй, калі экран будзе выключаны.</string>
   <string name="translate_complete_toast">Пераклад завершаны</string>
   <string name="year_month_day_format">dd.MM.yyyy</string>
-  <string name="year_month_day_hour_minute_format">dd.MM.yyyy hh.mm</string>
+  <string name="year_month_day_hour_minute_format">dd.MM.yyyy HH.mm</string>
   <string name="airecorder_mic_in_use_while_in_call_tip">"Немагчыма запісваць, калі выкарыстоўваецца мікрафон"</string>
   <string name="airecorder_record_while_in_call_tip">"Немагчыма запісваць падчас выклікаў"</string>
   <string name="mic_in_use_while_in_call_tip">"Немагчыма запісваць, калі выкарыстоўваецца мікрафон"</string>
@@ -877,4 +877,7 @@
   <string name="playback_seekbar_content_description">Прагрэс прайгравання</string>
   <string name="progress_dialog_message">Спампоўка…</string>
   <string name="wave">Форма сігналу %s</string>
+  <string name="recorder_finished">Запіс завершаны</string>
+  <string name="recorder_started">Запіс пачаты</string>
+  <string name="day_in_week_hour_minute_format">EE HH.mm</string>
 </resources>

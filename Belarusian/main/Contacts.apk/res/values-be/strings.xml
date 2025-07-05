@@ -1637,4 +1637,6 @@
   <string name="bh_pkg_setting_talkback">Налады</string> 
   <string name="bh_state_not_selected_talkback">Не абрана: SIM %1$s</string> 
   <string name="bh_state_selected_talkback">Абрана: SIM %1$s</string>
+  <string name="all_selected">Абрана ўсё</string> 
+  <string name="none_selected">Адменена вылучэнне ўсяго</string>
 </resources>

@@ -658,6 +658,15 @@
   <string name="super_volume_initial_remind_toast">Узмацненне гучнасці ўключана. Прылада можа награвацца і спажываць больш энергіі.</string> 
   <string name="super_volume_nearly_full_toast">Узмацненне гучнасці ўключана</string> 
   <string name="wordless_mode_subtitle_text">Уключыце, каб адлюстроўваць пазнакі абразкоў у Цэнтры кіравання</string> 
-  <string name="wordless_mode_title_text">Паказваць пазнакі абразкоў</string>
+  <string name="wordless_mode_title_text">Паказваць пазнакі абразкоў у Цэнтры кіравання</string>
   <string name="shutdown_menu">Паўзунок выключэння</string>
+  <string name="qs_item_drag_and_sort">Перацягніце для перагрупоўкі</string>
+  <string name="volume_dialog_shown_accessibility_talkback">Гучнасць функцыі \"Спецыяльныя магчымасці\" устаноўлена на %1$s</string>
+  <string name="volume_dialog_shown_alarm_talkback">Гучнасць гадзінніка ўстаноўлена на %1$s</string>
+  <string name="volume_dialog_shown_call_talkback">Гучнасць выліку ўстаноўлена на %1$s</string>
+  <string name="volume_dialog_shown_music_talkback">Гучнасць музыкі ўстаноўлена на %1$s</string>
+  <string name="volume_dialog_shown_notification_talkback">Гучнасць апавяшчэнняў устаноўлена на %1$s</string>
+  <string name="volume_dialog_shown_ring_tone_talkback">Гучнасць мелодыі ўстаноўлена на %1$s</string>
+  <string name="volume_dialog_shown_unknown_talkback">Гучнасць устаноўлена на %1$s</string>
+  <string name="volume_dialog_shown_voice_assistant_talkback">Гучнасць функцыі \"Галасавы памочнік\" устаноўлена на %1$s</string>
 </resources>

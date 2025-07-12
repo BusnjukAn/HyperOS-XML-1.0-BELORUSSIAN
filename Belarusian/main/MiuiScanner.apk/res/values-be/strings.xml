@@ -1114,4 +1114,5 @@
   <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="aon_recognize_code_lottie_res">Хуткае сканаванне</string>
 </resources>

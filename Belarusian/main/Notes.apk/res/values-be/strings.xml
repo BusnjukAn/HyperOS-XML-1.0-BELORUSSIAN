@@ -1485,4 +1485,10 @@
   <string name="slider_talkback">Слайдар</string>
   <string name="todo_item_group_am">ДП</string>
   <string name="todo_item_group_pm">ПП</string>
+  <string name="audio_pause_talkback">Прыпыніць</string>
+  <string name="audio_play_talkback">Прайграць</string>
+  <string name="audio_stop_talkback">Спыніць</string>
+  <string name="no_export_multi_image">Абмен некалькімі выявамі не падтрымліваецца</string>
+  <string name="turn_on_the_recorder_talkback">Адкрыць Дыктафон</string>
+  <string name="user_agreement">Карыстальніцкае пагадненне</string>
 </resources>

@@ -1464,4 +1464,37 @@
   <string name="maintenance_mode_data_backup_agreement"><Data>Каб прадухіліць страту дадзеных, &lt;a href=\"%1$s\">стварыце рэзервовую копію дадзеных&lt;/a> перад адпраўкай прылады на абслугоўванне.</Data></string> 
   <string name="maintenance_mode_user_data_disclaimer_agreement"><Data>Я прачытаў(ла) і згодны(ная) з &lt;a href=\"%1$s\">Адмовай ад адказнасці за дадзеныя карыстальніка&lt;/a></Data></string> 
   <string name="open_maintenance_mode_title">Уключыць рэжым абслугоўвання</string>
+  <string name="accessibility_sliding_button_state_description_off">Адключана</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="genimi_wake_up_guide_know_v2">Не, дзякуй</string>
+  <string name="genimi_wake_up_guide_press_power_and_volume_up_message_v2">Націсніце кнопкі сілкавання і павелічэння гучнасці, каб выключыць прыладу</string>
+  <string name="genimi_wake_up_guide_press_power_key_message_for_assistant_v2">Націсніце і ўтрымлівайце кнопку сілкавання на працягу %sсек., каб атрымаць доступ да Асістэнта</string>
+  <string name="genimi_wake_up_guide_press_power_key_message_for_gemini_v2">Націсніце і ўтрымлівайце кнопку сілкавання на працягу %sсек., каб атрымаць доступ да Gemini</string>
+  <string name="genimi_wake_up_guide_settings_v2">Перайсці ў налады</string>
+  <string name="genimi_wake_up_guide_title_v2">Палепшаныя параметры кнопкі сілкавання</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
+  <string name="miuix_progressbar_loading">Загрузка</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="power_off_press_power_and_volume_up_message_v2">Адначасова націсніце кнопкі сілкавання і павелічэння гучнасці</string>
+  <string name="power_off_press_power_key_message_v2">Утрымлівайце кнопку сілкавання %s с</string>
+  <string name="power_off_title_v2">Выключэнне</string>
+  <string name="stylus_ota_cancel">Адмена</string>
+  <string name="stylus_ota_fail">Не атрымалася абнавіць</string>
+  <string name="stylus_ota_fail_reason">Не атрымалася абнавіць прашыўку. Зноў падключыце стылус альбо абнавіце ўручную.</string>
+  <string name="stylus_ota_manual">Абнавіць уручную</string>
+  <string name="stylus_ota_manual_as_lowversion">Абнавіце стілус да апошняй версіі, каб выкарыстоўваць яго</string>
+  <string name="stylus_ota_popup_describe">Абнаўлення прашыўкі</string>
+  <string name="stylus_ota_popup_sub_describe">Выконваецца абнаўленне прашыўкі. Не чапайце экран і не рухайце стілусам.</string>
+  <string name="freeform_recommend_open_switch_summary_fold_no_joyose">Пры чаканні таксі або каршэрынгу атрымайце падказку адкрыць праграму ў плаваючым акне на вонкавым экране, у плаваючым акне або на падзеленым экране на ўнутраным экране</string>
+  <string name="freeform_recommend_open_switch_summary_no_joyose">Пры чаканні таксі або каршэрынгу атрымайце падказку адкрыць праграму ў плаваючым акне або на падзеленым экране</string>
+  <string name="freeform_recommend_open_switch_summary_phone_no_joyose">Пры чаканні таксі або каршэрынгу атрымайце падказку адкрыць праграму ў плаваючым акне</string>
 </resources>

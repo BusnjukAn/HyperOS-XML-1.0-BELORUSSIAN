@@ -1011,7 +1011,7 @@
   <string name="aod_gradient_8">Градыент светла-жоўтага</string>
   <string name="aod_gradient_9">Градыент аранжавага і жоўтага</string>
   <string name="aod_gradient_10">Градыент аранжавага і фіялетавага</string>
-  <string name="aod_gradient_11">Градыент ружовага і аранжавага</string>
+  <string name="aod_gradient_11">Мятны градыент</string>
   <string name="aod_pure_color_1">Белы</string>
   <string name="aod_pure_color_2">Чырвона-аранжавы</string>
   <string name="aod_pure_color_3">Светла-каралавы</string>
@@ -1048,4 +1048,24 @@
   <string name="right_vertical">Па вертыкалі справа</string>
   <string name="settings_view_btn_stoped">Выключана</string>
   <string name="settings_view_switch_type">Пераключальнік</string>
+  <string name="animation_clock_panel1">Сіне-ружовы спіральны гадзіннік</string>
+  <string name="animation_clock_panel2">Светла-сіні спіральны гадзіннік</string>
+  <string name="animation_clock_panel3">Аранжавы спіральны гадзіннік</string>
+  <string name="animation_clock_panel4">Сіне-фіялетавы спіральны гадзіннік</string>
+  <string name="format_month_day_style_interactive_pets">d.M</string>
+  <string name="horizontal_clock">Гарызантальны гадзіннік</string>
+  <string name="miui_depth_pets_moth_format">d.MMM</string>
+  <string name="oneline_clock_with_cactus">Кактус з гадзіннікам</string>
+  <string name="oneline_clock_with_forest">Лес з гадзіннікам</string>
+  <string name="oneline_clock_with_ghost">Фрактал з гадзіннікам</string>
+  <string name="oneline_clock_with_spaceman">Касманаўт з гадзіннікам</string>
+  <string name="oneline_clock_with_spirit">Чатырохліснік з гадзіннікам</string>
+  <string name="oneline_clock_with_succulent">Сукулент з гадзіннікам</string>
+  <string name="tiny_bubble_date_format">d.M</string>
+  <string name="tiny_bubble_date_week_content_description">dd MMM EEEE</string>
+  <string name="tiny_bubble_date_week_format">d.M EEE</string>
+  <string name="vertical_clock">Вертыкальны гадзіннік</string>
+  <string name="vertical_clock_with_paint">Вертыкальны гадзіннік з карцінай</string>
+  <string name="vertical_clock_with_planet">Вертыкальны гадзіннік з планетай</string>
+  <string name="vertical_clock_with_shadow">Вертыкальны гадзіннік з ценем</string>
 </resources>

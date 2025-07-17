@@ -3084,7 +3084,7 @@
   <string name="ew_main_warning_list_tips">Выгляд</string>
   <string name="ew_main_warning_list_title">Гісторыя папярэджанняў</string>
   <string name="ew_push_message">Меркаваная інтэнсіўнасць: %s. Чакайце лёгкай трасяніны побач з вамі.</string>
-  <string name="ew_push_title">Папярэджаньне пра землятрус для %s</string>
+  <string name="ew_push_title">Трывога | Землятрус магнітудай %2$s побач з %1$s</string>
   <string name="ew_setting_desc_message">"Сістэма ацэньвае інтэнсіўнасць землятрусу на аснове велічыні землятрусу, месцазнаходжання эпіцэнтра і адлегласці ад вас. Чым больш інтэнсіўнасць землятрусу, тым больш разбурэнняў можа выклікаць землятрус ваша месцазнаходжанне. Калі меркаваная інтэнсіўнасць перавышае 2.0, вы атрымаеце папярэджанне аб моцным землятрусе; калі меркаваная інтэнсіўнасць ніжэй 2.0, вы можаце атрымліваць сістэмныя паведамлення."</string>
   <string name="ew_setting_desc_title">Аб ацэнцы інтэнсіўнасці</string>
   <string name="ew_setting_more_title">Больш падрабязна пра папярэджанні аб землятрусах</string>
@@ -7924,4 +7924,9 @@ Xiaomi Gaming Cooler"</string>
   <string name="warning_car_accident_demo_start_text4">Пасля выкліку вы ўбачыце наступнае</string>
   <string name="warning_car_accident_demo_start_text5">Дэманстрацыя завершана. Вы можаце паўтарыць яе.</string>
   <string name="warning_car_accident_demo_top_text1">Выклік 112</string>
+  <string name="app_manager_ad_text_btn_resume">Аднавіць</string> 
+  <string name="connected_devices_permission_summary">Кіраванне доступам да гэтай прылады</string> 
+  <string name="delete_connected_devices">Выдаліць выбраныя прылады зараз?</string> 
+  <string name="delete_connected_devices_title">Выдаліць %1$s зараз?</string> 
+  <string name="power_dialog_super_save_msg_p2">Рэжым максімальнага энергазберажэння адключае задні дысплей і абмяжоўвае большасць энергаёмістых функцый, зніжаючы прадукцыйнасць прылады, каб як мага даўжэй захаваць даступнасць асноўных функцый (напрыклад, выклiкаў, SMS і падклучэння да сеткі). Уключыць рэжым максімальнага энергазберажэння?</string>
 </resources>

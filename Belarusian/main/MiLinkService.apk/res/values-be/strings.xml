@@ -93,7 +93,7 @@
   <string name="car_air_con_back_switch_open">Уключыць кандыцыянер для задняга сядзення</string>
   <string name="car_air_con_switch_close">Выключыць аўтамабільны кандыцыянер</string>
   <string name="car_air_con_switch_open">Уключыць аўтамабільны кандыцыянер</string>
-  <string name="car_card_air_control_backseat_air">Заднія сядзенні</string>
+  <string name="car_card_air_control_backseat_air">Кандыцыянер другога рада</string>
   <string name="car_card_air_temperature_minus">Зменшыць тэмпературу кандыцыянера</string>
   <string name="car_card_air_temperature_plus">Павялічыць тэмпературу кандыцыянера</string>
   <string name="car_card_air_temperature_text">Тэмпература</string>
@@ -401,7 +401,7 @@
   <string name="device_desc_trust">Давераныя прылады</string>
   <string name="device_permission_authorize_dialog_message">Пасля атрымання гэтага дазволу гэта прылада зможа выкарыстоўваць %s для фатаграфавання і запісу відэа.</string>
   <string name="device_permission_authorize_dialog_title">Даць дазвол камеры на %s</string>
-  <string name="device_permission_dialog_message">Перайдзіце ў\"Налады\" > \"Узаемазвязанасць\" > \"Узаемазвязанасць і дазволы\" на %s і дайце камеры дазвол на выкарыстанне гэтай функцыі.</string>
+  <string name="device_permission_dialog_message">На %s перайдзіце ў \"Налады\" > \"Канфідэнцыяльнасць і бяспека\" > \"Узаемазлучанасць і Дазволы\" і дайце камеры дазвол на выкарыстанне гэтай функцыі.</string>
   <string name="device_permission_dialog_positive_button">Зразумела</string>
   <string name="device_permission_dialog_title">Даць дазволы на %s</string>
   <string name="device_type_name_pad">Планшэт</string>
@@ -1717,4 +1717,13 @@
   <string name="share_compute_powing_title_pad">Сумеснае выкарыстанне вылічальнай магутнасці з тэлефонам…</string>
   <string name="share_compute_powing_title_phone">Сумеснае выкарыстанне вылічальнай магутнасці з планшэтам…</string>
   <string name="state_computing_power">Выкарыстанне вылічальнай падтрымкі</string>
+  <string name="device_permission_dialog_message_global_old">У наладах %s перайдзіце ў раздзел \"Узаемазлучанасць\" > \"Узаемазлучанасць і дазволы\" і дайце камеры дазволу, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="inter_connect_setting_unavailable_dialog_message">Адкрыйце \"Налады\" > \"Узаемазлучанасць\", каб уключыць функцыю \"Выкарыстанне камер некалькіх прылад\".</string>
+  <string name="inter_connect_setting_unavailable_dialog_positive_button">Зразумела</string>
+  <string name="inter_connect_setting_unavailable_dialog_title">Выкарыстанне камер некалькіх прылад</string>
+  <string name="start_forbidden_by_glasses_camera_in_use_toast">Камера акуляраў выкарыстоўваецца. Паспрабуйце яшчэ раз пазней.</string>
+  <string name="start_forbidden_by_glasses_temperature_high_toast">Вашыя акуляры перагрэліся. Паспрабуйце яшчэ раз пазней.</string>
+  <string name="wifi_disabled_dialog_message">Уключыце Wi-Fi на сваёй прыладзе, каб выкарыстоўваць камеру некалькіх прылад.</string>
+  <string name="wifi_disabled_dialog_positive_button">Зразумела</string>
+  <string name="wifi_disabled_dialog_title">Выкарыстанне камер некалькіх прылад</string>
 </resources>

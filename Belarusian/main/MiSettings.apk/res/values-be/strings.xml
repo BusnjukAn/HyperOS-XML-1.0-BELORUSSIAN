@@ -1474,4 +1474,6 @@
   <string name="search_continue_limit">Абмежуйце час бесперапыннага выкарыстання прылады</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
   <string name="text_input_layout_default_content_description">Гэта апісанне змесціва па змаўчанні</string>
+  <string name="minors_should_open">Уключыць Дзіцячы рэжым зараз?</string>
+  <string name="minors_should_open_summary">З Дзіцячым рэжымам вы можаце дапамагчы непаўналетнім выпрацаваць здаровыя звычкі выкарыстання прылады. Уключыць зараз?</string>
 </resources>

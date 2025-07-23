@@ -466,7 +466,7 @@
   <string name="passport_account_secure_info_pref_title">Інфармацыя аб акаўнце</string>
   <string name="passport_account_security_info_pref_title">Дадзеныя аб бяспецы</string>
   <string name="passport_account_user_avatar">Фота профілю</string>
-  <string name="passport_account_user_avatar_from_album">Галерэя</string>
+  <string name="passport_account_user_avatar_from_album">Выбраць з галерэі</string>
   <string name="passport_account_user_avatar_from_camera">Камера</string>
   <string name="passport_account_user_base_info">Асноўная інфармацыя</string>
   <string name="passport_account_user_details">Асабістыя дадзеныя</string>
@@ -572,7 +572,7 @@
   <string name="passport_request_error_invalid_token">Не атрымалася праверыць</string>
   <string name="passport_request_error_network">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="passport_request_error_unknown">Сістэмная памылка. Вярніцеся і паспрабуйце ізноў.</string>
-  <string name="passport_request_gallery_permission_message">Дазвольце доступ да Галерэі:&lt;br />Для ўстаноўкі фота профілю</string>
+  <string name="passport_request_gallery_permission_message">Праграме патрабуецца доступ да выбраных элементаў галерэі для ўстаноўкі фота профілю. Дазволіць зараз?</string>
   <string name="passport_resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у папку для спаму вашай паштовай скрыні.</string>
   <string name="passport_resend_email_reach_limit_title">Занадта шмат спробаў</string>
   <string name="passport_resend_ticket">Паўторна адправіць код</string>
@@ -1179,7 +1179,7 @@
   <string name="new_unregistered_dialog_content">Магчыма, гэта праграма не падтрымліваецца ў вашым бягучым рэгіёне або не прызначана для распаўсюджвання. Адпаведная інфармацыя аб ICP рэгістрацыі адсутнічае. %1$s.</string>
   <string name="new_unregistered_dialog_content_clickable">Даведацца больш пра палітыку рэгістрацыі</string>
   <string name="new_unregistered_dialog_title">Немагчыма знайсці інфармацыю аб ICP рэгістрацыі</string>
-  <string name="app_installing_not_allow_2">Усталёўка была заблакаваная. Шукайце \"Усталёўка невядомых праграм\" у Наладах, каб змяніць свае перавагі.</string>
+  <string name="app_installing_not_allow_2">Усталёўка была заблакаваная. Знайдзіце \"Усталёўка невядомых праграм\" у Наладах, каб змяніць параметры.</string>
   <string name="browser_downloads">Спампаваць Mi Браўзер</string>
   <string name="tango_dialog_content">Уключыце рэжым сумяшчальнасці праграм, каб мець магчымасць усталёўваць %1$d-бітныя праграмы.</string>
   <string name="tango_dialog_title">Рэжым сумяшчальнасці праграм</string>
@@ -1325,4 +1325,11 @@
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="negative_number_talkback">Адмоўнае %1$d</string>
   <string name="safe_mode_tip_arrow_talkback">Націсніце, каб адкрыць налады Mi Абароны</string>
+  <string name="app_installing_not_allow_2_with_name">Праграма %1$s не можа ўсталяваць іншую праграму. Знайдзіце \"Усталёўка невядомых праграм\" у Наладах, каб змяніць параметры.</string>
+  <string name="pasport_register_dialog_message">Стварыць Xiaomi акаўнт з дапамогай нумара тэлефона %s зараз?</string>
+  <string name="passport_password_hide_show">Схаваць пароль</string>
+  <string name="passport_register_dialog_positive">Стварыць</string>
+  <string name="passport_register_dialog_title">Стварэнне Xiaomi акаўнта</string>
+  <string name="passport_request_permission_title">Патрабуюцца дазволы</string>
+  <string name="passport_third_sns_service_unavailable">Служба недаступная. Упэўніцеся, што праграма ўсталявана і не заблакавана.</string>
 </resources>

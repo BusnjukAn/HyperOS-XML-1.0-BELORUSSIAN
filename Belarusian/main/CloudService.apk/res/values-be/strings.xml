@@ -1013,8 +1013,8 @@
   <string name="e2ee_loading">Секундачку…</string>
   <string name="e2ee_loading_close">Адключэнне…</string>
   <string name="e2ee_loading_open">Уключэнне…</string>
-  <string name="e2ee_name_data_protection">пашыраная абарона дадзеных</string>
-  <string name="e2ee_result_close">пашыраная абарона дадзеных адключаная</string>
+  <string name="e2ee_name_data_protection">Пашыраная абарона дадзеных</string>
+  <string name="e2ee_result_close">Пашыраная абарона дадзеных адключаная</string>
   <string name="e2ee_result_close_failed">Не ўдалося адключыць</string>
   <string name="e2ee_result_close_failed_tip">Немагчыма адключыць гэтую функцыю. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
   <string name="e2ee_result_close_tip">Гэтая функцыя адключана на ўсіх прыладах, якія раней яе выкарыстоўвалі. Дадзеныя, абароненыя гэтай функцыяй, больш не падтрымліваюць скразное шыфраванне.</string>

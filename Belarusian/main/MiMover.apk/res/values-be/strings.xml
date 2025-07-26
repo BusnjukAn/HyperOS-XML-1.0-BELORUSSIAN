@@ -910,7 +910,7 @@
   <string name="trans_detail_qq_data">Дадзеныя QQ (у тым ліку гісторыя чатаў)</string>
   <string name="trans_detail_wechat_data">Дадзеныя WeChat (у тым ліку гісторыя чатаў)</string>
   <string name="trans_install_guide_new_content_first">Адскануйце гэты QR-код пры дапамозе новай прылады.\nСпампуйце і ўсталюйце праграму Mi Трансфер.</string>
-  <string name="trans_install_guide_old_content_first">Адскануйце QR-код пры дапамозе старой прылады, каб загрузіць і ўсталяваць Mi Трансфер.</string>
+  <string name="trans_install_guide_old_content_first">Адскануйце гэты QR-код са старой прылады, каб спампаваць і ўсталяваць Mi Трансфер.</string>
   <string name="trans_install_guide_text">Адскануйце для абнаўлення Mi Трансфер</string>
   <string name="trans_intro_title">Пытанні і адказы</string>
   <string name="trans_main_activity_tutor_first">Перанос дадзеных на новую прыладу</string>
@@ -1143,4 +1143,23 @@
   <string name="accessbility_install_qrcode">Усталяваць QR-код</string>
   <string name="accessbility_item_collapsed">Згорнута</string>
   <string name="accessbility_item_expanded">Разгорнута</string>
+  <string name="permission_application_summary">Для перадачы ўсталяваных праграм</string>
+  <string name="permission_application_title">Доступ да спіса праграм</string>
+  <string name="permission_call_summary">Для перадачы гісторыі выклiкаў</string>
+  <string name="permission_call_title">Доступ да гісторыі выклiкаў</string>
+  <string name="permission_contacts2_summary">Для перадачы кантактаў</string>
+  <string name="permission_contacts2_title">Доступ да кантактаў</string>
+  <string name="permission_external_storage_summary">Для перадачы музыкі, аўдыё, фота і відэа</string>
+  <string name="permission_external_storage_title">Доступ да сховішча</string>
+  <string name="permission_location_summary_china">Для выяўлення бліжэйшых кропак Wi-Fi і злучэння старой і новай прылад</string>
+  <string name="permission_location_summary_gl">Для выяўлення бліжэйшых кропак Wi-Fi і злучэння старой і новай прылад</string>
+  <string name="permission_location_title">Доступ да месцазнаходжання</string>
+  <string name="permission_mms_summary">Для перадачы тэкставых і мультымедыйных паведамленняў</string>
+  <string name="permission_mms_title">Доступ да SMS і MMS</string>
+  <string name="permission_music_summary">Для перадачы музычных і аўдыёфайлаў</string>
+  <string name="permission_music_title">Доступ да музыкі і аўдыё</string>
+  <string name="permission_picture_summary">Для перадачы фота і відэа</string>
+  <string name="permission_picture_title">Доступ да фота і відэа</string>
+  <string name="sender_finish_bottom_tips_pad"><Data>"Пераканайцеся, што вы захавалі ўсе важныя дадзеныя перад &lt;a href='%1s'>выдаленнем дадзеных на гэтай прыладзе&lt;/a>."</Data></string>
+  <string name="sender_finish_bottom_tips_phone"><Data>"Пераканайцеся, што вы захавалі ўсе важныя дадзеныя перад &lt;a href='%1s'>выдаленнем дадзеных на гэтай прыладзе&lt;/a>."</Data></string>
 </resources>

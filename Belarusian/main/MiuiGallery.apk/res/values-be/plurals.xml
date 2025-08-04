@@ -895,7 +895,7 @@
     </plurals>
     <plurals name="other_group_name">
         <item quantity="other">%1$s і %2$d іншых людзей</item>
-        <item quantity="one">%1$s і %2$d іншы чалавек</item>
+        <item quantity="one">%1$s і яшчэ %2$d чалавек</item>
         <item quantity="few">%1$s і %2$d іншых чалавека</item>
     </plurals>
     <plurals name="photo_picker_title_format">
@@ -903,7 +903,7 @@
         <item quantity="one">Абярыце %d фота</item>
     </plurals>
     <plurals name="picker_overview_page_title">
-        <item quantity="other">Выбрана %1$d элементаў</item>
+        <item quantity="other">Абрана %1$d элементаў</item>
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>

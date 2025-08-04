@@ -156,9 +156,9 @@ ID вашага акаўнта:%s"</string>
   <string name="delete_action">Выдаліць</string>
   <string name="delete_bank_card_message">Пасля выхаду банкаўскія карткі Mi Pay і карткі NFC будуць выдалены.</string>
   <string name="delete_bank_card_title">Увага</string>
-  <string name="delete_device_btn">Выдаліць</string>
+  <string name="delete_device_btn">Выдаліць прыладу</string>
   <string name="delete_device_failed">Немагчыма выдаліць прыладу</string>
-  <string name="delete_device_notice">Пасля выдалення прылады будзе ажыццяўлёны выхад з Xiaomi акаўнта аўтаматычна. Вы не зможаце выкарыстоўваць гэтую прыладу для доступу да фота, паведамленняў ці іншага змесціва, якое захоўваецца ў вашам акаўнце.</string>
+  <string name="delete_device_notice">Пасля выдалення прылады будзе ажыццяўлён выхад з Xiaomi акаўнта аўтаматычна. Вы не зможаце выкарыстоўваць гэтую прыладу для доступу да фота, паведамленняў ці іншага змесціва, якое захоўваецца ў вашам акаўнце.</string>
   <string name="deny">Забараніць</string>
   <string name="device_delete_success_message">Калі вы не заходзілі ў акаўнт на гэтай прыладзе, неадкладна змяніце пароль.</string>
   <string name="device_delete_success_title">Выхад з акаўнта адбыўся</string>
@@ -1246,4 +1246,36 @@ ID:%s
   <string name="wear_account_auth_failed_message">"Выканайце наступныя дзеянні, каб зноў увайсці ў сістэму:
 %1$d. Падключыце тэлефон і носную прыладу.
 %2$d. Адкрыйце Mi Здароўе і ўвайдзіце ў сістэму."</string>
+  <string name="accessibility_sliding_button_state_description_off">Адключана</string>
+  <string name="accessibility_sliding_button_state_description_on">Уключана</string>
+  <string name="accessibility_tab_state_description_unselect">Не абрана</string>
+  <string name="cloud_service_space_over_quota">Перавышаны ліміт</string>
+  <string name="device_id">ID прылады</string>
+  <string name="device_list_error_tip"><Data>Не атрымалася загрузіць. &lt;a href=>Паспрабуйце зноў&lt;/a></Data></string>
+  <string name="device_recent_login_time">Апошні ўваход</string>
+  <string name="get_device_info_error">Немагчыма атрымаць інфармацыю аб прыладзе</string>
+  <string name="miuix_accessibility_title">Загаловак</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыма рэдагавання</string>
+  <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
+  <string name="miuix_appcompat_accessibility_start_edit_action_mode">Пачаць рэдагаванне</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплывальнае акно</string>
+  <string name="miuix_progressbar_loading">Загрузка</string>
+  <string name="miuix_show_password">Паказаць пароль</string>
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="no_network_refresh_btn">Абнавіць</string>
+  <string name="passport_error_server_msg">Праверце налады сеткі і абнавіце старонку</string>
+  <string name="passport_password_hide_show">Схаваць пароль</string>
+  <string name="passport_two_factor_auth_dialog_desc">Калі вы ўключыце двухфактарную аўтэнтыфікацыю, вы выйдзеце са свайго Xiaomi акаўнта на іншых прыладах і вэб-сайтах. Усё роўна ўключыць?</string>
+  <string name="passport_two_factor_auth_dialog_negative_btn">Скасаваць</string>
+  <string name="passport_two_factor_auth_dialog_positive_btn">Уключыць</string>
+  <string name="passport_two_factor_auth_dialog_title">Выйсці на іншых прыладах</string>
+  <string name="passport_two_factor_set_password_hint">Усталюйце пароль акаўнта, каб выкарыстоўваць двухфактарную аўтэнтыфікацыю</string>
+  <string name="passport_two_factor_set_phone_dialog_desc">Усталюйце пароль акаўнта, каб уключыць двухфактарную аўтэнтыфікацыю.</string>
+  <string name="passport_two_factor_set_phone_dialog_negative_btn">Скасаваць</string>
+  <string name="passport_two_factor_set_phone_dialog_positive_btn">Усталяваць</string>
+  <string name="passport_two_factor_set_phone_dialog_title">Устанавіць пароль ад акаўнта</string>
+  <string name="passport_two_factor_set_phone_hint">Дадайце нумар тэлефона, каб выкарыстоўваць двухфактарную аўтэнтыфікацыю</string>
 </resources>

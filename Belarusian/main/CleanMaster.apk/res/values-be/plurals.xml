@@ -423,4 +423,10 @@
         <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> набору дублікатаў файлаў&lt;/Data></item>
         <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> набор дублікатаў файлаў&lt;/Data></item>
     </plurals>
+    <plurals name="summary_delete_apk">
+        <item quantity="other">Назаўсёды выдаліць %d абраных праграм?</item>
+        <item quantity="one">Назаўсёды выдаліць %d абраную праграму?</item>
+        <item quantity="few">Назаўсёды выдаліць %d абраных праграмы?</item>
+        <item quantity="many">Назаўсёды выдаліць %d абраных праграм?</item>
+    </plurals>
 </resources>

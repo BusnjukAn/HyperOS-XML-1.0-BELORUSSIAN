@@ -953,4 +953,5 @@
   <string name="preference_percentage_proportion">Па суадносінах</string> 
   <string name="preference_percentage_proportion_comments">Спачатку прымяніце адсотак да папярэдняга выніку, а затым дадайце або адніміце — ідэальна падыходзіць для зніжак.</string> 
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="pad_handwritten_floating_button_text">Кнопка \"Рукапісны разлік\"</string>
 </resources>

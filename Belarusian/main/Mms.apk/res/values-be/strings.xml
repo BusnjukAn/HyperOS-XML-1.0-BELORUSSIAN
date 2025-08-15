@@ -1877,4 +1877,7 @@
   <string name="attachment_panel_show_part_new">Старонка %1$d з %2$d</string> 
   <string name="clear_recipient">Ачысціць</string> 
   <string name="search_sms_in_action_mode">Пошук, пошук тэкставых паведамленняў, поле рэдагавання, адключана</string>
+  <string name="beidou_audio_not_support_multi_recipient">"Зараз немагчыма адпраўляць галасавыя паведамленні некалькім атрымальнікам"</string> 
+  <string name="beidou_image_not_support_multi_recipient">"Зараз немагчыма адпраўляць выявы некалькім атрымальнікам"</string> 
+  <string name="beidou_support_location_tips">Для выкарыстання сэрвісаў BeiDou патрабуецца доступ да вашага месцазнаходжання.</string>
 </resources>

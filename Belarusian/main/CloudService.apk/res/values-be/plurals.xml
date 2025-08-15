@@ -336,4 +336,62 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="micloud_preference_family_detail">
+        <item quantity="other">Даступна для %1$d чалавек. Члены сям\'і выкарысталі %2$s.</item>
+        <item quantity="one">Даступна для %1$d чалавека. Член сям\'і выкарыстаў %2$s.</item>
+    </plurals>
+    <plurals name="micloud_preference_items_count">
+        <item quantity="other">%s элементаў</item>
+        <item quantity="one">%s элемент</item>
+        <item quantity="few">%s элемента</item>
+    </plurals>
+    <plurals name="micloud_preference_photo_detail">
+        <item quantity="other">%1$s фота</item>
+        <item quantity="one">%1$s фота</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted">
+        <item quantity="other">Падпісчыкі Premium могуць аднавіць элементы на працягу %d дзён пасля выдалення</item>
+        <item quantity="one">Падпісчыкі Premium могуць аднавіць элементы на працягу %d дня пасля выдалення</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_1">
+        <item quantity="other">Карыстальнікі без падпіскі могуць аднавіць выдаленыя элементы на працягу %d дзён</item>
+        <item quantity="one">Карыстальнікі без падпіскі могуць аднавіць выдаленыя элементы на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_2">
+        <item quantity="other">Карыстальнікі Mega могуць аднавіць выдаленыя элементы на працягу %d дзён</item>
+        <item quantity="one">Карыстальнікі Mega могуць аднавіць выдаленыя элементы на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_3">
+        <item quantity="other">Карыстальнікі Ultra могуць аднавіць выдаленыя элементы на працягу %d дзён</item>
+        <item quantity="one">Карыстальнікі Ultra могуць аднавіць выдаленыя элементы на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_record_detail">
+        <item quantity="other">%s элементаў</item>
+        <item quantity="one">%s элемент</item>
+        <item quantity="few">%s элемента</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_deleted_data">
+        <item quantity="other">Падпісчыкі могуць аднавіць выдаленыя элементы на працягу %d дзён</item>
+        <item quantity="one">Падпісчыкі могуць аднавіць выдаленыя элементы на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary">
+        <item quantity="other">Карыстальнікі без падпіскі могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дзён</item>
+        <item quantity="one">Карыстальнікі без падпіскі могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_1">
+        <item quantity="other">Падпісчыкі Premium могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дзён</item>
+        <item quantity="one">Падпісчыкі Premium могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_2">
+        <item quantity="other">Карыстальнікі Mega могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дзён</item>
+        <item quantity="one">Карыстальнікі Mega могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_3">
+        <item quantity="other">Карыстальнікі Ultra могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дзён</item>
+        <item quantity="one">Карыстальнікі Ultra могуць аднавіць кантакты да любой версіі, захаванай на працягу %d дня</item>
+    </plurals>
+    <plurals name="micloud_preference_video_detail">
+        <item quantity="other">%1$s відэа</item>
+        <item quantity="one">%1$s відэа</item>
+    </plurals>
 </resources>

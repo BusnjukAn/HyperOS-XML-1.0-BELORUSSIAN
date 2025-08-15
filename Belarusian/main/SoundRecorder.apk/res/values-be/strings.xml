@@ -880,4 +880,20 @@
   <string name="recorder_finished">Запіс завершаны</string>
   <string name="recorder_started">Запіс пачаты</string>
   <string name="day_in_week_hour_minute_format">EE HH.mm</string>
+  <string name="cant_generate_new_summary_by_account_un_login1">"Увайдзіце ў свой Xiaomi акаўнт, каб ствараць зводкі. "</string>
+  <string name="cant_generate_new_summary_by_block_list_error">Вам заблакавалі выкарыстанне гэтай функцыі за шматлікія парушэнні нашых правіл</string>
+  <string name="cant_generate_new_summary_by_language_type_limit">Немагчыма стварыць зводкі для гэтай мовы</string>
+  <string name="cant_generate_new_summary_by_network_error2">Паспрабаваць зноў</string>
+  <string name="cant_generate_new_summary_by_sensitive_content">Нельга стварыць зводку адчувальнага зместу</string>
+  <string name="cant_generate_new_summary_by_unknown_error">Узнікла невядомая памылка</string>
+  <string name="cant_generate_new_summary_by_word_limit">Занадта мала ці занадта шмат сімвалаў. Немагчыма стварыць зводку.</string>
+  <string name="generate_new_summary">Стварэнне зводкі…</string>
+  <string name="jump_to_more_ai_unit_page">Паказаць больш</string>
+  <string name="more_ai_unit_ask_xiao_ai">Спытаць у Xiaomi Hyper XiaoAi</string>
+  <string name="more_ai_unit_close_page">Закрыць</string>
+  <string name="more_ai_unit_share_text">Падзяліцца</string>
+  <string name="more_ai_unit_title">Асноўныя моманты</string>
+  <string name="new_ai_summary">ШI-зводка</string>
+  <string name="settings_ai_record_new_summary">Асноўныя моманты</string>
+  <string name="settings_ai_record_summary_description">Стварайце зводкі для сваіх запісаў, праглядайце сегментаваныя вылучэнні і дзяліцеся зводкамі</string>
 </resources>

@@ -570,8 +570,8 @@
   <string name="cooler_reset">Націсніце %d раз для спалучэння</string>
   <string name="celluar_tether_disconect_title">Адлучана</string>
   <string name="celluar_tether_name">Бесправадны мадэм</string>
-  <string name="celluar_tether_prompt">Пры бесправадным мадэме ваш планшэт можа выкарыстоўваць мабільную перадачу дадзеных вашага тэлефона. Здаецца, паблізу няма сумяшчальнага тэлефона Xiaomi. Пераканайцеся, што на вашым тэлефоне і планшэце ўвайшлі ў адзін і той жа ўліковы запіс Xiaomi, у тэлефоне ўключана перадача мабільных дадзеных і абодва прылады падлучаны да Wi-Fi.</string>
-  <string name="celluar_tether_prompt_china">Пры бесправадным мадэме ваш планшэт можа выкарыстоўваць мабільную перадачу дадзеных вашага тэлефона. Здаецца, паблізу няма сумяшчальнага тэлефона Xiaomi. Пераканайцеся, што на вашым тэлефоне і планшэце ўвайшлі ў адзін і той жа ўліковы запіс Xiaomi, у тэлефоне ўключана перадача мабільных дадзеных і абодва прылады падлучаны да Wi-Fi.</string>
+  <string name="celluar_tether_prompt">"Каб выкарыстоўваць мабільны інтэрнэт тэлефона, уключыце яго на тэлефоне, увайдзіце ў адзін акаўнт на абедзвюх прыладах і пакіньце ўключанымі Wi-Fi і Bluetooth."</string>
+  <string name="celluar_tether_prompt_china">"Каб выкарыстоўваць мабільны інтэрнэт тэлефона, уключыце яго на тэлефоне, увайдзіце ў адзін акаўнт на абедзвюх прыладах і пакіньце ўключанымі Wi-Fi і Bluetooth."</string>
   <string name="celluar_tether_prompt_confirm">ОК</string>
   <string name="easy_tether_auto_connect_summary_v2">Аўтаматычна ўключаць мабільную сетку або пункт доступу і падлучацца, калі бліжэйшым прыладам з тым жа акаўнтам патрабуецца доступ у Інтэрнэт.</string>
   <string name="easy_tether_statusbar_auto_connected_title_v2">Падлучана да сеткі: %1$s</string>
@@ -681,4 +681,17 @@
   <string name="easy_tether_statusbar_dialog_connected_title_car_talk_back">Аўтамабіль, падлучаны</string> 
   <string name="easy_tether_statusbar_dialog_connected_title_pad_talk_back">Планшэт, падлучаны</string> 
   <string name="easy_tether_statusbar_dialog_connected_title_phone_talk_back">Тэлефон, падлучаны</string>
+  <string name="celluar_tether_unavailable_reason_hotspot">Каб выкарыстоўваць гэтую функцыю, выключыце пункт доступу</string>
+  <string name="fast_connect_find_gamepad_only_left">Вы можаце падлучыць кожны бок асобна або ўключыць правы кантролер для сумеснага падлучэння.</string>
+  <string name="fast_connect_reset_o88g">Націсніце і ўтрымлівайце кнопку Bluetooth %d секунд, каб паспрабаваць зноў</string>
+  <string name="fast_connect_reset_o88g_left">Адначасова націсніце і ўтрымлівайце кнопкі сілкавання і прагляду на працягу %d секунд, каб паспрабаваць зноў</string>
+  <string name="fast_connect_reset_o88g_right">Адначасова націсніце і ўтрымлівайце кнопкі сілкавання і меню на працягу %d секунд, каб паспрабаваць зноў</string>
+  <string name="game_center_app_download">Усталяваць</string>
+  <string name="game_center_download_tips">Усталюйце гульні, каб наладзіць гульнявы кантролер.</string>
+  <string name="game_center_download_title">Спачатку ўсталюйце гульні</string>
+  <string name="manual_plugin_update_check_dialog_button_text">Зразумела</string>
+  <string name="manual_plugin_update_check_dialog_message">"Вы карыстаецеся апошняй версіяй Bluetooth (%1$s)."</string>
+  <string name="manual_plugin_update_check_dialog_title">Bluetooth абноўлены</string>
+  <string name="manual_plugin_update_check_progress_dialog_text">Праверка абнаўленняў…</string>
+  <string name="offline_call_nearby_device_refreshing">Пошук прылад…</string>
 </resources>

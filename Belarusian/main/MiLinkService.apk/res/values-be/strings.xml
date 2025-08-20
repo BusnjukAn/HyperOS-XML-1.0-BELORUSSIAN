@@ -1726,4 +1726,6 @@
   <string name="wifi_disabled_dialog_message">Уключыце Wi-Fi на сваёй прыладзе, каб выкарыстоўваць камеру некалькіх прылад.</string>
   <string name="wifi_disabled_dialog_positive_button">Зразумела</string>
   <string name="wifi_disabled_dialog_title">Выкарыстанне камер некалькіх прылад</string>
+  <string name="start_forbidden_by_glasses_in_audio_record">Запіс гуку. Немагчыма адкрыць камеру.</string> 
+  <string name="start_forbidden_by_glasses_in_translation">Пераклад. Немагчыма адкрыць камеру.</string>
 </resources>

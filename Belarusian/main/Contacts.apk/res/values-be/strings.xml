@@ -1639,4 +1639,5 @@
   <string name="bh_state_selected_talkback">Абрана: SIM %1$s</string>
   <string name="all_selected">Абрана ўсё</string> 
   <string name="none_selected">Адменена вылучэнне ўсяго</string>
+  <string name="missed_call">Прапушчаны выклік</string>
 </resources>

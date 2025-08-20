@@ -1332,4 +1332,6 @@
   <string name="passport_register_dialog_title">Стварэнне Xiaomi акаўнта</string>
   <string name="passport_request_permission_title">Патрабуюцца дазволы</string>
   <string name="passport_third_sns_service_unavailable">Служба недаступная. Упэўніцеся, што праграма ўсталявана і не заблакавана.</string>
+  <string name="environment_indicator_text">%1$s сервер\n%2$s</string>
+  <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
 </resources>

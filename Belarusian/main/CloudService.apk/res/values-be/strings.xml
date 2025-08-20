@@ -914,8 +914,8 @@
   <string name="onetrack_value_storage_dialog_version_new">Версія 22.7.28</string>
   <string name="onetrack_value_storage_dialog_version_old">Старая версія</string>
   <string name="onetrack_value_storage_full">Сховішча запоўнена</string>
-  <string name="phone_guarantee_service_description" formatted="false">Абарону ад пашкоджання экрана і няшчасных выпадкаў можна набыць на працягу %d дзён пасля актывацыі. Пашыраную гарантыю можна набыць на працягу %d дзён пасля актывацыі.</string>
-  <string name="phone_guarantee_service_name">Гарантыя на прыладу</string>
+  <string name="phone_guarantee_service_description" formatted="false">Абарону ад пашкоджанняў экрана можна набыць на працягу %d дзён з моманту актывацыі. Пашыраную гарантыю можна набыць на працягу %d дзён з моманту актывацыі.</string>
+  <string name="phone_guarantee_service_name">Афіцыйны гарантыйны сэрвіс Xiaomi</string>
   <string name="download_gallery_data_summary">Перайдзіце на сайт i.mi.com, каб загрузіць сінхранізаваныя фота і відэа на сваю прыладу.</string>
   <string name="download_gallery_data_title">Загрузіць элементы на сваю прыладу</string>
   <string name="gallery_data_transfer_ddl">Крайні тэрмін: %s</string>

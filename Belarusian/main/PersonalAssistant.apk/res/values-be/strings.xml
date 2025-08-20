@@ -1233,4 +1233,5 @@
   <string name="pa_service_delivery_carousel_desc_talkback">Правядзіце пальцам уверх ці ўніз, каб выбраць іншы віджэт у групе</string> 
   <string name="pa_service_delivery_carousel_page_down_talkback">Правядзіце пальцам уніз, каб пераключыцца. Бягучы віджэт: %1$s</string> 
   <string name="pa_service_delivery_carousel_page_up_talkback">Правядзіце пальцам уверх, каб пераключыцца. Бягучы віджэт: %1$s</string>
+  <string name="pa_need_download_talkback">"\%s"\ пакуль не загружаны</string>
 </resources>

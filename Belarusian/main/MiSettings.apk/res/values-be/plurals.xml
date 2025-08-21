@@ -658,4 +658,10 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="overuse_device_summary">
+        <item quantity="other">Выкарыстанне прылады больш за %d хвілін за раз можа прывесці да перанапружання вачэй.</item>
+        <item quantity="one">Выкарыстанне прылады больш за %d хвіліну за раз можа прывесці да перанапружання вачэй.</item>
+        <item quantity="few">Выкарыстанне прылады больш за %d хвіліны за раз можа прывесці да перанапружання вачэй.</item>
+        <item quantity="many">Выкарыстанне прылады больш за %d хвілін за раз можа прывесці да перанапружання вачэй.</item>
+    </plurals>
 </resources>

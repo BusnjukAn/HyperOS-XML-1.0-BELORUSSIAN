@@ -1636,4 +1636,5 @@
   <string name="tv_btn_data">Новы сшытак</string>
   <string name="tv_btn_page">Новая старонка</string>
   <string name="tv_btn_single">Абярыце мову</string>
+  <string name="toast_minimal_mode_widget_add_unsupported">Не ўдаецца дадаць віджэт на Працоўны стол у Палегчаным рэжыме</string>
 </resources>

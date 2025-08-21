@@ -1476,4 +1476,21 @@
   <string name="text_input_layout_default_content_description">Гэта апісанне змесціва па змаўчанні</string>
   <string name="minors_should_open">Уключыць Дзіцячы рэжым зараз?</string>
   <string name="minors_should_open_summary">З Дзіцячым рэжымам вы можаце дапамагчы непаўналетнім выпрацаваць здаровыя звычкі выкарыстання прылады. Уключыць зараз?</string>
+  <string name="close_use_device">Прагляд з блізкай адлегласці</string>
+  <string name="close_use_device_desc">Калі трымаць прыладу занадта блізка да твару на працягу доўгага часу, гэта павялічвае рызыку развіцця блізарукасці і стомленасці.</string>
+  <string name="close_use_device_remind_summary">Трымайце прыладу далей ад твару</string>
+  <string name="close_use_device_remind_title">Занадта блізка</string>
+  <string name="close_use_device_tip">Трымайце прыладу далей ад твару</string>
+  <string name="correct_close_use_device_title">Гэта лепш</string>
+  <string name="correct_dark_light_use_device_summary">Працягвайце ў тым жа духу</string>
+  <string name="dark_light_use_device">Прыцемак</string>
+  <string name="dark_light_use_device_desc">"Выкарыстанне прылады пры дрэнным асвятленні можа выклікаць сур'ёзную напругу вачэй."</string>
+  <string name="dark_light_use_device_remind_summary">Выкарыстоўвайце сваю прыладу ў больш яркім асяроддзі</string>
+  <string name="dark_light_use_device_tip">Выкарыстоўвайце сваю прыладу ў больш яркім асяроддзі</string>
+  <string name="lying_use_device">Ляжанне</string>
+  <string name="lying_use_device_desc">Выкарыстанне прылады на працягу доўгага часу лежачы можа прывесці да перанапружання вачэй.</string>
+  <string name="lying_use_device_remind_summary">Практыкуйце добрыя звычкі, каб абараніць свой зрок</string>
+  <string name="lying_use_device_tip">Ляжанне падчас выкарыстання прылады можа прывесці да перанапружання вачэй</string>
+  <string name="time_limit_period_summary">Вы ўстанавілі гэты перыяд часу, таму прылада не можа быць выкарыстана</string>
+  <string name="time_limit_period_title">Недаступна</string>
 </resources>

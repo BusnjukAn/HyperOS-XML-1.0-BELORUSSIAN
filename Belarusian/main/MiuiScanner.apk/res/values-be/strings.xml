@@ -1115,4 +1115,6 @@
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
   <string name="aon_recognize_code_lottie_res">Хуткае сканаванне</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string> 
+  <string name="revert">Адклікаць</string>
 </resources>

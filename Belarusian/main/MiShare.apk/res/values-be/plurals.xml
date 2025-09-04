@@ -533,4 +533,124 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="onehop_receive_describe_image">
+        <item quantity="other">Атрымаць %1$d фота</item>
+        <item quantity="one">Атрымаць %1$d фота</item>
+    </plurals>
+    <plurals name="onehop_receive_describe_live_image">
+        <item quantity="other">Атрымаць %1$d дынамічных здымкаў</item>
+        <item quantity="one">Атрымаць %1$d дынамічны здымак</item>
+    </plurals>
+    <plurals name="onehop_receive_describe_video">
+        <item quantity="other">Атрымаць %1$d відэа</item>
+        <item quantity="one">Атрымаць %1$d відэа</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_file">
+        <item quantity="other">Атрыманне %1$d файлаў</item>
+        <item quantity="one">Атрыманне %1$d файла</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_image">
+        <item quantity="other">Атрыманне %1$d фота</item>
+        <item quantity="one">Атрыманне %1$d фота</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_live_image">
+        <item quantity="other">Атрыманне %1$d дынамічных здымкаў…</item>
+        <item quantity="one">Атрыманне %1$d дынамічнага здымка…</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_video">
+        <item quantity="other">Атрыманне %1$d відэа</item>
+        <item quantity="one">Атрыманне %1$d відэа</item>
+    </plurals>
+    <plurals name="onehop_send_describe_file">
+        <item quantity="other">Усяго %1$d файлаў</item>
+        <item quantity="one">Усяго %1$d файл</item>
+    </plurals>
+    <plurals name="onehop_send_describe_image">
+        <item quantity="other">Усяго %1$d фота</item>
+        <item quantity="one">Усяго %1$d фота</item>
+    </plurals>
+    <plurals name="onehop_send_describe_live_image">
+        <item quantity="other">%1$d дынамічных здымкаў</item>
+        <item quantity="one">%1$d дынамічны здымак</item>
+    </plurals>
+    <plurals name="onehop_send_describe_video">
+        <item quantity="other">Усяго %1$d відэа</item>
+        <item quantity="one">Усяго %1$d відэа</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_file">
+        <item quantity="other">Адпраўка %1$d файлаў…</item>
+        <item quantity="one">Адпраўка %1$d файла…</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_image">
+        <item quantity="other">Адпраўка %1$d фота…</item>
+        <item quantity="one">Адпраўка %1$d фота…</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_live_image">
+        <item quantity="other">Адпраўка %1$d дынамічных здымкаў…</item>
+        <item quantity="one">Адпраўка %1$d дынамічнага здымка…</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_video">
+        <item quantity="other">Адпраўка %1$d відэа…</item>
+        <item quantity="one">Адпраўка %1$d відэа…</item>
+    </plurals>
+    <plurals name="tapshare_activity_send_describe_contact">
+        <item quantity="other">%1$d кантактаў</item>
+        <item quantity="one">%1$d кантакт</item>
+    </plurals>
+    <plurals name="tapshare_describe_contact">
+        <item quantity="other">%1$d кантактаў</item>
+        <item quantity="one">%1$d кантакт</item>
+    </plurals>
+    <plurals name="tapshare_describe_link">
+        <item quantity="other">%1$d спасылак</item>
+        <item quantity="one">%1$d спасылка</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_contact">
+        <item quantity="other">Атрымаць %1$d кантактаў</item>
+        <item quantity="one">Атрымаць %1$d кантакт</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_link">
+        <item quantity="other">Атрымаць %1$d спасылак</item>
+        <item quantity="one">Атрымаць %1$d спасылку</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_contact">
+        <item quantity="other">Атрыманне %1$d кантактаў</item>
+        <item quantity="one">Атрыманне %1$d кантакта</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_link">
+        <item quantity="other">Атрыманне %1$d спасылак</item>
+        <item quantity="one">Атрыманне %1$d спасылкі</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_contact">
+        <item quantity="other">Адправіць %1$d кантактаў</item>
+        <item quantity="one">Адправіць %1$d кантакт</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_file">
+        <item quantity="other">Адправіць %1$d файлаў</item>
+        <item quantity="one">Адправіць %1$d файл</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_image">
+        <item quantity="other">Адправіць %1$d фота</item>
+        <item quantity="one">Адправіць %1$d фота</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_link">
+        <item quantity="other">Адправіць %1$d спасылак</item>
+        <item quantity="one">Адправіць %1$d спасылку</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_live_image">
+        <item quantity="other">Адправіць %1$d дынамічных здымкаў</item>
+        <item quantity="one">Адправіць %1$d дынамічны здымак</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_video">
+        <item quantity="other">Адправіць %1$d відэа</item>
+        <item quantity="one">Адправіць %1$d відэа</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_contact">
+        <item quantity="other">Адпраўка %1$d кантактаў…</item>
+        <item quantity="one">Адпраўка %1$d кантакта…</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_link">
+        <item quantity="other">Адпраўка %1$d спасылак…</item>
+        <item quantity="one">Адпраўка %1$d спасылкі…</item>
+    </plurals>
 </resources>

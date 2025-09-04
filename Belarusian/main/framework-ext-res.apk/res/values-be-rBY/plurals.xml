@@ -18,4 +18,14 @@
         <item quantity="other">Пераключыць (%d сек.)</item>
         <item quantity="one">Пераключыць (%d сек.)</item>
     </plurals>
+    <plurals name="softap_notification_multi_device_connected_message">
+        <item quantity="other">%1$s прылад падлучана</item>
+        <item quantity="one">%1$s прылада падлучана</item>
+        <item quantity="few">%1$s прылады падлучана</item>
+    </plurals>
+    <plurals name="softap_notification_multi_device_message">
+        <item quantity="other">%1$s прылад</item>
+        <item quantity="one">%1$s прылада</item>
+        <item quantity="few">%1$s прылады</item>
+    </plurals>
 </resources>

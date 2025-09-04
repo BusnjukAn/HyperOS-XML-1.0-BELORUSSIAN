@@ -569,7 +569,7 @@
   <string name="fast_connect_device_reset_audio_share">Калі ласка, націсніце і ўтрымлівайце 2 секунды для скіду</string>
   <string name="cooler_reset">Націсніце %d раз для спалучэння</string>
   <string name="celluar_tether_disconect_title">Адлучана</string>
-  <string name="celluar_tether_name">Бесправадны мадэм</string>
+  <string name="celluar_tether_name">Агульны мадэм</string>
   <string name="celluar_tether_prompt">"Каб выкарыстоўваць мабільны інтэрнэт тэлефона, уключыце яго на тэлефоне, увайдзіце ў адзін акаўнт на абедзвюх прыладах і пакіньце ўключанымі Wi-Fi і Bluetooth."</string>
   <string name="celluar_tether_prompt_china">"Каб выкарыстоўваць мабільны інтэрнэт тэлефона, уключыце яго на тэлефоне, увайдзіце ў адзін акаўнт на абедзвюх прыладах і пакіньце ўключанымі Wi-Fi і Bluetooth."</string>
   <string name="celluar_tether_prompt_confirm">ОК</string>
@@ -595,7 +595,7 @@
   <string name="location_display_summary">Паказаць інфармацыю аб месцазнаходжанні прылад паблізу</string>
   <string name="location_display_title">Адлюстраванне месцазнаходжання</string>
   <string name="nearby_contacts">Кантакты паблізу</string>
-  <string name="offline_app_name">Сувязь паміж прыладамі</string>
+  <string name="offline_app_name">Афлайн-сувязь Xiaomi</string>
   <string name="offline_call_balack_list">Спіс блакавання</string>
   <string name="offline_call_balack_list_join">Дадаць у спіс блакавання</string>
   <string name="offline_call_balack_list_join_title">Дадаць %1$s у спіс блакавання?</string>
@@ -607,7 +607,7 @@
   <string name="offline_call_callable_title">Хто можа мне патэлефанаваць</string>
   <string name="offline_call_cancel">Адмена</string>
   <string name="offline_call_dial_out">Патэлефанаваць</string>
-  <string name="offline_call_earthquake_summary">Уключыць афлайн-сувязь аўтаматычна ў выпадку землятрусу ў вашым рэгіёне</string>
+  <string name="offline_call_earthquake_summary">Уключыць афлайн-сувязь Xiaomi аўтаматычна ў выпадку землятрусу ў вашым рэгіёне</string>
   <string name="offline_call_earthquake_title">Уключыць аўтаматычна пры землятрусе</string>
   <string name="offline_call_join">Дадаць</string>
   <string name="offline_call_map_baidu">Карты Baidu</string>
@@ -623,25 +623,25 @@
   <string name="offline_call_nearby_dialog_negative">Перайсці</string>
   <string name="offline_call_nearby_dialog_positive">Патэлефанаваць</string>
   <string name="offline_call_notification_broadcast_close">Адключыць</string>
-  <string name="offline_call_notification_broadcast_location">Сувязь паміж прыладамі перадае дадзеныя аб вашым месцазнаходжанні</string>
-  <string name="offline_call_notification_broadcast_start">Сувязь паміж прыладамі транслюецца</string>
+  <string name="offline_call_notification_broadcast_location">Афлайн-сувязь Xiaomi перадае дадзеныя аб вашым месцазнаходжанні</string>
+  <string name="offline_call_notification_broadcast_start">Вядзецца афлайн-сувязь Xiaomi</string>
   <string name="offline_call_remove">Выдаліць</string>
   <string name="offline_call_settings_summary">Звязвацца з бліжэйшымі тэлефонамі Xiaomi у аўтаномным рэжыме, калі Bluetooth уключаны на абедзвюх прыладах</string>
-  <string name="offline_call_settings_title">Сувязь паміж прыладамі</string>
+  <string name="offline_call_settings_title">Афлайн-сувязь Xiaomi</string>
   <string name="offline_call_show_location_title">Падзяліцца маім месцазнаходжаннем з людзьмі паблізу</string>
   <string name="offline_chat_summary">"Майце зносіны з кантактамі паблізу праз Bluetooth, калі няма падлучэння да Інтэрнэту. Гэтая функцыя не падтрымлівае выкарыстанне навушнікаў Bluetooth падчас выклікаў."</string>
-  <string name="offline_chat_title">Сувязь паміж прыладамі</string>
+  <string name="offline_chat_title">Афлайн-сувязь Xiaomiі</string>
   <string name="offline_connecting">Падлучэнне…</string>
   <string name="permgroupdesc_location">Дазволіць %1$s доступ да інфармацыі аб месцазнаходжанні?</string>
   <string name="phone_in_talk">Выклік ужо выконваецца</string>
   <string name="remove_black_list_title">Выдаліць чорны спіс</string>
   <string name="start_failed_confirm">Зразумела</string>
-  <string name="start_failed_content">Устаўце SIM-карту і ўвайдзіце ў акаўнт Xiaomi, каб выкарыстаць абмен дадзенымі паміж прыладамі.</string>
+  <string name="start_failed_content">Устаўце SIM-карту і ўвайдзіце ў акаўнт Xiaomi, каб выкарыстоўваць функцыю \"Афлайн-сувязь Xiaomi\".</string>
   <string name="start_failed_title">"Немагчыма ўключыць"</string>
   <string name="user_agreement_cancel">Адмена</string>
   <string name="user_agreement_confirm">Згодзен</string>
-  <string name="user_agreement_content">Сувязь паміж прыладамі — гэта галасавая служба выклікаў на аснове Bluetooth (далей названая \"Гэтая служба\"), якая прадастаўляецца Xiaomi Inc. (далей названая \"Xiaomi\", \"мы\", "наш" ці "нас"). Мы сур\'ёзна ставімся да абароны вашай прыватнасці і асабістай інфармацыі. Мы прадасавiм адпаведныя меры абароны вашай асабістай інфармацыі ў адпаведнасці з патрабаваннямі заканадаўства і галіновымі стандартамі. Калі вы ўключаеце гэтую функцыю, мы атрымліваем доступ да вашых кантактаў, нумару тэлефона, статусу ўваходу ў акаўнт Xiaomi, MAC-адрасу Bluetooth, статусу выкліку і статусу SIM-карты, каб вы маглі мець зносіны з абранымі кантактамі, калі яны не падлучаныя да Інтэрнэту. Калі вы ўключаеце \"Адлюстроўваць месцазнаходжанне\" і \"Уключаць аўтаматычна пры землятрусе\", мы збіраем ваша дакладнае месцазнаходжанне для адлюстравання абраным вамі кантактам.&lt;/b&lt;br&lt;b>Гэтая інфармацыя будзе апрацоўвацца толькі на вашым прыладу і не будуць загружаныя ў воблака.&lt;/b&lt;brПры выкарыстанні сувязі паміж прыладамі патрабуюцца наступныя дазволы:&lt;br&amp;bull; Дазволы Bluetooth: для здзяйснення галасавых выклікаў на найблізкія прылады&lt;br&amp;bull; Доступ да кантактаў: ​​для выяўлення і выкліку бліжэйшых кантактаў&lt;br&amp;bull; Дазвол на падлучэнне да Інтэрнэту: для падлучэння да сеткі і доступу да змесціва карты &lt;br&amp;bull; Доступ да месцазнаходжання: для адлюстравання дакладнага месцазнаходжання выбраным кантактам &lt;br&amp;bull; Дазволы для тэлефона: для доступу да статусу выкліку (сувязь паміж прыладамі не можа выкарыстоўвацца падчас выкліку)&lt;brКалі вы не згодны з вышэйпаказанымі дазволамі, вы не зможаце выкарыстоўваць гэтую службу.&lt;brНекаторыя функцыі прадастаўляюцца іншымі пастаўшчыкамі паслуг. Па гэтай прычыне нам неабходна прадставіць некаторую вашу асабістую інфармацыю гэтым трэцім асобам. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Націсніце тут, каб прагледзець&lt;/a абставіны, пры якіх мы перадаем вашу асабістую інфармацыю нашым афіляваным асобам, партнёрам і трэцім асобам.&lt;brМы будзем апрацоўваць вашу асабістую інфармацыю толькі на працягу перыяду збору, як апісана ў гэтай заяве аб канфiдэнцыяльнасцi або ў адпаведнасці з патрабаваннямі заканадаўства, якое прымяняецца.&lt;brМы стварылі спецыяльны аддзел па абароне асабістай інфармацыі. Калі ў вас ёсць якія-небудзь пытанні ці каментары наконт гэтай заявы аб канфiдэнцыяльнасцi або наконт нашага збору, выкарыстання або раскрыцця вашай асабістай інфармацыі, вы можаце звязацца з намі па адрасе &lt;a href=https://privacy.mi.com/support >https://privacy.mi.com/support&lt;/a>. Звычайна мы адказваем на працягу пятнаццаці працоўных дзён.\n    Націсніце \"Згодзен\", каб пацвердзіць, што вы прачыталі і згодны з гэтай заявай аб прыватнасцi.</string>
-  <string name="user_agreement_title">Заява аб прыватнасцi для сувязі паміж прыладамі</string>
+  <string name="user_agreement_content">Афлайн-сувязь Xiaomi — гэта галасавая служба выклікаў на аснове Bluetooth (далей названая \"Гэтая служба\"), якая прадастаўляецца Xiaomi Inc. (далей названая \"Xiaomi\", \"мы\", "наш" ці "нас"). Мы сур\'ёзна ставімся да абароны вашай прыватнасці і асабістай інфармацыі. Мы прадасавiм адпаведныя меры абароны вашай асабістай інфармацыі ў адпаведнасці з патрабаваннямі заканадаўства і галіновымі стандартамі. Калі вы ўключаеце гэтую функцыю, мы атрымліваем доступ да вашых кантактаў, нумару тэлефона, статусу ўваходу ў акаўнт Xiaomi, MAC-адрасу Bluetooth, статусу выкліку і статусу SIM-карты, каб вы маглі мець зносіны з абранымі кантактамі, калі яны не падлучаныя да Інтэрнэту. Калі вы ўключаеце \"Адлюстроўваць месцазнаходжанне\" і \"Уключаць аўтаматычна пры землятрусе\", мы збіраем ваша дакладнае месцазнаходжанне для адлюстравання абраным вамі кантактам.&lt;/b&lt;br&lt;b>Гэтая інфармацыя будзе апрацоўвацца толькі на вашым прыладу і не будуць загружаныя ў воблака.&lt;/b&lt;brПры выкарыстанні сувязі паміж прыладамі патрабуюцца наступныя дазволы:&lt;br&amp;bull; Дазволы Bluetooth: для здзяйснення галасавых выклікаў на найблізкія прылады&lt;br&amp;bull; Доступ да кантактаў: ​​для выяўлення і выкліку бліжэйшых кантактаў&lt;br&amp;bull; Дазвол на падлучэнне да Інтэрнэту: для падлучэння да сеткі і доступу да змесціва карты &lt;br&amp;bull; Доступ да месцазнаходжання: для адлюстравання дакладнага месцазнаходжання выбраным кантактам &lt;br&amp;bull; Дазволы для тэлефона: для доступу да статусу выкліку (сувязь паміж прыладамі не можа выкарыстоўвацца падчас выкліку)&lt;brКалі вы не згодны з вышэйпаказанымі дазволамі, вы не зможаце выкарыстоўваць гэтую службу.&lt;brНекаторыя функцыі прадастаўляюцца іншымі пастаўшчыкамі паслуг. Па гэтай прычыне нам неабходна прадставіць некаторую вашу асабістую інфармацыю гэтым трэцім асобам. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Націсніце тут, каб прагледзець&lt;/a абставіны, пры якіх мы перадаем вашу асабістую інфармацыю нашым афіляваным асобам, партнёрам і трэцім асобам.&lt;brМы будзем апрацоўваць вашу асабістую інфармацыю толькі на працягу перыяду збору, як апісана ў гэтай заяве аб канфiдэнцыяльнасцi або ў адпаведнасці з патрабаваннямі заканадаўства, якое прымяняецца.&lt;brМы стварылі спецыяльны аддзел па абароне асабістай інфармацыі. Калі ў вас ёсць якія-небудзь пытанні ці каментары наконт гэтай заявы аб канфiдэнцыяльнасцi або наконт нашага збору, выкарыстання або раскрыцця вашай асабістай інфармацыі, вы можаце звязацца з намі па адрасе &lt;a href=https://privacy.mi.com/support >https://privacy.mi.com/support&lt;/a>. Звычайна мы адказваем на працягу пятнаццаці працоўных дзён.\n    Націсніце \"Згодзен\", каб пацвердзіць, што вы прачыталі і згодны з гэтай заявай аб прыватнасцi.</string>
+  <string name="user_agreement_title">Заява аб прыватнасцi пры зносінах праз Афлайн-сувязь Xiaomi</string>
   <string name="virtual_moresttings">Дадатковыя налады</string>
   <string name="config_net_device_ignore">Адмена</string>
   <string name="config_net_device_title_find_headset">Знойдзена \"%1$s\"</string>
@@ -694,4 +694,25 @@
   <string name="manual_plugin_update_check_dialog_title">Bluetooth абноўлены</string>
   <string name="manual_plugin_update_check_progress_dialog_text">Праверка абнаўленняў…</string>
   <string name="offline_call_nearby_device_refreshing">Пошук прылад…</string>
+  <string name="accessibility_sliding_button_state_description_off">Адключана</string>
+  <string name="easy_tether_connect">Падлучыцца</string>
+  <string name="easy_tether_connect_table">Даступна</string>
+  <string name="easy_tether_connecting">Падлучэнне</string>
+  <string name="easy_tether_disconnected">Адключана</string>
+  <string name="easy_tether_discover_available_networks">Даступная сетка</string>
+  <string name="easy_tether_mobile_data_is_being_used">Агульны доступ да мабільных дадзеных</string>
+  <string name="easy_tether_wlan_signal_is_being_used">Агульны доступ да сеткі Wi-Fi</string>
+  <string name="easy_tether_wlan_signal_is_being_used_china">Агульны доступ да сеткі Wi-Fi</string>
+  <string name="headset_autoswitch_switched">Пераключана</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="p8g_activity_bt_cancel">Адмена</string>
+  <string name="p8g_activity_bt_connect">Уключыць Bluetooth</string>
+  <string name="p8g_activity_bt_connect_failed">Не ўдалося падлучыцца</string>
+  <string name="p8g_activity_bt_connecting">Падлучэнне…</string>
+  <string name="p8g_activity_bt_retry">Паўтарыць спробу</string>
+  <string name="p8g_activity_prompt">Уключыць чахол</string>
+  <string name="p8g_island_opened">Уключыць</string>
+  <string name="p8g_island_peripherals_opened">Прылада ўключана</string>
+  <string name="p8g_island_peripherals_to_close">Выключыць</string>
+  <string name="p8g_island_product_name">Гульнявы ​​чахол</string>
 </resources>

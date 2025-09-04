@@ -463,7 +463,7 @@
   <string name="security_permission_failed_text">Адбылася памылка, паўтарыце спробу пазней</string>
   <string name="security_permission_network_failed_text">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="security_permission_open_wifi_settings">Налады Wi-Fi</string>
-  <string name="security_permission_validate_warning">Дзякуй, вы дапамагаеце зрабіць сістэму лепш!</string>
+  <string name="security_permission_validate_warning">Дзякуй за дапамогу ў паляпшэнні сістэмы!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi і мабільны інтэрнэт уключаны</string>
   <string name="security_permission_xiaomi_account_missed_text">Увядзіце ID свайго Xiaomi акаўнта</string>
   <string name="security_share_text">Абарона прыватнасці</string>
@@ -721,4 +721,11 @@
   <string name="fingerprint_face_password_unlock_new">Адбіткі пальцаў, даныя твару і блакаванне экрана</string>
   <string name="fingerprint_password_unlock">Адбіткі пальцаў і блакаванне экрана</string>
   <string name="password_unlock">Блакаванне экрана</string>
+  <string name="softap_notification_enable">Укл.</string>
+  <string name="softap_notification_new_device">Новая прылада падлучана</string>
+  <string name="softap_notification_unknown_device">Бесправадная прылада</string>
+  <string name="softap_notification_usage">Пункт доступу актыўны</string>
+  <string name="wallpaper_and_signature_title">Шпалеры і подпісы</string>
+  <string name="wallpaper_bright_title">Бляск</string>
+  <string name="wallpaper_manying_title">Цені</string>
 </resources>

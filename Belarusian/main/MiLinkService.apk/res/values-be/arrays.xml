@@ -16,7 +16,7 @@
     <string-array name="settings_search_connection_home">
         <item>Узаемазвязанасць</item>
         <item>Узаемазвязанасць/Узаемазвязанасць</item>
-        <item>Узаемазвязанасць прылад, сэрвісы ўзаемазвязанасці прылад, Xiaomi, Xiaomi AIoT, AIoT, смарт-злучэнне, Mi Smart Hub, узаемазвязанасць, Duo, тэлефон Xiaomi, ноўтбук Xiaomi, Multiscreen, Duet, кастынг, аб\'яднанне праграм, перадача перадачы, перадача праграмы , Люстэрка, экасістэма Xiaomi, падлучэнне прылады</item>
+        <item>Узаемазвязанасць</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Прыватнасць</item>
@@ -24,9 +24,9 @@
         <item>Прыватнасць і ўзаемазвязанасць, прыватнасць</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Узаемазвязанасць Xiaomi</item>
+        <item>Узаемазвязанасць</item>
         <item>Узаемазвязанасць Xiaomi/Узаемазвязанасць</item>
-        <item>Сэрвісы ўзаемазвязанасці Xiaomi</item>
+        <item>Сэрвісы ўзаемазвязанасці</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Перадача праграмы</item>
@@ -36,17 +36,17 @@
     <string-array name="settings_search_relay_call">
         <item>Сінхранізацыя выклікаў</item>
         <item>Узаемазвязанасць/Сінхранізацыя выклікаў</item>
-        <item>Выклікі, Сінхранізацыя выклікаў</item>
+        <item>Сінхранізацыя выклікаў</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Сеткавая дапамога</item>
         <item>Узаемазвязанасць/Сеткавая дапамога</item>
-        <item>Сеткавая дапамога, прывязванне, сумеснае выкарыстанне пункту доступу, бесправадны мадэм</item>
+        <item>Сеткавая дапамога</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Працоўны стол+</item>
         <item>Узаемазвязанасць/Працоўны стол+</item>
-        <item>Працоўны стол+, Цэнтр трансляцыi, агульны экран</item>
+        <item>Працоўны стол+</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Буфер абмену</item>
@@ -61,16 +61,41 @@
     <string-array name="settings_search_relay_network_2">
         <item>Бесправадны мадэм</item>
         <item>Узаемазвязанасць/Бесправадны мадэм</item>
-        <item>Сеткавая дапамога, мадэм, сумеснае выкарыстанне пункту доступу, бесправадной мадэма</item>
+        <item>Бесправадной мадэма</item>
     </string-array>
     <string-array name="settings_search_relay_network_global">
         <item>Сеткавая сінхранізацыя</item>
         <item>Узаемазвязанасць/Сеткавая сінхранізацыя</item>
-        <item>Сеткавая дапамога, мадэм, сумеснае выкарыстанне пункту доступу, сеткавая сінхранізацыя</item>
+        <item>Сеткавая сінхранізацыя</item>
     </string-array>
     <string-array name="settings_search_share_file">
         <item>Доступ да файлаў паміж прыладамі</item>
         <item>Узаемазвязанасць/Доступ да файлаў</item>
-        <item>Доступ да файлаў паміж прыладамі, доступ да файлаў, размеркаваны файл, літара размеркаванага дыска</item>
+        <item>Доступ да файлаў паміж прыладамі</item>
+    </string-array>
+    <string-array name="settings_search_mi_share">
+        <item>Абмен файламі</item>
+        <item>Узаемасувязь/Абмен файламі</item>
+        <item>Абмен файламі</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast">
+        <item>Трансляцыя</item>
+        <item>Узаемасувязь/Трансляцыя</item>
+        <item>Трансляцыя, Згарнуць акно, Трансляцыя з выключаным экранам</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast_help">
+        <item>Даведка</item>
+        <item>Узаемасувязь/Трансляцыя/Даведка</item>
+        <item>Даведка</item>
+    </string-array>
+    <string-array name="settings_search_share_camera">
+        <item>Агульная камера</item>
+        <item>Узаемасувязь/Агульная камера</item>
+        <item>Агульная камера</item>
+    </string-array>
+    <string-array name="settings_search_upay">
+        <item>Агульныя плацяжы</item>
+        <item>Узаемасувязь/Агульныя плацяжы</item>
+        <item>Агульныя плацяжы;плацяжы паміж прыладамі</item>
     </string-array>
 </resources>

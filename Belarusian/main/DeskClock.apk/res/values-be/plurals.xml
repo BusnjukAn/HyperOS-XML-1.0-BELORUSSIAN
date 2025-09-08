@@ -301,4 +301,28 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+   <plurals name="alarms_count">
+    <item quantity="other">%s змен</item>
+    <item quantity="one">%s змена</item>
+    <item quantity="few">%s змены</item>
+    <item quantity="many">%s змен</item>
+  </plurals>
+  <plurals name="index_in_shift_alarms">
+    <item quantity="other">Дзень %s</item>
+    <item quantity="one">Дзень %s</item>
+    <item quantity="few">Дзень %s</item>
+    <item quantity="many">Дзень %s</item>
+  </plurals>
+  <plurals name="index_in_shift_alarms_des">
+    <item quantity="other">Дзень змены %s</item>
+    <item quantity="one">Дзень змены %s</item>
+    <item quantity="few">Дзень змены %s</item>
+    <item quantity="many">Дзень змены %s</item>
+  </plurals>
+  <plurals name="shift_alarm_duration">
+    <item quantity="other">%s дзён</item>
+    <item quantity="one">%s дзень</item>
+    <item quantity="few">%s дні</item>
+    <item quantity="many">%s дзён</item>
+  </plurals>
 </resources>

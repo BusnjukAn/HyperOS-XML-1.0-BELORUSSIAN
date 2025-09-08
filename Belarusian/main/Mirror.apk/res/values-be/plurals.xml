@@ -116,4 +116,12 @@
     <item quantity="one">Абраны %d элемент</item>
     <item quantity="few">Абрана %d элемента</item>
    </plurals>
+   <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новых апавяшчэння</item>
+    </plurals>
+    <plurals name="trust_settings_selected_count">
+        <item quantity="other">Абрана прылад: %1$d</item>
+    </plurals>
 </resources>

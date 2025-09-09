@@ -662,4 +662,16 @@
   <string name="tap_share_wifi_connected">Падлучана да \"%1$s\"</string>
   <string name="tap_share_wifi_fail">Не атрымалася падлучыцца</string>
   <string name="tapshare_receive_describe_wifi">Падлучыцца да \"%1$s\"</string>
+  <string name="fmt_date">D</string>
+  <string name="fmt_date_day">d</string>
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM yyyy</string>
+  <string name="fmt_date_numeric_day">d</string>
+  <string name="fmt_date_numeric_month">M</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_weekday_long">EEEE</string>
+  <string name="fmt_weekday_short">E</string>
+  <string name="mishare_settings_summary_international_ios">Тэлефоны і планшэты Xiaomi\nПрылады Apple: iPhone, iPad і Mac\nІншыя прылады Android: vivo, realme, OPPO і іншыя абраныя брэнды могуць падтрымліваць гэтую функцыю. Гл. падрабязней на афіцыйным сайце кожнага брэнда.</string>
 </resources>

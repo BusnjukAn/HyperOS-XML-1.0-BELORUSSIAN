@@ -653,4 +653,9 @@
         <item quantity="other">Адпраўка %1$d спасылак…</item>
         <item quantity="one">Адпраўка %1$d спасылкі…</item>
     </plurals>
+    <plurals name="onehop_receive_describe_file">
+        <item quantity="other">Атрымаць %1$d файлаў</item>
+        <item quantity="one">Атрымаць %1$d файл</item>
+        <item quantity="few">Атрымаць %1$d файла</item>
+    </plurals>
 </resources>

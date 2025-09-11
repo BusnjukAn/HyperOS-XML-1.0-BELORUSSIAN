@@ -1287,4 +1287,5 @@
   <string name="announce_for_drop_line_unit">радок</string>
   <string name="locate_apps_launcher_loading_tips">Працоўны стол усё яшчэ загружаецца. Паўтарыце спробу праз хвіліну.</string>
   <string name="search_indicator">Пошук</string>
+  <string name="work_switch">Працоўныя праграмы</string>
 </resources>

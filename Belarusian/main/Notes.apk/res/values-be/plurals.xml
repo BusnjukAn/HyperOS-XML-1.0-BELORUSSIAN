@@ -250,4 +250,10 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="ai_tag_words_more_than">
+        <item quantity="other">%1$s+ сімвалаў</item>
+        <item quantity="one">%1$s+ сімвал</item>
+        <item quantity="few">%1$s+ сімвала</item>
+        <item quantity="many">%1$s+ сімвалаў</item>
+    </plurals>
 </resources>

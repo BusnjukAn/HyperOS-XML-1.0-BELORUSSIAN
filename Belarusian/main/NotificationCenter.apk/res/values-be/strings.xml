@@ -178,7 +178,6 @@
   <string name="on">Укл.</string>
   <string name="pm">ПП</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
-  <string name="rule_keyguard_display">Фармат</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">С</string>
@@ -406,4 +405,20 @@
   <string name="miuix_progressbar_loading">Загрузка</string>
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="ai_enhanced_summary_pad">Атрымлівайце зводкі найбольш важнай інфармацыі з апавяшчэнняў</string>
+  <string name="ai_notification_illustrate_text_pad">Атрымлівайце разумныя зводкі для апавяшчэнняў, адлюстроўваных у спісе папярэдняга прагляду для зручнасці выкарыстання.\nЗмест зводкі, уключаючы любыя прыватныя звесткі, будзе апрацоўвацца кампаніяй Xiaomi, але мы не будзем захоўваць гэтыя дадзеныя.</string>
+  <string name="aon_message_owner">Калі гэтая функцыя ўключана, франтальная камера будзе правяраць, хто глядзіць на экран пры атрыманні апавяшчэння. Калі тэлефон выявіць, што вы не адзіны, хто глядзіць на экран, ён аўтаматычна схавае змесціва апавяшчэння. Усе выявы і дадзеныя аб асобах апрацоўваюцца лакальна на вашым прыладзе і ніколі не загружаюцца ў воблака.</string>
+  <string name="aon_message_owner_comment">Для пацверджання таго, што вы глядзіце на экран, патрабуецца доступ да камеры.</string>
+  <string name="aon_need_set_face_cancel">Адмена</string>
+  <string name="aon_need_set_face_message">Каб выкарыстоўваць гэтую функцыю, спачатку наладзьце разблакоўку па твару.</string>
+  <string name="aon_need_set_face_title">Патрабуецца разблакіроўка па твару</string>
+  <string name="aon_need_set_face_to_settings">Налады</string>
+  <string name="fingerprint_face_password_unlock_new">Адбіткі пальцаў, дадзеныя аб твару і блакаванне экрана</string>
+  <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
+  <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
+  <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="notification_aon_summary_owner">Змесціва апавяшчэння будзе адлюстроўвацца толькі тады, калі ўладальнік прылады глядзіць на экран</string>
+  <string name="rule_keyguard_display">Параметры %s</string>
 </resources>

@@ -229,4 +229,16 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="kg_history_count_selected">
+        <item quantity="other">"Выдаліць %d аб'ектаў"</item>
+        <item quantity="one">"Выдаліць %d аб'ект"</item>
+        <item quantity="few">"Выдаліць %d аб'екта"</item>
+        <item quantity="many">"Выдаліць %d аб'ектаў"</item>
+    </plurals>
+    <plurals name="kg_history_delete_tip_title">
+        <item quantity="other">"Выдаліць %d аб'ектаў зараз?"</item>
+        <item quantity="one">"Выдаліць %d аб'ект зараз?"</item>
+        <item quantity="few">"Выдаліць %d аб'екта зараз?"</item>
+        <item quantity="many">"Выдаліць %d аб'ектаў зараз?"</item>
+    </plurals>
 </resources>

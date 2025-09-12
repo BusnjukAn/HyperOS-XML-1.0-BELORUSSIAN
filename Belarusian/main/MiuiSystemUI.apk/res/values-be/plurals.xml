@@ -480,4 +480,10 @@
         <item quantity="other">>Узровень сігналу: %1$d з %2$d палос</item>
         <item quantity="one">>Узровень сігналу: %1$d з %2$d паласы</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s праграмы актыўныя</item>
+        <item quantity="one">%s праграма актыўная</item>
+        <item quantity="few">%s праграмы актыўныя</item>
+        <item quantity="many">%s праграм актыўныя</item>
+    </plurals>
 </resources>

@@ -651,7 +651,7 @@
   <string name="permission_wifi_summary">Для перадачы аб\'ектаў на новую прыладу</string>
   <string name="permission_wifi_title">Уключэнне і адключэнне Wi-Fi</string>
   <string name="pm">ПП</string>
-  <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
+  <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
   <string name="privacy_agree">Згадзіцца</string>
   <string name="privacy_cancel">Не згаджацца</string>
   <string name="privacy_desc">Сардэчна запрашаем у Mi Трансфер! Гэтая праграма прадастаўляе наступныя паслугі:</string>
@@ -1162,4 +1162,13 @@
   <string name="permission_picture_title">Доступ да фота і відэа</string>
   <string name="sender_finish_bottom_tips_pad"><Data>"Пераканайцеся, што вы захавалі ўсе важныя дадзеныя перад &lt;a href='%1s'>выдаленнем дадзеных на гэтай прыладзе&lt;/a>."</Data></string>
   <string name="sender_finish_bottom_tips_phone"><Data>"Пераканайцеся, што вы захавалі ўсе важныя дадзеныя перад &lt;a href='%1s'>выдаленнем дадзеных на гэтай прыладзе&lt;/a>."</Data></string>
+  <string name="dialog_rating_star_description">%s зорак</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="PRD_title_2">WeChat</string>
+  <string name="PRD_title_3">QQ</string>
+  <string name="trans_send_time_remained_default">Адпраўлена: %1$s</string>
+  <string name="trans_sync_transfer_data_list_pad">Абярыце элементы на старой прыладзе для пераносу</string>
+  <string name="trans_sync_transfer_data_list_summary_for_phone">Абярыце элементы на старой прыладзе і націсніце \"Адправіць\".</string>
+  <string name="transfer_no_memory_dialog_title_pad">Недастаткова месца ў памяці</string>
 </resources>

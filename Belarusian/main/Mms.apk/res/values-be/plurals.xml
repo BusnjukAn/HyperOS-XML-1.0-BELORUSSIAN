@@ -253,4 +253,12 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="notification_multiple_satellite">
+        <item quantity="other">Спадарожнікавае паведамленне: %s</item>
+        <item quantity="one">Спадарожнікавае паведамленне: %s</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Адклікаць (%d с.)</item>
+        <item quantity="one">Адклікаць (%d с.)</item>
+    </plurals>
 </resources>

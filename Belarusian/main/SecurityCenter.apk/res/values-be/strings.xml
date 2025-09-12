@@ -7929,4 +7929,41 @@ Xiaomi Gaming Cooler"</string>
   <string name="delete_connected_devices">Выдаліць выбраныя прылады зараз?</string> 
   <string name="delete_connected_devices_title">Выдаліць %1$s зараз?</string> 
   <string name="power_dialog_super_save_msg_p2">Рэжым максімальнага энергазберажэння адключае задні дысплей і абмяжоўвае большасць энергаёмістых функцый, зніжаючы прадукцыйнасць прылады, каб як мага даўжэй захаваць даступнасць асноўных функцый (напрыклад, выклiкаў, SMS і падклучэння да сеткі). Уключыць рэжым максімальнага энергазберажэння?</string>
+  <string name="biometric_face_in_use">Камера занята. Разблакіроўка па твару недаступная.</string>
+  <string name="bubble_pickup_voice_print_auto">Запіс галасавога адбітка…</string>
+  <string name="button_pickup_voice_print_auto_agree">Запісаць</string>
+  <string name="button_pickup_voice_print_auto_disagree">Не зараз</string>
+  <string name="cs_camera_bubble">Выяўлена даступная камера.&lt;annotation value=\"switchCamera\" key=\"action\">Націсніце для пераключэння.&lt;/annotation></string>
+  <string name="cs_pickup_voice_print_auto_dialog_tips">Ваш голас будзе запісаны і апрацаваны толькі на гэтай прыладзе.\nДля лепшага выніку запісвайце ў ціхім месцы.</string>
+  <string name="cs_pickup_voice_print_auto_dialog_title">Галасавы адбітак для персаналізаванага падаўлення шуму</string>
+  <string name="game_toolbox_display_style_not_hdr_desc">Вы можаце выбіраць розныя візуальныя стылі</string>
+  <string name="game_toolbox_fps_average_nodata">Атрыманне сярэдняй частаты кадраў…</string>
+  <string name="game_toolbox_fps_realtime_nodata">Атрыманне частаты кадраў у рэальным часе…</string>
+  <string name="game_toolbox_fps_shake_nodata">Атрыманне дадзеных пра ваганні частаты кадраў…</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Зачыніць</string>
+  <string name="pc_low_temp_disable_otg_message">Знешнія прылады і зваротная зарадка недаступныя з-за нізкай тэмпературы або ўзроўню зарада батарэі. Паспрабуйце зноў, калі тэмпература ці ўзровень зарада павялічацца.</string>
+  <string name="pc_low_temp_disable_otg_ok">Зразумела</string>
+  <string name="pc_low_temp_disable_otg_title">Знешнія прылады і зваротная зарадка недаступныя</string>
+  <string name="pc_smart_charge_notify_summary_night_pause_charge">Зарадка прыпынена ў %1$s. Яна адновіцца ў %2$s.</string>
+  <string name="pc_smart_charge_notify_summary_night_start_charge">Зарадка прыпыніцца пры дасягненні %1$s і аўтаматычна адновіцца ў залежнасці ад вашага выкарыстання</string>
+  <string name="pc_this_time_charge_full_now">Зарадзіць да 100%</string>
+  <string name="pp_agent_app_ctl_title">Дазволіць \"%s\" кіраваць наступнымі праграмамі</string>
+  <string name="pp_agent_request_screen_ctl_app_title">Уключыць ШІ-кіраванне для %s</string>
+  <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Калі гэтая функцыя ўключана, %1s зможа кіраваць %2s.</string>
+  <string name="pp_agent_request_screen_ctl_title">Уключыць ШІ-кіраванне</string>
+  <string name="pp_agent_request_screen_info_title">Уключыць распазнаванне экрана ШІ</string>
+  <string name="pp_agent_screen_ctl">ШІ-кіраванне</string>
+  <string name="pp_agent_screen_ctl_app_disable" formatted="false">\"%1s\" не можа кіраваць \"%2s\"</string>
+  <string name="pp_agent_screen_ctl_desc">Калі гэтая функцыя ўключана, %s можа дапамагчы вам кіраваць праграмамі на гэтай прыладзе.</string>
+  <string name="pp_agent_screen_info">Распазнаванне экрана ШІ</string>
+  <string name="pp_agent_screen_info_desc">Калі гэтая функцыя ўключана, %s можа распазнаваць і атрымліваць доступ да змесціва вашага экрана ў рэальным часе.</string>
+  <string name="pp_agent_screen_privacy">Распазнаванне экрана ШІ і разумнае кіраванне</string>
+  <string name="pp_lead_down_calenadr">Усталяваць Каляндар</string>
+  <string name="pp_lead_down_calenadr_desc">Падзеі і напаміны прадастаўляюцца праграмай Каляндар. Усталюйце яе, каб выкарыстоўваць гэтыя функцыі.</string>
+  <string name="pp_more_privacy_func">Дадатковыя функцыі прыватнасці</string>
+  <string name="uninstall_app_reminder_msg">Я разумею, што выдаленыя дадзеныя праграмы не могуць быць адноўлены</string>
+  <string name="uninstall_app_reminder_pre_title">Выдаліць %s</string>
+  <string name="uninstall_app_reminder_toast">Пацвердзіце, што вы разумееце, што выдаленыя дадзеныя праграмы не могуць быць адноўлены</string>
+  <string name="uninstall_xspace_app_reminder_pre_title">Выдаліць кланаваную праграму %s</string>
+  <string name="warningcenter_mijia_alert_tips_5">Выяўлена папярэджанне пра кантакт з вадой. Праверце зараз.</string>
 </resources>

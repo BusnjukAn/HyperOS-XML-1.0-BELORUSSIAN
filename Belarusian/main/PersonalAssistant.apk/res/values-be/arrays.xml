@@ -14,10 +14,19 @@
     <item>Чырвоны - уверх, зялёны - уніз</item>
     <item>Зялёны - уверх, чырвоны - уніз</item>
   </string-array>
-  <string-array name="pa_covid_items_default">
-         <item>COVID-19</item>
-         <item>Код здароўя</item>
-         <item>ПЦР</item>
-         <item>Зоны павышанай рызыкі</item>
-     </string-array>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Код здароўя</item>
+        <item>ПЦР</item>
+        <item>Зоны павышанай рызыкі</item>
+    </string-array>
+    <string-array name="pa_service_delivery_dislike_option">
+        <item>Рэкамендаваць у іншы час</item> 
+        <item>Рэкамендаваць радзей</item> 
+        <item>Не рэкамендаваць гэтую паслугу</item> 
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
 </resources>

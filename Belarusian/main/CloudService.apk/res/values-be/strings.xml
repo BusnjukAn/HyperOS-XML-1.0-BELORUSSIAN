@@ -1303,10 +1303,34 @@
   <string name="verify_dialog_point_other_title">Змяніць спосаб пацвярджэння</string>
   <string name="verify_forget_security">Забылі ключ бяспекі?</string>
   <string name="verify_notification_text_account_login_push" formatted="false">Увайсці ў акаўнт Xiaomi (%s) на %s зараз?</string>
-  <string name="verify_notification_text_apple_push">Для вашага ўліковага запісу ўключана пашыраная абарона дадзеных. Дазволіць прыладзе Apple доступ да вашых зашыфраваных дадзеных?</string>
+  <string name="verify_notification_text_apple_push">Для вашага акаўнта ўключана пашыраная абарона дадзеных. Дазволіць прыладзе Apple доступ да вашых зашыфраваных дадзеных?</string>
   <string name="verify_notification_title_account_login_push">Уваход у акаўнт Xiaomi</string>
   <string name="verify_notification_title_apple_push">Аўтарызацыя прылады Apple</string>
   <string name="verify_title_2fa">Двухфактарная аўтэнтыфікацыя</string>
   <string name="web_view_reload_btn_text_new">Паўтарыць</string>
   <string name="web_view_reload_description_text_new">Праверце налады сеткі і паўтарыце спробу.</string>
+  <string name="checked">Абрана</string>
+  <string name="e2ee_open_local_dialog_msg">Для вашага акаўнта ўключана пашыраная абарона дадзеных, а вашы дадзеныя ў воблаку зашыфраваныя. Прайдзіце праверку бяспекі для доступу.</string>
+  <string name="e2ee_open_local_dialog_neg_btn">Адмена</string>
+  <string name="e2ee_open_local_dialog_pos_btn">Праверыць</string>
+  <string name="e2ee_open_local_dialog_title">Праверка бяспекі</string>
+  <string name="find_device_icp_record_text">Нумар заяўкі ICP: 10046444-73A</string>
+  <string name="micloud_icp_record_text">Нумар заяўкі ICP: 10046444-40A</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="not_checked">Не абрана</string>
+  <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="verify_code_dialog_message_default">Увядзіце гэты код на новай прыладзе</string>
+  <string name="verify_code_dialog_title_default">Код праверкі прылады</string>
+  <string name="verify_code_warning_dialog_message_default">Дазволіць новай прыладзе доступ да зашыфраваных дадзеных?</string>
+  <string name="verify_code_warning_dialog_title_default">Новая прылада запытвае доступ</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Падлучыць дыспетчар спамповак не ўдалося, праверце стан дыспетчара спамповак у кіраванні праграмамі.</string>
+  <string name="xiaomi_update_sdk_dialog_message">Уяўляем версію %1$s\nПамер: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">Уяўляем версію %1$s\nПамер дэльта абнаўлення: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_title">Даступна абнаўленне</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Сховішча недаступнае, праверце SD-карту.</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Кб</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Не зараз</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
 </resources>

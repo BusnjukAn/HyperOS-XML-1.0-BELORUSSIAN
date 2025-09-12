@@ -534,4 +534,28 @@
         <item>ПТ</item>
         <item>СБ</item>
     </string-array>
+    <string-array name="year_view_week_header_name_new">
+        <item>ПН</item>
+        <item>АЎ</item>
+        <item>СР</item>
+        <item>ЧЦ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>НД</item>
+    </string-array>
+    <string-array name="constellation_array"> 
+        <item>Няма</item> 
+        <item>Авен</item> 
+        <item>Цялец</item> 
+        <item>Блізняты</item> 
+        <item>Рак</item> 
+        <item>Леў</item> 
+        <item>Дзева</item> 
+        <item>Шалі</item> 
+        <item>Скарпіён</item> 
+        <item>Стралец</item> 
+        <item>Казярог</item> 
+        <item>Вадалей</item> 
+        <item>Рыбы</item> 
+    </string-array>
 </resources>

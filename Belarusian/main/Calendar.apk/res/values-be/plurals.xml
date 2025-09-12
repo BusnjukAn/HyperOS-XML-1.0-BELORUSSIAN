@@ -512,4 +512,32 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="countdown_hour">
+        <item quantity="other">Пачатак праз %1$s г.</item>
+        <item quantity="one">Пачатак праз %1$s г.</item>
+    </plurals>
+    <plurals name="countdown_minute">
+        <item quantity="other">Пачатак праз %1$s хв.</item>
+        <item quantity="one">Пачатак праз %1$s хв.</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$s г.</item>
+        <item quantity="one">%1$s г.</item>
+    </plurals>
+     <plurals name="Ndays_v1">
+        <item quantity="other">%d д. таму</item>
+        <item quantity="one">%d д. таму</item>
+    </plurals>
+    <plurals name="Nhours_v1">
+        <item quantity="other">%d г. таму</item>
+        <item quantity="one">%d г. таму</item>
+    </plurals>
+    <plurals name="Nminutes_v1">
+        <item quantity="other">%d хв. таму</item>
+        <item quantity="one">%d хв. таму</item>
+    </plurals>
+    <plurals name="Nweeks_v1">
+        <item quantity="other">%d тыд. таму</item>
+        <item quantity="one">%d тыдз. таму</item>
+    </plurals>
 </resources>

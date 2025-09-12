@@ -1799,9 +1799,9 @@
   <string name="classic_calendar_month_of_year_format">MMM</string>
   <string name="clock_12hr_format">hm</string>
   <string name="clock_24hr_format">Hm</string>
-  <string name="drag_shadow_freeform_mini_open">Міні-плаваючае акно</string>
+  <string name="drag_shadow_freeform_mini_open">Міні-плаваючае\nакно</string>
   <string name="drag_shadow_freeform_mini_unsupported">Міні-плаваючыя вокны не падтрымліваюцца</string>
-  <string name="drag_shadow_freeform_open">Плаваючае акно</string>
+  <string name="drag_shadow_freeform_open">Плаваючае\nакно</string>
   <string name="drag_shadow_freeform_unsupported">Плаваючыя вокны не падтрымліваюцца</string>
   <string name="drag_shadow_freeform_unsupported_app">%s не падтрымлівае плаваючыя вокны</string>
   <string name="drag_shadow_fullscreen_open">Поўны экран</string>

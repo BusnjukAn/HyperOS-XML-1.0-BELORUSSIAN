@@ -221,7 +221,7 @@
   <string-array name="repeat_choose_end">
     <item>Ніколі</item>
     <item>Час</item>
-    <item>Таймер</item>
+    <item>"Таймер "</item>
   </string-array>
   <string-array name="repeat_choose_month">
     <item>Студ</item>

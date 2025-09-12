@@ -498,4 +498,11 @@
         <item>Мужчынскі</item>
         <item>Жаночы</item>
     </string-array>
+    <string-array name="search_voice_assistant_suggestion"> 
+        <item>Дапамажыце мне знайсці фатаграфію для пасведчання асобы</item> 
+        <item>Я хачу паглядзець фатаграфіі, зробленыя ў Санье</item> 
+        <item>Знайсьці фатаграфіі з тэкстам Xiaomi</item> 
+        <item>Знайсьці фатаграфіі з леташняга Свята вясны</item> 
+        <item>Дапамажыце мне знайсці фатаграфію з маёй мамай і мной на пляжы ў мінулым месяцы</item> 
+    </string-array>
 </resources>

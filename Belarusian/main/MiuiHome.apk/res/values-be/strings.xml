@@ -1288,4 +1288,26 @@
   <string name="locate_apps_launcher_loading_tips">Працоўны стол усё яшчэ загружаецца. Паўтарыце спробу праз хвіліну.</string>
   <string name="search_indicator">Пошук</string>
   <string name="work_switch">Працоўныя праграмы</string>
+  <string name="announce_for_drop_line">Прапушчаны радок нумар %1$d</string>
+  <string name="gesture_tap_lock">Падвойны націск для блакавання</string>
+  <string name="home_search_bar_change_cancle">Адмена</string>
+  <string name="home_search_bar_change_confirm">Змяніць</string>
+  <string name="home_search_bar_change_content">Калі вы зменіце стыль панэлi пошуку, выгляд працоўнага стала таксама зменіцца. Змяніць зараз?</string>
+  <string name="home_search_bar_change_title">Змяніць стыль панэлi пошуку</string>
+  <string name="large_search_bar">Стандартны пошук</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="miuix_popup_window_default_title">Усплываючае акно</string>
+  <string name="none">Выкл.</string>
+  <string name="pa_need_download_talkback">\"%s\" яшчэ не загружаны</string>
+  <string name="search_settings_annotation">Абраны стыль будзе ўжыты да вонкавага экрана</string>
+  <string name="search_settings_title">Панэль пошуку на працоўным стале</string>
+  <string name="search_settings_title_synonyms_ask_xiao_ai">Спытаць Mi ШІ</string>
+  <string name="search_settings_title_synonyms_compact_search">Кампактны пошук</string>
+  <string name="search_settings_title_synonyms_home_search">Пошук на працоўным стале</string>
+  <string name="search_settings_title_synonyms_search">Пошук</string>
+  <string name="search_settings_title_synonyms_search_bar">Панэль пошуку</string>
+  <string name="search_settings_title_synonyms_system_search">Сістэмны пошук</string>
+  <string name="small_search_bar">Кампактны пошук</string>
+  <string name="status_bar_notification_info_overflow">больш за 999</string>
+  <string name="super_xiao_ai">Спытаць Mi ШІ</string>
 </resources>

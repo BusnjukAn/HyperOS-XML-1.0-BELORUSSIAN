@@ -976,4 +976,22 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="delete_media_dialog_local">
+        <item quantity="other">Выдаліць %d абраных элементаў? Вы можаце перайсці ў \"Нядаўна выдаленыя\", каб аднавіць або канчаткова выдаліць іх.</item>
+        <item quantity="one">Выдаліць %d абраны элемент? Вы можаце перайсці ў \"Нядаўна выдаленыя\", каб аднавіць або канчаткова выдаліць яго.</item>
+        <item quantity="few">Выдаліць %d абраныя элементы? Вы можаце перайсці ў \"Нядаўна выдаленыя\", каб аднавіць або канчаткова выдаліць іх.</item>
+    </plurals>
+    <plurals name="rear_screen_confirm_delete_media_title">
+        <item quantity="other">Выдаліць %d элементаў зараз?</item>
+        <item quantity="one">Выдаліць %d элемент зараз?</item>
+        <item quantity="few">Выдаліць %d элемента зараз?</item>
+    </plurals>
+    <plurals name="share_burst_over_limit_toast">
+        <item quantity="other">Не атрымалася адправіць. З улікам серыйных здымкаў агульная колькасць элементаў перавышае %d.</item>
+        <item quantity="one">Не атрымалася адправіць. З улікам серыйных здымкаў агульная колькасць элементаў перавышае %d.</item>
+    </plurals>
+    <plurals name="share_count_over_limit_toast">
+        <item quantity="other">Не атрымалася адправіць. Агульная колькасць элементаў перавышае %d.</item>
+        <item quantity="one">Не атрымалася адправіць. Агульная колькасць элементаў перавышае %d.</item>
+    </plurals>
 </resources>

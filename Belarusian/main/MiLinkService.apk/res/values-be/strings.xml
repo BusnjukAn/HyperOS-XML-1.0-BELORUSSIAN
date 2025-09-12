@@ -1668,18 +1668,7 @@
   <string name="picker_view_description">Выкарыстанне камер некалькіх прылад. Вы можаце націснуць унутры карткі, каб выбраць камеры на прыладах паблізу.</string>
   <string name="picker_view_outside_description">Націсніце, каб закрыць гэтую картку.</string>
   <string name="start_forbidden_by_not_worn">Не ўдалося падключыцца. Надзеньце акуляры і паспрабуйце яшчэ раз.</string>
-  <string name="state_app_continuity">Выкарыстоўваецца Перадача кіравання праграмамі</string>
-  <string name="state_audio_cast">Аўдыё транслюецца праз Xiaomi Smart Play</string>
-  <string name="state_call_synergy">Выкарыстоўваецца сінхранізацыя выклікаў</string>
-  <string name="state_camera_synergy">Выкарыстоўваецца камера для некалькіх прылад</string>
-  <string name="state_cellular_synergy">Выкарыстоўваецца бесправадны мадэм</string>
-  <string name="state_hid_synergy">Выкарыстоўваецца кіраванне паміж прыладамі</string>
-  <string name="state_mirror">Ідзе трансляцыя</string>
-  <string name="state_music_playing">Прайграваецца музыка</string>
   <string name="state_open">Уключана</string>
-  <string name="state_screen_synergy">Выкарыстоўваецца Галоўны экран+</string>
-  <string name="state_take_photo">Выкарыстоўваецца функцыя «Выкарыстанне камер некалькіх прылад»</string>
-  <string name="state_video_cast">Відэа транслюецца праз Xiaomi Smart Play</string>
   <string name="status_bar_car_camera_icon_name">Транспартны сродак</string>
   <string name="status_bar_default_icon_name">Прылада</string>
   <string name="status_bar_device_iot_camera_icon_name">Камера Xiaomi Home</string>
@@ -1716,7 +1705,6 @@
   <string name="edit_device_group">Змяніць групы прылад</string>
   <string name="share_compute_powing_title_pad">Сумеснае выкарыстанне вылічальнай магутнасці з тэлефонам…</string>
   <string name="share_compute_powing_title_phone">Сумеснае выкарыстанне вылічальнай магутнасці з планшэтам…</string>
-  <string name="state_computing_power">Выкарыстанне вылічальнай падтрымкі</string>
   <string name="device_permission_dialog_message_global_old">У наладах %s перайдзіце ў раздзел \"Узаемазлучанасць\" > \"Узаемазлучанасць і дазволы\" і дайце камеры дазволу, каб выкарыстоўваць гэтую функцыю.</string>
   <string name="inter_connect_setting_unavailable_dialog_message">Адкрыйце \"Налады\" > \"Узаемазлучанасць\", каб уключыць функцыю \"Выкарыстанне камер некалькіх прылад\".</string>
   <string name="inter_connect_setting_unavailable_dialog_positive_button">Зразумела</string>

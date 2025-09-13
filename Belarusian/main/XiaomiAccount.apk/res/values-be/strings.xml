@@ -156,7 +156,7 @@ ID вашага акаўнта:%s"</string>
   <string name="delete_action">Выдаліць</string>
   <string name="delete_bank_card_message">Пасля выхаду банкаўскія карткі Mi Pay і карткі NFC будуць выдалены.</string>
   <string name="delete_bank_card_title">Увага</string>
-  <string name="delete_device_btn">Выдаліць прыладу</string>
+  <string name="delete_device_btn">Выдаліць</string>
   <string name="delete_device_failed">Немагчыма выдаліць прыладу</string>
   <string name="delete_device_notice">Пасля выдалення прылады будзе ажыццяўлён выхад з Xiaomi акаўнта аўтаматычна. Вы не зможаце выкарыстоўваць гэтую прыладу для доступу да фота, паведамленняў ці іншага змесціва, якое захоўваецца ў вашам акаўнце.</string>
   <string name="deny">Забараніць</string>
@@ -1278,4 +1278,8 @@ ID:%s
   <string name="passport_two_factor_set_phone_dialog_positive_btn">Усталяваць</string>
   <string name="passport_two_factor_set_phone_dialog_title">Устанавіць пароль ад акаўнта</string>
   <string name="passport_two_factor_set_phone_hint">Дадайце нумар тэлефона, каб выкарыстоўваць двухфактарную аўтэнтыфікацыю</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="forget_password_or_skip">Забыты пароль або прапусціць уваход</string>
+  <string name="no_account_or_skip">У мяне няма акаўнта Xiaomi або прапусціць уваход</string>
+  <string name="passport_cta_provision_content">Акаўнт Xiaomi дазваляе вам рэгістравацца, уваходзіць у яго і кіраваць сістэмнымі акаўнтамі. Для нармальнай працы гэтай службе патрабуецца падлучэнне да Інтэрнэту і наступныя дазволы: Доступ да нумара тэлефона гэтай прылады для хуткага ўваходу.</string>
 </resources>

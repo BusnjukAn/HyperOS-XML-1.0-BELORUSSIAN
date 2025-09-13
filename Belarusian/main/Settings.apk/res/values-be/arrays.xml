@@ -1305,4 +1305,27 @@
     <item>Тэатр</item>
     <item>Кветка</item>
   </string-array>
+  <string-array name="audio_dump_mode_entries"> 
+        <item>Адключана</item> 
+        <item>Узровень 7</item> 
+        <item>Узровень 9</item> 
+        <item>Узровень 11</item> 
+        <item>Узровень 15</item> 
+    </string-array> 
+    <string-array name="screen_optimize_summary_new"> 
+        <item>Палепшаныя колеры для больш яркага адлюстравання</item> 
+        <item>Аднавіць стандартныя колеры экрана</item> 
+    </string-array> 
+    <string-array name="screen_optimize_title_new"> 
+        <item>Яркі (рэкамендуецца)</item> 
+        <item>Стандартны</item> 
+    </string-array> 
+    <string-array name="true_color_screen_optimize_summary_new"> 
+        <item>Палепшаныя колеры для больш яркага адлюстравання</item> 
+        <item>Аднаўленне стандартных колераў змесціва экрана з дапамогай каліброўкі колеру</item> 
+    </string-array> 
+    <string-array name="true_color_screen_optimize_title_new"> 
+        <item>Яркі (рэкамендуецца)</item> 
+        <item>Арыгінальны</item> 
+    </string-array>
 </resources>

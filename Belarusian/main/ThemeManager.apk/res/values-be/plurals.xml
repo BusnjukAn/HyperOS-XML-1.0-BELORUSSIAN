@@ -374,4 +374,24 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="kg_history_count_selected">
+        <item quantity="other">Абрана %d элементаў</item>
+        <item quantity="one">Абраны %d элемент</item>
+        <item quantity="few">Абрана %d элемента</item>
+    </plurals>
+    <plurals name="kg_history_delete_tip_title">
+        <item quantity="other">Выдаліць %d элементаў зараз?</item>
+        <item quantity="few">Выдаліць %d элемента зараз?</item>
+        <item quantity="one">Выдаліць %d элемент зараз?</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Узровень зарада батарэі зараз %s адсоткаў</item>
+        <item quantity="few">Узровень зарада батарэі зараз %s адсотка</item>
+        <item quantity="one">Узровень зарада батарэі зараз %s адсотак</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Зарадка. Узровень зарада батарэі зараз %d адсоткаў.</item>
+        <item quantity="few">Зарадка. Узровень зарада батарэі зараз %d адсотка.</item>
+        <item quantity="one">Зарадка. Узровень зарада батарэі зараз %d адсотак.</item>
+    </plurals>
 </resources>

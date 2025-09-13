@@ -499,13 +499,4 @@
         <item>Выключана</item>
         <item>Уключана</item>
     </string-array>
-   <string-array name="aqi_title_prefix">
-    <item>ІЯП %1$s</item>
-    <item>ІЯП %1$s</item>
-    <item>ІЯП %1$s</item>
-    <item>ІЯП %1$s</item>
-    <item>ІЯП %1$s</item>
-    <item>ІЯП %1$s</item>
-    <item>ІЯП %1$s</item>
-  </string-array>
 </resources>

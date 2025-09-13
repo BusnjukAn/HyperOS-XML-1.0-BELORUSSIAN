@@ -1901,7 +1901,6 @@
   <string name="dock_disagree">Не зараз</string>
   <string name="error_icon_content_description">Памылка</string>
   <string name="exposed_dropdown_menu_content_description">Паказаць выпадное меню</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="item_view_role_description">Укладка</string>
   <string name="make_as_read_tips">Адзначыць усё як прачытанае?</string>
@@ -1982,7 +1981,6 @@
   <string name="recommend_tip_other">Паглядзець іншыя праграмы для абмену паведамленнямі</string>
   <string name="recommend_tip_smart">Абарона прыватнасці. Разумнае распазнанне.</string>
   <string name="satellite_sms">Спадарожнікавае паведамленне</string>
-  <string name="send_to_index_contact">Адпраўлена %1$s з %2$s…</string>
   <string name="setting_default_guide_btn_go_set">Усталяваць</string>
   <string name="setting_internet_message">Бясплатны абмен паведамленнямі праз інтэрнэт</string>
   <string name="setting_internet_message_on_simIndex">Бясплатны абмен паведамленнямі праз інтэрнэт (SIM %d)</string>

@@ -174,4 +174,12 @@
     <item>%1$s міль/гадз</item>
     <item>%1$s вз</item>
   </string-array>
+  <string-array name="typhoon_uv_level"> 
+        <item>Трапічная дэпрэсія</item> 
+        <item>Трапічны шторм</item> 
+        <item>Моцны трапічны шторм</item> 
+        <item>Тайфун</item> 
+        <item>Моцны тайфун</item> 
+        <item>Супертайфун</item> 
+    </string-array>
 </resources>

@@ -728,4 +728,6 @@
   <string name="wallpaper_and_signature_title">Шпалеры і подпісы</string>
   <string name="wallpaper_bright_title">Бляск</string>
   <string name="wallpaper_manying_title">Цені</string>
+  <string name="wallpaper_group_blossom_title">Квітанне</string>
+  <string name="wallpaper_group_nature_title">Прырода</string>
 </resources>

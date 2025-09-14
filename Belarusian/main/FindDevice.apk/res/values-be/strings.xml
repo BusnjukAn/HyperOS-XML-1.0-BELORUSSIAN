@@ -946,4 +946,9 @@
   <string name="web_sso_login_fail">Неабходна ўвайсці яшчэ раз</string>
   <string name="web_sso_login_message">Уваход…</string>
   <string name="webview_reload">Паспрабаваць зноў</string>
+  <string name="map_compass_east">У</string>
+  <string name="map_compass_north">Пн</string>
+  <string name="map_compass_south">Пд</string>
+  <string name="map_compass_west">З</string>
+  <string name="map_dialog_do_not_ask_again">Больш не пытацца</string>
 </resources>

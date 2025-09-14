@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Для доступу і захавання выяў, праграм і іншых файлаў, а таксама іх перадачы</item>
+        <item>Для перадачы файлаў па Bluetooth і Wi-Fi</item>
+    </string-array>
+</resources>

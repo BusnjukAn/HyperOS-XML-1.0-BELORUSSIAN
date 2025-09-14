@@ -1738,8 +1738,8 @@
   <string name="sat_location">Месцазнаходжанне:</string>
   <string name="sat_PhoneAngle">Ракурс тэлефона:</string>
   <string name="sat_version">Версія мадэма:</string>
-  <string name="satellite_mobile_settings_summary">Падтрымліваецца толькі спадарожнікавыя SIM-карты ад China Telecom або іншых падтрымліваемых аператараў сувязі</string>
-  <string name="satellite_mobile_settings_title">Уключыць спадарожнікавую сувязь</string>
+  <string name="satellite_mobile_settings_summary">Даступна толькі з выдзеленай спадарожнікавай SIM-картай або тарыфным планам са спадарожнікавай сувяззю</string>
+  <string name="satellite_mobile_settings_title">Спадарожнікавая сувязь Tiantong</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">С</string>
@@ -2234,7 +2234,9 @@
   <string name="satellite_start">Зразумела</string>
   <string name="satellite_start_battery">Зразумела</string>
   <string name="satellite_thermal_hangup_delay">Прылада перагрэлася. Выклік завершыцца праз %d сек. Пачакайце, пакуль прылада астыне.</string>
-  <string name="satellite_user_reminder">Спадарожнікавай сувязі Tiantong неабходны доступ да вашага месцазнаходжання. Мабільныя дадзеныя, камера і разблакіроўка тварам будуць часова недаступныя. Гэтая функцыя даступная толькі для SIM-карт China Telecom, сумяшчальных са спадарожнікам.</string>
+  <string name="satellite_user_reminder">"Для выклікаў праз спадарожнікавую сувязь Tiantong патрабуецца доступ да дадзеных аб вашым месцазнаходжанні. Мабільныя дадзеныя, камера і функцыя разблакіроўкі па твару будуць часова адключаныя.
+Спачатку актывуйце спадарожнікавую сувязь Tiantong. Калі яна не ўключана, звярніцеся да свайго аператара.
+Даступнасць паслугі залежыць ад вашага мясцовага аператара."</string>
   <string name="select_one_sim_title">Можна выкарыстоўваць толькі SIM-карту %1$d</string>
   <string name="select_one_sim_title_for_heduohao">Можна выкарыстоўваць толькі SIM-карту %1$d Sub %2$d</string>
   <string name="select_sim_hint">Немагчыма выкарыстоўваць SIM-карту %2$d, пакуль выкарыстоўваецца SIM-карта %1$d.</string>
@@ -2243,7 +2245,8 @@
   <string name="satellite_area_requirement_title">У якіх рэгіёнах можна выкарыстоўваць гэтую функцыю?</string>
   <string name="satellite_call_sound_quality_message">Якасць выкліку залежыць ад магутнасці спадарожнікавага сігналу. З-за вялікай адлегласці перадачы і абмежаванай прапускной здольнасці пры адпраўцы выклікаў і тэкставых паведамленняў будуць узнікаць затрымкі, а якасць гуку пры выкліках будзе горш, чым у звычайнай мабільнай сетцы.</string>
   <string name="satellite_call_sound_quality_title">Чаму спадарожнікавыя выклікі маюць дрэнную якасць гуку і нізкую хуткасць?</string>
-  <string name="satellite_enable_message">Каб уключыць спадарожнікавую сувязь, правядзіце пальцам уніз, каб адкрыць Цэнтр кіравання, уключыце перамыкач рэжыму спадарожніка і выконвайце інструкцыі для падлучэння. Звярніце ўвагу, што гэтую функцыю падтрымліваюць толькі SIM-карты China Telecom з падпіскай Tiantong Satellite.</string>
+  <string name="satellite_enable_message">"Уключыце спадарожнікавую сувязь Tiantong у раздзеле \"Налады\" > \"Спадарожнікавая сетка\" або правядзіце пальцам уніз, каб адкрыць Цэнтр кіравання, і націсніце на перамыкач \"Спадарожнікавая сувязь Tiantong\", затым прытрымлівайцеся інструкцыям.
+Падтрымліваюцца толькі выдзеленыя спадарожнікавыя SIM-карты ці тарыфныя планы са спадарожнікавай сувяззю. Звярніцеся да свайго аператара, калі гэтая паслуга не ўключана."</string>
   <string name="satellite_enable_title">Як уключыць спадарожнікавую сувязь?</string>
   <string name="satellite_environment_requirement_message">"Спадарожнікавая сувязь падыходзіць для раёнаў без наземнага сігналу, і мы рэкамендуем выкарыстоўваць яе толькі пры адсутнасці даступнай сеткі. Каб пазбегнуць перашкод сігналу, перад выкарыстаннем варта зняць металічныя чахлы. Падчас выкарыстання захоўвайце адлегласць больш за %1$d мм паміж верхняй часткай прылады і вашым целам або іншымі перашкодамі. Гэтая функцыя стане недаступнай, калі зарад батарэі прылады апусціцца ніжэй за %2$s, і вы не зможаце выкарыстоўваць яе для здзяйснення выклікаў, калі тэмпература прылады занадта высокая."</string>
   <string name="satellite_environment_requirement_title">Якія экалагічныя патрабаванні для выкарыстання гэтай функцыі?</string>
@@ -2256,9 +2259,10 @@
   <string name="satellite_introduction_title">Спадарожнікавая сувязь Tiantong</string>
   <string name="satellite_low_battery_reminder">Нізкі зарад батарэі</string>
   <string name="satellite_point_title">Уключыць спадарожнікавую сувязь Tiantong</string>
-  <string name="satellite_privacy_statement_message">"Каб прадастаўляць спадарожнікавыя паслугі Tiantong, нам неабходна атрымаць доступ да вашага месцазнаходжання і выканаць пошук спадарожнікаў.
-Пасля падлучэння да спадарожніка China Telecom неабходна атрымаць доступ да вашага месцазнаходжання, каб знайсці вас у надзвычайнай сітуацыі. Падрабязную інфармацыю аб тым, як мы апрацоўваем вашу асабістую інфармацыю, можна знайсці ў "<a href="https://privacy.mi.com/TianTong-dianxin/en_US/">Заяве аб прыватнасцi спадарожнікавай сувязі Tiantong</a>".
-Націсніце \"Згодны\" ніжэй, каб паказаць, што вы прачыталі і пагадзіліся з гэтай заявай аб прыватнасцi."</string>
+  <string name="satellite_privacy_statement_message">"Для падлучэння да спадарожнікавай сеткі Tiantong нам неабходна ваша месцазнаходжанне для лакальнага сканавання спадарожнікаў.
+Пасля падключэння аператару сувязі таксама неабходна ваша месцазнаходжанне, каб ратавальнікі маглі хутка знайсці вас у надзвычайнай сітуацыі. Для Больш падрабязна гл. у \"<a href="https://privacy.mi.com/TianTong-dianxin/zh_CN/">Заява аб канфiдэнцыяльнасцi b спадарожнікавай сувязі Tiantong</a>\".
+
+Націскаючы \"Згодны\", вы пацвярджаеце, што прачыталі і прымаеце гэтую заяву."</string>
   <string name="satellite_privacy_statement_negative">Не згодны</string>
   <string name="satellite_privacy_statement_positive">Згодны</string>
   <string name="satellite_privacy_statement_title">Палажэнне аб прыватнасцi</string>
@@ -2273,7 +2277,7 @@
   <string name="satellite_call_indoor_positioning_title">Чаму месцазнаходжанне прылады адлюстроўваецца як Навукова-тэхналагічны парк Xiaomi, калі я знаходжуся ў памяшканні?</string>
   <string name="satellite_display_insert_support_card_message">Каб мець магчымасць выкарыстоўваць спадарожнікавую сувязь Tiantong, устаўце SIM-карту з падтрымкай спадарожнікавай сувязі ад China Telecom.</string>
   <string name="satellite_display_insert_support_card_title">Устаўце спадарожнікавую SIM-карту</string>
-  <string name="satellite_display_message">Здаецца, ваша SIM-карта не падтрымлівае спадарожнікавую сувязь Tiantong. Каб выкарыстоўваць гэтую функцыю, устаўце SIM-карту з падтрымкай спадарожнікавай сувязі ад China Telecom. Усё роўна працягнуць?</string>
+  <string name="satellite_display_message">Не атрымалася знайсці SIM-карту Tiantong. Каб выкарыстоўваць гэтую функцыю, устаўце SIM-карту з падтрымкай спадарожнікавай сувязі Tiantong.</string>
   <string name="satellite_display_search_star">Працягнуць</string>
   <string name="satellite_knew">Зразумела</string>
   <string name="satellite_privacy_withdrawal_dialog_disable_negative">Адмяніць (%d сек.)</string>
@@ -2469,4 +2473,7 @@
   <string name="offline_call">Абмен дадзенымі паміж прыладамі</string> 
   <string name="offline_call_summary">Выклікі на бліжэйшыя тэлефоны Xiaomi па Bluetooth без падлучэння да сеткі</string> 
   <string name="preferred_network_type_pref_entries_only_5g">Толькі 5G</string>
+  <string name="beidou_mobile_settings_summary_all">Даступна толькі для карыстальнікаў з актыўнай паслугай спадарожнікавай сувязі BeiDou</string> 
+  <string name="beidou_satellite_enable_message_all">Звярніцеся да свайго аператара сувязі для актывацыі паслугі.</string> 
+  <string name="telocation_auto_country_code_summary_while_roaming">Аўтаматычна дадаваць код краіны да нумароў кантактаў пры выкліках у роўмінгу. Нумары, якія ўжо змяшчаюць код краіны, будуць набірацца без змен.</string>
 </resources>

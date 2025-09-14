@@ -1071,4 +1071,5 @@
   <string name="satellite_only_support_one_call">Немагчыма дадаць больш выклікаў пры выкарыстанні спадарожнікавай сувязі</string>
   <string name="satellite_thermal_hangup_now">Прылада перагрэлася. Пачакайце, пакуль яна астыне, перш чым здзяйсняць выклікі.</string>
   <string name="relay_limit_dialer_button">Немагчыма выкарыстоўваць гэтую функцыю з выклікамі, перакладзенымі на іншыя прылады</string>
+  <string name="callSwapFailed_unholdable_call">Немагчыма пераключыць актыўны выклік, бо ён не падтрымлівае ўтрыманне. Каб зрабіць утрымліваемы выклік актыўным, адключыце яго.</string>
 </resources>

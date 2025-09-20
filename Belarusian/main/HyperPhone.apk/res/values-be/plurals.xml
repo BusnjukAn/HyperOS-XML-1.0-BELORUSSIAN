@@ -109,4 +109,12 @@
     <item quantity="few">%d хвіліны таму</item>
     <item quantity="many">%d хвілін таму</item>
   </plurals>
+  <plurals name="satellite_state_fail">
+        <item quantity="other">"%d секунд прайшло без падлучэння да спадарожніка.
+Вы можаце працягнуць спробы ці выйсці зараз."</item>
+        <item quantity="one">"%d секунда прайшла без падлучэння да спадарожніка.
+Вы можаце працягнуць спробы ці выйсці зараз."</item>
+        <item quantity="few">"%d секунды прайшлi без падлучэння да спадарожніка.
+Вы можаце працягнуць спробы ці выйсці зараз."</item>
+    </plurals>
 </resources>

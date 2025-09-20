@@ -934,4 +934,5 @@
   <string name="xiaomi_game_discounts">Гульнявыя акцыі</string>
   <string name="xiaomi_membership_rights">Сяброўства ў обоаке Xiaomi</string>
   <string name="xiaomi_video_discount">Акцыі Xiaomi Відэа</string>
+  <string name="locale_picker_search_hint">Пошук рэгіёнаў</string>
 </resources>

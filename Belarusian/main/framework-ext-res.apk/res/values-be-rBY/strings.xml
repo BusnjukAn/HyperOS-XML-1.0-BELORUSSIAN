@@ -730,4 +730,16 @@
   <string name="wallpaper_manying_title">Цені</string>
   <string name="wallpaper_group_blossom_title">Квітанне</string>
   <string name="wallpaper_group_nature_title">Прырода</string>
+  <string name="screen_on_cover_guide_summary_for_back_screen">"Націсніце кнопку Сiлкаванне,
+каб выключыць галоўны экран"</string> 
+  <string name="screen_on_cover_guide_summary_for_main_screen">"Націсніце кнопку Сiлкаванне,
+каб працягнуць выкарыстанне галоўнага экрана"</string> 
+  <string name="screen_on_proximity_sensor_summary_for_back_screen">"Прыбярыце перашкоды з чырвонай вобласці
+або націсніце кнопку павелічэння гучнасці,
+каб выключыць рэжым \"У кішэні\""</string> 
+  <string name="wallpaper_group_ai_zone_title">ШІ Шпалеры</string> 
+  <string name="wallpaper_group_big_numbers_title">Вялікія лічбы</string> 
+  <string name="wallpaper_group_creative_time_title">Крэатыўны гадзіннік</string> 
+  <string name="wallpaper_group_system_wallpaper_title">Сістэмныя шпалеры</string> 
+  <string name="wallpaper_group_time_watch_title">Гадзіннік</string>
 </resources>

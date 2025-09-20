@@ -1845,8 +1845,8 @@
   <string name="pa_widget_travel_edu_title">Прапановы па паездках</string>
   <string name="pa_widget_travel_time_minute_template">%s хвілін</string>
   <string name="pa_widget_weather_card_title">Незвычайнае надвор\'е</string>
-  <string name="pa_wx_share_app_cta_pre">Дазвольце стужцы прыкладанняў падключацца да інтэрнэту для магчымасці дзяліцца</string>
-  <string name="pa_wx_share_fail_cta_pre">Не ўдалося падзяліцца. Дазвольце праграме падключацца да інтэрнэту</string>
+  <string name="pa_wx_share_app_cta_pre">Дазвольце праграме падлучацца да інтэрнэту для магчымасці дзяліцца. %s</string>
+  <string name="pa_wx_share_fail_cta_pre">Не ўдалося падзяліцца. Дазвольце праграме падлучацца да інтэрнэту. %s</string>
   <string name="pa_wx_share_success">Паспяхова падзяліліся</string>
   <string name="passport_access_denied">Доступ забаронены</string>
   <string name="passport_account_crop_user_avatar">Абрэзаць фота</string>

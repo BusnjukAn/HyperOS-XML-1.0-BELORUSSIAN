@@ -744,7 +744,7 @@
   <string name="second_mms_introduction">Перайсці ў Другую прастору</string>
   <string name="second_mms_switch">Перайсці</string>
   <string name="secs">сек.</string>
-  <string name="security_alert_desc">Адпраўніка няма ў спісе вашых кантактаў</string>
+  <string name="security_alert_desc">Адпраўніка няма ў спісе вашых кантактаў\n</string>
   <string name="security_alert_desc_highlight">Паскардзіцца на абанента</string>
   <string name="security_alert_dialog_desc">Адпраўце гэты нумар (%s) і паведамленне ў Xiaomi для праверкі.</string>
   <string name="security_alert_dialog_title">Паскардзіцца</string>

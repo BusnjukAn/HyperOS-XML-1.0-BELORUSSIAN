@@ -715,4 +715,5 @@
   <string name="p8g_island_peripherals_opened">Прылада ўключана</string>
   <string name="p8g_island_peripherals_to_close">Выключыць</string>
   <string name="p8g_island_product_name">Гульнявы ​​чахол</string>
+  <string name="p8g_activity_new_prompt">Уключыць чахол</string>
 </resources>

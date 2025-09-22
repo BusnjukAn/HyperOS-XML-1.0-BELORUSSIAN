@@ -718,9 +718,9 @@
   <string name="switch_wlan_tips">Падлучыцца да той жа сеткі</string>
   <string name="switch_wlan_tips_desc">Вы можаце падлучыцца да той жа сеткі Wi-Fi, што і іншая прылада, для большай зручнасці. Падлучыцца зараз?</string>
   <string name="switch_wlan_tips_desc_pad">Для лепшага ўзаемадзеяння падключыцеся да той жа сеткі Wi-Fi, што і іншая прылада. Падключыцца зараз?</string>
-  <string name="trust_bind_cancel_toast">Адменена. Вы можаце зноў уключыць гэтую функцыю ў Налады > Узаемазвязнасць > Працоўны стол+.</string>
+  <string name="trust_bind_cancel_toast">Адменена</string>
   <string name="trust_bind_cancel_toast_iphone">Адменена</string>
-  <string name="trust_bind_fail_toast">Не ўдалося даць дазволы. Вы можаце зноў уключыць гэтую функцыю ў Налады > Узаемазвязнасць > Працоўны стол+.</string>
+  <string name="trust_bind_fail_toast">Не ўдалося даць дазволы</string>
   <string name="trust_bind_fail_toast_iphone">Не ўдалося даць дазволы</string>
   <string name="trust_bind_remote_cancel_toast">Адменена. Вы можаце зноў уключыць гэтую функцыю ў Налады > Узаемазвязнасць > Працоўны стол+.</string>
   <string name="trust_bind_risk_car_fallback_subtitle">Не ўдалося выкарыстаць разблакіроўку паміж прыладамі. Увядзіце пароль экрана для пацверджання асобы.</string>
@@ -733,7 +733,7 @@
   <string name="trust_bind_risk_recent_unused_subtitle">Вы нядаўна не выкарыстоўвалі разблакіроўку паміж прыладамі. Увядзіце пароль экрана гэтай прылады для пацверджання асобы.</string>
   <string name="trust_bind_risk_recent_updated_subtitle">Вы нядаўна змянілі пароль. Увядзіце пароль экрана гэтай прылады для пацверджання асобы.</string>
   <string name="trust_bind_risk_title">Увядзіце пароль экрана тэлефона</string>
-  <string name="trust_bind_success_toast">Дазволы паспяхова дадзены. Вы можаце кіраваць гэтай функцыяй у Налады > Узаемазвязнасць > Працоўны стол+.</string>
+  <string name="trust_bind_success_toast">Дазволы паспяхова дадзены</string>
   <string name="trust_bind_success_toast_iphone">Дазволы паспяхова дадзены</string>
   <string name="trust_bind_unlock_subtitle_password">Увядзіце пароль экрана гэтай прылады, каб давяраць %1$s</string>
   <string name="trust_bind_unlock_subtitle_pattern">Намалюйце ўзор экрана гэтай прылады, каб давяраць %1$s</string>
@@ -773,4 +773,6 @@
   <string name="trust_risk_rebooted_subtitle">Ваша прылада нядаўна была перазагружана. Увядзіце пароль экрана на %1$s для пацверджання асобы.</string>
   <string name="trust_risk_recent_unused_subtitle">Пароль экрана гэтай прылады даўно не выкарыстоўваўся. Увядзіце пароль экрана на %1$s для пацверджання асобы.</string>
   <string name="trust_risk_security_subtitle">Выяўлены рызыка бяспекі. Увядзіце пароль экрана на %1$s для пацверджання асобы.</string>
+  <string name="island_default_market_name_other_laptop">Ноўтбук</string>
+  <string name="island_disconnected_button">Адключыць</string>
 </resources>

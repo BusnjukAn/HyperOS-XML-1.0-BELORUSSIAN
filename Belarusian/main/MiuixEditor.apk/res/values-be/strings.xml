@@ -28,6 +28,6 @@
   <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
   <string name="google_check">Прагледзець</string>
   <string name="google_track">Адсочваць</string>
-  <string name="ai_content_description">ШІ Пісьменнік</string>
+  <string name="ai_content_description">AI Пісьменнік</string>
   <string name="ask_hyper_xiaoai">Спытаць</string>
 </resources>

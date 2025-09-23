@@ -332,7 +332,7 @@
   <string name="permission_phone_state_desc">Для прыпынку запісу галасавых нататак падчас выклікаў</string>
   <string name="permission_read_contact_desc">Асацыяцыя нататак, створаных падчас галасавых выклікаў, з кантактамі</string>
   <string name="permission_storage_desc">Для захавання нататак у якасці выяў</string>
-  <string name="permission_xiaoai_desc"><Data>Mi ШI будзе збіраць вашыя галасавыя запісы і ID прылады для расшыфроўкі і стварэння галасавых нататак. Азнаёмцеся з &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a> Mi ШI для атрымання больш падрабязнай інфармацыі.</Data></string>
+  <string name="permission_xiaoai_desc"><Data>Xiaomi AI будзе збіраць вашыя галасавыя запісы і ID прылады для расшыфроўкі і стварэння галасавых нататак. Азнаёмцеся з &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a> Xiaomi AI для атрымання больш падрабязнай інфармацыі.</Data></string>
   <string name="permlab_accessNote">Доступ да нататак</string>
   <string name="pm">ПП</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Правядзіце ўверх двума пальцамі для выдалення нататак без пацверджання</string>
@@ -979,8 +979,8 @@
   <string name="canvas_is_too_large_to_share_phone">Гэты элемент занадта вялікі</string>
   <string name="hand_write_syncing_phone">Сінхранізацыя…</string>
   <string name="permission_data_shared_desc">Заява аб прадастаўленні дадзеных іншым вытворцам</string>
-  <string name="permission_xiaoai_desc_new"><Data>Каб прадастаўляць паслугі пераўтварэння прамовы ў тэкст, Mi ШІ павінен атрымаць доступ да аўдыёўваходу і ідэнтыфікатару вашага прылады, які генеруецца выпадковым чынам. Прачытайце і прыміце наша &lt;a href=\"%1$s\">Заява аб прадастаўленні дадзеных іншым вытворцам&lt;/a>, перш чым працягнуць. Вы таксама можаце даведацца больш, прачытаўшы Mi ШІ &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>.</Data></string>
-  <string name="permission_xiaoai_desc_n"><Data>Для прадастаўлення паслуг пераўтварэння прамовы ў тэкст Нататкам неабходна атрымаць аўдыёдадзеныя і IMEI вашай прылады. Перш чым карыстацца гэтай функцыяй, азнаёмцеся і пагадзіцеся з &lt;a href=\"%1$s\">Заявай аб сумесным выкарыстанні дадзеных праграмы Нататкі трэцімі бакамі&lt;/a>. Вы можаце азнаёміцца ​​з больш падрабязнай інфармацыяй у &lt;a href=\"%2$s\">Палітыцы прыватнасці&lt;/a> Mi ШI.</Data></string>
+  <string name="permission_xiaoai_desc_new"><Data>Каб прадастаўляць паслугі пераўтварэння прамовы ў тэкст, Xiaomi AI павінен атрымаць доступ да аўдыёўваходу і ідэнтыфікатару вашага прылады, які генеруецца выпадковым чынам. Прачытайце і прыміце наша &lt;a href=\"%1$s\">Заява аб прадастаўленні дадзеных іншым вытворцам&lt;/a>, перш чым працягнуць. Вы таксама можаце даведацца больш, прачытаўшы Xiaomi AI &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>.</Data></string>
+  <string name="permission_xiaoai_desc_n"><Data>Для прадастаўлення паслуг пераўтварэння прамовы ў тэкст Нататкам неабходна атрымаць аўдыёдадзеныя і IMEI вашай прылады. Перш чым карыстацца гэтай функцыяй, азнаёмцеся і пагадзіцеся з &lt;a href=\"%1$s\">Заявай аб сумесным выкарыстанні дадзеных праграмы Нататкі трэцімі бакамі&lt;/a>. Вы можаце азнаёміцца ​​з больш падрабязнай інфармацыяй у &lt;a href=\"%2$s\">Палітыцы прыватнасці&lt;/a> Xiaomi AI.</Data></string>
   <string name="permission_xiaoai_title">Пераўтварэнне прамовы ў тэкст</string>
   <string name="miuix_access_state_desc">Абрана</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
@@ -1087,7 +1087,7 @@
   <string name="miuix_navigator_multiple_choice">Абраць</string>
   <string name="miuix_navigator_navigator_switch_description">Схаваць бакавую панэль</string>
   <string name="pad_dialog_take_photo_by_device">Зрабіць фота з дапамогай %1$s</string>
-  <string name="permission_xiaoai_desc_m"><Data>Каб прадастаўляць паслугі пераўтварэння прамовы ў тэкст, Mi ШІ павінен атрымаць доступ да аўдыёўваходу і ідэнтыфікатара вашай прылады. Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Заяву аб прадастаўленні дадзеных іншым вытворцам&lt;/a>, перш чым працягнуць. Вы таксама можаце даведацца больш, прачытаўшы Mi ШІ &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a>.</Data></string>
+  <string name="permission_xiaoai_desc_m"><Data>Каб прадастаўляць паслугі пераўтварэння прамовы ў тэкст, Xiaomi AI павінен атрымаць доступ да аўдыёўваходу і ідэнтыфікатара вашай прылады. Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Заяву аб прадастаўленні дадзеных іншым вытворцам&lt;/a>, перш чым працягнуць. Вы таксама можаце даведацца больш, прачытаўшы Xiaomi AI &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a>.</Data></string>
   <string name="toolbar_voice_done_description">Спыніць</string>
   <string name="toolbar_voice_mark_description">Пазнака</string>
   <string name="to_view_alarm_content">Націсніце для прагляду</string>
@@ -1100,7 +1100,7 @@
   <string name="add_excerpt_summary">Дадаць у зводку</string>
   <string name="ai_chat_declare_double_link"><Data>Прачытайце і прыміце нашыя &lt;a href=\"%1$s\">Угоду карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/a>, перш чым працягнуць.</Data></string>
   <string name="ai_chat_dlg_content">Для розных крыніц інфармацыі ў розных сцэнарах (напрыклад, спасылак або тэксту, які з\'яўляецца ў такіх праграмах, як браўзеры, WeChat і Feishu), функцыя хуткага збору і абагульненні інфармацыі, а таксама яе аўтаматычнага стварэння і ўяўленні ў адзіны запіс для архівавання.</string>
-  <string name="ai_watermark">Кантэнт, згенераваны ШІ, прадастаўляецца толькі для даведкі</string>
+  <string name="ai_watermark">Кантэнт, згенераваны AI, прадастаўляецца толькі для даведкі</string>
   <string name="excerpt_ares_limit">Мы шануем ваш энтузіязм, але ў гэты час у нас вялікі трафік. Націсніце зыходную спасылку для прагляду або паспрабуйце пазней.</string>
   <string name="excerpt_original_text">Зыходны тэкст:</string>
   <string name="excerpt_summary_fail">Памылка аналізу кантэнту. Націсніце зыходную спасылку для прагляду або паспрабуйце пазней.</string>
@@ -1134,15 +1134,15 @@
   <string name="action_retry">Згенераваць нанава</string>
   <string name="add_modifications">Прапанова: дадаць \"%1$s\"</string>
   <string name="adopt">Выкарыстоўваць</string>
-  <string name="ai_check">Праверка ШІ</string>
+  <string name="ai_check">Праверка AI</string>
   <string name="ai_failed">Немагчыма згенераваць. Паспрабуйце яшчэ раз.</string>
   <string name="ai_feature_disabled">Вы некалькі разоў парушылі нашы стандарты супольнасці. Гэтая функцыя больш не даступная.</string>
-  <string name="ai_label">Функцыі ШІ</string>
-  <string name="ai_layout">Макет ШІ</string>
-  <string name="ai_result_warn">Змесціва вышэй згенеравана ШІ. Дакладнасць можа вар\'іравацца.</string>
-  <string name="ai_sensitive_content_warn">Немагчыма выкарыстоўваць функцыі ШІ для далікатнага або непрымальнага кантэнту</string>
-  <string name="ai_summary">Зводка ШІ</string>
-  <string name="ai_translate">Пераклад ШІ</string>
+  <string name="ai_label">Функцыі AI</string>
+  <string name="ai_layout">Макет AI</string>
+  <string name="ai_result_warn">Змесціва вышэй згенеравана AI. Дакладнасць можа вар\'іравацца.</string>
+  <string name="ai_sensitive_content_warn">Немагчыма выкарыстоўваць функцыі AI для далікатнага або непрымальнага кантэнту</string>
+  <string name="ai_summary">Зводка AI</string>
+  <string name="ai_translate">Пераклад AI</string>
   <string name="auto_detected">Аўтаматычнае вызначэнне</string>
   <string name="copy_toast_text">Паспяхова скапіявана</string>
   <string name="enter_content">Спачатку ўвядзіце кантэнт</string>
@@ -1151,27 +1151,27 @@
   <string name="net_error">Адбылася памылка сеткі</string>
   <string name="original_empty_content">У зыходнай версіі няма кантэнту</string>
   <string name="original_text">Арыгінал: \"%1$s\"</string>
-  <string name="permission_ai_desc_n"><Data>Каб прадаставіць вам службы ШІ, Нататкі будзе збіраць уведзены вамі тэкст для стварэння зводак і аптымізацыі тэксту. Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці і Заяву аб сумесным выкарыстанні дадзеных трэцімі асобамі&lt;/a>, перш чым працягнуць.</Data></string>
-  <string name="permission_ai_title">Службы ШІ Нататак</string>
+  <string name="permission_ai_desc_n"><Data>Каб прадаставіць вам службы AI, Нататкі будзе збіраць уведзены вамі тэкст для стварэння зводак і аптымізацыі тэксту. Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці і Заяву аб сумесным выкарыстанні дадзеных трэцімі асобамі&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="permission_ai_title">Службы AI Нататак</string>
   <string name="retry">Паспрабаваць яшчэ раз</string>
   <string name="revoke_modifications">Адмяніць</string>
-  <string name="sensitive_content_warn">Немагчыма стварыць зводку ШІ для прыватнага кантэнту</string>
+  <string name="sensitive_content_warn">Немагчыма стварыць зводку AI для прыватнага кантэнту</string>
   <string name="suggested_delete">Прапанова: выдаліць \"%1$s\"</string>
   <string name="suggested_modifications">Прапанова: змяніць \"%1$s\" на \"%2$s\"</string>
   <string name="summary">Зводка</string>
   <string name="external_share_to_note">%1$s апублікавана ў Нататках</string>
   <string name="ai_back">Назад</string>
   <string name="ai_begin">Пачаць</string>
-  <string name="ai_disable_limit_message">На сёння не засталося больш спроб. Стварыце больш шпалер ШІ заўтра!</string>
-  <string name="ai_edit_hint">Апішыце чаканы вынік. Добрае апісанне можа дапамагчы нашаму ШІ стварыць лепшае тварэнне з дапамогай зразумелых слоў, такіх як \"Золата\", \"Цмок\", \"Жахлівы\", \"Воблака\".</string>
+  <string name="ai_disable_limit_message">На сёння не засталося больш спроб. Стварыце больш шпалер AI заўтра!</string>
+  <string name="ai_edit_hint">Апішыце чаканы вынік. Добрае апісанне можа дапамагчы нашаму AI стварыць лепшае тварэнне з дапамогай зразумелых слоў, такіх як \"Золата\", \"Цмок\", \"Жахлівы\", \"Воблака\".</string>
   <string name="ai_loading">&lt;CDATA&gt;Секундачку…&lt;/CDATA&gt;</string>
-  <string name="ai_network_error_message">Няма падлучэння да сеткі. Немагчыма выкарыстоўваць шпалеры ШІ.</string>
+  <string name="ai_network_error_message">Няма падлучэння да сеткі. Немагчыма выкарыстоўваць шпалеры AI.</string>
   <string name="ai_next">Захаваць у галерэі</string>
-  <string name="ai_participation">Удзел ШІ</string>
+  <string name="ai_participation">Удзел AI</string>
   <string name="ai_recommend_keyword">Стылі</string>
   <string name="ai_text_limit">Немагчыма ўвесці больш тэксту</string>
-  <string name="ai_watermark_float">Зводка кантэнту, створанага ШІ</string>
-  <string name="creation_ai_disable_limit_message">На сёння не засталося больш спроб. Стварыце больш шпалер ШІ заўтра!</string>
+  <string name="ai_watermark_float">Зводка кантэнту, створанага AI</string>
+  <string name="creation_ai_disable_limit_message">На сёння не засталося больш спроб. Стварыце больш шпалер AI заўтра!</string>
   <string name="creation_ai_disable_message">Гэтая функцыя даступная толькі бэта-тэстарам. Вы можаце падаць заяўку ў Супольніцтве Xiaomi.</string>
   <string name="creation_ai_disable_title">Патрабуюцца дазволы бэта-тэстара</string>
   <string name="creation_ai_err">Выключэнне аўтэнтыфікатара</string>
@@ -1190,22 +1190,22 @@
   <string name="prompt_add_origin_pic">Дадаць выяву</string>
   <string name="prompt_add_tip">Дадаць апісанне</string>
   <string name="prompt_Theme_tip">Не атрымалася атрымаць стыль тэмы, пераканайцеся, што сетка і час указаны правільна</string>
-  <string name="sensitive_preview">Немагчыма апрацаваць шпалеры ШІ для далікатнага або неналежнага кантэнту</string>
-  <string name="sensitive_prompt">Немагчыма апрацаваць шпалеры ШІ для далікатнага або неналежнага кантэнту</string>
-  <string name="sst_ai_wallpaper_Activity_title">Стварэнне шпалер ШІ</string>
+  <string name="sensitive_preview">Немагчыма апрацаваць шпалеры AI для далікатнага або неналежнага кантэнту</string>
+  <string name="sensitive_prompt">Немагчыма апрацаваць шпалеры AI для далікатнага або неналежнага кантэнту</string>
+  <string name="sst_ai_wallpaper_Activity_title">Стварэнне шпалер AI</string>
   <string name="sst_ai_wallpaper_desc">Намаляваныя ўручную выявы можна выкарыстоўваць для стварэння шпалер высокай выразнасці ў розных стылях з дапамогай AIGC.</string>
-  <string name="sst_ai_wallpaper_title">Стваральнік шпалер ШІ</string>
+  <string name="sst_ai_wallpaper_title">Стваральнік шпалер AI</string>
   <string name="super_summary_fail">Немагчыма згенераваць зводку</string>
   <string name="super_summary_loading">Выконваецца генерацыя суперзводкі</string>
   <string name="super_summary_not_generate">Зводка не згенераваная</string>
   <string name="super_summary_save_fail">Захаваць не ўдалося</string>
   <string name="super_summary_success">Захавана ў нататках</string>
   <string name="super_text_summary_huangfan">Кантэнт канфідэнцыйны. Калі ласка, звярніцеся да зыходнага тэксту.</string>
-  <string name="wallpaper_creator_empty_dlg_content">Простыя крокі, імгненнае фарміраванне. Імпартуйце намаляваную ад рукі карцінку/іншую карцінку, увядзіце некалькі падказак і імгненна згенеруйце чатыры стылізаваных выявы шпалер з дапамогай вялікіх мадэляў ШІ. Выберыце найбольш прыдатную і захавайце яе ў альбоме.</string>
+  <string name="wallpaper_creator_empty_dlg_content">Простыя крокі, імгненнае фарміраванне. Імпартуйце намаляваную ад рукі карцінку/іншую карцінку, увядзіце некалькі падказак і імгненна згенеруйце чатыры стылізаваных выявы шпалер з дапамогай вялікіх мадэляў AI. Выберыце найбольш прыдатную і захавайце яе ў альбоме.</string>
   <string name="ai_already_copy_toast_text">Скапяавана</string>
   <string name="ai_already_insert_toast_text">Устаўлены арыгінал</string>
   <string name="ai_complete_summary_title">Зводка</string>
-  <string name="ai_content_generates_reminders">Гэты змест створаны ШI і прызначаны толькі для даведкі.</string>
+  <string name="ai_content_generates_reminders">Гэты змест створаны AI і прызначаны толькі для даведкі.</string>
   <string name="ai_generate_stop_button">Спыніць</string>
   <string name="ai_generating_title">Стварэнне…</string>
   <string name="ai_insert_original_text">Уставіць арыгінал</string>
@@ -1231,11 +1231,11 @@
   <string name="ai_text_widget_rewrite">Перапісаць</string>
   <string name="ai_text_widget_summary">Зводка</string>
   <string name="ai_text_widget_summary_settings">Паляпшайце сваё ўменне пісаць і стварайце тэкст у любы час і ў любым месцы</string>
-  <string name="ai_text_widget_title">ШI-пісьменнік</string>
+  <string name="ai_text_widget_title">AI-пісьменнік</string>
   <string name="ai_unsupport_directive_title">Немагчыма выканаць гэтую каманду</string>
   <string name="ai_when_mistake_title">Адбылася памылка. Паспрабуйце яшчэ раз.</string>
-  <string name="ai_writing_invite_beta_testing_content">Гэтая функцыя выкарыстоўвае магчымасці вялікай мадэлі для карэктуры, пашырэння, абагульнення і дапрацоўкі вашага тэксту. Вы таксама можаце ўводзіць падказкі і дазваляць ШІ пісаць за вас. Націсніце \"Згаджаюся\", каб паспрабаваць!</string>
-  <string name="ai_writing_invite_beta_testing_title">Бэта-тэставанне ШІ-пісьменніка</string>
+  <string name="ai_writing_invite_beta_testing_content">Гэтая функцыя выкарыстоўвае магчымасці вялікай мадэлі для карэктуры, пашырэння, абагульнення і дапрацоўкі вашага тэксту. Вы таксама можаце ўводзіць падказкі і дазваляць AI пісаць за вас. Націсніце \"Згаджаюся\", каб паспрабаваць!</string>
+  <string name="ai_writing_invite_beta_testing_title">Бэта-тэставанне AI-пісьменніка</string>
   <string name="audio_record_install_content">Усталюйце Дыктафон, каб запісваць гук. Усталяваць зараз?</string>
   <string name="audio_record_install_title">Усталяваць Дыктафон</string>
   <string name="audio_record_upadte_content">Для запісу гуку абнавіце Дыктафон да апошняй версіі. Абнавіць зараз?</string>
@@ -1244,12 +1244,12 @@
   <string name="audio_reocrd_install_btn_positive">Усталяваць</string>
   <string name="audio_reocrd_update_btn_negative">Адмена</string>
   <string name="audio_reocrd_update_btn_positive">Абнавіць</string>
-  <string name="close_button_talkback_text">Выйсці з ШI-пісьменніка</string>
+  <string name="close_button_talkback_text">Выйсці з AI-пісьменніка</string>
   <string name="complete_extension">Пашырэнне завершана</string>
   <string name="complete_polish">Дапрацоўка завершана</string>
-  <string name="content_text">Да ліку функцый ШI-пісьменніка належаць пашырэнне, дапрацоўка, карэктура і абагульненне напісанага вамі і напісанне тэкстаў на аснове вашых падказак.</string>
-  <string name="foregound_content">Тэкставы віджэт Mi ШІ працуе…</string>
-  <string name="foregound_tile">ШІ тэкст</string>
+  <string name="content_text">Да ліку функцый AI-пісьменніка належаць пашырэнне, дапрацоўка, карэктура і абагульненне напісанага вамі і напісанне тэкстаў на аснове вашых падказак.</string>
+  <string name="foregound_content">Тэкставы віджэт Xiaomi AI працуе…</string>
+  <string name="foregound_tile">AI тэкст</string>
   <string name="global_cta_v2_app_purpose_v12">З дапамогай \"Нататак\" вы можаце пісаць нататкі і дадаваць выявы, галасавыя нататкі, задачы і многае іншае. Гэтай праграме неабходна падключэнне да Інтэрнэту для прадастаўлення неабходных паслуг.</string>
   <string name="note_ai_search_database_building_progress">Аналіз нататак… (%s)</string>
   <string name="note_ai_search_database_building_tip">Пакіньце прыладу падключанай да зараднай прылады. Пры выключаным экране нататкі аналізуюцца хутчэй.</string>
@@ -1257,14 +1257,14 @@
   <string name="select_text_before_using">Вылучыце тэкст перад выкарыстаннем гэтай функцыі</string>
   <string name="trash_folder_name_new">Нядаўна выдаленыя аб\'екты</string>
   <string name="upgrade_remind">Мы абнаўляем гэтую функцыю. Сачыце за навінамі!</string>
-  <string name="upload_summary">Для прадастаўлення функцый ШI-пісьменніка будуць выкарыстоўвацца мадэлі на прыладзе, і вашы дадзеныя не будуць загружацца ў воблака</string>
+  <string name="upload_summary">Для прадастаўлення функцый AI-пісьменніка будуць выкарыстоўвацца мадэлі на прыладзе, і вашы дадзеныя не будуць загружацца ў воблака</string>
   <string name="upload_title">Апрацоўваць дадзеныя толькі лакальна</string>
   <string name="word_count_limit">Вылучыце менш тэксту і паспрабуйце яшчэ раз</string>
   <string name="xiaomi_account_agree_confirm_ok">Увайсцi</string>
-  <string name="xiaomi_account_agree_desc">Увайдзіце з дапамогай акаўнта Xiaomi, каб выкарыстоўваць ШI-функцыі, уключаючы дапрацоўку і стварэнне зводак.</string>
+  <string name="xiaomi_account_agree_desc">Увайдзіце з дапамогай акаўнта Xiaomi, каб выкарыстоўваць AI-функцыі, уключаючы дапрацоўку і стварэнне зводак.</string>
   <string name="xiaomi_account_agree_title">Увайсці з дапамогай Xiaomi Акаўнта</string>
   <string name="xiaomi_overlay_agree_confirm_ok">Пагадзіцца</string>
-  <string name="xiaomi_overlay_agree_desc">Пагадзіцеся з Правіламі і ўмовамі ШI-пісьменніка, каб выкарыстоўваць магчымасці гэтага сэрвісу.</string>
+  <string name="xiaomi_overlay_agree_desc">Пагадзіцеся з Правіламі і ўмовамі AI-пісьменніка, каб выкарыстоўваць магчымасці гэтага сэрвісу.</string>
   <string name="xiaomi_overlay_agree_title">Нататкі не могуць адлюстроўваць усплываючыя вокны ў іншых праграмах</string>
   <string name="super_summary_tips">Пры выкарыстанні бэта-версіі рэкамендуецца ўключыць воблачныя сэрвісы або лакальнае рэзервовае капіяванне дадзеных.</string>
   <string name="ai_generating_check">Карэктура тэксту…</string>
@@ -1280,7 +1280,7 @@
   <string name="ai_local_language_unsupported_title">Гэтая мова не падтрымліваецца</string>
   <string name="ai_local_network_error_title">Падлучыцеся да сеткі і паўтарыце спробу</string>
   <string name="aicr_download_confirm">Спампаваць</string>
-  <string name="aicr_download_content">Спампуйце неабходныя вялікія мадэлі, каб выкарыстоўваць функцыі ШI-пісьменніка. Спампаваць зараз?</string>
+  <string name="aicr_download_content">Спампуйце неабходныя вялікія мадэлі, каб выкарыстоўваць функцыі AI-пісьменніка. Спампаваць зараз?</string>
   <string name="aicr_download_title">Спампаваць вялікую мадэль</string>
   <string name="toast_refuse_to_record_when_in_call_new">Немагчыма запісаць гук падчас выклікаў</string>
   <string name="toast_refuse_to_record_when_mic_in_use">Немагчыма запісаць гук, пакуль выкарыстоўваецца мікрафон</string>
@@ -1292,12 +1292,12 @@
   <string name="ai_button_cancel">Адмена</string>
   <string name="ai_button_close">Адключыць</string>
   <string name="ai_button_retry">Паспрабаваць зноў</string>
-  <string name="ai_dialog_cancel_message">Паспрабуйце адключыць Падтрымку вылічэнняў, каб выкарыстоўваць ШI-пісьменніка ў воблаку.</string>
+  <string name="ai_dialog_cancel_message">Паспрабуйце адключыць Падтрымку вылічэнняў, каб выкарыстоўваць AI-пісьменніка ў воблаку.</string>
   <string name="ai_dialog_retry_message">Націсніце кнопку ніжэй для паўтору.</string>
   <string name="ai_dialog_title">Зараз немагчыма выкарыстаць гэтую функцыю</string>
   <string name="ai_llm_dis_connect_error_message">Сеанс Падтрымкі вылічэнняў перарваны. Праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="ai_progress_dialog_message">Падключэнне прылады…</string>
-  <string name="ai_writing_local_message">Выкарыстоўваць мадэлі на прыладах для ШI-пісьменніка</string>
+  <string name="ai_writing_local_message">Выкарыстоўваць мадэлі на прыладах для AI-пісьменніка</string>
   <string name="auto_optimize_handwriting_text">Аўтааптымізацыя рукапіснага шрыфта</string>
   <string name="chemical_formula_trim">Раўнанне раўнавагі</string>
   <string name="color_pick_board_talkback">дошка для выбару колеру</string>
@@ -1451,21 +1451,21 @@
   <string name="searchview_navigation_content_description">Назад</string>
   <string name="side_sheet_accessibility_pane_title">Бакавая панэль</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
-  <string name="llm_register_preference_title">Рэгістрацыйны нумар службы генератыўнага ШІ</string> 
+  <string name="llm_register_preference_title">Рэгістрацыйны нумар службы генератыўнага AI</string> 
   <string name="miuix_navigator_toolbar_screen_bottom">Панэль інструментаў унізе экрана</string> 
   <string name="privacy_preference_title">Нумар рэгістрацыі ICP</string>
-  <string name="ai_generate_waiting_title">ШI апрацоўвае…</string>
+  <string name="ai_generate_waiting_title">AI апрацоўвае…</string>
   <string name="ai_sensitive_word_error_title">Больш адказаў няма.</string>
   <string name="aicr_deepthink_done">Скончыў разважаць</string>
   <string name="aicr_deepthink_stop">Развагі спынены</string>
   <string name="aicr_deepthink_thinking">Думаю…</string>
-  <string name="aicr_down_content">Cпампуйце вялікую мадэль на прыладу, каб выкарыстоўваць ШI-пісьменніка. Спампаваць зараз?</string>
+  <string name="aicr_down_content">Cпампуйце вялікую мадэль на прыладу, каб выкарыстоўваць AI-пісьменніка. Спампаваць зараз?</string>
   <string name="aicr_down_title">Спампаваць вялікую мадэль на прыладу</string>
-  <string name="aicr_generate_waiting_title">Апрацоўка праз ШI…</string>
+  <string name="aicr_generate_waiting_title">Апрацоўка праз AI…</string>
   <string name="aicr_update_button">Абнавіць</string>
-  <string name="aicr_update_content">Абнавіце вялікую мадэль на прыладзе, каб выкарыстоўваць ШI-пісьменніка. Абнавіць зараз?</string>
+  <string name="aicr_update_content">Абнавіце вялікую мадэль на прыладзе, каб выкарыстоўваць AI-пісьменніка. Абнавіць зараз?</string>
   <string name="aicr_update_title">Абнаўленне вялікай мадэлі на прыладзе</string>
-  <string name="aig_register_preference_title">Рэгістрацыйны нумар падачы сэрвісу генератыўнага ШI</string>
+  <string name="aig_register_preference_title">Рэгістрацыйны нумар падачы сэрвісу генератыўнага AI</string>
   <string name="button_talkback">Кнопка</string>
   <string name="checkbox_talkback">Сцяжок</string>
   <string name="done_talkback">Гатова</string>
@@ -1645,7 +1645,7 @@
   <string name="ai_comment_normal">Нейтральна</string>
   <string name="ai_DeepSeek_button_text">DeepThink</string>
   <string name="ai_edit_input_end_btn_text">Даслаць</string>
-  <string name="ai_generate_tip">Створана з дапамогай ШI</string>
+  <string name="ai_generate_tip">Створана з дапамогай AI</string>
   <string name="ai_input_default_text">Увядзіце больш персаналізаваны кантэнт</string>
   <string name="ai_label_comment">Ацаніць</string>
   <string name="ai_label_emoticons_num">Колькасць выразаў</string>

@@ -1700,10 +1700,10 @@
   <string name="bottomsheet_drag_handle_clicked">Маркер перацягвання націснуты двойчы</string>
   <string name="bottomsheet_drag_handle_content_description">Маркер перацягвання</string>
   <string name="desk_theme_selection">Тэма настольнага календара</string>
-  <string name="ai_introduce_card_sub_title">Дазвольце ШІ аўтаматычна дадаваць паездкі, білеты і іншыя тыпы падзей у ваш каляндар</string>
+  <string name="ai_introduce_card_sub_title">Дазвольце AI аўтаматычна дадаваць паездкі, білеты і іншыя тыпы падзей у ваш каляндар</string>
   <string name="apply_auto_insert_ai_event_button">Уключыць</string>
-  <string name="auto_insert_ai_event_toast">ШІ-памочнік па падзеях уключаны</string>
-  <string name="setting_auto_insert">ШІ-памочнік па падзеях</string>
+  <string name="auto_insert_ai_event_toast">AI-памочнік па падзеях уключаны</string>
+  <string name="setting_auto_insert">AI-памочнік па падзеях</string>
   <string name="count_down_holiday">Зваротны адлік да свят</string>
   <string name="desk_calendar_image_talkback">Выява настольнага календара</string> 
   <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string> 

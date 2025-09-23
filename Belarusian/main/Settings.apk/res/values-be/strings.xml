@@ -567,18 +567,18 @@
   <string name="agps_roaming_dia">Выкарыстанне A-GPS у роўмінгу можа павялічваць выкарыстанне мабільнага інтэрнэта. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар можа браць дадатковую плату.</string>
   <string name="agps_roaming_dia_title">Выкарыстоўваць A-GPS у роўмінгу</string>
   <string name="agps_roaming_summary">Выкарыстоўваць мабільны інтэрнэт для падтрымкі GPS у роўмінгу</string>
-  <string name="ai_button_title">Кнопка Mi ШI</string>
-  <string name="ai_button_title_global">Кнопка ШI</string>
-  <string name="ai_call_assistant">ШІ-выклікі</string>
+  <string name="ai_button_title">Кнопка Xiaomi AI</string>
+  <string name="ai_button_title_global">Кнопка AI</string>
+  <string name="ai_call_assistant">AI-выклікі</string>
   <string name="ai_key_double_click">Падвойны націск</string>
   <string name="ai_key_long_press">Націск і ўтрыманне</string>
   <string name="ai_key_single_click">Націск</string>
   <string name="ai_settings_click_title">Націск</string>
-  <string name="ai_settings_double_click_category">Падвойнае націсканне на кнопку ШI</string>
+  <string name="ai_settings_double_click_category">Падвойнае націсканне на кнопку AI</string>
   <string name="ai_settings_double_click_title">Падвойнае націсканне</string>
-  <string name="ai_settings_long_click_category">Націсніце і ўтрымлівайце кнопку ШI</string>
+  <string name="ai_settings_long_click_category">Націсніце і ўтрымлівайце кнопку AI</string>
   <string name="ai_settings_long_click_title">Націсніце і ўтрымлівайце</string>
-  <string name="ai_settings_single_press_des">Націсніце кнопку ШI, каб пагаварыць з Google Асістэнтам, потым адпусціце, каб атрымаць адказ.</string>
+  <string name="ai_settings_single_press_des">Націсніце кнопку AI, каб пагаварыць з Google Асістэнтам, потым адпусціце, каб атрымаць адказ.</string>
   <string name="airplane_mode">Рэжым палёту</string>
   <string name="airplane_mode_summary">Уключыце, каб адключыць прыладу ад мабільных сетак. Калі гэтая функцыя ўключаная, вы не зможаце здзяйсняць званкі, адпраўляць і атрымліваць тэкставыя паведамленні або выкарыстоўваць мабільныя дадзеныя.</string>
   <string name="alarm_ringtone_title">Стандартны сігнал будзільніка</string>
@@ -2497,7 +2497,7 @@
   <string name="current_screen_lock">Бягучы спосаб блакавання</string>
   <string name="current_use_default_wallet">Выбіраецца аўтаматычна</string>
   <string name="current_use_ese">Выкарыстоўваць убудаваны элемент бяспекі</string>
-  <string name="current_use_ese_wallet">Вы выкарыстоўваеце Mi кашалёк. Гэта дазваляе вам выкарыстоўваць Mi Pay ды картку грамадскага транспарту NFC.</string>
+  <string name="current_use_ese_wallet">Вы выкарыстоўваеце Xiaomi кашалёк. Гэта дазваляе вам выкарыстоўваць Mi Pay ды картку грамадскага транспарту NFC.</string>
   <string name="current_use_hce_wallet">Вы выкарыстоўваеце HCE кашалёк</string>
   <string name="current_use_uicc_se">Выкарыстоўваць элемент бяспекі на SIM-карце</string>
   <string name="current_use_uicc_wallet">Вы выкарыстоўваеце SIM %1$s кашалёк</string>
@@ -4147,13 +4147,13 @@
   <string name="how_adjust_font_size">Як наладзіць памер тэксту?</string>
   <string name="how_backup_content">Вы можаце захоўваць рэзервовыя копіі лакальна або ў воблаку. Лакальныя рэзервовыя копіі можна захоўваць на вашай мабільнай прыладзе, кампутары або USB-назапашвальніку.\n\nМабільная прылада\nЗахавайце сістэмныя налады, уліковыя запісы, дадзеныя праграм і іншыя элементы ў асобным файле, якi захоўваецца на вашай прыладзе (MIUI-backup-AllBackup). Заўвага. Выкананне скіду налад прывядзе да выдалення такіх рэзервовых копій без магчымасці аднаўлення. Не забудзьцеся скапіяваць рэзервовыя копіі на свой кампутар.\n\nКамп\'ютар\nСтварыце рэзервовую копію на гэтай прыладзе, затым перайдзіце да MIUI-backup-AllBackup і скапіруйце рэзервовую копію на свой кампутар праз USB-кабель.\n\nUSB-назапашвальнік\nЗахавайце налады сістэмы, уліковыя запісы, дадзеныя праграм і іншыя элементы на USB-назапашвальніку.\n\nВоблака Xiaomi\nСінхранізуецца свае кантакты, фатаграфіі, відэа, спіс праграм, сістэмныя налады і макет працоўнага стала з воблакам.</string>
   <string name="how_backup_title">Як зрабіць рэзервовую копію элементаў?</string>
-  <string name="how_encrypt_content">Вы можаце шыфраваць толькі лакальныя рэзервовыя копіі. Вось некаторыя метады шыфравання, якія вы можаце выкарыстоўваць:\na) Абярыце «Налады» > «Дадатковыя налады» на старонцы з лакальнымі рэзервовымі копіямі, націсніце кнопку, каб уключыць шыфраванне, і ўвайдзіце ў свой Xiaomi акаунт. Рэзервовыя копіі будуць аўтаматычна зашыфраваныя. Памятаеце, што вам трэба ўвайсці ў свой Xiaomi акаунт, каб аднавіць элементы з зашыфраваных рэзервовых копій.\nб) Калі вы выкарыстоўваеце Mi PC Suite для рэзервовага капіявання элементаў, вы можаце выкарыстоўваць параметры шыфравання там.\n\nЗаўвага. Запомніце пароль, які вы ўстанавілі для зашыфраваных рэзервовых копій! Вы не зможаце расшыфраваць свае рэзервовыя копіі, калі забудзецеся яго.</string>
+  <string name="how_encrypt_content">Вы можаце шыфраваць толькі лакальныя рэзервовыя копіі. Вось некаторыя метады шыфравання, якія вы можаце выкарыстоўваць:\na) Абярыце «Налады» > «Дадатковыя налады» на старонцы з лакальнымі рэзервовымі копіямі, націсніце кнопку, каб уключыць шыфраванне, і ўвайдзіце ў свой Xiaomi акаунт. Рэзервовыя копіі будуць аўтаматычна зашыфраваныя. Памятаеце, што вам трэба ўвайсці ў свой Xiaomi акаунт, каб аднавіць элементы з зашыфраваных рэзервовых копій.\nб) Калі вы выкарыстоўваеце Xiaomi PC Suite для рэзервовага капіявання элементаў, вы можаце выкарыстоўваць параметры шыфравання там.\n\nЗаўвага. Запомніце пароль, які вы ўстанавілі для зашыфраваных рэзервовых копій! Вы не зможаце расшыфраваць свае рэзервовыя копіі, калі забудзецеся яго.</string>
   <string name="how_encrypt_title">Як зашыфраваць мае рэзервовыя копіі?</string>
   <string name="how_restore_backup_content">Вось як вы можаце аднавіць элементы, рэзервовыя копіі якіх былі створаныя рознымі метадамі:\n\nМабільная прылада\nНацісніце «Мабільная прылада», знайдзіце параметр для аднаўлення элементаў і абярыце рэзервовую копію, каб працягнуць.\n\nКамп\'ютар\nСкапіруйце рэзервовую копію са свайго кампутара ў MIUI-backup-AllBackup праз USB-кабель і аднавіце элементы з вашай мабільнай прылады.\n\nUSB-назапашвальнік\nСкапіруйце рэзервовую копію з вашага USB-назапашвальніка ў MIUI-backup-AllBackup і абярыце опцыю аднаўлення элементаў з USB-назапашвальніка.\n\nВоблака Xiaomi\nАдкрыйце Воблака Xiaomi і аднавіце элементы адтуль.</string>
   <string name="how_restore_backup_title">Як аднавіць рэзервовыя копіі?</string>
   <string name="http_invoke_app">Вэб-праграмы</string>
   <string name="http_invoke_app_summary">Адкрывайце праграмы хутчэй без іх усталявання</string>
-  <string name="huanji_history_title">Перадачы Mi Трансфер</string>
+  <string name="huanji_history_title">Перадачы Xiaomi Трансфер</string>
   <string name="hwui_force_dark_summary">Змяняе наладу прымусовага ўключэння цёмнай тэмы на \"Заўсёды ўключана\"</string>
   <string name="hwui_force_dark_title">Перавызначэнне ўключэння цёмнай тэмы</string>
   <string name="icon_content_description">Значок дыялогу</string>
@@ -4228,8 +4228,8 @@
   <string name="input_method_function_switch_keyboard_type_des">Націсніце для пераключэння паміж рознымі клавіятурамі</string>
   <string name="input_method_function_voice">Галасавы ўвод</string>
   <string name="input_method_function_voice_des">Націсніце, каб выкарыстоўваць галасавы ўвод</string>
-  <string name="input_method_function_xiaoai">Галасавы ўвод Mi ІІ</string>
-  <string name="input_method_function_xiaoai_des">Націсніце, каб выкарыстоўваць галасавы ўвод Mi ІІ</string>
+  <string name="input_method_function_xiaoai">Галасавы ўвод Xiaomi AІ</string>
+  <string name="input_method_function_xiaoai_des">Націсніце, каб выкарыстоўваць галасавы ўвод Xiaomi AІ</string>
   <string name="input_method_manage">Кіраванне клавіятурамі</string>
   <string name="input_method_middle_function_move_cursor">Перамясціць курсор</string>
   <string name="input_method_middle_function_move_cursor_des">Націсніце і ўтрымлівайце цэнтральную вобласць, каб перамясціць курсор</string>
@@ -4532,15 +4532,15 @@
   <string name="knock_edge_area_invalid">Жэст не працуе ў бакоў экрана</string>
   <string name="knock_guide_dialog_title">Абярыце дзеянне для жэсту. Вы можаце змяніць яго пазней у Налады > Дадаткова > Функцыі жэстаў.</string>
   <string name="knock_guide_drive_desc">Скрыншот падчас кіравання</string>
-  <string name="knock_guide_launch_desc">Запуск Mi ШІ, калі прылада ляжыць экранам ўверх</string>
+  <string name="knock_guide_launch_desc">Запуск Xiaomi AI, калі прылада ляжыць экранам ўверх</string>
   <string name="knock_guide_set_screenshot">Скрыншот</string>
-  <string name="knock_guide_set_voiceassist">Mi ШІ</string>
-  <string name="knock_guide_sub_title">Вы можаце запусціць Mi ШІ або зрабіць скрыншот націскам на экран суставам пальца</string>
+  <string name="knock_guide_set_voiceassist">Xiaomi AI</string>
+  <string name="knock_guide_sub_title">Вы можаце запусціць Xiaomi AI або зрабіць скрыншот націскам на экран суставам пальца</string>
   <string name="knock_guide_title">Падвойнае дотык суставам пальца</string>
   <string name="knock_long_press_horizontal_slid">Націсніце і правядзіце гарызантальна суставам пальца</string>
   <string name="knock_slide_shape">Намалюйце акружнасць суставам пальца</string>
   <string name="knock_slide_v">Намалюйце \"V\" суставам пальца</string>
-  <string name="label_mi_stats">Mi аналітыка</string>
+  <string name="label_mi_stats">Xiaomi аналітыка</string>
   <string name="language_and_input_for_work_category_title">Клавіятуры і інструменты працоўнага профілю</string>
   <string name="language_empty_list_user_restricted">У вас няма дазволу на змяненне мовы прылады.</string>
   <string name="language_input_gesture_title">Мовы, увод і жэсты</string>
@@ -4553,7 +4553,7 @@
   <string name="last_synced">Апошняя сiнхранiзацыя: %1$s</string>
   <string name="last_time_used_label">Апошняе выкарыстанне</string>
   <string name="lattice_smartcover_title">Рашотка</string>
-  <string name="launch_ai_shortcut">Цэтлік Mi ШІ</string>
+  <string name="launch_ai_shortcut">Цэтлік Xiaomi AI</string>
   <string name="launch_alipay_health_code">Код стану Alipay</string>
   <string name="launch_alipay_health_code_auto_close">Цэтлік кода стану Alipay больш не даступны. Вы можаце пераключыцца на іншы цэтлік.</string>
   <string name="launch_alipay_payment_code">Код плацяжу Alipay</string>
@@ -5257,17 +5257,17 @@
   <string name="metadata_not_synced">Метададзеныя не сінхранізаваныя</string>
   <string name="metadata_synced">Метададзеныя сінхранізаваныя</string>
   <string name="mi_headset_healthy">Здароўе слыху</string>
-  <string name="mi_pay">Mi кашалёк</string>
+  <string name="mi_pay">Xiaomi кашалёк</string>
   <string name="mi_pay_indonesia">Акаўнт Mi Pay</string>
   <string name="mi_pay_summary">Транспартная карта/Mi Pay/Эмулятар карт</string>
   <string name="mi_service_app_detail">Інфармацыя пра трафік</string>
   <string name="mi_shopping_mall">Крама Mi</string>
   <string name="mi_smart_hub_entry_title">Цэнтр трансляцыi</string>
   <string name="mi_smart_play_entry_title">Картка плэера</string>
-  <string name="mi_transfer">Mi Трансфер</string>
+  <string name="mi_transfer">Xiaomi Трансфер</string>
   <string name="mi_upi_settings">Акаўнт Mi Pay</string>
   <string name="mi_wallet">Мі кашалёк</string>
-  <string name="mi_wallet_desc">Mi кашалёк</string>
+  <string name="mi_wallet_desc">Xiaomi кашалёк</string>
   <string name="mibi_cta_CANCEL">Адмена</string>
   <string name="mibi_cta_CheckBox">Не паказваць гэта зноў</string>
   <string name="mibi_cta_description">Для выкарыстання прывязкі патрабуецца падпіска. Калі няма падпіскі, звярніцеся да My au.\n%s</string>
@@ -5306,7 +5306,7 @@
   <string name="miheadset_bluetooth_audio_title">Частата дыскрэтызацыі гуку LC3plus Bluetooth</string>
   <string name="miheadset_Box">Футарал</string>
   <string name="miheadset_bright">Яркі</string>
-  <string name="miheadset_call_assist">Mi ШІ</string>
+  <string name="miheadset_call_assist">Xiaomi AI</string>
   <string name="miheadset_cancel_device">Адмена</string>
   <string name="miheadset_checkUpdate">Праверыць абнаўлення</string>
   <string name="miheadset_closeAnc">Выключыць</string>
@@ -5445,7 +5445,7 @@
   <string name="miheadset_unpair_device_text">%1$s будзе адключаны ад ўсіх прылад, звязаных з гэтым Xiaomi акаўнтам.</string>
   <string name="miheadset_virtual_surround">Віртуальны імерсіўны гук</string>
   <string name="miheadset_virtual_surround_summary">Павялічце глыбіню гуку для прайгравання аўдыё і відэа ў навушніках. Гэтая функцыя не будзе працаваць пры прайграванні %s-канальнага гуку.</string>
-  <string name="miheadset_voice_control_summary">Калі гэтая функцыя ўключана, вы можаце паказаць Mi ШІ кіраваць вашай прыладай або прайграваннем гуку з дапамогай галасавых каманд.</string>
+  <string name="miheadset_voice_control_summary">Калі гэтая функцыя ўключана, вы можаце паказаць Xiaomi AI кіраваць вашай прыладай або прайграваннем гуку з дапамогай галасавых каманд.</string>
   <string name="miheadset_windnoise">Вецер</string>
   <string name="mishow_disable_password_setting">Немагчыма ўсталяваць паролі ў дэманстрацыйным рэжыме</string>
   <string name="miui_accessibility_asr_summary">Транскрыбаваць аўдыё і захаваць тэкст</string>
@@ -5474,7 +5474,7 @@
   <string name="miui_input_method_settings">Налады спосаба уводу</string>
   <string name="miui_lab_ai_cloud_closed">Перадзагрузка пакуль не даступна.</string>
   <string name="miui_lab_ai_preload_desc">Перадзагрузка павышае хуткасць запуску праграм</string>
-  <string name="miui_lab_ai_preload_title">Перадзагрузка ШI</string>
+  <string name="miui_lab_ai_preload_title">Перадзагрузка AI</string>
   <string name="miui_lab_aiasst_call_screen_desc">Пераўтварэнне голасу і тэксту для аўтаматычнага адказу на выклікі</string>
   <string name="miui_lab_aiasst_call_screen_title">Галасавы памочнік па выклікам</string>
   <string name="miui_lab_drive_mode_desc">Выкарыстоўвайце кіраванне голасам і слухайце паведамленнi WeChat</string>
@@ -5557,7 +5557,7 @@
   <string name="miui_sos_remind_add">Дадаць</string>
   <string name="miui_sos_remind_close">Рэжым SOS уключаны. Адключыць яго разам з усімі звязанымі функцыямі?</string>
   <string name="miui_sos_remind_close_confirm">Выключыць</string>
-  <string name="miui_sos_remind_infocontent">Вы дададзены ў якасці майго экстранага кантакту. Вы атрымаеце паведамленне з маім месцазнаходжаннем, калі я апынуся ў небяспецы. [Экстраны Mi SOS]</string>
+  <string name="miui_sos_remind_infocontent">Вы дададзены ў якасці майго экстранага кантакту. Вы атрымаеце паведамленне з маім месцазнаходжаннем, калі я апынуся ў небяспецы. [Экстраны Xiaomi SOS]</string>
   <string name="miui_sos_remind_open">Для нармальнай працы экстранаму SOS патрабуецца хаця б 1 экстраны кантакт.</string>
   <string name="miui_sos_remind_sendinfo">Не забудзьцеся паведаміць гэтым людзям, што яны з\'яўляюцца вашымі экстранымі кантактамі. Так яны змогуць хутчэй дапамагчы вам у выпадку надзвычайнага становішча.</string>
   <string name="miui_sos_remind_sendnow">Адправіць зараз</string>
@@ -6356,7 +6356,7 @@
   <string name="one_usercrt">адзін сертыфікат карыстальніка</string>
   <string name="one_userkey">адзін ключ карыстальніка</string>
   <string name="onehour">30 хвілін</string>
-  <string name="onekey_migrate">Mi Трансфер</string>
+  <string name="onekey_migrate">Xiaomi Трансфер</string>
   <string name="open_app_button">Адкрыць праграму \"%1$s\"</string>
   <string name="open_demo_mode">Уключыць</string>
   <string name="open_demo_mode_warning_message">У дэманстрацыйным рэжыме гадзіннік у радку стану спыняецца, а абразкі зараду батарэі і якасці сігналу паказваюць максімум. Для выхаду можна выключыць дэманстрацыйны рэжым або перазагрузіць прыладу.</string>
@@ -7051,7 +7051,7 @@
   <string name="recommend_item_title">Парады</string>
   <string name="recommend_text_wakeup_xiaoai">Налады</string>
   <string name="recommend_tip">Патрэбны дадатковыя налады?</string>
-  <string name="recommend_tip_wakeup_xiaoai">Выкарыстанне кнопак для ўзаемадзеяння з Mi ШІ патрабуе адключэння поўнаэкранных жэстаў і выбару кнопак у якасці метаду навігацыі.</string>
+  <string name="recommend_tip_wakeup_xiaoai">Выкарыстанне кнопак для ўзаемадзеяння з Xiaomi AI патрабуе адключэння поўнаэкранных жэстаў і выбару кнопак у якасці метаду навігацыі.</string>
   <string name="recompute_size">Пераразлік памеру…</string>
   <string name="reduce_bright_colors_about_title">Пра дадатковае памяншэнне яркасці</string>
   <string name="reduce_bright_colors_intensity_end_label">Ярчэй</string>
@@ -7302,7 +7302,7 @@
   <string name="screen_enhance_engine_ai_note_3">%d. Функцыя недаступная, калі абрана адлюстраванне зыходных колераў або ўключана прасунутае паляпшэнне.</string>
   <string name="screen_enhance_engine_ai_open">Паляпшэнне выявы</string>
   <string name="screen_enhance_engine_ai_pic_summary">"Вызначэнне аб\'ектаў (напрыклад, раслін, жывёл, будынкаў) і дынамічная налада эфектаў адлюстравання. "</string>
-  <string name="screen_enhance_engine_ai_title">Паляпшэнне выявы ШІ</string>
+  <string name="screen_enhance_engine_ai_title">Паляпшэнне выявы AI</string>
   <string name="screen_enhance_engine_memc_note">Немагчыма палепшыць відэа пры ўключанай суперраздзяляльнасцi. Уключыўшы палепшанае відэа, вы адключыце суперраздзяляльнасцi.</string>
   <string name="screen_enhance_engine_memc_note_1">%d. Гэтая функцыя нязначна павялічвае энергаспажыванне.</string>
   <string name="screen_enhance_engine_memc_note_2">%d. Гэтая функцыя працуе, толькі калі ўключана панэль інструментаў відэа.</string>
@@ -7310,9 +7310,9 @@
   <string name="screen_enhance_engine_memc_open">MEMC</string>
   <string name="screen_enhance_engine_memc_pic_summary">"Дадайце дадатковыя кадры да відэа, каб кантэнт выглядаў плаўна і пераходы былі жывымі. "</string>
   <string name="screen_enhance_engine_memc_title">MEMC</string>
-  <string name="screen_enhance_engine_s2h_open">Паляпшэнне ШІ HDR</string>
+  <string name="screen_enhance_engine_s2h_open">Паляпшэнне AI HDR</string>
   <string name="screen_enhance_engine_s2h_pic_summary">"Апрацоўвайце відэа з дапамогай эфектаў HDR, каб вылучыць больш дэталяў у светлых і цёмных абласцях і зрабіць колеры больш яркімі. "</string>
-  <string name="screen_enhance_engine_s2h_title">Паляпшэнне ШІ HDR</string>
+  <string name="screen_enhance_engine_s2h_title">Паляпшэнне AI HDR</string>
   <string name="screen_enhance_engine_sr_for_pic">Паляпшэнне выявы</string>
   <string name="screen_enhance_engine_sr_for_video">Паляпшэнне відэа</string>
   <string name="screen_enhance_engine_sr_for_video_note">Суперраздзяляльнасць не працуе з палепшанымі відэа. Уключыўшы суперраздзяляльнасць, вы адключыце палепшанае відэа.</string>
@@ -7320,7 +7320,7 @@
   <string name="screen_enhance_engine_sr_pic_summary">"Павялічце раздзяляльнасць выявы і відэа. "</string>
   <string name="screen_enhance_engine_sr_pic_summary_video_only">"Павялічце раздзяляльнасць відэа. "</string>
   <string name="screen_enhance_engine_sr_title">Суперраздзяляльнасць</string>
-  <string name="screen_enhance_engine_title">Апрацоўшчык выявы ШІ</string>
+  <string name="screen_enhance_engine_title">Апрацоўшчык выявы AI</string>
   <string name="screen_enhance_status_disable">Выкл.</string>
   <string name="screen_enhance_status_enable">Укл.</string>
   <string name="screen_flash_color_azure">Лазурковы</string>
@@ -8227,7 +8227,7 @@
   <string name="simulate_color_space">Сімуляваць каляровую прастору</string>
   <string name="single_key_use">Кіраванне адной кнопкай</string>
   <string name="single_key_use_summary">Ужываць кнопку \"Дадому\" для функцый, якія выконваюцца дзвюма іншымі кнопкамі</string>
-  <string name="single_press_AI_button">Націсніце кнопку ШI</string>
+  <string name="single_press_AI_button">Націсніце кнопку AI</string>
   <string name="size_byte">Б</string>
   <string name="size_embedded">Паралельныя вокны</string>
   <string name="size_full">Поўны экран</string>
@@ -9666,7 +9666,7 @@
   <string name="vision_settings_suggestion_title">Змяніць памер шрыфту</string>
   <string name="vision_settings_title">Спецыяльныя магчымасці</string>
   <string name="voice_access">Галасавое кіраванне</string>
-  <string name="voice_assist">Mi ШI</string>
+  <string name="voice_assist">Xiaomi AI</string>
   <string name="voice_category">Гаворка</string>
   <string name="voice_helper_title">Галасавы памочнік</string>
   <string name="voice_input_output_settings">Галасавы ўвод і вывад</string>
@@ -9796,10 +9796,10 @@
   <string name="wakeup_and_sleep_settings_category_name">Налады экрана блакавання</string>
   <string name="wakeup_for_keyguard_notification_title">Абуджаць экран пры атрыманні апавяшчэнняў</string>
   <string name="wallet_header_title">Кашалёк і плацяжы</string>
-  <string name="wallet_reset">Вы можаце выдаліць свае банкаўскія карты, праязныя і пропускi толькі ў Mi кашальку. Адкрыць Mi кашалёк?</string>
+  <string name="wallet_reset">Вы можаце выдаліць свае банкаўскія карты, праязныя і пропускi толькі ў Xiaomi кашальку. Адкрыць Xiaomi кашалёк?</string>
   <string name="wallet_reset_cancel_btn">Прапусціць</string>
   <string name="wallet_reset_ok_btn">Адкрыць</string>
-  <string name="wallet_reset_title">Выдаленне карт з Mi кашалька</string>
+  <string name="wallet_reset_title">Выдаленне карт з Xiaomi кашалька</string>
   <string name="wallpaper_attributions">Шпалеры</string>
   <string name="wallpaper_attributions_values">Пастаўшчыкі спадарожнікавых выяў:\n©2014 CNES/Astrium, DigitalGlobe, Bluesky</string>
   <string name="wallpaper_dashboard_summary">Колеры, тэматычныя абразкі, сетка праграм</string>
@@ -10531,7 +10531,7 @@
   <string name="xiaoai_global_shortcut">Агульныя</string>
   <string name="xiaoai_key_shortcut">Кнопкі</string>
   <string name="xiaoai_other_shortcut">Іншыя метады</string>
-  <string name="xiaoai_shortcut_settings_title">Запускайце Mi ШІ з дапамогай кнопак і жэстаў</string>
+  <string name="xiaoai_shortcut_settings_title">Запускайце Xiaomi AI з дапамогай кнопак і жэстаў</string>
   <string name="xiaomi_account">Xiaomi акаўнт</string>
   <string name="xiaomi_cloud_find_device">Пошук прылады</string>
   <string name="xiaomi_cloud_service">Воблака Xiaomi</string>
@@ -10543,7 +10543,7 @@
   <string name="xiaomi_hp_location">Доступ да дакладнага месцазнаходжання</string>
   <string name="xiaomi_hp_location_description">Дакладная інфармацыя пра месцазнаходжанне забяспечвае дакладную навігацыю</string>
   <string name="xiaomi_lanting_title">Mi Lanting Pro</string>
-  <string name="xiaomi_money_service">Цэнтр Mi Credits</string>
+  <string name="xiaomi_money_service">Цэнтр Xiaomi Credits</string>
   <string name="xiaomi_router_available_notif_summary">Націсніце для прагляду дадатковай інфармацыі.</string>
   <string name="xiaomi_router_available_notif_title">Даступны Mi Роўтар</string>
   <string name="xiaomi_router_notif_summary">Апавяшчаць мяне, калі Mi Роўтар будзе даступным</string>
@@ -11582,7 +11582,7 @@
   <string name="screen_enhance_engine_dualDPU_summary">Павысьце якасць відэа з дапамогай спецыяльнага чыпа</string>
   <string name="screen_enhance_engine_dualDPU_title">Двух\'ядравая графіка</string>
   <string name="parental_control_title">Бацькоўскі кантроль</string>
-  <string name="ai_services_title">Службы ШІ</string>
+  <string name="ai_services_title">Службы AI</string>
   <string name="outdoor_high_temperature_notification">Прылада перагрэлася. Немагчыма ўключыць рэжым \"На вуліцы\".</string>
   <string name="outdoor_low_power_notification">Немагчыма ўключыць рэжым \"На вуліцы\" з-за нізкага зараду батарэі</string>
   <string name="outdoor_mode">Рэжым \"На вуліцы\"</string>
@@ -11822,12 +11822,12 @@
   <string name="wireless_secondary_display">Бесправадное пашырэнне дысплея</string>
   <string name="wireless_secondary_display_description">Выкарыстоўвайце планшэт у якасці бесправаднога пашырэння дысплея для бліжэйшага кампутара</string>
   <string name="aon_scanner_default_payment_method_title">Спосаб аплаты па змаўчанні</string>
-  <string name="aon_scanner_dialog_message">Пры ўключэнні Хуткага сканара сканаваныя вамі QR-коды будуць перададзены ў Mi ШІ Сканар. Пераканайцеся, што вы разумееце і згаджаецеся з гэтым, перш чым працягваць. Сканаваныя вамі QR-коды не будуць захоўвацца лакальна або загружацца ў воблака. Звярніце ўвагу, што выкарыстанне гэтай функцыі можа крыху павялічыць агульнае энергаспажыванне.</string>
+  <string name="aon_scanner_dialog_message">Пры ўключэнні Хуткага сканара сканаваныя вамі QR-коды будуць перададзены ў Xiaomi AI Сканар. Пераканайцеся, што вы разумееце і згаджаецеся з гэтым, перш чым працягваць. Сканаваныя вамі QR-коды не будуць захоўвацца лакальна або загружацца ў воблака. Звярніце ўвагу, што выкарыстанне гэтай функцыі можа крыху павялічыць агульнае энергаспажыванне.</string>
   <string name="aon_scanner_dialog_title">Заява аб прыватнасцi</string>
   <string name="aon_scanner_disclaimer_message">Хуткі сканар прапануе хуткі і просты спосаб сканавання QR-кодаў. Пасля ўключэння гэтай функцыі вы зможаце хутка сканаваць QR-коды і адразу пераходзіць на адпаведную старонку. Перад сканаваннем пераканайцеся, што вы цалкам разумееце змесціва і паслугі, якія прадстаўляюцца QR-кодам. Вырашыце, ці вы хочаце сканаваць яго або перайсці па спасылцы на іншы сэрвіс. Калі вы вырашыце скарыстацца паслугамі трэціх асоб, любыя наступствы і юрыдычныя рызыкі кладуцца на вас. Звярніце ўвагу, што Xiaomi не дае ніякіх відавочных або пэўныя гарантый на змесціва QR-кода, прадукты і паслугі, якi прапануе трэцімі асобамі.</string>
   <string name="aon_scanner_disclaimer_title">Адмова ад адказнасці</string>
-  <string name="aon_scanner_download_message">Хуткі сканар выкарыстоўвае Mi ШІ Сканар для прадастаўлення сваіх паслуг. Гэта азначае, што QR-коды, якія вы скануеце, будуць перададзены ў Mi ШІ Сканар. Пераканайцеся, што вы разумееце і згаджаецеся з гэтым, перш чым працягнуць усталёўку.</string>
-  <string name="aon_scanner_download_title">Усталяваць Mi ШІ Сканар</string>
+  <string name="aon_scanner_download_message">Хуткі сканар выкарыстоўвае Xiaomi AI Сканар для прадастаўлення сваіх паслуг. Гэта азначае, што QR-коды, якія вы скануеце, будуць перададзены ў Xiaomi AI Сканар. Пераканайцеся, што вы разумееце і згаджаецеся з гэтым, перш чым працягнуць усталёўку.</string>
+  <string name="aon_scanner_download_title">Усталяваць Xiaomi AI Сканар</string>
   <string name="aon_scanner_settings">Хуткі сканар</string>
   <string name="aon_scanner_status_close">Выкл.</string>
   <string name="aon_scanner_status_open">Укл.</string>
@@ -12010,7 +12010,7 @@
   <string name="super_volume_tip">Максімальная гучнасць: %s</string>
   <string name="agree_btn">Згодзен</string>
   <string name="agree_scanner_app_use">Скануйце QR-коды і распазнайце выявы. Некаторым функцый патрабуецца доступ да месцазнаходжання, выкарыстанне камеры або стварэнне здымкаў экрана.</string>
-  <string name="ai_notification_settings">Зводка апавяшчэнняў ШІ</string>
+  <string name="ai_notification_settings">Зводка апавяшчэнняў AI</string>
   <string name="aon_gesture_double_press_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, падняўшы пальцы ўверх, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, выканайце падвойны націск, каб прайграць або прыпыніць прайграванне медыя.</string>
   <string name="aon_gesture_double_press_diagram_title">Выканайце падвойны націск перад экранам</string>
   <string name="aon_gesture_down_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, падняўшы пальцы ўверх, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой уніз.</string>
@@ -12027,9 +12027,9 @@
   <string name="aon_gesture_status_not_open">Выкл.</string>
   <string name="aon_gesture_up_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, апусціўшы пальцы ўніз, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой уверх.</string>
   <string name="aon_gesture_up_waving_diagram_title">Памахаць рукой уверх перад экранам</string>
-  <string name="aon_scanner_dialog_message_new">Пры выкарыстанні хуткага сканара сканаваныя вамі QR-коды будуць перададзены ў ШІ Сканар. Гэтая інфармацыя не будзе захоўвацца на вашым прыладзе і не будзе загружана ў воблака. Уключэнне гэтай функцыі крыху павялічыць энергаспажыванне.</string>
-  <string name="aon_scanner_download_message_new">Паколькі паслугі хуткага сканара прадастаўляюцца ШІ Сканарам, нам неабходна перадаць сканаваныя вамі QR-коды ў ШІ Сканар. Усталюйце ШІ Сканар, перш чым працягнуць.</string>
-  <string name="aon_scanner_download_title_new">Усталяваць ШІ Сканар</string>
+  <string name="aon_scanner_dialog_message_new">Пры выкарыстанні хуткага сканара сканаваныя вамі QR-коды будуць перададзены ў AI Сканар. Гэтая інфармацыя не будзе захоўвацца на вашым прыладзе і не будзе загружана ў воблака. Уключэнне гэтай функцыі крыху павялічыць энергаспажыванне.</string>
+  <string name="aon_scanner_download_message_new">Паколькі паслугі хуткага сканара прадастаўляюцца AI Сканарам, нам неабходна перадаць сканаваныя вамі QR-коды ў AI Сканар. Усталюйце AI Сканар, перш чым працягнуць.</string>
+  <string name="aon_scanner_download_title_new">Усталяваць AI Сканар</string>
   <string name="back_strap_image_text">Калі прылада ляжыць экранам уніз з выключаным экранам, падсвятленне будзе адлюстроўваць напамінкі аб апавяшчэннях і светлавыя эфекты для розных сцэнараў</string>
   <string name="back_strap_status_close">Выкл.</string>
   <string name="back_strap_status_open">Укл.</string>
@@ -12058,9 +12058,9 @@
   <string name="child_face_unlock_open_education_center_summary">Абярыце дадзеныя твару пэўнага чалавека, які будзе выкарыстоўвайце гэтую функцыю</string>
   <string name="child_face_unlock_use">Выкарыстоўваць</string>
   <string name="compute_power_sharing">Падтрымка вылічэнняў</string>
-  <string name="compute_power_sharing_summary">"Выкарыстоўвайце вылічальную магутнасць вашага тэлефона для выкарыстання функцый ШІ на вашым планшэце"</string>
-  <string name="enhanced_ai_applications">Паскарэнне праграм ШІ</string>
-  <string name="enhanced_ai_applications_summary">Выкарыстоўвайце ШІ для абнаўлення праграм і атрымлівайце асалоду ад больш інтэлектуальных паслуг</string>
+  <string name="compute_power_sharing_summary">"Выкарыстоўвайце вылічальную магутнасць вашага тэлефона для выкарыстання функцый AI на вашым планшэце"</string>
+  <string name="enhanced_ai_applications">Паскарэнне праграм AI</string>
+  <string name="enhanced_ai_applications_summary">Выкарыстоўвайце AI для абнаўлення праграм і атрымлівайце асалоду ад больш інтэлектуальных паслуг</string>
   <string name="hearing_stream_option">Параметры гуку</string>
   <string name="impunity_declaration_content">"Сканару неабходна выкарыстоўваць вашу камеру і апрацоўваць выявы, якія вы робіце падчас выкарыстання праграмы. Не выкарыстоўвайце Сканар для фатаграфавання аб\'ектаў, якія змяшчаюць вашу асабістую інфармацыю. Націскаючы \"Згодзен\", вы згаджаецеся з нашай &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Палітыкай прыватнасці&lt;/a>&lt;/font> і дазваляеце Сканару падлучацца да Інтэрнэту."</string>
   <string name="impunity_declaration_negative_text">Выхад</string>
@@ -12086,7 +12086,7 @@
   <string name="service_support">Падтрымка</string>
   <string name="sort_by_frequency">Сартаваць па частаце</string>
   <string name="sort_by_time">Сартаваць па часу</string>
-  <string name="super_voice_assist">Супер Mi ШІ</string>
+  <string name="super_voice_assist">Супер Xiaomi AI</string>
   <string name="system_personalize_title">Персаналізацыя</string>
   <string name="unchecked_app_title">Светлавыя эфекты выключаны</string>
   <string name="voice_assist_summary">Ваш персанальны разумны памочнік</string>
@@ -12374,8 +12374,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="miheadset_switch_play_mode_summary">1. Пераключэнне рэжымаў прайгравання: прайграванне праз Bluetooth або праслухоўванне музыкі, якая захоўваецца ў навушніках</string>
   <string name="miheadset_switch_play_oder_summary">2. Пераключэнне парадку прайгравання: паўтарэнне адной песні, усяго плэйліста або выпадковае прайграванне. Гэтая функцыя ўжываецца толькі да музыкі, якая захоўваецца ў навушніках</string>
   <string name="mimotion_pwm_enable">Адаптыўная частата абнаўлення Pro</string>
-  <string name="mimotion_pwm_enable_summary">Падтрымлівае больш узроўняў дынамічнай частаты абнаўлення для больш плыўнага малюнка і пераключаецца з DC на ШІМ-зацямненне</string>
-  <string name="mimotion_pwm_message">Уключыць ШІМ-зацямненне зараз?</string>
+  <string name="mimotion_pwm_enable_summary">Падтрымлівае больш узроўняў дынамічнай частаты абнаўлення для больш плыўнага малюнка і пераключаецца з DC на AIМ-зацямненне</string>
+  <string name="mimotion_pwm_message">Уключыць AIМ-зацямненне зараз?</string>
   <string name="mimotion_pwm_title">Рух Xiaomi</string>
   <string name="mute_during_update">Прыпыніце прайграванне падчас абнаўлення для паспяховай устаноўкі</string>
   <string name="new_instruction_privacy_password">Пароль абароны прыватнасці забяспечвае абарону наступных функцый</string>

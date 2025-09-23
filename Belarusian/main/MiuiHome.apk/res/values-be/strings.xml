@@ -121,7 +121,7 @@
   <string name="announce_for_show_uninstall_dialog">Паявіўся дыялог выдалення. Скасуйце або пагадзіцеся.</string>
   <string name="announce_for_unchecked">%1$s, не праверана</string>
   <string name="announce_for_widget_span">Шырыня %1$d, вышыня %2$d</string>
-  <string name="announce_for_xiaoai">Mi ШІ</string>
+  <string name="announce_for_xiaoai">Xiaomi AI</string>
   <string name="app_already_exist">Праграма ўжо існуе</string>
   <string name="app_being_backup_message">Ствараецца рэзервовая копія праграмы</string>
   <string name="app_being_restored_message">Праграма аднаўляецца</string>
@@ -1158,7 +1158,7 @@
   <string name="system_shortcuts_icon_remove">Выдаліць</string>
   <string name="recent_pin_text">Замацаваць</string>
   <string name="system_sdk_disabled_toast">Сістэмны SDK адключаны. Спачатку уключыце яго.</string>
-  <string name="name_aireco_name">Прапановы Mi ШІ</string>
+  <string name="name_aireco_name">Прапановы Xiaomi AI</string>
   <string name="system_shortcuts_dislike">Мне гэта не падабаецца</string>
   <string name="global_shelf">Пошук праграм</string>
   <string name="home_gesture_global_shelf">Пошук праграм</string>
@@ -1301,12 +1301,12 @@
   <string name="pa_need_download_talkback">\"%s\" яшчэ не загружаны</string>
   <string name="search_settings_annotation">Абраны стыль будзе ўжыты да вонкавага экрана</string>
   <string name="search_settings_title">Панэль пошуку на працоўным стале</string>
-  <string name="search_settings_title_synonyms_ask_xiao_ai">Спытаць Mi ШІ</string>
+  <string name="search_settings_title_synonyms_ask_xiao_ai">Спытаць Xiaomi AI</string>
   <string name="search_settings_title_synonyms_compact_search">Кампактны пошук</string>
   <string name="search_settings_title_synonyms_home_search">Пошук на працоўным стале</string>
   <string name="search_settings_title_synonyms_search">Пошук</string>
   <string name="search_settings_title_synonyms_search_bar">Панэль пошуку</string>
   <string name="search_settings_title_synonyms_system_search">Сістэмны пошук</string>
   <string name="small_search_bar">Кампактны пошук</string>
-  <string name="super_xiao_ai">Спытаць Mi ШІ</string>
+  <string name="super_xiao_ai">Спытаць Xiaomi AI</string>
 </resources>

@@ -31,7 +31,7 @@
   <string name="afternoon">Поўдзень</string>
   <string name="ai_assistant">Асістэнт выклікаў</string>
   <string name="ai_assistant_not_installed">Асістэнт выклікаў не усталяваны</string>
-  <string name="ai_dial">ШІ-выклік</string>
+  <string name="ai_dial">AI-выклік</string>
   <string name="ai_mode_auto">Аўта</string>
   <string name="ai_mode_manual">Уручную</string>
   <string name="ai_mode_subtitles">Субтытры</string>
@@ -159,7 +159,7 @@
   <string name="early_morning">Раніца</string>
   <string name="emergency_call_dialog_number_for_display">Экстранны нумар</string>
   <string name="enter_ai_assistant">Выкарыстоўваць</string>
-  <string name="enter_ai_assistant_tip">ШІ можа канвертаваць тэкст у гаворку, калі вам зараз нязручна размаўляць. Выкарыстоўваць ШІ для гэтага выкліку?</string>
+  <string name="enter_ai_assistant_tip">AI можа канвертаваць тэкст у гаворку, калі вам зараз нязручна размаўляць. Выкарыстоўваць AI для гэтага выкліку?</string>
   <string name="eras_ad">н. э.</string>
   <string name="eras_bc">да н. э.</string>
   <string name="evening">Поўдзень</string>
@@ -461,7 +461,7 @@
   <string name="wednesday">Серада</string>
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">С</string>
-  <string name="xiaoai_assistant">Асістэнт выклікаў Mi ШІ</string>
+  <string name="xiaoai_assistant">Асістэнт выклікаў Xiaomi AI</string>
   <string name="yesterday">Учора</string>
   <string name="focus_notification_on_ringing">Уваходны выклік</string>
   <string name="satellite_diable_earpiece">Немагчыма выкарыстоўваць навушнікі падчас спадарожнікавых выклікаў</string>

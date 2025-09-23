@@ -29,11 +29,11 @@
   <string name="abc_toolbar_collapse_description">Згарнуць</string>
   <string name="actionbar_button_up_description">Назад</string>
   <string name="afternoon">Поўдзень</string>
-  <string name="ai_answer_ask_ai_btn">Спытаць ШІ</string>
-  <string name="ai_answer_guide_dialog_content_keyboard">Націсніце \"ШІ\" у верхняй частцы клавіятуры, каб атрымаць дакладныя і надзейныя адказы, згенераваныя ШІ.</string>
-  <string name="ai_answer_guide_dialog_content_top">Націсніце \"ШІ\" справа ад радка пошуку, каб атрымаць дакладныя і надзейныя адказы, згенераваныя ШІ.</string>
+  <string name="ai_answer_ask_ai_btn">Спытаць AI</string>
+  <string name="ai_answer_guide_dialog_content_keyboard">Націсніце \"AI\" у верхняй частцы клавіятуры, каб атрымаць дакладныя і надзейныя адказы, згенераваныя AI.</string>
+  <string name="ai_answer_guide_dialog_content_top">Націсніце \"AI\" справа ад радка пошуку, каб атрымаць дакладныя і надзейныя адказы, згенераваныя AI.</string>
   <string name="ai_answer_guide_dialog_knew">Зразумела</string>
-  <string name="ai_answer_guide_dialog_title">Спытаць ШІ</string>
+  <string name="ai_answer_guide_dialog_title">Спытаць AI</string>
   <string name="ai_answer_guide_dialog_try_it_now">Паспрабаваць зараз</string>
   <string name="ai_answers_edit_text_continue_hint">Задаць іншае пытанне…</string>
   <string name="ai_answers_edit_text_hint">Задаць пытанне…</string>
@@ -53,8 +53,8 @@
   <string name="ai_answers_result_page_reference_more">Дадаткова</string>
   <string name="ai_answers_result_page_related_module">Змяненні</string>
   <string name="ai_answers_toast_file_formats_not_support">Падтрымліваюцца толькі аўдыё, відэа, PDF і тэкставыя файлы</string>
-  <string name="ai_function_tips">Паспрабуйце ШІ-адказы</string>
-  <string name="ai_search_ai_answer">Адказы ШІ</string>
+  <string name="ai_function_tips">Паспрабуйце AI-адказы</string>
+  <string name="ai_search_ai_answer">Адказы AI</string>
   <string name="ai_search_ai_result_copy">Капіяваць</string>
   <string name="ai_search_ai_result_translate">Перавесці</string>
   <string name="ai_search_copy_translate">Капіяваць пераклад</string>
@@ -283,7 +283,7 @@
   <string name="friday_short">Птн</string>
   <string name="friday_shortest">Птн</string>
   <string name="home_card_ai_search_content">Больш разумны пошук на базе Xiaomi HyperAI</string>
-  <string name="home_card_ai_search_title">Паспрабуйце зусім новы пошук на аснове ШІ</string>
+  <string name="home_card_ai_search_title">Паспрабуйце зусім новы пошук на аснове AI</string>
   <string name="home_hot_app_title">Папулярнае</string>
   <string name="home_local_app_rec_title">Рэкамендаванае</string>
   <string name="home_search_history_title">Гісторыя пошуку</string>
@@ -439,7 +439,7 @@
   <string name="navigation_menu">Меню навігацыі</string>
   <string name="new_feature_dialog">Новая функцыя</string>
   <string name="new_feature_dialog_btn">Зразумела</string>
-  <string name="new_feature_dialog_content">Паспрабуйце ШІ-адказы! На старонцы вынікаў пошуку націсніце «ШІ», каб атрымаць падрабязныя адказы, згенераваныя ШІ.</string>
+  <string name="new_feature_dialog_content">Паспрабуйце AI-адказы! На старонцы вынікаў пошуку націсніце «AI», каб атрымаць падрабязныя адказы, згенераваныя AI.</string>
   <string name="night">Вечар</string>
   <string name="no_scalable_applications">Усе праграмы абноўлены</string>
   <string name="noon">Сярэдзіна дня</string>
@@ -472,7 +472,7 @@
   <string name="search_card_ai_loading_error">Не атрымалася загрузіць</string>
   <string name="search_card_ai_network_error">Адбылася памылка сеткі</string>
   <string name="search_card_ai_retry">Паспрабаваць ізноў</string>
-  <string name="search_card_ai_title">ШІ-адказы</string>
+  <string name="search_card_ai_title">AI-адказы</string>
   <string name="search_card_empty">Нічога не знайшлося</string>
   <string name="search_card_more">Больш</string>
   <string name="search_card_online_rec_app_install">Усталяваць</string>
@@ -530,7 +530,7 @@
   <string name="setting_search_history">Гісторыя пошуку</string>
   <string name="setting_search_history_desc">Аб\'екты, якія нядаўна шукалі</string>
   <string name="setting_searchable_content">Кантэнт, даступны для пошуку</string>
-  <string name="setting_searchable_option_ai_search">ШІ пошук</string>
+  <string name="setting_searchable_option_ai_search">AI пошук</string>
   <string name="setting_searchable_option_close">Выкл.</string>
   <string name="setting_searchable_option_normal_search">Звычайны пошук</string>
   <string name="setting_searchable_photo">Галерэя</string>

@@ -118,8 +118,8 @@
         <item quantity="few">%1$d прылады падлучаны</item>
     </plurals>
 	<plurals name="notification_All_AI_MissedCallTitle">
-        <item quantity="other">Mi ШІ адказаў за вас на %1$d выклікаў</item>
-        <item quantity="one">Mi ШІ адказаў за вас на %1$d выклік</item>
-        <item quantity="few">Mi ШІ адказаў за вас на %1$d выкліка</item>
+        <item quantity="other">Xiaomi AI адказаў за вас на %1$d выклікаў</item>
+        <item quantity="one">Xiaomi AI адказаў за вас на %1$d выклік</item>
+        <item quantity="few">Xiaomi AI адказаў за вас на %1$d выкліка</item>
     </plurals>
 </resources>

@@ -321,7 +321,7 @@
   <string name="qs_open_night_mode_alert_summary">Некаторыя налады экрана несумяшчальныя з цёмным рэжымам. Аднак яны будуць адноўлены пасля выключэння цёмнага рэжыму.</string>
   <string name="quick_controls_subtitle">Дадайце элементы кіравання для падлучаных прылад</string>
   <string name="quick_controls_title">Кіраванне прыладай</string>
-  <string name="quick_settings_aitranslate_label">Mi ШІ Перакладчык</string>
+  <string name="quick_settings_aitranslate_label">Xiaomi AI Перакладчык</string>
   <string name="quick_settings_autobrightness_label">Аўтаяркасць</string>
   <string name="quick_settings_batterysaver_label">Эканомія зарада батарэі</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Няма падлучаных прылад</string>
@@ -585,7 +585,7 @@
   <string name="miplay_tv_cast_retry_toast">Спыніце трансляцыю і паспрабуйце яшчэ раз</string>
   <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Трансляцыя аўдыё завершана</string>
   <string name="miplay_bluetooth_share_music_together_btn_content_des">Дадайце навушнікі, каб падзяліцца аўдыё</string>
-  <string name="quick_settings_voice_trans_label">ШІ-інтэрпрэтатар</string>
+  <string name="quick_settings_voice_trans_label">AI-інтэрпрэтатар</string>
   <string name="miplay_accessibility_video_fastForward">Перамотка наперад на %d секунд(-ы)</string>
   <string name="miplay_accessibility_video_rewind">Перамотка назад на %d секунд(-ы)</string>
   <string name="miplay_service_error_not_support">Гэта дзеянне не падтрымліваецца</string>

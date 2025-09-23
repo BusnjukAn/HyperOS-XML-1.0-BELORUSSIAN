@@ -42,14 +42,14 @@
   <string name="agree_terms_input_method_kika">Я прачытаў і прымаю Палітыку прыватнасцi Kika.</string>
   <string name="agreement_declare_use_network_and_location_china">"Акрамя таго, наступныя службы будуць падлучацца да сеткі і атрымліваць доступ да вашага месцазнаходжанні: "</string>
   <string name="agreement_declare_use_network_china">будуць падлучацца да сеткі.</string>
-  <string name="ai_button_desc">Кнопка ШI дазваляе запускаць Mi ШI і выкарыстоўваць цэтлікі Mi ШI.</string>
+  <string name="ai_button_desc">Кнопка AI дазваляе запускаць Xiaomi AI і выкарыстоўваць цэтлікі Xiaomi AI.</string>
   <string name="ai_button_double_press">Падвоены націск</string>
-  <string name="ai_button_double_press_desc">Двойчы націсніце кнопку ШI для выканання карыстальніцкіх задач</string>
+  <string name="ai_button_double_press_desc">Двойчы націсніце кнопку AI для выканання карыстальніцкіх задач</string>
   <string name="ai_button_long_press">Націск і ўтрыманне</string>
-  <string name="ai_button_long_press_desc">Націсніце і ўтрымлівайце кнопку ШI, каб пагаварыць з Mi ШI</string>
+  <string name="ai_button_long_press_desc">Націсніце і ўтрымлівайце кнопку AI, каб пагаварыць з Xiaomi AI</string>
   <string name="ai_button_single_press">Націск</string>
-  <string name="ai_button_single_press_desc">Націсніце кнопку ШI для прагляду цэтлікаў Mi ШI</string>
-  <string name="ai_button_title">Кнопка ШI</string>
+  <string name="ai_button_single_press_desc">Націсніце кнопку AI для прагляду цэтлікаў Xiaomi AI</string>
+  <string name="ai_button_title">Кнопка AI</string>
   <string name="album_introduction">Вы можаце выкарыстоўваць гэтую праграму для кіравання, рэдагавання і ўпрыгажэння фатаграфій і відэа.</string>
   <string name="am">ДП</string>
   <string name="app_name">Пачатковая налада</string>
@@ -99,7 +99,7 @@
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="default_font">Па змаўчанні</string>
-  <string name="desc_fingerprint">Выкарыстоўвайце адбітак пальца для разблакавання прылады, пацвярджэння плацяжоў Mi Pay, а таксама для ўваходу ў праграмы і сэрвісы.</string>
+  <string name="desc_fingerprint">Выкарыстоўвайце адбітак пальца для разблакавання прылады, пацвярджэння плацяжоў Xiaomi Pay, а таксама для ўваходу ў праграмы і сэрвісы.</string>
   <string name="desc_international_fingerprint">Выкарыстоўвайце адбітак пальца для разблакавання прылады або для ўваходу ў праграмы і сэрвісы.</string>
   <string name="diagnose_report">Адпраўка дыягнастычных дадзеных для пошуку і аналізу праблем сістэмы і паляпшэння карыстацкага вопыту. Такія дадзеныя могуць уключаць у сябе асабістую інфармацыю (напрыклад, IP, месцазнаходжанне і г.д.)</string>
   <string name="disageement_abnormal_download">Калі вы не згодныя прадаставіць такія дазволы або перадаваць і загружаць вашу асабістую інфармацыю, вы не зможаце скарыстацца гэтай паслугай.</string>
@@ -132,7 +132,7 @@
   <string name="evening">Поўдзень</string>
   <string name="expand_button_title">Дадаткова</string>
   <string name="fast_application_introduction">Абалонка «Хуткія праграмы» дазваляе ствараць і прадастаўляць паслугі ў Хуткіх праграмах.</string>
-  <string name="fast_pairing_introduction">Mi Link дазваляе вашай прыладзе падлучацца да Bluetooth-прылад паблізу.</string>
+  <string name="fast_pairing_introduction">Xiaomi Link дазваляе вашай прыладзе падлучацца да Bluetooth-прылад паблізу.</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -180,8 +180,8 @@
   <string name="font_settings_title">Настройкі шрыфтоў</string>
   <string name="font_use_case_text_example">Цела</string>
   <string name="font_use_case_title_example">Загаловак</string>
-  <string name="framework_introduction">Xiaomi Services Framework дазваляе выкарыстоўваць Xiaomi акаўнт, Mi Push, Статыстыку і бізнес-аналітыку.</string>
-  <string name="framwork_base_service">Для прадастаўлення вам гэтых паслуг Xiaomi Services Framework (Xiaomi акаўнт, Mi Push, Статыстыка, Бізнес-аналітыка ) патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, нумары тэлефон, IMEI і IMSI. Вы такэже павінны дазволіць вашай прыладзе атрымліваць push-апавяшчэнні.</string>
+  <string name="framework_introduction">Xiaomi Services Framework дазваляе выкарыстоўваць Xiaomi акаўнт, Xiaomi Push, Статыстыку і бізнес-аналітыку.</string>
+  <string name="framwork_base_service">Для прадастаўлення вам гэтых паслуг Xiaomi Services Framework (Xiaomi акаўнт, Xiaomi Push, Статыстыка, Бізнес-аналітыка ) патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, нумары тэлефон, IMEI і IMSI. Вы такэже павінны дазволіць вашай прыладзе атрымліваць push-апавяшчэнні.</string>
   <string name="friday">Пятніца</string>
   <string name="friday_short">Птн</string>
   <string name="friday_shortest">П</string>
@@ -376,7 +376,7 @@
   <string name="permission_direct_call_introduction">Для дадання аб\'ектаў у Чорны спіс</string>
   <string name="permission_download_introduction">Для кэшавання загружаных аб\'ектаў і захавання іх на вашай прыладзе</string>
   <string name="permission_enable_disable_bluetooth_summary">Для пошуку прылад паблізу для падлучэння і перадачы дадзеных</string>
-  <string name="permission_fast_pairing">Каб мець магчымасць знаходзіць прылады паблізу, Mi Link неабходна падлучыцца да Інтэрнэту і атрымаць наступныя дазволы:</string>
+  <string name="permission_fast_pairing">Каб мець магчымасць знаходзіць прылады паблізу, Xiaomi Link неабходна падлучыцца да Інтэрнэту і атрымаць наступныя дазволы:</string>
   <string name="permission_imei_service">Для доступу да IMEI з мэтай прадастаўлення паслуг, звязаных з вашай прыладай</string>
   <string name="permission_interaction_introduction">Для захавання фота і відэа на прыладзе</string>
   <string name="permission_location">Доступ да месцазнаходжання</string>
@@ -500,7 +500,7 @@
   <string name="send">Адправіць</string>
   <string name="service_agreement">Я прачытаў(-ла) палажэнні і ўмовы і пагадзіўся(-лася) з імі.</string>
   <string name="service_company_adjust_content">Пагадненне Xunlei Network Services</string>
-  <string name="service_fast_pairing_policy"><Data>Прачытайце і прыміце &lt;a href=%1$s>Палітыку прыватнасці Mi Link&lt;/a>, перш чым працягнуць.</Data></string>
+  <string name="service_fast_pairing_policy"><Data>Прачытайце і прыміце &lt;a href=%1$s>Палітыку прыватнасці Xiaomi Link&lt;/a>, перш чым працягнуць.</Data></string>
   <string name="service_interconnection_communication">Інтэрнэт-камунікацыйныя службы Xiaomi</string>
   <string name="service_location_share_policy"><Data> Перш чым працягнуць, прачытайце &lt;a href=%1$s>Заяву аб канфiдэнцыяльнасцi службаў месцазнаходжання&lt;/a> і прыміце яго.</Data></string>
   <string name="service_mi_account">Xiaomi акаўнт</string>
@@ -516,7 +516,7 @@
   <string name="service_name_content_center">Цэнтр зместу</string>
   <string name="service_name_download">Спампоўкі</string>
   <string name="service_name_fast_application">Абалонка «Хуткія праграмы»</string>
-  <string name="service_name_fast_pairing">Mi Link</string>
+  <string name="service_name_fast_pairing">Xiaomi Link</string>
   <string name="service_name_game">Убудова гульняў</string>
   <string name="service_name_google_service">Заява аб паслугах Google</string>
   <string name="service_name_ims">Служба IMS</string>
@@ -528,7 +528,7 @@
   <string name="service_name_recorder">Дыктафон</string>
   <string name="service_name_screen_recording">Запіс экрана</string>
   <string name="service_name_security">Бяспека</string>
-  <string name="service_name_service_framework">Mi Services Framework</string>
+  <string name="service_name_service_framework">Xiaomi Services Framework</string>
   <string name="service_name_systemdesktop">Падлучальны модуль службы працоўнага стала</string>
   <string name="service_policy"><Data>Прачытайце і прыміце нашу &lt;a href=%1$s>Палітыку прыватнасці&lt;/a>.</Data></string>
   <string name="service_policy_adjust_content">Палітыка прыватнасці Xunlei</string>
@@ -539,7 +539,7 @@
   <string name="servicestate_title">Заяву аб асноўных паслугах</string>
   <string name="setting_locale">Налады рэгіёна…</string>
   <string name="shut_down">Адключэнне</string>
-  <string name="sim_activation_introduction">Служба актывацыі SIM-карты правярае інфармацыю аб устаўленай ў дадзены момант SIM-карце, каб пераканацца, што службы сiстэмы могуць працаваць нармальна. Гэтыя паслугі ўключаюць у сябе пошук прылады, Mi паведамленнi, стварэнне уліковых запісаў Xiaomi з выкарыстаннем тэлефонных нумароў, а таксама сінхранізацыю паведамленняў і гісторыі выклікаў.</string>
+  <string name="sim_activation_introduction">Служба актывацыі SIM-карты правярае інфармацыю аб устаўленай ў дадзены момант SIM-карце, каб пераканацца, што службы сiстэмы могуць працаваць нармальна. Гэтыя паслугі ўключаюць у сябе пошук прылады, Xiaomi паведамленнi, стварэнне уліковых запісаў Xiaomi з выкарыстаннем тэлефонных нумароў, а таксама сінхранізацыю паведамленняў і гісторыі выклікаў.</string>
   <string name="sim_card_detecting">Праверка SIM-карты…</string>
   <string name="sim_card_detecting_check">SIM-карта не знойдзена. Пераканайцеся, што SIM-карта ўстаноўлена правільна і на балансе дастаткова сродкаў.</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Дазволіць злучэння з мабільнымі сеткамі перадачы дадзеных? Усталяваная SIM-карта будзе выкарыстоўвацца для злучэння з мабільнымі сеткамі перадачы дадзеных.</string>
@@ -597,7 +597,7 @@
   <string name="systemdesktop_introduction">Падлучальны модуль службы працоўнага стала дае вам асноўныя функцыі, такія як галоўны экран, карыстацкі інтэрфейс сістэмы і здымкі экрана.</string>
   <string name="term_condition_detail">Штодня атрымлівайце цудоўныя выявы і захапляльныя гісторыі на экране блакавання. Гэтая функцыя не будзе выкарыстоўваць вашыя дадзеныя для персаналізацыі без вашага згоды. Прачытайце і пагадзіцеся з &lt;a href =%1$s>Палітыкай прыватнасці&lt;/a> і &lt;a href =%2$s>Карыстацкай дамовай&lt;/a> іншага пастаўшчыка кантэнту і пагадзіцеся з імі перад выкарыстаннем гэтай функцыі.</string>
   <string name="terms_of_use">Умовы і палажэнні</string>
-  <string name="terms_of_use_label_ai_assistant">Памочнік ШІ</string>
+  <string name="terms_of_use_label_ai_assistant">Памочнік AI</string>
   <string name="terms_of_use_label_app_vault">Трансляцыя</string>
   <string name="terms_of_use_label_back">Служба рэзервовага капіявання</string>
   <string name="terms_of_use_label_ble">Пастаўшчык аб\'яднанага месцазнаходжаньня</string>
@@ -608,16 +608,16 @@
   <string name="terms_of_use_label_home">Працоўны стол</string>
   <string name="terms_of_use_label_htmlViewer">Сродак прагляду HTML</string>
   <string name="terms_of_use_label_htmlviewer">Сродак прагляду HTML</string>
-  <string name="terms_of_use_label_info_assistant">Mi Link</string>
+  <string name="terms_of_use_label_info_assistant">Xiaomi Link</string>
   <string name="terms_of_use_label_joyose">Joyose</string>
   <string name="terms_of_use_label_landscape">Функцыя аптымізацыі гарызантальнага прагляду</string>
   <string name="terms_of_use_label_mab">MAB</string>
   <string name="terms_of_use_label_mi_account">Кампаненты Xiaomi акаўнта</string>
-  <string name="terms_of_use_label_Mistore">Сістэмная ўбудова Mi Store</string>
+  <string name="terms_of_use_label_Mistore">Сістэмная ўбудова Xiaomi Store</string>
   <string name="terms_of_use_label_miuiDaemon">Дэман сiстэмы</string>
   <string name="terms_of_use_label_miuisdk">SDK сiстэмы</string>
   <string name="terms_of_use_label_MSA">MSA</string>
-  <string name="terms_of_use_label_os">Налада ШІ АС</string>
+  <string name="terms_of_use_label_os">Налада AI АС</string>
   <string name="terms_of_use_label_package">Усталёўнік пакетаў</string>
   <string name="terms_of_use_label_parallel_windows">Паралельныя вокны</string>
   <string name="terms_of_use_label_phrase">Частыя выразы</string>
@@ -626,7 +626,7 @@
   <string name="terms_of_use_label_quickapp">Хуткія праграмы</string>
   <string name="terms_of_use_label_RMS">Дыспетчар дазволаў</string>
   <string name="terms_of_use_label_secure">Дадатак Secure Element</string>
-  <string name="terms_of_use_label_simcard">Паслугі актывацыі Mi SIM</string>
+  <string name="terms_of_use_label_simcard">Паслугі актывацыі Xiaomi SIM</string>
   <string name="terms_of_use_label_smart_service">iнтэлектуальныя службы</string>
   <string name="terms_of_use_label_statistics">Статыстыка</string>
   <string name="terms_of_use_label_systemhelper">Самастойная рэгістрацыя</string>
@@ -701,7 +701,7 @@
   <string name="user_agreement">Карыстальніцкае пагадненне</string>
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
-  <string name="voice_assist_desp">Скажыце \"Мі ШІ\" вашай прыладзе. Мі ШІ распазнае ваш голас і дапаможа кіраваць вашай прыладай.</string>
+  <string name="voice_assist_desp">Скажыце \"Мі AI\" вашай прыладзе. Мі AI распазнае ваш голас і дапаможа кіраваць вашай прыладай.</string>
   <string name="voice_assist_title">Галасавы памочнiк</string>
   <string name="wc_dialog_agree">Згодны</string>
   <string name="wc_dialog_reject">Не згодны</string>
@@ -775,8 +775,8 @@
   <string name="power_and_performance">Батарэя і прадукцыйнасць</string>
   <string name="power_and_performance_introduction">Гэтая служба забяспечвае базавае кіраванне батарэяй, статыстыку выкарыстання, функцыі энергазберажэння і многае іншае.</string>
   <string name="interconnection_service_summary_china">Службы Узаемазвязанасцi Xiaomi дазваляюць вашым прыладам узаемадзейнічаць адзiн з адным па бесправадной сетцы. %1$s Даступныя паслугі падлучэння могуць адрознівацца ў залежнасці ад версіі вашай сістэмы і мадэлі прылады. Дадатковую інфармацыю можна знайсці на старонцы %2$s.</string>
-  <string name="interconnection_service_summary_china_fragment1">Гэтыя службы ўключаюць Mi Smart Play, трансляцыю, перадачу праграм, працоўны стол+, агульны буфер абмену, бесправадны мадэм (уключаючы сеткавую сінхранізацыю), кіраванне некалькімі прыладамі, камеру для некалькіх прылад і Цэнтр трансляцыі. Для нармальнай працы службам узаемадзеяння Xiaomi неабходна падлучэнне да Інтэрнэту і наступныя дазволы:</string>
-  <string name="interconnection_service_summary_china_fragment2">Mi Smart Play і трансляцыя:</string>
+  <string name="interconnection_service_summary_china_fragment1">Гэтыя службы ўключаюць Xiaomi Smart Play, трансляцыю, перадачу праграм, працоўны стол+, агульны буфер абмену, бесправадны мадэм (уключаючы сеткавую сінхранізацыю), кіраванне некалькімі прыладамі, камеру для некалькіх прылад і Цэнтр трансляцыі. Для нармальнай працы службам узаемадзеяння Xiaomi неабходна падлучэнне да Інтэрнэту і наступныя дазволы:</string>
+  <string name="interconnection_service_summary_china_fragment2">Xiaomi Smart Play і трансляцыя:</string>
   <string name="interconnection_service_summary_china_fragment3">Уключаць ці выключаць Bluetooth</string>
   <string name="interconnection_service_summary_china_fragment4">Для выяўлення бліжэйшых прылад для падлучэння праз Bluetooth</string>
   <string name="interconnection_service_summary_china_fragment5">Уключаць або выключаць Wi-Fi</string>
@@ -926,11 +926,11 @@
   <string name="trade_in">Абмен</string>
   <string name="user_agreement_declare">Перад выкарыстаннем сiстэмы вы павінны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
   <string name="user_agreement_declare_gmscore">Перад выкарыстаннем сiстэмы вы павінны прачытаць і прыняць наша Пагадненне карыстальніка і Палітыку прыватнасці. Пакуль ваша прылада актывуецца, смарт-службы падключацца да сеткі і атрымаюць доступ да вашага месцазнаходжання.</string>
-  <string name="user_agreement_declare_v1">Перад выкарыстаннем сiстэмы вы павінны прачытаць і пагадзіцца з нашымi Карыстальніцкiм пагадненнем і Палітыкай прыватнасці. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з законамі, правіламі і палітыкамі прыватнасці. Калі ваша прылада актывавана, наступныя праграмы і службы будуць падлучацца да сеткі: Службы актывацыі Xiaomi SIM, Воблака Xiaomi, Рэзервовае капіраванне ў воблака, Пошук прылады, Працоўны стол, Часта выкарыстоўваемыя выразы, службы інтэрнэт-камунікацый Xiaomi, служба перакладу, дэман Xiaomi, сродак прагляду HTML, Xiaomi SDK, Бяспека, Памочнік ШІ, Батарэя і прадукцыйнасць, Дэтэктар магутнасці, Joyose, налада ШІ АС, Сродак абнаўлення і служба праверкі фільтра намераў. Наступныя праграмы і службы будуць падлучацца да сеткі і атрымліваць доступ да вашага месцазнаходжання: смарт-карты, дыспетчар дазволаў і смарт-службы.</string>
-  <string name="user_agreement_declare_wifi_device">Перад выкарыстаннем сiстэмы вы павінны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Xiaomi SIM, Воблака Xiaomi, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, Xiaomi Daemon, Прагляд HTML, Xiaomi SDK, Памочнік ШI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС, Кіраванне дазволамі і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
+  <string name="user_agreement_declare_v1">Перад выкарыстаннем сiстэмы вы павінны прачытаць і пагадзіцца з нашымi Карыстальніцкiм пагадненнем і Палітыкай прыватнасці. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з законамі, правіламі і палітыкамі прыватнасці. Калі ваша прылада актывавана, наступныя праграмы і службы будуць падлучацца да сеткі: Службы актывацыі Xiaomi SIM, Воблака Xiaomi, Рэзервовае капіраванне ў воблака, Пошук прылады, Працоўны стол, Часта выкарыстоўваемыя выразы, службы інтэрнэт-камунікацый Xiaomi, служба перакладу, дэман Xiaomi, сродак прагляду HTML, Xiaomi SDK, Бяспека, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар магутнасці, Joyose, налада AI АС, Сродак абнаўлення і служба праверкі фільтра намераў. Наступныя праграмы і службы будуць падлучацца да сеткі і атрымліваць доступ да вашага месцазнаходжання: смарт-карты, дыспетчар дазволаў і смарт-службы.</string>
+  <string name="user_agreement_declare_wifi_device">Перад выкарыстаннем сiстэмы вы павінны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Xiaomi SIM, Воблака Xiaomi, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, Xiaomi Daemon, Прагляд HTML, Xiaomi SDK, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС, Кіраванне дазволамі і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
   <string name="user_agreement_declare_wifi_device_gmscore">Перад выкарыстаннем сiстэмы вы павінны прачытаць і прыняць наша Пагадненне карыстальніка і Палітыку прыватнасці. Пакуль ваша прылада актывуецца, смарт-службы падключацца да сеткі і атрымаюць доступ да вашага месцазнаходжання.</string>
-  <string name="voice_assist_advice">Xiaomi ШI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
-  <string name="voice_assist_condition">Вы зможаце карыстацца Xiaomi ШI у наступных выпадках:\n1. Пры уключаным экране.\n2. Калі слухаеце музыку з выключаным экранам.</string>
+  <string name="voice_assist_advice">Xiaomi AI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
+  <string name="voice_assist_condition">Вы зможаце карыстацца Xiaomi AI у наступных выпадках:\n1. Пры уключаным экране.\n2. Калі слухаеце музыку з выключаным экранам.</string>
   <string name="xiaomi_game_discounts">Гульнявыя акцыі</string>
   <string name="xiaomi_membership_rights">Сяброўства ў обоаке Xiaomi</string>
   <string name="xiaomi_video_discount">Акцыі Xiaomi Відэа</string>

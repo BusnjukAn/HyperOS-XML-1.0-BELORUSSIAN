@@ -266,7 +266,7 @@
   <string name="ks_regional_screen_shot">Здымак экрана (частковы)</string>
   <string name="ks_screenshot">Здымак экрана (увесь экран)</string>
   <string name="kungfu">Кунг-Фу</string>
-  <string name="launch_ai_shortcut">Цэтлік Mi ШІ</string>
+  <string name="launch_ai_shortcut">Цэтлік Xiaomi AI</string>
   <string name="launch_alipay_health_code">Код стану Alipay</string>
   <string name="launch_alipay_payment_code">Код плацяжу Alipay</string>
   <string name="launch_alipay_scanner">Сканар Alipay</string>
@@ -309,7 +309,7 @@
   <string name="memory_freeze_loading">Секундачку…</string>
   <string name="messagesent">Паведамленне адпраўлена</string>
   <string name="mi_drop">Абмен файламі</string>
-  <string name="mi_pay">Mi Папернік</string>
+  <string name="mi_pay">Xiaomi Папернік</string>
   <string name="miaudiovisual_notification_summary">Уключыце для адлюстравання эфектаў на экране блакавання</string>
   <string name="miaudiovisual_notification_title">Аўдыё і візуальныя эфекты</string>
   <string name="mihouse">Mi Электронная</string>
@@ -427,7 +427,7 @@
   <string name="resolver_cast">Трансляцыя</string>
   <string name="resolver_checkbox_always">Заўсёды</string>
   <string name="resolver_checkbox_once">Адзін раз</string>
-  <string name="resolver_mi_browser">Mi Браўзер</string>
+  <string name="resolver_mi_browser">Xiaomi Браўзер</string>
   <string name="resolver_offical_recommend">Афіцыйна</string>
   <string name="resolver_other_method">Іншыя опцыі</string>
   <string name="resolver_print">Друк</string>
@@ -588,7 +588,7 @@
   <string name="user_switching_dialog_switch_out_kid_space">Выхад з Дзіцячай прасторы…</string>
   <string name="user_switching_dialog_text">Пераключэнне…</string>
   <string name="vigor">Энергія</string>
-  <string name="voice_assist">Mi ШI</string>
+  <string name="voice_assist">Xiaomi AI</string>
   <string name="wallpaper_geometrically_irregular_title">Абстрактная геаметрыя</string>
   <string name="wallpaper_group_black_gobi_title">Пескі Гобі</string>
   <string name="wallpaper_group_black_white_title">Чорнае і белае</string>
@@ -737,7 +737,7 @@
   <string name="screen_on_proximity_sensor_summary_for_back_screen">"Прыбярыце перашкоды з чырвонай вобласці
 або націсніце кнопку павелічэння гучнасці,
 каб выключыць рэжым \"У кішэні\""</string> 
-  <string name="wallpaper_group_ai_zone_title">ШІ Шпалеры</string> 
+  <string name="wallpaper_group_ai_zone_title">AI Шпалеры</string> 
   <string name="wallpaper_group_big_numbers_title">Вялікія лічбы</string> 
   <string name="wallpaper_group_creative_time_title">Крэатыўны гадзіннік</string> 
   <string name="wallpaper_group_system_wallpaper_title">Сістэмныя шпалеры</string> 

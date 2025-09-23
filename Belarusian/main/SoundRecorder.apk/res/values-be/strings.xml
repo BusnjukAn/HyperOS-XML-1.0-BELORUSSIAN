@@ -714,8 +714,8 @@
   <string name="action_copy">Капіраваць</string>
   <string name="action_notes">Захаваць у Нататкі</string>
   <string name="action_retry">Паўтарыць</string>
-  <string name="ai_summary">ШІ-зводка</string>
-  <string name="ai_watermark">Гэты змест створаны ШІ і прызначаны толькі для даведкі.</string>
+  <string name="ai_summary">AI-зводка</string>
+  <string name="ai_watermark">Гэты змест створаны AI і прызначаны толькі для даведкі.</string>
   <string name="back_playback_position">Вярнуцца ў бягучую пазіцыю</string>
   <string name="call_notification_answer_action">Адказаць</string>
   <string name="call_notification_answer_video_action">Відэа</string>
@@ -725,14 +725,14 @@
   <string name="call_notification_ongoing_text">Бягучы выклік</string>
   <string name="call_notification_screening_text">Фільтраванне ўваходнага выкліку</string>
   <string name="error_tip">Адбылася памылка сеткі</string>
-  <string name="guide_update_confirm_dialog_message">Калі вы вырашыце не абнаўляць Mi ШI Перакладчык, вы не зможаце атрымаць доступ да некаторых функцый.</string>
+  <string name="guide_update_confirm_dialog_message">Калі вы вырашыце не абнаўляць Xiaomi AI Перакладчык, вы не зможаце атрымаць доступ да некаторых функцый.</string>
   <string name="guide_update_confirm_dialog_negative_button">Не зараз</string>
   <string name="guide_update_confirm_dialog_positive_button">Абнавіць</string>
   <string name="guide_update_confirm_dialog_title">Прапусціць гэта абнаўленне?</string>
-  <string name="guide_update_dialog_message">Абнавіце Mi ШI Перакладчык, каб атрымаць доступ да такіх функцый, як расшыфроўка гуказапісаў, разумнае распазнанне размаўлялага і многае іншае. Абнавіць зараз?</string>
+  <string name="guide_update_dialog_message">Абнавіце Xiaomi AI Перакладчык, каб атрымаць доступ да такіх функцый, як расшыфроўка гуказапісаў, разумнае распазнанне размаўлялага і многае іншае. Абнавіць зараз?</string>
   <string name="guide_update_dialog_negative_button">Не зараз</string>
   <string name="guide_update_dialog_positive_button">Абнавіць</string>
-  <string name="guide_update_dialog_title">Абнавіць Mi ШI Перакладчык</string>
+  <string name="guide_update_dialog_title">Абнавіць Xiaomi AI Перакладчык</string>
   <string name="loading_text">Стварэнне зводкі…</string>
   <string name="mark_add_toast">Паспяхова дададзена</string>
   <string name="playback_menu_hide_speaker">Схаваць імёны размаўлялага</string>
@@ -765,7 +765,7 @@
   <string name="summary_copy">Скапіявана</string>
   <string name="summary_error_limit_tip">Вам забаронена выкарыстоўваць гэтую функцыю</string>
   <string name="summary_error_tip">Не ўдаецца абагульніць далікатны або абразлівы кантэнт</string>
-  <string name="summary_information_tip">Гэты змест створаны ШІ і прадастаўляецца толькі для азнаямлення.</string>
+  <string name="summary_information_tip">Гэты змест створаны AI і прадастаўляецца толькі для азнаямлення.</string>
   <string name="summary_size_max_tip">Занадта шмат зместу для стварэння зводкі</string>
   <string name="summary_size_min_tip">Занадта мала зместу для стварэння зводкі</string>
   <string name="translation_language">Абярыце мэтавую мову</string>
@@ -773,7 +773,7 @@
   <string name="talkback_traslation">Перакласьці</string>
   <string name="talkback_traslation_close">Спыніць пераклад</string>
   <string name="ai_recognition_other_speaker">(Кажа нехта яшчэ)</string>
-  <string name="ai_recognize">ШI-распазнаванне голосу</string>
+  <string name="ai_recognize">AI-распазнаванне голосу</string>
   <string name="airecorder_month_day_hour_minute_format">dd.MM h:mm aaa</string>
   <string name="airecorder_notification_channel_name">Запісы</string>
   <string name="airecorder_notification_content_title">Дыктафон</string>
@@ -818,12 +818,12 @@
   <string name="settings_ai_record_translate_description">Перакладайце расшыфроўкі на розныя падтрымоўваныя мовы</string>
   <string name="settings_ai_record_view_speeches">Прагляд зместу асобных размаўлялых</string>
   <string name="settings_ai_record_view_speeches_description">Націсніце на цэтлiк размаўлялага, каб адразу прагледзець усё, што ён сказаў</string>
-  <string name="settings_ai_recorder">ШІ-функцыі дыктафона</string>
+  <string name="settings_ai_recorder">AI-функцыі дыктафона</string>
   <string name="settings_ai_recorder_summary">Пераўтварайце аўдыё ў тэкст, аўтаматычна адрознівайце размаўлялых, перакладайце і стварайце зводкі</string>
-  <string name="settings_ai_recorder_title">ШІ-распазнанне гаворкі</string>
+  <string name="settings_ai_recorder_title">AI-распазнанне гаворкі</string>
   <string name="show_text">Паказаць тэкст</string>
   <string name="show_wave">Паказаць узор голасу</string>
-  <string name="summary">ШІ-зводка</string>
+  <string name="summary">AI-зводка</string>
   <string name="text_for_build_database_progress">Аналіз запісу…(%s)</string>
   <string name="theme_text">Тэма: %s</string>
   <string name="tip_recognize">Хвілінку…</string>
@@ -893,7 +893,7 @@
   <string name="more_ai_unit_close_page">Закрыць</string>
   <string name="more_ai_unit_share_text">Падзяліцца</string>
   <string name="more_ai_unit_title">Асноўныя моманты</string>
-  <string name="new_ai_summary">ШI-зводка</string>
+  <string name="new_ai_summary">AI-зводка</string>
   <string name="settings_ai_record_new_summary">Асноўныя моманты</string>
   <string name="settings_ai_record_summary_description">Стварайце зводкі для сваіх запісаў, праглядайце сегментаваныя вылучэнні і дзяліцеся зводкамі</string>
   <string name="add_mark">Пазнака</string>
@@ -952,7 +952,7 @@
   <string name="mtrl_timepicker_cancel">Скасаваць</string>
   <string name="notice_btn_stop_ai_recognize">Адключыць</string>
   <string name="notice_content_no_asr_long_time">На працягу доўгага часу не было выяўлена ніякай гаворкі.</string>
-  <string name="notice_title_is_need_stop_ai_recognize">Адключыць ШI-распазнаванне гаворкі?</string>
+  <string name="notice_title_is_need_stop_ai_recognize">Адключыць AI-распазнаванне гаворкі?</string>
   <string name="notification_pause_playback">Прайграванне прыпынена</string>
   <string name="notification_title_AI_RECOGNIZE_FINISHED">Расшыфроўка завершана</string>
   <string name="notification_title_AI_SUMMARY_FAILED">Не атрымалася падвесці вынікі</string>
@@ -1140,9 +1140,9 @@
   <string name="permission_camera_description">Для фатаграфавання падчас запісу</string>
   <string name="photo_description">Фота</string>
   <string name="photo_load_failed">Немагчыма загрузіць фота.</string>
-  <string name="preference_group_title_for_ai_setting">ШI-функцыі</string>
+  <string name="preference_group_title_for_ai_setting">AI-функцыі</string>
   <string name="preference_group_title_for_normal_setting">Агульнае</string>
-  <string name="preference_key_ai_recognize">ШI-распазнаванне гаворкі</string>
+  <string name="preference_key_ai_recognize">AI-распазнаванне гаворкі</string>
   <string name="preference_key_intelligent_polishing">Разумная паліроўка</string>
   <string name="re_asr_error_tip">Не атрымалася транскрыбаваць. Паспрабуйце яшчэ раз.</string>
   <string name="recognize_data_loading">Хвілінку…</string>
@@ -1150,7 +1150,7 @@
   <string name="searchview_navigation_content_description">Назад</string>
   <string name="send_diagnosis_log">Адправіць часопіс дыягностыкі</string>
   <string name="sending">Адпраўка…</string>
-  <string name="settings_ai_record_in_call">ШI-зводка аўдыё</string>
+  <string name="settings_ai_record_in_call">AI-зводка аўдыё</string>
   <string name="settings_ai_record_in_call_description">Запісвайце выклікі, зробленыя ў іншых праграмах, і стварайце зводкі</string>
   <string name="side_sheet_accessibility_pane_title">Бакавая панэль</string>
   <string name="state_wait_recognize_tip">Завяршаецца бягучая транскрыпцыя…</string>
@@ -1160,8 +1160,8 @@
   <string name="talkback_return_playback_location">Вярнуцца да месца прайгравання</string>
   <string name="temporary_not_available">часова недаступна</string>
   <string name="text_btn_camera">Сфатаграфаваць</string>
-  <string name="toast_for_no_asr_long_time">Гаворка не выяўлена. ШI-распазнаванне гаворкі спынена.</string>
-  <string name="toast_for_pause_record_long_time">Запіс прыпынены. ШI-распазнаванне гаворкі спынена.</string>
-  <string name="toast_title_stop_ai_recognize">ШI-распазнаванне гаворкі спынена</string>
+  <string name="toast_for_no_asr_long_time">Гаворка не выяўлена. AI-распазнаванне гаворкі спынена.</string>
+  <string name="toast_for_pause_record_long_time">Запіс прыпынены. AI-распазнаванне гаворкі спынена.</string>
+  <string name="toast_title_stop_ai_recognize">AI-распазнаванне гаворкі спынена</string>
   <string name="year_month_format">MMMM yyyy</string>
 </resources>

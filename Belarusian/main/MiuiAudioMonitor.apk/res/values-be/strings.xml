@@ -2,13 +2,13 @@
 <resources>
   <string name="record_meeting_card_button_2_2">Уключыць</string> 
   <string name="record_meeting_card_subtitle">Запіс, расшыфроўка ў рэжыме рэальнага часу і аўтаматычнае стварэнне зводак</string> 
-  <string name="record_meeting_card_title">Уключыць ШІ-зводку аўдыё зараз?</string> 
+  <string name="record_meeting_card_title">Уключыць AI-зводку аўдыё зараз?</string> 
   <string name="record_meeting_introduct_always_on_desc">Аўтаматычны запіс і стварэнне зводак падчас выклікаў у іншых праграмах</string> 
-  <string name="record_meeting_introduct_always_on_title">Аўтаматычнае ўключэнне ШІ-зводкі аўдыё</string> 
+  <string name="record_meeting_introduct_always_on_title">Аўтаматычнае ўключэнне AI-зводкі аўдыё</string> 
   <string name="record_meeting_introduct_open_desc">Падчас выклікаў у іншых праграмах вы можаце націснуць \"Уключыць\" ва ўсплывальным апавяшчэнні, каб запісваць аўдыё і ствараць зводкі</string> 
-  <string name="record_meeting_privacy_policy_desc">"Сардэчна запрашаем у функцыю \"ШІ-зводка аўдыё\"! Вы можаце выкарыстоўваць гэтую функцыю для запісу галасавых выклікаў, якія здзяйсняюцца ў іншых праграмах. Гэтая функцыя будзе выкарыстоўваць псеўданімы якія тэлефануюць для запісу.
+  <string name="record_meeting_privacy_policy_desc">"Сардэчна запрашаем у функцыю \"AI-зводка аўдыё\"! Вы можаце выкарыстоўваць гэтую функцыю для запісу галасавых выклікаў, якія здзяйсняюцца ў іншых праграмах. Гэтая функцыя будзе выкарыстоўваць псеўданімы якія тэлефануюць для запісу.
 Звярніце ўвагу, што парушэнне правоў на недатыкальнасць прыватнага жыцця іншых асоб з\'яўляецца незаконным. Вы не маеце права выкарыстоўваць інфармацыю, атрыманую з дапамогай гэтай функцыі, для парушэння канфідэнцыйнасці іншых асоб. У выпадку незаконнага выкарыстання вышэйпаказанай інфармацыі вы прымаеце на сябе ўсе звязаныя з гэтым юрыдычныя рызыкі."</string> 
-  <string name="record_meeting_privacy_policy_title">ШІ-зводка аўдыё</string> 
-  <string name="record_minutes_card_button">ШІ-зводка аўдыё</string> 
-  <string name="turn_on_in_settings_toast">Уключыце гэтую функцыю ў наладах ШІ-зводкі аўдыё</string>
+  <string name="record_meeting_privacy_policy_title">AI-зводка аўдыё</string> 
+  <string name="record_minutes_card_button">AI-зводка аўдыё</string> 
+  <string name="turn_on_in_settings_toast">Уключыце гэтую функцыю ў наладах AI-зводкі аўдыё</string>
 </resources>

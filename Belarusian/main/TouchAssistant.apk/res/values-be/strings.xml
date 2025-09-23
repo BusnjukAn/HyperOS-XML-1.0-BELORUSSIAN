@@ -98,7 +98,7 @@
   <string name="hide_touch_assistant_intro">Схаваць асістэнт дотыку ў выбраных праграмах</string>
   <string name="hide_when_fullscreen">Схаваць у поўнаэкранных рэжыме</string>
   <string name="hide_when_fullscreen_intro">Хаваць пры ўваходзе ў поўнаэкранны рэжым</string>
-  <string name="mi_ai">Цэтлікі Mi ШI</string>
+  <string name="mi_ai">Цэтлікі Xiaomi AI</string>
   <string name="mi_wallet_summary">Транспартная карта/Mi Pay/Ключ-карта</string>
   <string name="midnight">Ноч</string>
   <string name="miuix_access_state_desc">Абрана</string>
@@ -175,7 +175,7 @@
   <string name="name_handy_mode">Рэжым кіравання адной рукой</string>
   <string name="name_long_press_power_key">Доўгі націск кнопкі сілкавання</string>
   <string name="name_memory_clean">Ачысціць кэш</string>
-  <string name="name_mi_wallet">Mi Папернiк</string>
+  <string name="name_mi_wallet">Xiaomi Папернiк</string>
   <string name="name_music_next_song">Наступная песня</string>
   <string name="name_music_prev_song">Папярэдняя песня</string>
   <string name="name_music_toggle">Прайграванне/Паўза песні</string>
@@ -190,7 +190,7 @@
   <string name="name_trans_cards">Транспартная картка</string>
   <string name="name_wechat_payment_code">Аплата праз WeChat</string>
   <string name="name_wechat_scan">Сканер WeChat</string>
-  <string name="name_xiao_ai">Mi ШІ</string>
+  <string name="name_xiao_ai">Xiaomi AІ</string>
   <string name="nfc_all_mipay_card_not_in_use">Mi Pay не актываваны</string>
   <string name="nfc_trans_card_not_in_use">Транспартная картка не актываваная</string>
   <string name="night">Вечар</string>

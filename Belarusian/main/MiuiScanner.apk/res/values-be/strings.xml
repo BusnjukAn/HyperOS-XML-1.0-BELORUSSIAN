@@ -62,8 +62,8 @@
   <string name="calender">Каляндар</string>
   <string name="call_anyone">Выклік</string>
   <string name="call_phone_permissions_text">Дазвольце сканару здзяйсняць выклікі, каб выкарыстоўваць гэтую функцыю.</string>
-  <string name="calories_logo_text">Падтрымка ШІ прадастаўляецца Health Hope</string>
-  <string name="calories_request_interface_text">Падтрымка ШІ</string>
+  <string name="calories_logo_text">Падтрымка AI прадастаўляецца Health Hope</string>
+  <string name="calories_request_interface_text">Падтрымка AI</string>
   <string name="camera_error_title">Памылка камеры</string>
   <string name="camera_permissions_text">Дазвольце сканару доступ да камеры для выкарыстання гэтай функцыі.</string>
   <string name="camera_stealth_mode_message">Немагчыма падлучыцца да камеры. Калі патрэбна камера, выключыце ўтоены рэжым.</string>
@@ -324,10 +324,10 @@
   <string name="midnight">Ноч</string>
   <string name="mihome_goto_install">Усталяваць</string>
   <string name="mihome_goto_update">Абнавіць</string>
-  <string name="mihome_install_message">Спачатку ўсталюйце праграму Mi Home і ўвайдзіце ў яе.</string>
-  <string name="mihome_install_title">Усталяваць Mi Home</string>
-  <string name="mihome_update_message">Абновіце Mi Home да апошняй версіі і паспрабуйце яшчэ раз.</string>
-  <string name="mihome_update_title">Абнавіць Mi Home</string>
+  <string name="mihome_install_message">Спачатку ўсталюйце праграму Xiaomi Home і ўвайдзіце ў яе.</string>
+  <string name="mihome_install_title">Усталяваць Xiaomi Home</string>
+  <string name="mihome_update_message">Абновіце Xiaomi Home да апошняй версіі і паспрабуйце яшчэ раз.</string>
+  <string name="mihome_update_title">Абнавіць Xiaomi Home</string>
   <string name="mipayin_dialog_more">Яшчэ</string>
   <string name="mipayin_dialog_title">Адкрыць з</string>
   <string name="miracast_connect">Трансляцыя</string>
@@ -337,7 +337,7 @@
   <string name="miracast_message">Трансляваць на %s?</string>
   <string name="miracast_switch_off">Бесправадны дысплэй адключаны</string>
   <string name="miracast_switch_tip">Уключыце бесправадны дысплэй, каб выкарыстоўваць гэтую функцыю</string>
-  <string name="mishop">Mi Крама</string>
+  <string name="mishop">Xiaomi Крама</string>
   <string name="miuix_access_state_desc">Абрана</string>
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
@@ -389,7 +389,7 @@
   <string name="monitoring_normal">Нармальны статус</string>
   <string name="monitoring_restart">Паўторнае тэставанне</string>
   <string name="monitoring_start">Пачаць тэставанне</string>
-  <string name="monitoring_title">ШІ памочнік</string>
+  <string name="monitoring_title">AI памочнік</string>
   <string name="monitoringAlert_content">Калі ласка, глядзіце на экран анлайн-ўрока і захаваць нармальнае становішча седзячы. Пакладзеце тэлефон вертыкальна пад вуглом не больш за 30 ° прама перад лініяй агляду, каб камера была звернутая да твару. Затым націсніце кнопку запуску.\n* Гэта праграмнае забеспячэнне прызначана толькі для выяўлення увагі, а не ў якасці прылады онлайн-класа. Гэта зойме некалькі секунд, перш чым пачаць ідэнтыфікаваць і выправіць.</string>
   <string name="monitoringCheck_alert">Калі ласка, сядзьце прама і паглядзіце на экран анлайн-ўрока</string>
   <string name="monitoringCheck_alertChecking">Праверка...</string>
@@ -577,7 +577,7 @@
   <string name="qrcode_cannot_be_processed_auto">Разумны сканар не можа апрацаваць гэты код. Замест гэтага адскануйце код з дапамогай WeChat.</string>
   <string name="query">Праверыць</string>
   <string name="query_faile">Статус заказу і дэталі яшчэ не сінхранізаваныя. Праверце свой заказ ўручную.</string>
-  <string name="query_inai">Хай Mi ШІ дапаможа вам</string>
+  <string name="query_inai">Хай Xiaomi AI дапаможа вам</string>
   <string name="query_more">Больш інфармацыі</string>
   <string name="query_tracking">Экспрэс запыт</string>
   <string name="query_tracknum">Праверыць экспрэс-дастаўку замовы</string>
@@ -800,8 +800,8 @@
   <string name="word_to_be_recognized_is_aligned_with_cross">Слова, якое трэба распазнаць, выраўнавана па крыжыку</string>
   <string name="word_translation">Пераклад слова</string>
   <string name="wx_not_installed_toast">Гэтай функцыі патрабуецца WeChat, ўсталюйце яго</string>
-  <string name="xiaoai_classmate_scan_text">Сканаванне з Mi ШІ</string>
-  <string name="xiaoai_dialog">Паспрабуйце сказаць, што вы\nхочаце праверыць з Mi ШІ</string>
+  <string name="xiaoai_classmate_scan_text">Сканаванне з Xiaomi AI</string>
+  <string name="xiaoai_dialog">Паспрабуйце сказаць, што вы\nхочаце праверыць з Xiaomi AI</string>
   <string name="xiaoai_text">" "</string>
   <string name="Xiaomi_account_pending_approval">Агляд праграмы</string>
   <string name="yesterday">Учора</string>
@@ -972,7 +972,7 @@
   <string name="form_result_title">Папярэдні прагляд табліцы</string>
   <string name="general_object_restart_tips">Разпазнаванне…</string>
   <string name="general_object_tips">Секунду…</string>
-  <string name="general_result_text">"Вось што знайшоў Mi ШІ:"</string>
+  <string name="general_result_text">"Вось што знайшоў Xiaomi AI:"</string>
   <string name="general_time_out">Час чакання запыту скончыўся</string>
   <string name="general_time_out_message">Пераканайцеся, што ваша прылада падключана да Інтэрнэту, і паспрабуйце яшчэ раз.</string>
   <string name="history_title_ppt">Сканаванне PPT</string>

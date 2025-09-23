@@ -940,7 +940,7 @@
   <string name="function_shield_summary_m">Абмежаваць аўтаматычную яркасць і жэст здымка экрана</string>
   <string name="function_shield_three_finger">Адключыць жэст здымка экрана</string>
   <string name="function_shield_title">Палепшаны вопыт</string>
-  <string name="function_shield_voice_trigger">Не запускаць Mi ШІ галасавымі камандамі</string>
+  <string name="function_shield_voice_trigger">Не запускаць Xiaomi AI галасавымі камандамі</string>
   <string name="fw_blocked">Чорны спіс</string>
   <string name="fw_blocked_count">"Заблакавана "</string>
   <string name="fw_blocked_join">" і "</string>
@@ -973,7 +973,7 @@
   <string name="gamebooster_network_dialog_message">Дазволіць праграме падлучацца да інтэрнэту для выкарыстання ўсіх функцый Паскарэнні гульняў?</string>
   <string name="gamebooster_network_dialog_title">Некаторыя функцыі недаступныя</string>
   <string name="gamebox_app_not_find">Праграма не знойдзена</string>
-  <string name="gamebox_browser_not_find">Спачатку усталюйце Mi Браўзер</string>
+  <string name="gamebox_browser_not_find">Спачатку усталюйце Xiaomi Браўзер</string>
   <string name="gamebox_display_1">Няма паляпшэння</string>
   <string name="gamebox_display_2">Насычанасць</string>
   <string name="gamebox_display_3">Яркасць</string>
@@ -1203,7 +1203,7 @@
   <string name="kilobyte_per_second">КБ/с</string>
   <string name="kilobyteShort">Кб</string>
   <string name="label_callwait">Сігнал чакання выкліку</string>
-  <string name="label_mi_stats">Mi аналітыка</string>
+  <string name="label_mi_stats">Xiaomi аналітыка</string>
   <string name="last_check_canceled">Папярэдняя праверка была скасавана</string>
   <string name="legal_workday">Па працоўных днях</string>
   <string name="legal_workday_invalidate">Пн-Пт (дадзеныя свят састарэлі)</string>
@@ -1422,7 +1422,7 @@
   <string name="mi_service_app_detail">Інфармацыя пра трафік</string>
   <string name="mi_service_traffic_detail">Інфармацыя аб Framework</string>
   <string name="mian_page_primary_txt">Міжнародны роўмінг</string>
-  <string name="midrop_post_notification_contentText">Паспрабуйце Mi Drop з хуткасцю да 50 Мбіт/с.</string>
+  <string name="midrop_post_notification_contentText">Паспрабуйце Xiaomi Drop з хуткасцю да 50 Мбіт/с.</string>
   <string name="midrop_post_notification_contentTitle">Трэба перадаць файлы?</string>
   <string name="mixed_need_to_confirm">Увядзіце паўторна для пацвярджэння</string>
   <string name="mixed_password_confirmed_header_confirm">Паспяхова зададзены. Націсніце для пацвярджэння.</string>
@@ -1906,8 +1906,8 @@
   <string name="privacy_declare_dialog_title">Умовы выкарыстання</string>
   <string name="privacy_dialog_message">Пры падлучэнні да інтэрнэту гэтае паведамленне разам з дадзенымі аператара будзе зашыфравана і загружана на Mi-серверы для паляпшэння маніторынгу трафіка.</string>
   <string name="privacy_mode_dialog_title">Рэжым госця</string>
-  <string name="privacy_prompt_tc_sms_report_message">Ваш нумар тэлефона і дадзеныя аператара будуць зашыфраваныя і запампаваны на серверы Mi для абнаўлення статыстыкі трафіка.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Пасля пачатку каліброўкі сістэма падлучыцца да сеткі, зашыфруе дадзеныя аб аператары, нумары тэлефона, IMEI і Mi акаўнце, і запампуе іх на серверы Xiaomi. Гэта трэба для атрымання ад аператара шаблону каліброўкі і вызначэння магчымасці куплі дадзеных у вашым размяшчэнні.\n\nПадчас каліброўкі сістэма адправіць аператару SMS для атрымання шаблону каліброўкі.</string>
+  <string name="privacy_prompt_tc_sms_report_message">Ваш нумар тэлефона і дадзеныя аператара будуць зашыфраваныя і запампаваны на серверы Xiaomi для абнаўлення статыстыкі трафіка.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Пасля пачатку каліброўкі сістэма падлучыцца да сеткі, зашыфруе дадзеныя аб аператары, нумары тэлефона, IMEI і Xiaomi акаўнце, і запампуе іх на серверы Xiaomi. Гэта трэба для атрымання ад аператара шаблону каліброўкі і вызначэння магчымасці куплі дадзеных у вашым размяшчэнні.\n\nПадчас каліброўкі сістэма адправіць аператару SMS для атрымання шаблону каліброўкі.</string>
   <string name="privacy_prompt_upload">Запампаваць</string>
   <string name="process_mediaserver_label">Медыя-сервер</string>
   <string name="promotion">Рэклама</string>
@@ -2933,7 +2933,7 @@
   <string name="power_save_mode_close_notification_screenon_summary">Працуе, калі ўключана функцыя энергазберажэння</string>
   <string name="power_save_mode_close_notification_screenon_title">Не ўключаць экран для апавяшчэнняў</string>
   <string name="power_save_mode_close_xiaoai_wakeup_summary">Працуе, калі ўключана функцыя энергазберажэння</string>
-  <string name="power_save_mode_close_xiaoai_wakeup_title">Па запускаць Mi ІІ голасам</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">Па запускаць Xiaomi AІ голасам</string>
   <string name="power_save_mode_other_optimization">Дадатковая аптымізацыя</string>
   <string name="power_save_ps_close_setting_5g_q">Адключыць службы і функцыi з высокім энергаспажываннем (сінхранізацыя, падлучэнне да сеткі 5G, вібрацыя)</string>
   <string name="power_save_ps_close_setting_q">Адключыць службы і функцыйi з высокім энергаспажываннем (сінхранізацыя, вібрацыя)</string>
@@ -3153,15 +3153,15 @@
   <string name="warningcenter_mijia_devices_3">Дэтэктар газу</string>
   <string name="warningcenter_mijia_devices_4">Разумны замок</string>
   <string name="warningcenter_mijia_devices_support">Падтрымліваюцца прылады</string>
-  <string name="warningcenter_mijia_devices_support_tips">Заўвага. Вы не зможаце атрымліваць абвесткі, калі выйдзеце з свайго ўліковага запісу ў Mi Home або выдаліце ​​праграму.</string>
+  <string name="warningcenter_mijia_devices_support_tips">Заўвага. Вы не зможаце атрымліваць абвесткі, калі выйдзеце з свайго ўліковага запісу ў Xiaomi Home або выдаліце ​​праграму.</string>
   <string name="warningcenter_mijia_info">Сачыце за бяспекай дома</string>
   <string name="warningcenter_mijia_notification_summary">Вы можаце атрымліваць імгненныя абвесткі</string>
   <string name="warningcenter_mijia_notification_title">Апавяшчэннi з прылад разумнай хаты ўключаны</string>
-  <string name="warningcenter_mijia_open_desc">Вы будзеце атрымліваць абвесткі на гэты тэлефон і іншыя агульныя прылады кожны раз, калі абвесткі адпраўляюцца прыладамі, якія вы дадалі ў Mi Home</string>
+  <string name="warningcenter_mijia_open_desc">Вы будзеце атрымліваць абвесткі на гэты тэлефон і іншыя агульныя прылады кожны раз, калі абвесткі адпраўляюцца прыладамі, якія вы дадалі ў Xiaomi Home</string>
   <string name="warningcenter_mijia_open_title">Атрымліваць абвесткі ад інтэлектуальных прылад</string>
   <string name="warningcenter_mijia_page_title">Апавяшчэннi</string>
   <string name="warningcenter_mijia_title">Апавяшчэннi ад прылад разумнай хаты</string>
-  <string name="warningcenter_smarthome">Mi Home</string>
+  <string name="warningcenter_smarthome">Xiaomi Home</string>
   <string name="warningcenter_title">Цэнтр папярэджанняў</string>
   <string name="notify_channel_name_behavior">Дзеянні праграм</string>
   <string name="app_behavior_about_content_no_link">Сістэма можа запісваць наступныя дзеянні:\n• аўтазапуск праграм\n• ланцуговы запуск праграм\n• доступ да мікрафону і камеры\n• доступ да кантактаў і календара\n• доступ да файлаў і буфера абмену\n• доступ да месцазнаходжання\n• доступ да часопіса выклікаў\n• доступ да SMS і выклікі\n\nЗ-за праблем сумяшчальнасці версій Android, некаторыя запісы могуць быць недакладнымі, пра гэта можна паведаміць у праграме \"Сэрвісы і зваротная сувязь\".</string>
@@ -3578,8 +3578,8 @@
   <string name="pm_newfeature_sub_text">НОВАЕ</string>
   <string name="app_behavior_start_from_widget">Праграма \"%1s\" была запушчана праз віджэт</string>
   <string name="app_behavior_start_from_widget_single">Гэта праграма была запушчана праз віджэт</string>
-  <string name="gb_game_video_ai_record_finish_tips">ШІ запісаў %d відэа</string>
-  <string name="gb_game_video_type_ai_record">Запіс ШІ</string>
+  <string name="gb_game_video_ai_record_finish_tips">AI запісаў %d відэа</string>
+  <string name="gb_game_video_type_ai_record">Запіс AI</string>
   <string name="gb_game_video_type_manual_record">Запіс ўручную</string>
   <string name="gb_wonderful_moment_toast_window_new_pop">"Запіс ключавых момантаў
 вашых гульнявых сесій"</string>
@@ -3613,7 +3613,7 @@
   <string name="intl_perm_privacy_control_storage">"Праграма можа атрымліваць доступ або рэдагаваць элементы з ўнутранага сховішчы толькі падчас яе выкарыстання"</string>
   <string name="intl_perm_privacy_control_title">Кантроль прыватнасці</string>
   <string name="warningcenter_disaster_search_keywords">Пагодныя апавяшчэннi</string>
-  <string name="warningcenter_mijia_search_keywords">Апавяшчэннi Mi Home</string>
+  <string name="warningcenter_mijia_search_keywords">Апавяшчэннi Xiaomi Home</string>
   <string name="memory_clean_no_need_clean_1" formatted="false">Вызвалена %s\nПаскорана на %d%%</string>
   <string name="menu_summary_optimize_manage">Ачыстка памяці</string>
   <string name="menu_summary_optimize_manage_1">Зрабіце вашу прыладу на %d%% хутчэй</string>
@@ -3688,8 +3688,8 @@
   <string name="risk_app_install_manager">Праграмы з магчымымі рызыкамі</string>
   <string name="sd_format_summary">Выдаліць усе дадзеныя на SD-карце (уключаючы песні і фота)</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Павелічэнне хуткасці злучэння на 10%-20% пры падлучэнні да маршрутызатараў Mi/Redmi</string>
-  <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi паскарэнне</string>
-  <string name="gtb_wlan_speed_tips">Выкарыстанне Mi Wi-Fi…</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Xiaomi Wi-Fi паскарэнне</string>
+  <string name="gtb_wlan_speed_tips">Выкарыстанне Xiaomi Wi-Fi…</string>
   <string name="app_summary">Падтрымка асабістых і групавых чырвоных пакетаў</string>
   <string name="auto_task_edit_step1">1.</string>
   <string name="auto_task_edit_step2">2.</string>
@@ -4833,8 +4833,8 @@
   <string name="gb_collimator_toast">Прыцэл значна спрашчае прыцэльвання</string>
   <string name="gb_game_time_toast">Таймер цяпер даступны!</string>
   <string name="gb_not_support_on_device">Гэту праграму нельга выкарыстоўваць на знешнім экране</string>
-  <string name="vb_ve_settings_ai_stronger">ШІ</string>
-  <string name="vtb_func_display_style_desc0">ШІ можа распазнаваць людзей, жывёл, расліны, неба, будынкі і іншыя аб\'екты, адлюстраваныя на відэа, і дынамічна паляпшаць іх.</string>
+  <string name="vb_ve_settings_ai_stronger">AI</string>
+  <string name="vtb_func_display_style_desc0">AI можа распазнаваць людзей, жывёл, расліны, неба, будынкі і іншыя аб\'екты, адлюстраваныя на відэа, і дынамічна паляпшаць іх.</string>
   <string name="cetus_invisible_mode">Інкогніта</string>
   <string name="cetus_invisible_mode_description_card">Прыпыненне дазволаў</string>
   <string name="cetus_invisible_mode_description_switch">Уключыце для прыпынення дазволаў, звязаных з мікрафонам, камерай і месцазнаходжаннем, для ўсіх праграм</string>
@@ -4907,7 +4907,7 @@
   <string name="gb_shoulder_key_settings_summary">Выкарыстоўвайце абедзве бакавыя кнопкі, каб запусціць паскарэнне гульняў, калі вы не гуляеце ў гульні</string>
   <string name="gb_shoulder_key_settings_title">Выкарыстоўвайце бакавыя кнопкі для паскарэння гульняў</string>
   <string name="gb_shoulder_key_settings_title_new">Хуткі запуск паскарэння гульняў</string>
-  <string name="ew_monitor_content">Ваша мабільная прылада можа стаць часткай сеткі ранняга папярэджання аб землятрусах. Пасля таго, як яго датчыкі выявяць сейсмічныя хвалі, дадзеныя будуць прааналізаваны алгарытмам ШІ, і людзям у пацярпелых раёнах будуць адпраўленыя раннія папярэджання.</string>
+  <string name="ew_monitor_content">Ваша мабільная прылада можа стаць часткай сеткі ранняга папярэджання аб землятрусах. Пасля таго, як яго датчыкі выявяць сейсмічныя хвалі, дадзеныя будуць прааналізаваны алгарытмам AI, і людзям у пацярпелых раёнах будуць адпраўленыя раннія папярэджання.</string>
   <string name="ew_monitor_exit">Адмяніць рэгістрацыю</string>
   <string name="ew_monitor_exit_content">Прывітанне, добраахвотнік № %s! Ваша прылада можа адсочваць сейсмічную актыўнасць і збіраць дадзеныя, якія дапамогуць своечасова папярэджваць аб землятрусах. Усё роўна адмяніць рэгістрацыю?</string>
   <string name="ew_monitor_exit_title">Увага</string>
@@ -4915,7 +4915,7 @@
   <string name="ew_monitor_info_title">Як гэта працуе?</string>
   <string name="ew_monitor_join_number">Колькасць добраахвотнікаў</string>
   <string name="ew_monitor_join_path">"Далучайцеся да праграмы з дапамогай прылады Xiaomi: Бяспека > Папярэджаньне пра землятрус > Назіральнік за землятрусамі."</string>
-  <string name="ew_monitor_my_content">Мая мабільнае прылада з\'яўляецца часткай сеткі ранняга папярэджання аб землятрусах. Пасля таго, як яго датчыкі выявяць сейсмічныя хвалі, дадзеныя будуць прааналізаваны алгарытмам ШІ, і людзям у пацярпелых раёнах будуць адпраўленыя раннія папярэджання.</string>
+  <string name="ew_monitor_my_content">Мая мабільнае прылада з\'яўляецца часткай сеткі ранняга папярэджання аб землятрусах. Пасля таго, як яго датчыкі выявяць сейсмічныя хвалі, дадзеныя будуць прааналізаваны алгарытмам AI, і людзям у пацярпелых раёнах будуць адпраўленыя раннія папярэджання.</string>
   <string name="ew_monitor_number_prex">№ %s</string>
   <string name="ew_monitor_open">Далучыцца</string>
   <string name="ew_monitor_read_privacy"><Data>"Я прачытаў і згодны з &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a>."</Data></string>
@@ -4992,10 +4992,10 @@
   <string name="pc_performance_mode_dialog_summary">Ваша прылада зможа працаваць %s ў прадукцыйным рэжыме. Звярніце ўвагу, што ў прадукцыйным рэжыме павялічваецца энергаспажыванне, што можа прывесці да перагрэву.</string>
   <string name="pc_performance_mode_dialog_title">Прадукцыйны рэжым</string>
   <string name="app_predict_dialog_button">Дадаць на працоўны стол</string>
-  <string name="app_predict_dialog_message">ШІ прапануе праграмы, якія могуць вам спатрэбіцца ў дадзены момант</string>
+  <string name="app_predict_dialog_message">AI прапануе праграмы, якія могуць вам спатрэбіцца ў дадзены момант</string>
   <string name="app_predict_dialog_success">Дададзена на працоўны стол</string>
   <string name="app_predict_guide_button">Дадаць</string>
-  <string name="app_predict_guide_message">ШІ прапануе праграмы, якія могуць вам спатрэбіцца ў дадзены момант</string>
+  <string name="app_predict_guide_message">AI прапануе праграмы, якія могуць вам спатрэбіцца ў дадзены момант</string>
   <string name="app_predict_guide_title">Прапановы праграм</string>
   <string name="go_to_mi_sim">Націсніце, каб выкарыстоўваць Mi SIM.</string>
   <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Націсніце, каб папоўніць рахунак Mi Sim.&lt;/U>&lt;/font>"</string>
@@ -5013,8 +5013,8 @@
   <string name="power_wireless_update_tv_text">Абнаўленне прашыўкі... Не выключайце прыладу.</string>
   <string name="setting_wireless_reverse_charging_fg_control_summary">Спыніць зваротную бесправадную зарадку, калі зарад батарэі гэтай прылады стане ніжэй %s</string>
   <string name="setting_wireless_reverse_charging_summary">Змясціце прыладу, якая падтрымлівае бесправадную зарадку Qi (напрыклад, тэлефон або насімая прылада), у цэнтр задняй панэлі гэтай прылады</string>
-  <string name="antivirus_browser_check">Праверка вэб-сайтаў у Mi Браўзеры</string>
-  <string name="antivirus_browser_check_summary">Аўтаматычна правяраць вэб-сайты ў Mi Браўзеры і папярэджваць аб магчымых рызыках</string>
+  <string name="antivirus_browser_check">Праверка вэб-сайтаў у Xiaomi Браўзеры</string>
+  <string name="antivirus_browser_check_summary">Аўтаматычна правяраць вэб-сайты ў Xiaomi Браўзеры і папярэджваць аб магчымых рызыках</string>
   <string name="antivirus_monitored_tips">Аўтаматычна правяраць аплатную сераду на наяўнасць магчымых рызык</string>
   <string name="antivirus_sms_check">Праверка спасылак у паведамленнях</string>
   <string name="antivirus_sms_check_summary">Правяраць спасылкі ў паведамленнях і папярэджваць аб магчымых рызыках</string>
@@ -5147,8 +5147,8 @@
   <string name="lucky_sound_warn">Гукавое напамін аб чырвоным канверце</string>
   <string name="lucky_str_yuan">%.2f юаняў</string>
   <string name="lucky_warning_count_title">З WeChat</string>
-  <string name="mi_pay_lucky">Mi папернік</string>
-  <string name="miliao_lucky_warning">Чырвоны пакет Mi Chat</string>
+  <string name="mi_pay_lucky">Xiaomi папернік</string>
+  <string name="miliao_lucky_warning">Чырвоны пакет Xiaomi Chat</string>
   <string name="no_lucky_money">Не атрымаў чырвоны канверт</string>
   <string name="number_of_lucky_money">Нагадалі вам агульная колькасць чырвоных канвертаў</string>
   <string name="open_dnd_mode_summary">У перыяд часу Не турбаваць напамін аб чырвоным канверце і будзільнік з чырвоным канвертам не перашкаджаюць</string>
@@ -5744,7 +5744,7 @@
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="dev_sign_notification_content">Цяпер вы карыстаецеся Android 12 Бэта. Вашы водгукі дапамогуць нам выяўляць і ўстараняць праблемы. Дзякуй за ўдзел у гэтай праграме!</string>
   <string name="dev_sign_notification_title">Android 12 Бэта</string>
-  <string name="gamebox_ai_subtitle">Субтытры ШІ</string>
+  <string name="gamebox_ai_subtitle">Субтытры AI</string>
   <string name="power_center_surface_temp_high">Высокая</string>
   <string name="power_center_surface_temp_higher">Высокая</string>
   <string name="power_center_surface_temp_low">Нізкая</string>
@@ -6376,7 +6376,7 @@
   <string name="dialog_msg_delete_icon_content_phone">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
   <string name="dialog_msg_delete_icon_title_pad">Выдаліць цэтлiк \"Бяспека\" з працоўнага стала?</string>
   <string name="dialog_msg_delete_icon_title_phone">Выдаліць цэтлiк \"Бяспека\" з працоўнага стала?</string>
-  <string name="pc_xiaoai_create_auto_task">Новая задача ад Mi ШІ</string>
+  <string name="pc_xiaoai_create_auto_task">Новая задача ад Xiaomi AI</string>
   <string name="eletric_no_grant_dialog_message_for_phone">Надайце неабходныя дазволы, каб мець магчымасць ідэнтыфікаваць невядомыя нумары.</string>
   <string name="eletric_no_grant_dialog_negative_button">Адмена</string>
   <string name="eletric_no_grant_dialog_positive_button">Налады</string>
@@ -6424,7 +6424,7 @@
   <string name="terminal_privacy_ability_others">Іншыя механізмы</string>
   <string name="terminal_privacy_ability_others_summary">Дэманстрацыя экрана, тэсціраванне плацежнага асяроддзя, распазнаванне адбіткаў пальцаў і твару</string>
   <string name="terminal_privacy_ability_suggest">Рэкамендацыі</string>
-  <string name="terminal_privacy_ability_suggest_summary">Рэкамендацыі і прапановы з тэчак працоўнага стала, персанальнага памочніка і Mi Кашалька</string>
+  <string name="terminal_privacy_ability_suggest_summary">Рэкамендацыі і прапановы з тэчак працоўнага стала, персанальнага памочніка і Xiaomi Кашалька</string>
   <string name="terminal_privacy_ability_summary">*Функцыі і механізмы абароны канфідэнцыйнасці на прыладзе могуць адрознівацца ў залежнасці ад мадэлі прылады</string>
   <string name="terminal_privacy_ability_txt">Тэкст</string>
   <string name="terminal_privacy_ability_txt_summary">Рэдагаванне тэксту, інтэлектуальныя субтытры, Taplus, паведамленні і агульны буфер абмену</string>
@@ -6481,7 +6481,7 @@
   <string name="cs_pickup_multi_title">Некалькі ўдзельнікаў</string>
   <string name="cs_pickup_single_desc">Улоўліваць гук толькі перад экранам</string>
   <string name="cs_pickup_single_title">Адзін удзельнік</string>
-  <string name="cs_pickup_surround_desc">Выкарыстоўваецца ШІ для памяншэння шуму для выразнага і чыстага гуку</string>
+  <string name="cs_pickup_surround_desc">Выкарыстоўваецца AI для памяншэння шуму для выразнага і чыстага гуку</string>
   <string name="cs_pickup_surround_title">Падавленне шуму мікрафона</string>
   <string name="cs_title_pickup">Падавленне шуму</string>
   <string name="cs_title_smart_subtitle">Транскрыпцыя субтытраў</string>
@@ -7012,7 +7012,7 @@
   <string name="safety">Бяспека</string>
   <string name="share_uid_sec">Гэта праграма мае агульныя дазволы з %1s. Змены будуць сінхранізаваныя.</string>
   <string name="sp_payment_detection_title">Праверка бяспекі плацяжоў</string>
-  <string name="sp_safe_install_mode_title">Mi Абарона</string>
+  <string name="sp_safe_install_mode_title">Xiaomi Абарона</string>
   <string name="storage_ufs_msg">Вы можаце дадаць да %1$s сховішчаў на гэту прыладу, выкарыстоўваючы нашу тэхналогію пашырэння сховішча UFS і алгарытмы аптымізацыі сховішча.</string>
   <string name="storage_ufs_tip">Дадатковае сховішча</string>
   <string name="storage_ufs_title">Пашырэнне сховішчы UFS</string>
@@ -7136,7 +7136,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="pc_ordinary_charge_title">Рэгулярная зарадка</string>
   <string name="pc_timely_charging_summary">Зарад батарэі ніжэй за %1$s. Калі прылада пераграваецца пры нізкім узроўні зараду, гэта можа пашкодзіць батарэю.</string>
   <string name="pc_timely_charging_title">Зарадзіце прыладу</string>
-  <string name="pc_xiaoai_voice_control_close">Выключыць \"Прачынацца з голасам\" Mi ШI</string>
+  <string name="pc_xiaoai_voice_control_close">Выключыць \"Прачынацца з голасам\" Xiaomi AI</string>
   <string name="pin_toast">Правядзіце пальцам уверх ад ніжняй частцы экрана і зрабіце паўзу, каб адмацаваць гэту праграму</string>
   <string name="pin_toast_nav">Націсніце i утрымлівайце кнопкі \"Назад\" і \"Папярэдні прагляд\", каб адмацаваць гэту праграму.</string>
   <string name="popular_action_net_assistant_summary">Выкарыстанне</string>
@@ -7181,7 +7181,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="vb_mv_style_close_toast">Стыль адключаны</string>
   <string name="vb_vison_dynamic_enhance_close_toast">Пашыраная анімацыя адключаная</string>
   <string name="fold_application_mode_name">Макеты праграм</string>
-  <string name="vtb_ai_subtitle_intl">Субтытры ШI</string>
+  <string name="vtb_ai_subtitle_intl">Субтытры AI</string>
   <string name="gamebox_filter_alpha_tip">Празрыстасць</string>
   <string name="gamebox_filter_dark_conter">Віньетка</string>
   <string name="gamebox_mem_filter">Гульнявыя фільтры</string>
@@ -7255,7 +7255,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="SC_HIPS_Perm_write_clipboard">Дадаваць элементы ў буфер абмену</string>
   <string name="sp_app_install_protect_title">Абарона ўсталёўкі праграмы</string>
   <string name="fingerprint_verify_try_error">Занадта шмат няўдалых спроб. Заблакуйце і разблакуйце прыладу, перш чым паўтарыць спробу.</string>
-  <string name="gamebox_ai_accelerate">ШІ паскарэнне мабільных дадзеных</string>
+  <string name="gamebox_ai_accelerate">AI паскарэнне мабільных дадзеных</string>
   <string name="gamebox_ai_accelerate_description">Аналіз сеткавага асяроддзя для павышэння хуткасці падключэння да мабільнай сеткі і эканоміі мабільных дадзеных</string>
   <string name="gamebox_cellular_network">Аптымізацыя сотавай сеткі</string>
   <string name="gamebox_cellular_network_description">Аўтаматычна выбіраць лепшы сеткавы шлях з улікам затрымкі гульні</string>
@@ -7451,10 +7451,10 @@ Xiaomi Gaming Cooler"</string>
   <string name="ai_guard_settings_menu_revoke_privacy_policy">Водгук згоды</string>
   <string name="ai_guard_settings_permissions">Дазволы</string>
   <string name="ai_guard_settings_preference_summary">Пры адказе на тэлефонны або відэавыклік ў WeChat або QQ вы атрымаеце апавяшчэнне, калі будзе выяўлена падазрэнне на махлярства або фальсіфікацыю асобы (напрыклад, падмену твару). Вы можаце адключыць гэтую функцыю для асобнага выкліку.</string>
-  <string name="ai_guard_settings_preference_title">Абарона выклікаў ШІ</string>
+  <string name="ai_guard_settings_preference_title">Абарона выклікаў AI</string>
   <string name="ai_guard_settings_revoke_dialog_btn_pos">Адклікаць</string>
   <string name="ai_guard_settings_revoke_dialog_btn_stateful_pos">Адклікаць (%d)</string>
-  <string name="ai_guard_settings_revoke_dialog_message">Калі вы працягнеце, вы адгукнецеся сваю згоду з Палітыкай прыватнасцi абароны выклікаў ШІ. Асабістая інфармацыя, ужо сабраная і захаваная, будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з прымяняльнымі законамі і правіламі, калі не патрабуецца іншае. Паколькі абарона выклікаў ШІ прадастаўляе свае паслугі на аснове збору неабходнай асабістай інфармацыі, ваш водгук згоды будзе лічыцца адмовай ад паслуг абароны выклікаў ШІ. Адклікаць згоду зараз?</string>
+  <string name="ai_guard_settings_revoke_dialog_message">Калі вы працягнеце, вы адгукнецеся сваю згоду з Палітыкай прыватнасцi абароны выклікаў AI. Асабістая інфармацыя, ужо сабраная і захаваная, будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з прымяняльнымі законамі і правіламі, калі не патрабуецца іншае. Паколькі абарона выклікаў AI прадастаўляе свае паслугі на аснове збору неабходнай асабістай інфармацыі, ваш водгук згоды будзе лічыцца адмовай ад паслуг абароны выклікаў AI. Адклікаць згоду зараз?</string>
   <string name="ai_guard_settings_revoke_dialog_title">Водгук згоды</string>
   <string name="app_manager_deleted_system_app_title">Неўсталяваныя сістэмныя праграмы</string>
   <string name="connected_devices_files">Файлы</string>
@@ -7500,11 +7500,11 @@ Xiaomi Gaming Cooler"</string>
   <string name="warningcenter_disaster_shanhong">Горны паток</string>
   <string name="ai_guard_post_brief_summary">Распазнае і папярэджвае аб ашуканскіх выкліках</string>
   <string name="ai_guard_post_preference_summary">Адпраўляе абвестку пры выяўленні падазрэння на махлярства або падробку асобы падчас тэлефонных і відэавыклiкаў WeChat або QQ</string>
-  <string name="ai_guard_post_preference_title">Прадухіленне махлярства з дапамогай ШІ</string>
+  <string name="ai_guard_post_preference_title">Прадухіленне махлярства з дапамогай AI</string>
   <string name="audio_optimization_summary_v2">Павялічвае паглыбленьне падчас гульні і аптымізуе шумапрыглушэнне</string>
   <string name="combine_permission_action_foreground">Дазволіць пры выкарыстанні праграмы</string>
   <string name="combine_permission_title">%1$s запытвае наступныя дазволы</string>
-  <string name="cs_gesture_effect_title">ШІ рэакцыі на жэсты</string>
+  <string name="cs_gesture_effect_title">AI рэакцыі на жэсты</string>
   <string name="cs_pickup_enhance">Пашыранае</string>
   <string name="cs_pickup_private">Прыватнае</string>
   <string name="cs_pickup_private_desc">Улоўліваць гук толькі ад пэўных карыстальнікаў</string>
@@ -7554,11 +7554,11 @@ Xiaomi Gaming Cooler"</string>
   <string name="game_perf_config_strategy_picture_first">Прыярытэт выявы</string>
   <string name="game_perf_config_strategy_title">Стратэгія прадукцыйнасці</string>
   <string name="game_toolbox_ai_qa_desc">Пытанні і адказы па вялікай мадэлі</string>
-  <string name="game_toolbox_ai_qa_title">Кіраўніцтва па ШІ</string>
-  <string name="game_toolbox_ai_service_desc">Гульнявы ​​вопыт з палепшаным ШІ</string>
-  <string name="game_toolbox_ai_service_title">Гульнявыя сэрвісы ШІ</string>
+  <string name="game_toolbox_ai_qa_title">Кіраўніцтва па AI</string>
+  <string name="game_toolbox_ai_service_desc">Гульнявы ​​вопыт з палепшаным AI</string>
+  <string name="game_toolbox_ai_service_title">Гульнявыя сэрвісы AI</string>
   <string name="game_toolbox_ai_upgrade_dialog_btn">Абнавіць</string>
-  <string name="game_toolbox_ai_upgrade_dialog_desc">Даступна абнаўленне для гульнявых сэрвісаў ШІ. Абнавіце перад выкарыстаннем звязаных функцый.</string>
+  <string name="game_toolbox_ai_upgrade_dialog_desc">Даступна абнаўленне для гульнявых сэрвісаў AI. Абнавіце перад выкарыстаннем звязаных функцый.</string>
   <string name="game_toolbox_ai_upgrade_dialog_title">Праверце наяўнасць абнаўленняў</string>
   <string name="game_toolbox_cellular_network">Паскарэнне мабільнай сеткі</string>
   <string name="game_toolbox_display_avrs">Сістэма аўтаматычнага рэгулявання напружання</string>
@@ -7586,7 +7586,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="gb_hot_area_seekbar">Дыяпазон зоны гарачых кропак</string>
   <string name="gb_smotion_super_core_level_bar_desc">Адчувальнасць</string>
   <string name="gb_super_hot_area">Разумная зона гарачых кропак</string>
-  <string name="gb_super_hot_area_msg">Адаптыўнае занаванне на аснове ШІ, якое паляпшае сэнсарнае кіраванне</string>
+  <string name="gb_super_hot_area_msg">Адаптыўнае занаванне на аснове AI, якое паляпшае сэнсарнае кіраванне</string>
   <string name="net_error">Адбылася памылка сеткі</string>
   <string name="sp_network_privacy_dialog_message_new">Бяспека (уключаючы кампаненты бяспекі сістэмы) павінна падлучацца да Інтэрнэту, каб мець магчымасць прадастаўляць функцыі сканавання на вірусы. Дазволіць зараз?</string>
   <string name="vb_movie_power_hint_new">Наладзьце эфекты для надзвычайнага прагляду.\nГэтая функцыя павялічыць спажыванне энергіі.</string>
@@ -7948,16 +7948,16 @@ Xiaomi Gaming Cooler"</string>
   <string name="pc_smart_charge_notify_summary_night_start_charge">Зарадка прыпыніцца пры дасягненні %1$s і аўтаматычна адновіцца ў залежнасці ад вашага выкарыстання</string>
   <string name="pc_this_time_charge_full_now">Зарадзіць да 100%</string>
   <string name="pp_agent_app_ctl_title">Дазволіць \"%s\" кіраваць наступнымі праграмамі</string>
-  <string name="pp_agent_request_screen_ctl_app_title">Уключыць ШІ-кіраванне для %s</string>
+  <string name="pp_agent_request_screen_ctl_app_title">Уключыць AI-кіраванне для %s</string>
   <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Калі гэтая функцыя ўключана, %1s зможа кіраваць %2s.</string>
-  <string name="pp_agent_request_screen_ctl_title">Уключыць ШІ-кіраванне</string>
-  <string name="pp_agent_request_screen_info_title">Уключыць распазнаванне экрана ШІ</string>
-  <string name="pp_agent_screen_ctl">ШІ-кіраванне</string>
+  <string name="pp_agent_request_screen_ctl_title">Уключыць AI-кіраванне</string>
+  <string name="pp_agent_request_screen_info_title">Уключыць распазнаванне экрана AI</string>
+  <string name="pp_agent_screen_ctl">AI-кіраванне</string>
   <string name="pp_agent_screen_ctl_app_disable" formatted="false">\"%1s\" не можа кіраваць \"%2s\"</string>
   <string name="pp_agent_screen_ctl_desc">Калі гэтая функцыя ўключана, %s можа дапамагчы вам кіраваць праграмамі на гэтай прыладзе.</string>
-  <string name="pp_agent_screen_info">Распазнаванне экрана ШІ</string>
+  <string name="pp_agent_screen_info">Распазнаванне экрана AI</string>
   <string name="pp_agent_screen_info_desc">Калі гэтая функцыя ўключана, %s можа распазнаваць і атрымліваць доступ да змесціва вашага экрана ў рэальным часе.</string>
-  <string name="pp_agent_screen_privacy">Распазнаванне экрана ШІ і разумнае кіраванне</string>
+  <string name="pp_agent_screen_privacy">Распазнаванне экрана AI і разумнае кіраванне</string>
   <string name="pp_lead_down_calenadr">Усталяваць Каляндар</string>
   <string name="pp_lead_down_calenadr_desc">Падзеі і напаміны прадастаўляюцца праграмай Каляндар. Усталюйце яе, каб выкарыстоўваць гэтыя функцыі.</string>
   <string name="pp_more_privacy_func">Дадатковыя функцыі прыватнасці</string>

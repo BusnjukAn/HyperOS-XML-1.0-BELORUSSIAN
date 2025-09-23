@@ -790,7 +790,7 @@
   <string name="kg_depth_preset_network_fail_download_pause">Няма падключэння да сеткі. Спампоўка прыпынена.</string>
   <string name="kg_depth_produce_video_detail_failed">Эфект глыбіні можна выкарыстоўваць толькі ў дачыненні да людзей, сабак і катоў</string>
   <string name="kg_depth_produce_video_failed">Не ўдалося прымяніць эфект глыбіні</string>
-  <string name="kg_depth_produce_video_progress_dialog_label">ШІ апрацоўвае эфект глыбіні відэа…</string>
+  <string name="kg_depth_produce_video_progress_dialog_label">AI апрацоўвае эфект глыбіні відэа…</string>
   <string name="kg_depth_video_apply_aod_close_toast">Эфект глыбіні відэа ўключаны. Поўнаэкранны фармат рэжыму «Пастаянна ўключаны экран» адключаны.</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_confirm_title">Ужыць тэму</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_negative_button">Адмена</string>
@@ -1111,12 +1111,12 @@
   <string name="kg_delete_this_collocation_desc">Налады экрана блакавання і працоўнага стала гэтага набору будуць выдалены. Выдаліць набор зараз?</string>
   <string name="kg_dialog_ai_blocking_for_account_abnormal">Узнікла праблема з вашым акаўнтам. Паўтарыце спробу пазней або ўвайдзіце з іншага.</string>
   <string name="kg_dialog_ai_blocking_for_account_abnormal_title">Памылка сэрвісу</string>
-  <string name="kg_dialog_ai_blocking_for_ai_generated">Кантэнт, згенераваны ШI, нельга выкарыстоўваць для далейшай генерацыі</string>
+  <string name="kg_dialog_ai_blocking_for_ai_generated">Кантэнт, згенераваны AI, нельга выкарыстоўваць для далейшай генерацыі</string>
   <string name="kg_dialog_ai_blocking_for_content_violation">Гэты кантэнт можа супярэчыць нашым правілам і не можа быць выкарыстаны.</string>
   <string name="kg_dialog_ai_blocking_for_content_violation_title">Змест можа парушаць правілы</string>
   <string name="kg_dialog_ai_blocking_for_image_not_clear">Пераканайцеся, што галоўны аб\'ект выразны і цалкам бачны.</string>
   <string name="kg_dialog_ai_blocking_for_image_not_clear_title">Немагчыма выкарыстоўваць гэтую выяву</string>
-  <string name="kg_dialog_ai_blocking_for_not_support_video">Генерацыя ШI не падтрымліваецца для дынамічных шпалер</string>
+  <string name="kg_dialog_ai_blocking_for_not_support_video">Генерацыя AI не падтрымліваецца для дынамічных шпалер</string>
   <string name="kg_dialog_ai_blocking_for_service_unavailable">Ваш акаўнт некалькі разоў парушыў нашы правілы. Паслуга зараз прыпыненая. Паўтарыце спробу пазней.</string>
   <string name="kg_dialog_ai_blocking_for_service_unavailable_title">Паслуга недаступная</string>
   <string name="kg_dialog_ai_blocking_for_too_large">Памер выявы павінен быць меншы за %d МБ</string>
@@ -1127,7 +1127,7 @@
   <string name="kg_editor_history_more">Яшчэ</string>
   <string name="kg_editor_history_select_option">Абраць аб\'екты</string>
   <string name="kg_follow_the_theme">Сачыць за тэмай</string>
-  <string name="kg_function_button_text_ai_generate">Стварыць з дапамогай ШІ</string>
+  <string name="kg_function_button_text_ai_generate">Стварыць з дапамогай AI</string>
   <string name="kg_function_button_text_follow">Экран блакавання</string>
   <string name="kg_function_button_text_home_pick">Абраць</string>
   <string name="kg_function_font_filter_type_title">Эфект</string>
@@ -1175,7 +1175,7 @@
   <string name="kg_template_title_mine_collocation">Мае наборы</string>
   <string name="kg_template_title_oriental_aesthetics">Усходняя эстэтыка</string>
   <string name="kg_template_title_oversize_time">Вялікі гадзіннік</string>
-  <string name="kg_title_ai_generate">ШI</string>
+  <string name="kg_title_ai_generate">AI</string>
   <string name="kg_title_ai_generating">Стварэнне…</string>
   <string name="kg_title_clock_name">Гадзіннік</string>
   <string name="kg_title_effect_name">Эфекты</string>

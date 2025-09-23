@@ -53,7 +53,7 @@
   <string name="aggregation_suggestion_edit_dialog_message">Пераключыцца на рэдагаванне выбранага кантакту? Уведзеная інфармацыя будзе скапіяваная.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Рэдагаваць выбраныя кантакты</string>
   <string name="aggregation_suggestion_join_dialog_message">Аб\'яднаць бягучы кантакт з выбраным кантактам?</string>
-  <string name="ai_calllog_call_record_menu">Запіс выклiкаў з ШІ</string>
+  <string name="ai_calllog_call_record_menu">Запіс выклiкаў з AI</string>
   <string name="all_list_empty">Няма кантактаў</string>
   <string name="am">ДП</string>
   <string name="antispam_mark_my_contribution">Перадаць інфармацыю пазнакі</string>
@@ -116,7 +116,7 @@
   <string name="callrecordview_item_op_time_short_outgoing">"| "</string>
   <string name="callrecordview_item_op_video">Відэа</string>
   <string name="callrecordview_menu_add_call_note">Дадаць нататку</string>
-  <string name="callrecordview_menu_aiphone">ШІ выклікі</string>
+  <string name="callrecordview_menu_aiphone">AI выклікі</string>
   <string name="callrecordview_menu_batch_delete">Пакетная ачыстка</string>
   <string name="callrecordview_menu_blocklist">Чорны спіс</string>
   <string name="callrecordview_menu_conference">Канферэнцыя</string>
@@ -1409,7 +1409,7 @@
   <string name="presentation_private">Асабісты нумар</string>
   <string name="presentation_unknown">Невядомы нумар</string>
   <string name="view_more_call_logs">Больш падрабязна</string>
-  <string name="callrecordview_menu_xiaoaiphone">Асістэнт выклікаў Mi ШІ</string>
+  <string name="callrecordview_menu_xiaoaiphone">Асістэнт выклікаў Xiaomi AI</string>
   <string name="notification_missedCallTitle">Прапушчаны выклік</string>
   <string name="notification_missedCall_call_back">Ператэлефанаваць</string>
   <string name="notification_missedCall_message">Адправіць SMS</string>
@@ -1418,7 +1418,7 @@
   <string name="call_limit_content">Немагчыма патэлефанаваць \"%s\". Вы можаце тэлефанаваць толькі на тэлефонныя нумары, пазначаныя ў вашым спісе дазволеных кантактаў.</string>
   <string name="know">Зразумела</string>
   <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Аўтаадказ</string>
-  <string name="callrecordview_item_op_time_xiaoai_call">Асістэнт выклікаў Mi ШІ</string>
+  <string name="callrecordview_item_op_time_xiaoai_call">Асістэнт выклікаў Xiaomi AI</string>
   <string name="callrecordview_item_op_time_xiaoai_manual_answer">Адказ уручную</string>
   <string name="scan_not_installed_china">Спачатку ўсталюйце Сканар</string>
   <string name="scan_not_installed_global">Спачатку ўсталюйце Сканар</string>

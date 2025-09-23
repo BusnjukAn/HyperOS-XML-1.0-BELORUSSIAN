@@ -87,7 +87,7 @@
   <string name="license_host_unreachable">"Не атрымалася злучыцца з сеткай. Для прагляду гэтай інфармацыі
 перайдзіце на %s з любой прылады, злучанай з сеткай."</string>
   <string name="loading">Хвілінку…</string>
-  <string name="mibi_license">Карыстальніцкае пагадненне Mi Credits</string>
+  <string name="mibi_license">Карыстальніцкае пагадненне Xiaomi Credits</string>
   <string name="midnight">Ноч</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
   <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
@@ -270,5 +270,5 @@
   <string name="security_for_phone">Бяспека</string>
   <string name="ai_services_network_error_message">"Немагчыма падлучыцца да сеткі.
 Праверце налады сеткі і паспрабуйце яшчэ раз."</string>
-  <string name="ai_services_title">Службы ШІ</string>
+  <string name="ai_services_title">Службы AI</string>
 </resources>

@@ -869,8 +869,8 @@
   <string name="interconnection_service_permission14">Для доступу да змесціва экрана падчас запісу або трансляцыі, уключаючы канфідэнцыйную інфармацыю, такую ​​як аўдыё, паролі, аплатныя паролі, фатаграфіі, паведамленні і г.д.</string>
   <string name="interconnection_service_permission15">Доступ да гісторыі выклікаў</string>
   <string name="interconnection_service_permission16">Для перадачы выклікаў паміж прыладамі падчас трансляцыі экрана</string>
-  <string name="interconnection_service_permission17">Доступ да спісу ўсталяваных прыкладанняў</string>
-  <string name="interconnection_service_permission18">Для доступу да спісу прыкладанняў, усталяваных на мабільнай прыладзе, і трансляцыі экрана на кампутарах</string>
+  <string name="interconnection_service_permission17">Доступ да спісу ўсталяваных праграм</string>
+  <string name="interconnection_service_permission18">Для доступу да спісу праграм, усталяваных на мабільнай прыладзе, і трансляцыі экрана на кампутарах</string>
   <string name="interconnection_service_permission2">Для падлучэння і перадачы дадзеных паміж двума прыладамі</string>
   <string name="interconnection_service_permission3">Уключэнне і выключэнне Wi-Fi</string>
   <string name="interconnection_service_permission4">Для перадачы дадзеных паміж двума прыладамі праз Wi-Fi</string>
@@ -911,7 +911,7 @@
   <string name="member_exclusive_medal">Значок удзельніка</string>
   <string name="membership_rights_tip">Увайдзіце ў свой Xiaomi акаўнт, каб атрымаць эксклюзіўныя перавагі</string>
   <string name="other_settings_upload_debug_log_detail_cn">Дапамажыце палепшыць свой вопыт, аўтаматычна адпраўляючы дыягнастычныя дадзеныя, дадзеныя аб выкарыстанні прылады і праграм у Xiaomi. Гэта дапаможа павялічыць час працы батарэі, павысіць стабільнасць сістэмы і праграм і многае іншае.\nГэтыя дадзеныя будуць утрымоўваць агульную інфармацыю аб вашай прыладзе і яе выкарыстанні (напрыклад, узровень зарада батарэі, актыўнасць сістэмы і праграм, а таксама памылкі). Гэтыя дадзеныя будуць выкарыстоўвацца для паляпшэння прылад Xiaomi.\nАдключэнне гэтай функцыі не ўплывае на здольнасць вашага прылады адпраўляць інфармацыю, неабходную для важных службаў, такіх як абнаўленні сістэмы і бяспека.\nВы можаце кіраваць гэтай функцыяй у раздзеле \"Налады\" &gt; \"Абарона\" &gt; \"Бяспека\" &gt; \"Дадаткова\" &gt; \"Дыягнастычныя дадзеныя\".</string>
-  <string name="permission_mi_account">Доступ да статусу выкліку</string>
+  <string name="permission_mi_account">Доступ да нумара тэлефона гэтай прылады</string>
   <string name="preinstall_tips">Рыхтуемся…</string>
   <string name="sim_card_dial_card1">SIM1 для выклікаў</string>
   <string name="sim_card_dial_card2">SIM2 для выклікаў</string>
@@ -935,4 +935,6 @@
   <string name="xiaomi_membership_rights">Сяброўства ў обоаке Xiaomi</string>
   <string name="xiaomi_video_discount">Акцыі Xiaomi Відэа</string>
   <string name="locale_picker_search_hint">Пошук рэгіёнаў</string>
+  <string name="permission_read_apps">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string> 
+  <string name="permission_read_apps_introduction">Для доступу да сеткі і статыстыкі выкарыстання дадзеных;</string>
 </resources>

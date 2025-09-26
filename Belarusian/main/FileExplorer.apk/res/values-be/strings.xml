@@ -629,7 +629,7 @@
   <string name="permission_description">Інфармацыя пра дазволы</string>
   <string name="permission_required">Няма доступу да файлаў. Дазвольце доступ да файлаў у раздзеле Налады.​</string>
   <string name="petabyteShort">ПБ</string>
-  <string name="phone">Файлы</string>
+  <string name="phone">Праглядзець</string>
   <string name="phone_storage">Сховішча</string>
   <string name="phone_storage_apk_title">Праграмы: </string>
   <string name="phone_storage_audio_title">Музыка: </string>
@@ -1051,8 +1051,8 @@
   <string name="stop_extend_service_dialog_confirm">Адключыць</string>
   <string name="stop_extend_service_dialog_summary">Калі вы адключыце гэтую функцыю, вы не зможаце кіраваць сваімі файламі, якія захоўваюцца на Mi дыске. Усё роўна адключыць?</string>
   <string name="stop_extend_service_dialog_tilte">Дадатковыя службы</string>
-  <string name="pad">Файлы</string>
-  <string name="pad_homepage_tab_file_view_phone">Прагляд</string>
+  <string name="pad">Праглядзець</string>
+  <string name="pad_homepage_tab_file_view_phone">Праглядзець</string>
   <string name="pad_start_phone">Праглядзець файлы</string>
   <string name="operation_copy_clipboard">Капіяваць у буфер абмену</string>
   <string name="operation_copy_local">Капіяваць у тэчку</string>

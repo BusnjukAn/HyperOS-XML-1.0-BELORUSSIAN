@@ -1368,7 +1368,7 @@
   <string name="passport_account_secure_info_pref_title">Інфармацыя аб акаўнце</string>
   <string name="passport_account_security_info_pref_title">Дадзеныя аб бяспецы</string>
   <string name="passport_account_user_avatar">Фота профілю</string>
-  <string name="passport_account_user_avatar_from_album">Галерэя</string>
+  <string name="passport_account_user_avatar_from_album">Выбраць з Галерэі</string>
   <string name="passport_account_user_avatar_from_camera">Камера</string>
   <string name="passport_account_user_base_info">Асноўная інфармацыя</string>
   <string name="passport_account_user_details">Асабістыя дадзеныя</string>
@@ -1474,7 +1474,7 @@
   <string name="passport_request_error_invalid_token">Не атрымалася праверыць</string>
   <string name="passport_request_error_network">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="passport_request_error_unknown">Сістэмная памылка. Вярніцеся і паспрабуйце ізноў.</string>
-  <string name="passport_request_gallery_permission_message">Дазвольце доступ да Галерэі:&lt;br />Для ўстаноўкі фота профілю</string>
+  <string name="passport_request_gallery_permission_message">Гэтай праграме неабходны доступ да абраных элементаў Галерэі, каб усталяваць фатаграфію вашага профіля. Дазволіць?</string>
   <string name="passport_resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у папку для спаму вашай паштовай скрыні.</string>
   <string name="passport_resend_email_reach_limit_title">Занадта шмат спробаў</string>
   <string name="passport_resend_ticket">Паўторна адправіць код</string>
@@ -1821,4 +1821,26 @@
   <string name="switch_application_new"><Data>Адкрыйце праграму, націсніце &lt;img src=icon_dot_new> і абярыце \"Трансляцыя праграмы\"</Data></string>
   <string name="switch_cast_mode">Націсніце, каб пераключыць рэжым трансляцыі</string>
   <string name="upgrade_error_install_fail_app_in_background">Некаторыя праграмы выкарыстоўваюцца. Закрыйце іх і паспрабуйце зноў.</string>
+  <string name="circulate_network_connect_failed_pad_default_message">Пераканайцеся, што ваш планшэт і іншая прылада падлучаны да адной сеткі, або праглядзіце даведку.</string> 
+  <string name="circulate_network_connect_failed_pad_message_Mac">Пераканайцеся, што ваш планшэт і Mac падлучаны да адной сеткі, або праглядзіце даведку.</string> 
+  <string name="circulate_network_connect_failed_pad_message_PC">Пераканайцеся, што ваш планшэт і кампутар падлучаны да адной сеткі, або праглядзіце даведку.</string> 
+  <string name="circulate_network_connect_failed_pad_message_iPad">Пераканайцеся, што ваш планшэт і iPad падлучаны да адной сеткі, або праглядзіце даведку.</string> 
+  <string name="circulate_network_connect_failed_pad_message_iPhone">Пераканайцеся, што ваш планшэт і iPhone падлучаны да адной сеткі, або праглядзіце даведку.</string>
+  <string name="circulate_network_connecting_message_pad">Трымайце планшэт разблакаваным з уключаным экранам.</string>
+  <string name="circulate_network_connect_failed_pad_message_unsupport_pad">Падлучэнне да планшэтаў не падтрымліваецца</string> 
+  <string name="circulate_network_share_launcher_pad_tips">Пераканайцеся, што гэтая функцыя ўключана ў раздзеле \"Налады\" > \"Узаемазвязанасць\" на вашым планшэце Xiaomi.</string> 
+  <string name="circulate_network_share_launcher_phone_tips">Пераканайцеся, што гэтая функцыя ўключана ў раздзеле \"Налады\" > \"Узаемазвязанасць\" на вашым тэлефоне Xiaomi.</string> 
+  <string name="connect_settings_share_notification_local_device">Паказваць апавяшчэнні iPhone на гэтай прыладзе</string> 
+  <string name="dialog_incoming_call_instruction">Адказаць на %1$s</string> 
+  <string name="dialog_know_it">Зразумела</string> 
+  <string name="dialog_message_reply_instruction">Адказаць на %1$s</string> 
+  <string name="notification_channel_description">Абярыце тыпы апавяшчэнняў для сінхранізацыі з іншай прыладай на вашу прыладу Xiaomi</string> 
+  <string name="notification_channel_title_name">Апавяшчэнні, сінхранізаваныя з прыладай Xiaomi</string> 
+  <string name="notification_incoming_call_to_reply">Уваходны выклік. Адказаць на %1$s.</string> 
+  <string name="pasport_register_dialog_message">Стварыць акаўнт Xiaomi, выкарыстоўваючы нумар тэлефона %s?</string> 
+  <string name="passport_password_hide_show">Схаваць пароль</string> 
+  <string name="passport_register_dialog_positive">Стварыць</string> 
+  <string name="passport_register_dialog_title">Стварыць акаўнт Xiaomi</string> 
+  <string name="passport_request_permission_title">Патрабуюцца дазволы</string> 
+  <string name="passport_third_sns_service_unavailable">Сэрвіс недаступны. Упэўніцеся, што праграма ўсталявана і не заблакавана.</string>
 </resources>

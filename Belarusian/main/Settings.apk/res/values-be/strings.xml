@@ -12354,7 +12354,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="swipe_add_fingerprint_text">Змяніце становішча так, каб захапіць краі адбітка</string>
   <string name="swipe_add_fingerprint_up_text">Націсніце і злёгку павярніце палец</string>
   <string name="swipe_add_fingerprint_up_title">Націсніце на цэнтр вобласці адбітка</string>
-  <string name="recommend_press_type">Рэкамендуецца выкарыстоўваць функцыю \"Націск\" для памяншэння колькасці выпадковых дотыкаў. Вы можаце ў любы момант пераключыцца на функцыю \"Націск\" у Наладах.</string>
+  <string name="recommend_press_type">Рэкамендуецца выкарыстоўваць функцыю \"Націск\" для памяншэння колькасці выпадковых дотыкаў. Вы можаце ў любы момант пераключыцца на функцыю \"Дотык\" у Наладах.</string>
   <string name="anti_burn_summary">Зацямняць экран, калі вы адводзіце погляд, для эканоміі заряду батарэі і аднаўляць яркасць пры аднаўленні выкарыстання прылады</string>
   <string name="anti_burn_title">Дысплей з улікам увагі</string>
   <string name="audio_sources_mode">Імерсіўныя гукавыя эфекты</string>
@@ -12374,8 +12374,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="miheadset_switch_play_mode_summary">1. Пераключэнне рэжымаў прайгравання: прайграванне праз Bluetooth або праслухоўванне музыкі, якая захоўваецца ў навушніках</string>
   <string name="miheadset_switch_play_oder_summary">2. Пераключэнне парадку прайгравання: паўтарэнне адной песні, усяго плэйліста або выпадковае прайграванне. Гэтая функцыя ўжываецца толькі да музыкі, якая захоўваецца ў навушніках</string>
   <string name="mimotion_pwm_enable">Адаптыўная частата абнаўлення Pro</string>
-  <string name="mimotion_pwm_enable_summary">Падтрымлівае больш узроўняў дынамічнай частаты абнаўлення для больш плыўнага малюнка і пераключаецца з DC на AIМ-зацямненне</string>
-  <string name="mimotion_pwm_message">Уключыць AIМ-зацямненне зараз?</string>
+  <string name="mimotion_pwm_enable_summary">Атрымайце больш варыянтаў частаты абнаўлення і пераключыце яркасць з DC на PWM-зацямненне</string>
+  <string name="mimotion_pwm_message">Уключыць PWM-зацямненне зараз?</string>
   <string name="mimotion_pwm_title">Рух Xiaomi</string>
   <string name="mute_during_update">Прыпыніце прайграванне падчас абнаўлення для паспяховай устаноўкі</string>
   <string name="new_instruction_privacy_password">Пароль абароны прыватнасці забяспечвае абарону наступных функцый</string>
@@ -12474,7 +12474,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="provision_flip_page_hint">Разгарніце для актывацыі прылады</string>
   <string name="provision_system_complete">Налада завершана</string>
   <string name="provision_system_preparing">Падрыхтоўка сістэмы...</string>
-  <string name="serve_assistant">Асістэнт</string>
+  <string name="serve_assistant">Апавяшчэнні</string>
   <string name="single_bds_summary">Паслугі пазіцыянавання, прадастаўленыя спадарожнікавай навігацыйнай сістэмай BeiDou</string>
   <string name="single_bds_switch_description">Дазвольце гэтай функцыі доступ да інтэрнэту для яе выкарыстання</string>
   <string name="single_bds_title">Пазіцыянаванне BeiDou</string>
@@ -12482,9 +12482,18 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="subscreen_aod">Заўсёды ўключаны дысплей</string>
   <string name="subscreen_personality">Персаналізацыя</string>
   <string name="truetone_summary_new">Аўтаматычная налада колераў у залежнасці ад навакольнага святла для больш натуральнага адлюстравання</string>
-  <string name="user_guide">Кіраўніцтва карыстальніка</string>
+  <string name="user_guide">Аб заднім дысплеі</string>
   <string name="headset_settings_sound_bose_balance">Збалансаваны</string> 
   <string name="headset_settings_sound_bose_classic">Дынамічны</string> 
   <string name="headset_settings_sound_title">Гукавыя эфекты</string>
   <string name="ufs_size_suffix">%1$s (%2$s з пашырэннем сховішча)</string>
+  <string name="anc_intelligent">Разумнае шумапрыглушэнне</string> 
+  <string name="default_fingerprint_unlock_type">Абярыце спосаб разблакавання па змаўчанні</string> 
+  <string name="handle_battery">Батарэя ручкі</string> 
+  <string name="headset_autoswitch_switched">Пераключана</string> 
+  <string name="search_phone_case">Чахол для тэлефона;Чахол;Гульнявы ​​чахол;Чахол для кансолі</string> 
+  <string name="search_serve_assistant">Памочнік у падарожжах;Памочнік</string> 
+  <string name="search_subscreen_aod">Заўсёды ўключаны дысплей;AOD;Задні дысплей AOD</string> 
+  <string name="search_subscreen_title">Задні дысплей;Задні экран;Задні экран</string> 
+  <string name="search_user_guide">Аб заднім дысплеі;Кіраўніцтва карыстальніка;Вучэбны дапаможнік</string>
 </resources>

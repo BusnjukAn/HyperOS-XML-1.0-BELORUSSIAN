@@ -2219,14 +2219,14 @@
   <string name="yesterday">Учора</string>
   <string name="can_not_use">Немагчыма выкарыстоўваць</string>
   <string name="msim_select_default_last">Выкарыстоўвалася нядаўна</string>
-  <string name="depopulated_zone_satellite_notification">Апавяшчэнне аб спадарожнікавай сувязі</string>
+  <string name="depopulated_zone_satellite_notification">Слабы сігнал мабільнай сеткі</string>
   <string name="new_arrears_sim_summary">Баланс вашай SIM-карты можа быць недастатковым або на яго распаўсюджваюцца сеткавыя абмежаванні. Для атрымання дадатковай інфармацыі звярніцеся да свайго аператара сувязі.</string>
   <string name="new_arrears_sim_title">Немагчыма падлучыцца да Інтэрнэту</string>
   <string name="satellite_camera_enable_toast">Зачыніце камеру перад выкарыстаннем спадарожнікавых службаў Tiantong</string>
   <string name="satellite_exit_now_battery">Выключыць</string>
   <string name="satellite_low_battery">Бягучы ўзровень зарада батарэі складае менш за 5%%, і сістэма адключыць спадарожнікавую сувязь Tiantong праз %d сек.</string>
   <string name="satellite_not_show_again">Больш не паказваць</string>
-  <string name="satellite_notification_text">Вы па-ранейшаму можаце здзяйсняць выклікі і адпраўляць SMS без сігналу, выкарыстоўваючы спадарожнікавую сувязь Tiantong. Спачатку уключыце гэтую службу.</string>
+  <string name="satellite_notification_text">Пры адсутнасці сігналу вы можаце выкарыстоўваць спадарожнік для выклікаў і паведамленняў. Націсніце, каб уключыць спадарожнікавую сувязь.</string>
   <string name="satellite_notification_title">Вы знаходзіцеся ў зоне слабога сігналу</string>
   <string name="satellite_select_enable_sim">Абярыце SIM-карту</string>
   <string name="satellite_signal_boost_setting_summary">Усталюйце ўзмацняльнік для паляпшэння ўзроўню сігналу і стабільнасці спадарожнікавай сувязі ў хмарнае і пахмурнае надвор\'е</string>
@@ -2296,7 +2296,7 @@
   <string name="satellite_open_tiantong_business_title">Уключыць спадарожнікавую сувязь Tiantong</string>
   <string name="cf_setting_mobile_data_off_alert">Уключыце мабільныя дадзеныя</string>
   <string name="cf_setting_network_alert">Пераканайцеся, што сетка даступная</string>
-  <string name="cf_setting_wifi_on_alert">Калі ласка, адключыце Wi-Fi</string>
+  <string name="cf_setting_wifi_on_alert">Гэтая аперацыя можа пацягнуць за сабой плату за перадачу дадзеных. Калі ласка, пастаўцеся з разуменнем да дадзенай сітуацыі і паспрабуйце яшчэ раз пасля адключэння Wi-Fi.</string>
   <string name="enter_mep_esim_manager_title">Кіраванне SIM-картай</string>
   <string name="incall_error_out_of_service_2g">"Мабільная сетка недаступная.
 
@@ -2476,4 +2476,11 @@
   <string name="beidou_mobile_settings_summary_all">Даступна толькі для карыстальнікаў з актыўнай паслугай спадарожнікавай сувязі BeiDou</string> 
   <string name="beidou_satellite_enable_message_all">Звярніцеся да свайго аператара сувязі для актывацыі паслугі.</string> 
   <string name="telocation_auto_country_code_summary_while_roaming">Аўтаматычна дадаваць код краіны да нумароў кантактаў пры выкліках у роўмінгу. Нумары, якія ўжо змяшчаюць код краіны, будуць набірацца без змен.</string>
+  <string name="cellular_coverage_satellite_notification">Знойдзена мабільная сетка пры выкарыстанні спадарожнікавай сувязі</string> 
+  <string name="cellular_coverage_satellite_notification_action_text">Пераключыцца</string> 
+  <string name="cellular_coverage_satellite_notification_text">Вы знаходзіцеся ў зоне дзеяння мабільнай сеткі. Пераключэнне прывядзе да адключэння спадарожнікавай сувязі.</string> 
+  <string name="cellular_coverage_satellite_notification_title">Пераключыцца на мабільную сетку</string> 
+  <string name="customized_message_emm_cause_6">Гэтая прылада не можа стварыць сеткавы профіль, паколькі ў яе адсутнічае сертыфікацыя, патрабаваная мясцовымі органамі ўлады.</string> 
+  <string name="customized_title_emm_cause_6">Не атрымалася стварыць сеткавы профіль</string> 
+  <string name="satellite_enhanced_paging_notification">Напамін пра памылку абнаўлення прашыўкі спадарожнікавай сувязі</string>
 </resources>

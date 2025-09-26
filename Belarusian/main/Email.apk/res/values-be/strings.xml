@@ -1896,4 +1896,6 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="ntes_login_error_exceed_num_limit">Перавышаны лікавы ліміт</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="confirm_save_message_action_delete">Выдаліць чарнавік</string> 
+  <string name="confirm_save_message_action_save">Захаваць як чарнавік</string>
 </resources>

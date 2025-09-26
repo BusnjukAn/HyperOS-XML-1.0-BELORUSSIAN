@@ -675,4 +675,12 @@
   <string name="upgrade_rtt_prompt">Прыняць запыт на пераход на RTT?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Спачатку выключыце рэжым TTY</string>
   <string name="video_switch_to_voice_call_prompt">Галасавы выклік</string>
+  <string name="spam_call_add_to_blacklist">Заблакаваць</string>
+  <string name="spam_call_add_to_blacklist_success">Нумар дададзены ў чорны спіс</string>
+  <string name="spam_call_add_to_blacklist_title">Вы не зможаце прымаць выклiкі ад %s. Заблакаваць зараз?</string>
+  <string name="spam_call_add_to_contact">Дадаць кантакт</string>
+  <string name="spam_call_ignore">Ігнараваць</string>
+  <string name="spam_call_mark">Пазнака</string>
+  <string name="spam_call_quick_operation">Хуткія дзеянні для %s</string>
+  <string name="spam_call_unknown_number">Невядомы нумар</string>
 </resources>

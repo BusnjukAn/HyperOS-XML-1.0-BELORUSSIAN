@@ -249,4 +249,8 @@
         <item>Мужчынскі</item>
         <item>Жаночы</item>
     </string-array>
+    <string-array name="spinner_password_type">
+        <item>Пароль абароны прыватнасці</item>
+        <item>Блакаванне экрана</item>
+    </string-array>
 </resources>

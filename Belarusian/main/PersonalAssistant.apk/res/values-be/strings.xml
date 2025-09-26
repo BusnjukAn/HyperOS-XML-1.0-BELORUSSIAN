@@ -1136,8 +1136,8 @@
   <string name="pa_travel_near_travel_info" formatted="false">Адпраўленне %s %s丨 %s</string>
   <string name="pa_travel_preference_cp_state_bind">Прывязка</string>
   <string name="pa_travel_preference_cp_state_not_bind">Не прывязаны</string>
-  <string name="pa_travel_preference_summary_cpbind">Атрымлівайце асалоду ад больш дакладнымі і інтэлектуальнымі службамі напамінкаў пасля прывязкі</string>
-  <string name="pa_travel_preference_summary_reminder">У адпаведнасці з нумарам цягніка і інфармацыяй аб рэйсе аўтаматычна нагадваць маршрут у верхняй частцы адмоўнага экрана</string>
+  <string name="pa_travel_preference_summary_cpbind">Атрымлівайце асалоду з больш дакладнымі і інтэлектуальнымі службамі напамінкаў пасля прывязкі</string>
+  <string name="pa_travel_preference_summary_reminder">Адлюстроўваць напамінкі аб паездках і абнаўленні аб цягніках і авіярэйсах у гэтай праграме і апавяшчэннях</string>
   <string name="pa_travel_preference_title_cp_gt">Нацыянальная чыгунка Цзісін</string>
   <string name="pa_travel_preference_title_cp_zh">Падарожжа ў Цзунхэн</string>
   <string name="pa_travel_preference_title_reminder">Напамін пра паездку</string>
@@ -1908,7 +1908,7 @@
   <string name="passport_error_length_limit">Вы ўвялі занадта доўгі тэкст</string>
   <string name="passport_error_network">Немагчыма злучыцца з сеткай</string>
   <string name="passport_error_no_password_user">Вы яшчэ не ўстанавілі пароль. Увайдзіце з дапамогай SMS.</string>
-  <string name="passport_error_phone">Няправільны нумар тэлефона</string>
+  <string name="passport_error_phone">Увядзіце сапраўдны нумар тэлефона</string>
   <string name="passport_error_server">Памылка сервера</string>
   <string name="passport_error_sms_limit">На гэты нумар было даслана занадта шмат праверачных кодаў. Паспрабуйце зноў пазней.</string>
   <string name="passport_error_ticket_invalid">Гэты код неправільны</string>
@@ -2019,4 +2019,11 @@
   <string name="passport_wrong_phone_number_format">Няправільны фармат нумара тэлефона</string>
   <string name="passport_wrong_vcode">Уведзены няправільны код</string>
   <string name="passport_wrong_voice">Уведзены няправільны код</string>
+  <string name="pa_back_screen_travel_preference_summary_reminder">Адлюстроўваць напамінкі аб паездках на заднім дысплеі</string> 
+  <string name="pa_back_screen_travel_preference_title_reminder">Напамінкі аб паездках на заднім дысплеі</string> 
+  <string name="pa_travel_back_screen_title_info">Вылёт dd.MM</string> 
+  <string name="pasport_register_dialog_message">Стварыць акаўнт Xiaomi, выкарыстоўваючы нумар тэлефона %s?</string> 
+  <string name="passport_password_hide_show">Схаваць пароль</string> 
+  <string name="passport_register_dialog_positive">Стварыць</string> 
+  <string name="passport_register_dialog_title">Стварыць акаўнт Xiaomi</string>
 </resources>

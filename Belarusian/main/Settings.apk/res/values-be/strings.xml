@@ -12483,4 +12483,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="subscreen_personality">Персаналізацыя</string>
   <string name="truetone_summary_new">Аўтаматычная налада колераў у залежнасці ад навакольнага святла для больш натуральнага адлюстравання</string>
   <string name="user_guide">Кіраўніцтва карыстальніка</string>
+  <string name="headset_settings_sound_bose_balance">Збалансаваны</string> 
+  <string name="headset_settings_sound_bose_classic">Дынамічны</string> 
+  <string name="headset_settings_sound_title">Гукавыя эфекты</string>
+  <string name="ufs_size_suffix">%1$s (%2$s з пашырэннем сховішча)</string>
 </resources>

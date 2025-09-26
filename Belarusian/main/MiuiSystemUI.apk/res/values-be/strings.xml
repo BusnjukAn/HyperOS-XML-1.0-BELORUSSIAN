@@ -3648,4 +3648,5 @@
   <string name="zen_silence_introduction_voice">Гэта блакуе ўсе гукі і вібрацыі, у тым ліку ад будзільнікаў, музыкі, відэа і гульняў. Вы ўсё яшчэ будзеце мець магчымасць здзяйсняць тэлефонныя званкі.</string>
   <string name="format_week_day_style2">dd EE</string>
   <string name="miui_depth_pets_moth_format">d.MMM</string>
+  <string name="face_unlock_error_camera_is_using">Камера выкарыстоўваецца</string>
 </resources>

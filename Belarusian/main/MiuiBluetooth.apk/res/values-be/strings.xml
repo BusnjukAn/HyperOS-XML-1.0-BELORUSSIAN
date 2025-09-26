@@ -710,10 +710,15 @@
   <string name="p8g_activity_bt_connect_failed">Не ўдалося падлучыцца</string>
   <string name="p8g_activity_bt_connecting">Падлучэнне…</string>
   <string name="p8g_activity_bt_retry">Паўтарыць спробу</string>
-  <string name="p8g_activity_prompt">Уключыць чахол</string>
+  <string name="p8g_activity_prompt">Уключыце чахол</string>
   <string name="p8g_island_opened">Уключыць</string>
   <string name="p8g_island_peripherals_opened">Прылада ўключана</string>
   <string name="p8g_island_peripherals_to_close">Выключыць</string>
   <string name="p8g_island_product_name">Гульнявы ​​чахол</string>
-  <string name="p8g_activity_new_prompt">Уключыць чахол</string>
+  <string name="p8g_activity_new_prompt">Не здымайце чахол</string>
+  <string name="fast_connect_find_o88g_split_mode">Пераключана ў рэжым падзелу экрана</string> 
+  <string name="finddevice_download_tips">Каб падлучыць прыладу, усталюйце праграму \"Пошук прылады\" і ўвайдзіце ў сістэму, затым зноў паднясіце тэлефон да прылады.</string> 
+  <string name="finddevice_download_title">Усталюйце праграму \"Пошук прылады\"</string> 
+  <string name="finddevice_update_tips">Ваша версія праграмы \"Пошук прылады\" састарэлая. Абнавіце яе і зноў паднясіце тэлефон да прылады.</string> 
+  <string name="finddevice_update_title">Абнавіце \"Пошук прылады\"</string>
 </resources>

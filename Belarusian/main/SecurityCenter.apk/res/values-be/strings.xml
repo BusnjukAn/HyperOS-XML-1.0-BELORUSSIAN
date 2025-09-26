@@ -7940,9 +7940,6 @@ Xiaomi Gaming Cooler"</string>
   <string name="cs_pickup_voice_print_auto_dialog_tips">Ваш голас будзе запісаны і апрацаваны толькі на гэтай прыладзе.\nДля лепшага выніку запісвайце ў ціхім месцы.</string>
   <string name="cs_pickup_voice_print_auto_dialog_title">Галасавы адбітак для персаналізаванага падаўлення шуму</string>
   <string name="game_toolbox_display_style_not_hdr_desc">Вы можаце выбіраць розныя візуальныя стылі</string>
-  <string name="game_toolbox_fps_average_nodata">Атрыманне сярэдняй частаты кадраў…</string>
-  <string name="game_toolbox_fps_realtime_nodata">Атрыманне частаты кадраў у рэальным часе…</string>
-  <string name="game_toolbox_fps_shake_nodata">Атрыманне дадзеных пра ваганні частаты кадраў…</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Зачыніць</string>
   <string name="pc_low_temp_disable_otg_message">Знешнія прылады і зваротная зарадка недаступныя з-за нізкай тэмпературы або ўзроўню зарада батарэі. Паспрабуйце зноў, калі тэмпература ці ўзровень зарада павялічацца.</string>
   <string name="pc_low_temp_disable_otg_ok">Зразумела</string>

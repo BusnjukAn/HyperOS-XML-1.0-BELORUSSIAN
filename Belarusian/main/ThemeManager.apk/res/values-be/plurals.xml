@@ -394,4 +394,82 @@
         <item quantity="few">Зарадка. Узровень зарада батарэі зараз %d адсотка.</item>
         <item quantity="one">Зарадка. Узровень зарада батарэі зараз %d адсотак.</item>
     </plurals>
+    <plurals name="audio_duration_minutes_format">
+        <item quantity="one">%1$d хв</item>
+        <item quantity="few">%1$d хв</item>
+        <item quantity="many">%1$d хв</item>
+        <item quantity="other">%1$d хв</item>
+    </plurals>
+    <plurals name="audio_duration_seconds_format">
+        <item quantity="one">%1$d с</item>
+        <item quantity="few">%1$d с</item>
+        <item quantity="many">%1$d с</item>
+        <item quantity="other">%1$d с</item>
+    </plurals>
+    <plurals name="days_example">
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+        <item quantity="other">%d дзён</item>
+    </plurals>
+    <plurals name="hours_example">
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+        <item quantity="other">%d гадзін</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="one">%1$s шпалеры</item>
+        <item quantity="few">%1$s шпалеры</item>
+        <item quantity="many">%1$s шпалер</item>
+        <item quantity="other">%1$s шпалер</item>
+    </plurals>
+    <plurals name="minutes_example">
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+        <item quantity="other">%d хв</item>
+    </plurals>
+    <plurals name="rear_screen_batch_has_update_text">
+        <item quantity="one">Даступна абнаўленне для %1$d элемента задняга экрана</item>
+        <item quantity="few">Даступны абнаўленні для %1$d элементаў задняга экрана</item>
+        <item quantity="many">Даступны абнаўленні для %1$d элементаў задняга экрана</item>
+        <item quantity="other">Даступны абнаўленні для %1$d элементаў задняга экрана</item>
+    </plurals>
+    <plurals name="rear_screen_batch_updating_text">
+        <item quantity="one">Абнаўляецца %1$d элемент задняга экрана</item>
+        <item quantity="few">Абнаўляюцца %1$d элементы задняга экрана</item>
+        <item quantity="many">Абнаўляюцца %1$d элементаў задняга экрана</item>
+        <item quantity="other">Абнаўляюцца %1$d элементаў задняга экрана</item>
+    </plurals>
+    <plurals name="rear_signature_max_text_size">
+        <item quantity="one">Увядзіце да %1$d сімвала</item>
+        <item quantity="few">Увядзіце да %1$d сімвалаў</item>
+        <item quantity="many">Увядзіце да %1$d сімвалаў</item>
+        <item quantity="other">Увядзіце да %1$d сімвалаў</item>
+    </plurals>
+    <plurals name="rear_signature_min_text_size">
+        <item quantity="one">Увядзіце не менш за %1$d сімвал</item>
+        <item quantity="few">Увядзіце не менш за %1$d сімвалаў</item>
+        <item quantity="many">Увядзіце не менш за %1$d сімвалаў</item>
+        <item quantity="other">Увядзіце не менш за %1$d сімвалаў</item>
+    </plurals>
+    <plurals name="resource_trial_days">
+        <item quantity="one"> (пробная версія: %1$d дзень)</item>
+        <item quantity="few"> (пробная версія: %1$d дні)</item>
+        <item quantity="many"> (пробная версія: %1$d дзён)</item>
+        <item quantity="other"> (пробная версія: %1$d дзён)</item>
+    </plurals>
+    <plurals name="resource_trial_hours">
+        <item quantity="one"> (пробная версія: %1$d гадзіна)</item>
+        <item quantity="few"> (пробная версія: %1$d гадзіны)</item>
+        <item quantity="many"> (пробная версія: %1$d гадзін)</item>
+        <item quantity="other"> (пробная версія: %1$d гадзін)</item>
+    </plurals>
+    <plurals name="resource_trial_minutes">
+        <item quantity="one"> (пробная версія: %1$d хвіліна)</item>
+        <item quantity="few"> (пробная версія: %1$d хвіліны)</item>
+        <item quantity="many"> (пробная версія: %1$d хвілін)</item>
+        <item quantity="other"> (пробная версія: %1$d хвілін)</item>
+    </plurals>
 </resources>

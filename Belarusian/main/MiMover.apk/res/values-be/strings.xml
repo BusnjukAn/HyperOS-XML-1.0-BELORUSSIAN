@@ -1171,4 +1171,7 @@
   <string name="trans_sync_transfer_data_list_pad">Абярыце элементы на старой прыладзе для пераносу</string>
   <string name="trans_sync_transfer_data_list_summary_for_phone">Абярыце элементы на старой прыладзе і націсніце \"Адправіць\".</string>
   <string name="transfer_no_memory_dialog_title_pad">Недастаткова месца ў памяці</string>
+  <string name="audio_permission_desc">Для перадачы музыкі і аўдыё на новую прыладу</string>
+  <string name="blutooth_permission_desc">Для пошуку бліжэйшых прылад, гатовых да падлучэння</string>
+  <string name="image_video_permission_desc">Для перадачы фатаграфій і відэа на новую прыладу</string>
 </resources>

@@ -1309,4 +1309,7 @@
   <string name="search_settings_title_synonyms_system_search">Сістэмны пошук</string>
   <string name="small_search_bar">Кампактны пошук</string>
   <string name="super_xiao_ai">Спытаць Xiaomi AI</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Абраць</string>
+  <string name="uninstall_app_reminder_msg">"Я разумею, што выдаленыя дадзеныя праграмы нельга аднавіць"</string>
+  <string name="uninstall_app_reminder_toast">"Пацвердзіце, што вы разумееце, што выдаленыя дадзеныя праграмы нельга аднавіць"</string>
 </resources>

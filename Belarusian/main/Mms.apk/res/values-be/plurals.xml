@@ -261,4 +261,10 @@
         <item quantity="other">Адклікаць (%d с.)</item>
         <item quantity="one">Адклікаць (%d с.)</item>
     </plurals>
+    <plurals name="select_dialog_item">
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунды</item>
+        <item quantity="many">%s секунд</item>
+        <item quantity="other">%s секунд</item>
+    </plurals>
 </resources>

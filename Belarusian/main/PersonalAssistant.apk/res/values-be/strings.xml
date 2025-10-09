@@ -2019,8 +2019,8 @@
   <string name="passport_wrong_phone_number_format">Няправільны фармат нумара тэлефона</string>
   <string name="passport_wrong_vcode">Уведзены няправільны код</string>
   <string name="passport_wrong_voice">Уведзены няправільны код</string>
-  <string name="pa_back_screen_travel_preference_summary_reminder">Адлюстроўваць напамінкі аб паездках на заднім дысплеі</string> 
-  <string name="pa_back_screen_travel_preference_title_reminder">Напамінкі аб паездках на заднім дысплеі</string> 
+  <string name="pa_back_screen_travel_preference_summary_reminder">Адлюстроўваць напаміны пра паездкі для цягнікоў і авіярэйсаў на заднім экране</string> 
+  <string name="pa_back_screen_travel_preference_title_reminder">Напаміны аб паездках на заднім экране</string> 
   <string name="pa_travel_back_screen_title_info">Вылёт dd.MM</string> 
   <string name="pasport_register_dialog_message">Стварыць акаўнт Xiaomi, выкарыстоўваючы нумар тэлефона %s?</string> 
   <string name="passport_password_hide_show">Схаваць пароль</string> 

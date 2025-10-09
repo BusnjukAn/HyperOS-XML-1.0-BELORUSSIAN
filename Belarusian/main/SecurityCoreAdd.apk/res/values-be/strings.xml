@@ -975,7 +975,7 @@
   <string name="mtrl_timepicker_confirm">ОК</string>
   <string name="mute">Бязгучны рэжым</string>
   <string name="natural_scroll">Натуральная пракрутка</string>
-  <string name="natural_scroll_summary">Змест пракручваецца разам з вашым пальцам</string>
+  <string name="natural_scroll_summary">Старонка пракручваецца ў тым жа накірунку, што і жэст пракруткі</string>
   <string name="navigation_type_title">Сістэмная навігацыя</string>
   <string name="no_media_button_receiver">Не</string>
   <string name="none">Няма</string>
@@ -1538,4 +1538,7 @@
   <string name="stylus_touch_film_settings_guide">Налады</string>
   <string name="freeform_side_app_bar">Бакавая панэль</string>
   <string name="stylus_added_shortcuts">Дададзены хуткія каманды</string>
+  <string name="poco_stylus_welcome">Азнаёмцеся з POCO Focus Pen</string>
+  <string name="touchpad_touch_double_click_drag_summary">Двойчы дакраніцеся, утрымліваючы палец на другім дотыку, затым перацягвайце элемент</string>
+  <string name="touchpad_touch_double_click_drag_title">Падвойны дотык для перацягвання</string>
 </resources>

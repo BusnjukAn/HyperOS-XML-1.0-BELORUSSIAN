@@ -2482,5 +2482,8 @@
   <string name="cellular_coverage_satellite_notification_title">Пераключыцца на мабільную сетку</string> 
   <string name="customized_message_emm_cause_6">Гэтая прылада не можа стварыць сеткавы профіль, паколькі ў яе адсутнічае сертыфікацыя, патрабаваная мясцовымі органамі ўлады.</string> 
   <string name="customized_title_emm_cause_6">Не атрымалася стварыць сеткавы профіль</string> 
-  <string name="satellite_enhanced_paging_notification">Напамін пра памылку абнаўлення прашыўкі спадарожнікавай сувязі</string>
+  <string name="satellite_enhanced_paging_notification">Апавяшчэнні палепшанага пэйджынгу</string>
+  <string name="satellite_enhanced_paging_mode">Рэжым палепшанага пэйджынгу ўключаны</string>
+  <string name="satellite_enhanced_paging_notification_message">Навядзіце прыладу на спадарожнік для прагляду</string>
+  <string name="satellite_enhanced_paging_notification_title">Вы атрымалі новы выклiк або паведамленне</string>
 </resources>

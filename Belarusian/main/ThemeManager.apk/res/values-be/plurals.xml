@@ -455,21 +455,21 @@
         <item quantity="other">Увядзіце не менш за %1$d сімвалаў</item>
     </plurals>
     <plurals name="resource_trial_days">
-        <item quantity="one"> (пробная версія: %1$d дзень)</item>
-        <item quantity="few"> (пробная версія: %1$d дні)</item>
-        <item quantity="many"> (пробная версія: %1$d дзён)</item>
-        <item quantity="other"> (пробная версія: %1$d дзён)</item>
+        <item quantity="one">" (пробная версія: %1$d дзень)"</item>
+        <item quantity="few">" (пробная версія: %1$d дні)"</item>
+        <item quantity="many">" (пробная версія: %1$d дзён)"</item>
+        <item quantity="other">" (пробная версія: %1$d дзён)"</item>
     </plurals>
     <plurals name="resource_trial_hours">
-        <item quantity="one"> (пробная версія: %1$d гадзіна)</item>
-        <item quantity="few"> (пробная версія: %1$d гадзіны)</item>
-        <item quantity="many"> (пробная версія: %1$d гадзін)</item>
-        <item quantity="other"> (пробная версія: %1$d гадзін)</item>
+        <item quantity="one">" (пробная версія: %1$d гадзіна)"</item>
+        <item quantity="few">" (пробная версія: %1$d гадзіны)"</item>
+        <item quantity="many">" (пробная версія: %1$d гадзін)"</item>
+        <item quantity="other">" (пробная версія: %1$d гадзін)"</item>
     </plurals>
     <plurals name="resource_trial_minutes">
-        <item quantity="one"> (пробная версія: %1$d хвіліна)</item>
-        <item quantity="few"> (пробная версія: %1$d хвіліны)</item>
-        <item quantity="many"> (пробная версія: %1$d хвілін)</item>
-        <item quantity="other"> (пробная версія: %1$d хвілін)</item>
+        <item quantity="one">" (пробная версія: %1$d хвіліна)"</item>
+        <item quantity="few">" (пробная версія: %1$d хвіліны)"</item>
+        <item quantity="many">" (пробная версія: %1$d хвілін)"</item>
+        <item quantity="other">" (пробная версія: %1$d хвілін)"</item>
     </plurals>
 </resources>

@@ -12486,7 +12486,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="headset_settings_sound_bose_balance">Збалансаваны</string> 
   <string name="headset_settings_sound_bose_classic">Дынамічны</string> 
   <string name="headset_settings_sound_title">Гукавыя эфекты</string>
-  <string name="ufs_size_suffix">%1$s (%2$s з пашырэннем сховішча)</string>
+  <string name="ufs_size_suffix">%1$s+%2$s</string>
   <string name="anc_intelligent">Разумнае шумапрыглушэнне</string> 
   <string name="default_fingerprint_unlock_type">Абярыце спосаб разблакавання па змаўчанні</string> 
   <string name="handle_battery">Батарэя ручкі</string> 

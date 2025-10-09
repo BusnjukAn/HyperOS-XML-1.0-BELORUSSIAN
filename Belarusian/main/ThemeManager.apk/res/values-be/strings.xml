@@ -392,7 +392,7 @@
   <string name="long_click_can_hide_resource">Націсніце і ўтрымлівайце, каб схаваць аб\'екты</string>
   <string name="material_slider_range_end">Канец дыяпазону,</string>
   <string name="material_slider_range_start">Пачатак дыяпазону,</string>
-  <string name="mi_wallpaper">MIUI шпалеры</string>
+  <string name="mi_wallpaper">Xiaomi шпалеры</string>
   <string name="midnight">ДП</string>
   <string name="mine_tab_not_login">Увайдзіце, каб прагледзець элементы.\nНацісніце тут, каб увайсці.</string>
   <string name="mine_tab_title_favorite">Абраныя</string>
@@ -699,7 +699,7 @@
   <string name="resource_exchange_has_used">Уведзены код быў скарыстаны раней</string>
   <string name="resource_exchange_hint">Увядзіце свой падарункавы код</string>
   <string name="resource_exchange_purchase_unkown_error">Аяй! Адбылася невядомая памылка. Увайдзіце на http://market.xiaomi.com, каб прагледзець стан аплаты.</string>
-  <string name="resource_exchange_share_code_content">Вы атрымалі падарункавы код (%2$s) на тэму \"%1$s\" у Тэмах MIUI. Каб скарыстацца з яго, націсніце тут %3$s.</string>
+  <string name="resource_exchange_share_code_content">Вы атрымалі падарункавы код (%2$s) на тэму \"%1$s\" у Тэмах Xiaomi. Каб скарыстацца з яго, націсніце тут %3$s.</string>
   <string name="resource_exchange_share_code_dlg_content">Падарункавы код, які вы набылі для тэмы \"%1$s\": %2$s. Калі вы адправіце код іншаму карыстальніку Xiaomi, ён зможа выкарыстаць яго для спампоўкі гэтай тэмы.</string>
   <string name="resource_exchange_share_code_dlg_title">Адпраўка</string>
   <string name="resource_exchange_success">Карыстайцеся! :)</string>
@@ -1016,7 +1016,7 @@
   <string name="theme_component_title_launcher">Працоўны стол</string>
   <string name="theme_component_title_lockstyle">Экран блакавання</string>
   <string name="theme_component_title_lockwallpaper">Шпалеры блакавання</string>
-  <string name="theme_component_title_miwallpaper">MIUI шпалеры</string>
+  <string name="theme_component_title_miwallpaper">Xiaomi шпалеры</string>
   <string name="theme_component_title_mms">Паведамленні</string>
   <string name="theme_component_title_notification">Апавяшчэнні</string>
   <string name="theme_component_title_others">Іншае</string>
@@ -1316,7 +1316,7 @@
   <string name="share_content_text_first_theme">Ацэніце гэта! Тэма \"%1$s\" надае вашаму тэлефоне зусім новы выгляд.</string>
   <string name="share_content_text_first_wallpaper">Ацэніце гэта! Шпалеры \"%1$s\" надаюць вашаму тэлефоне зусім новы выгляд.</string>
   <string name="share_content_text_second">" Знайдзіце свой уласны стыль у %1$s!"</string>
-  <string name="share_content_topic">\#Персаналізацыя MIUI</string>
+  <string name="share_content_topic">\#Персаналізацыя Xiaomi</string>
   <string name="wallpaper_apply_pcmode">Прымяніць для рэжыму ПК</string>
   <string name="multiwindow_no_support">Аперацыя не падтрымліваецца ў падзеленым экране</string>
   <string name="apply_warning_tip_get_device_status">Спачатку дазволіце гэтай праграме атрымаць доступ да ідэнтыфікатара вашай прылады ў Профіль > Налады.</string>

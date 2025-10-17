@@ -12501,7 +12501,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="blue_light_filter">Фільтр сіняга святла</string>
   <string name="blue_light_filter_tip">"Сіняе святло не можа быць цалкам выключана. Вы таксама можаце выкарыстоўваць правіла %1$d-%2$d-%3$d для аховы зроку."</string>
   <string name="blue_light_reduce">Паменшае сіняе святло прыблізна на %s</string>
-  <string name="blue_light_reduce_tip">"Спектральная дыяграма з\'яўляецца схематычным прадстаўленнем спектра белай кропкі экрана. Значэнні сіняга святла залежаць ад рэальных умоў і могуць адрознівацца ў залежнасці ад экрана. Сіні прамавугольнік на дыяграме адпавядае стандарту нізкага ўзроўню сіняга святла TÜV Rheinland для апаратнага забеспячэння."</string>
+  <string name="blue_light_reduce_tip">Дыяграма спектра з\’яўляецца схематычным адлюстраваннем спектра белай кропкі экрана. Узровень змяншэння сіняга святла можа адрознівацца ў залежнасці ад экрана. Сіні прамавугольнік на дыяграме паказвае дыяпазон шкоднага сіняга святла паводле стандарту апаратнага зніжэння сіняга святла TÜV Rheinland.</string>
   <string name="color_mode_all_apps">Усе праграмы</string>
   <string name="color_mode_read_apps">Толькі праграмы для чытання</string>
   <string name="eyes_protect_certification">Тэхналогіі і сертыфікацыя</string>
@@ -12519,4 +12519,16 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="protect_eyes_mode">Рэжым чытання</string>
   <string name="read_apps_selected_scope">Абраць праграмы</string>
   <string name="standard_mode">Стандартны</string>
+  <string name="active_read_apps_tip">Эфект абароны вачэй дзейнічае толькі для праграм чытання. Адкрыйце адну з іх, каб праглядзець вынік.</string>  
+  <string name="no_read_apps_new">Пакуль няма падтрымліваемых праграм. Сачыце за абнаўленнямі!</string>  
+  <string name="photography_handle_launch_and_take_with_mode">Зрабіць здымак</string>  
+  <string name="photography_handle_launch_camera_doc_mode">Дакумент</string>  
+  <string name="photography_handle_launch_camera_fastshot_mode">Хуткая здымка</string>  
+  <string name="photography_handle_launch_camera_modes">Рэжым камеры</string>  
+  <string name="photography_handle_launch_camera_photo_mode">Фота</string>  
+  <string name="photography_handle_launch_camera_portrait_mode">Партрэт</string>  
+  <string name="photography_handle_launch_camera_pro_mode">Прафесійны</string>  
+  <string name="photography_handle_launch_camera_video_mode">Відэа</string>  
+  <string name="photography_handle_normal_title">Выкл.</string>  
+  <string name="read_apps_selected_scope_new">Абярыце праграмы (падтрымліваюцца не ўсе)</string>
 </resources>

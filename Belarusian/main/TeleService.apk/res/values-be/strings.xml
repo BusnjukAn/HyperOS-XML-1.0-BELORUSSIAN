@@ -2470,8 +2470,8 @@
   <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="convert_to_esim_title">Канвертаваць у eSIM</string> 
-  <string name="offline_call">Абмен дадзенымі паміж прыладамі</string> 
-  <string name="offline_call_summary">Выклікі на бліжэйшыя тэлефоны Xiaomi па Bluetooth без падлучэння да сеткі</string> 
+  <string name="offline_call">Афлайн-сувязь Xiaomi</string> 
+  <string name="offline_call_summary">Выклікі на бліжэйшыя прылады Xiaomi па Bluetooth без падлучэння да сеткі</string> 
   <string name="preferred_network_type_pref_entries_only_5g">Толькі 5G</string>
   <string name="beidou_mobile_settings_summary_all">Даступна толькі для карыстальнікаў з актыўнай паслугай спадарожнікавай сувязі BeiDou</string> 
   <string name="beidou_satellite_enable_message_all">Звярніцеся да свайго аператара сувязі для актывацыі паслугі.</string> 

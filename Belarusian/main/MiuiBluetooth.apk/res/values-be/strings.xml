@@ -721,4 +721,20 @@
   <string name="finddevice_download_title">Усталюйце праграму \"Пошук прылады\"</string> 
   <string name="finddevice_update_tips">Ваша версія праграмы \"Пошук прылады\" састарэлая. Абнавіце яе і зноў паднясіце тэлефон да прылады.</string> 
   <string name="finddevice_update_title">Абнавіце \"Пошук прылады\"</string>
+  <string name="access_denied_info">Занадта шмат спроб. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>  
+  <string name="network_error_info">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>  
+  <string name="network_timeout_info">Не ўдалося падлучыцца да сеткі. Паспрабуйце зноў.</string>  
+  <string name="notification_talk_from_app">ад %1$s</string>  
+  <string name="notification_talk_from_mms">ад %1$s MMS</string>  
+  <string name="notification_talk_from_mms_long_text">ад %1$s доўгае паведамленне</string>  
+  <string name="notification_talk_permission">Дазволіць гэтай праграме выкарыстоўваць апавяшчэнні — значыць даць ёй магчымасць атрымліваць апавяшчэнні (WeChat, Паведамленні і інш.) на вашай прыладзе. Калі вы працягнеце, праграма атрымае доступ да апавяшчэнняў.</string>  
+  <string name="notification_talk_speed_finish">Налада хуткасці трансляцыі завершана</string>  
+  <string name="offline_call_create_shortcut_success">Паспяхова дададзена</string>  
+  <string name="offline_call_repeatedly_create_shortcut">Гэты цэтлiк ужо існуе</string>  
+  <string name="offline_call_shortcut_display">Дадаць цэтлiк на працоўны стол</string>  
+  <string name="offline_chat_summary_global">Кантактуйце з бліжэйшымі прыладамі Xiaomi у афлайн-рэжыме, калі Bluetooth уключаны на абедзвюх прыладах (Бягучая прылада: %1$s)</string>  
+  <string name="offline_chat_title_global">Афлайн-сувязь Xiaomi (дэма-рэжым)</string>  
+  <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>  
+  <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>  
+  <string name="unknown_error_info">Невядомая памылка</string>
 </resources>

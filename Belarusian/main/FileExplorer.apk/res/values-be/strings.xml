@@ -1215,4 +1215,5 @@
   <string name="miuix_navigator_category_group_collapsed">Згорнута</string>
   <string name="miuix_navigator_category_group_expanded">Разгорнута</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
 </resources>

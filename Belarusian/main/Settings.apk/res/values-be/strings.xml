@@ -12531,4 +12531,11 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="photography_handle_launch_camera_video_mode">Відэа</string>  
   <string name="photography_handle_normal_title">Выкл.</string>  
   <string name="read_apps_selected_scope_new">Абярыце праграмы (падтрымліваюцца не ўсе)</string>
+  <string name="game_app_fragment_category">Падтрымліваемыя гульні</string> 
+  <string name="game_app_title">Гульнявыя светлавыя эфекты</string> 
+  <string name="game_delta_action_moments">Здабыча прыпасаў і паспяховая эвакуацыя</string> 
+  <string name="game_king_of_glory_moments">Забойствы, перамогі і іншыя ключавыя моманты</string> 
+  <string name="game_peacekeeper_elites_moments">Скачкі з парашутам і баі</string> 
+  <string name="light_camera_state_summary">Уключыць падсвятленне пры фота- або відэаздымцы</string> 
+  <string name="light_camera_state_title">Індыкатар стану камеры</string>
 </resources>

@@ -1164,4 +1164,9 @@
   <string name="toast_for_pause_record_long_time">Запіс прыпынены. AI-распазнаванне гаворкі спынена.</string>
   <string name="toast_title_stop_ai_recognize">AI-распазнаванне гаворкі спынена</string>
   <string name="year_month_format">MMMM yyyy</string>
+  <string name="action_sheet_title_share">Выберыце спосаб сумеснага выкарыстання</string>
+  <string name="action_sheet_title_translate">Выбар мовы</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
+  <string name="notification_title_SUMMARY_SUCCESS">Зводка створана</string>
+  <string name="tap_share_cloud_file_tip">Спачатку спампуйце выбраныя элементы</string>
 </resources>

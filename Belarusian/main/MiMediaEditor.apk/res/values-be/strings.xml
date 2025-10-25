@@ -68,4 +68,8 @@
   <string name="vlog_audio_hiding">Дзе зараз хаваецца каханне</string>
   <string name="vlog_audio_sport">Драматычны фільм са спартыўнай матывацыяй</string>
   <string name="vlog_audio_stylish">Стыльнае дынамічнае прома</string>
+  <string name="acc_refocus_slider">Рэгуляванне размыцця фону. Бягучы ўзровень: %s</string>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="photo_editor_matting_change_bg_completion">Дапамажыце мне змяніць фон</string>
+  <string name="video_text_add">Дадаць тэкст</string>
 </resources>

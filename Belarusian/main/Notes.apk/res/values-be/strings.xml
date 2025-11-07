@@ -1728,4 +1728,15 @@
   <string name="takeaway_review.">Напішы добры водгук аб дастаўцы ежы</string>
   <string name="travel_list">Ствары кантрольны спіс для збораў у паездку</string>
   <string name="ai_language_not_support">Гэтая мова не падтрымліваецца</string>
+  <string name="ai_experience_text">Пачаць</string>
+  <string name="ai_text_confirm_cancel">Адмена</string>
+  <string name="ai_text_revoke_modifications">Адмяніць змены</string>
+  <string name="ai_text_watermark">Гэты змест створаны AI і прызначаны толькі для даведкі.</string>
+  <string name="ai_usage_content_text">%1$d. Адкрыйце нататкі.\n%2$d. Націсніце на плюс у правым ніжнім вуглу, стварыце нататку, а затым націсніце {icon}, каб пачаць.</string>
+  <string name="ai_usage_text_title">Як карыстацца</string>
+  <string name="ai_writing_content_text">AI-пісьменнік дапамагае вам арганізаваць і палепшыць ваш тэкст. Вы можаце выкарыстоўваць яго наступнымі спосабамі:\n%1$d. Кароткі змест тэксту для хуткага вымання ключавой інфармацыі з доўгіх артыкулаў.\n%2$d. Пашырэнне тэксту для ўзбагачэння кароткіх нататак.\n%3$d. Карэкцыя тэксту для больш гладкіх выразаў.\n%4$d. Праверка правапісу і граматыкі.</string>
+  <string name="dialog_share_as_duplicate">Адправіць нататку як копію</string>
+  <string name="dialog_share_title">Адправіць нататку</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
+  <string name="widget_size_item_title">Выбраць памер</string>
 </resources>

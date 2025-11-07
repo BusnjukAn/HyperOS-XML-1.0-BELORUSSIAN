@@ -2504,10 +2504,10 @@
   <string name="rear_screen_edit_title_signature">Подпіс</string>
   <string name="rear_screen_edit_title_time">Гадзіннік</string>
   <string name="rear_screen_guide_text">Персаналізуйце задні экран.\nДаступныя зусім новыя дызайны.</string>
-  <string name="rear_screen_list_title">Персаналізацыя</string>
+  <string name="rear_screen_list_title">Задні экран</string>
   <string name="rear_screen_more_suggestion">Больш рэкамендацый</string>
   <string name="rear_screen_system_wallpaper_title">Шпалеры</string>
-  <string name="rear_screen_template_upper_limit">Нельга дадаць больш элементаў. Выдаліце некаторыя ў Наладах > Задні экран > Персаналізацыя і паўтарыце спробу.</string>
+  <string name="rear_screen_template_upper_limit">Нельга дадаць больш элементаў. Выдаліце некаторыя ў Наладах > Задні экран і паўтарыце спробу.</string>
   <string name="rear_screen_wallpaper_ai">Стварыць з дапамогай AІ</string>
   <string name="rear_screen_wallpaper_album">З Галерэі</string>
   <string name="rear_screen_wallpaper_empty">Няма</string>
@@ -2521,4 +2521,9 @@
   <string name="view_drag_end_talkback">Зараз у радку %2$s</string>
   <string name="view_drag_icon_talkback">Перацягніце для сартавання</string>
   <string name="view_drag_move_talkback">Перамешчана ў радок %s</string>
+  <string name="back_screen_delete_template">Выдаліць гэты шаблон?</string>
+  <string name="back_screen_dynamic_notification">Апавяшчэнні</string>
+  <string name="back_screen_operation_tutorial">Пра задні экран</string>
+  <string name="kg_font_filter_color_pale_orange_red">Светлы аранжава-чырвоны</string>
+  <string name="rear_screen_service_assistant">Кіраванне заднім экранам</string>
 </resources>

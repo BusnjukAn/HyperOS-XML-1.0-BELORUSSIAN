@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="wifi_signal">
+   <item>Дрэнны</item>
+   <item>Дрэнны</item>
+   <item>Добры</item>
+   <item>Выдатны</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+       <item>Выключана</item>
+       <item>Уключана з фільтрацыяй</item>
+       <item>Уключана</item>
+    </string-array>
+    <string-array name="zen_mode_icon_options_descriptions">
+        <item>Партфель</item> 
+        <item>Класічны будынак</item> 
+        <item>Жылы дом</item>
+        <item>Бурбалка з тэкстам</item> 
+        <item>Група людзей</item> 
+        <item>Лямпачка</item> 
+        <item>Каляндар</item> 
+        <item>Не турбаваць</item> 
+        <item>Чалавек бяжыць</item> 
+        <item>Гольф</item> 
+        <item>Трэнажорная гантэль</item> 
+        <item>Плаванне</item> 
+        <item>Чалавек у паходзе</item> 
+        <item>Чалавек кідае мяч</item> 
+        <item>Чалавек б\'е нагой</item> 
+        <item>Гульнявы ​​кантролер</item> 
+        <item>Каляровая палітра мастака</item> 
+        <item>Сняжынка</item>
+        <item>Пляжны парасон</item>
+        <item>Інструменты для майстэрні</item>
+        <item>Піяніна</item>
+        <item>Кінастужка</item>
+        <item>Кніга</item>
+        <item>Кветка лотаса</item>
+        <item>Розум чалавека</item>
+        <item>Навушнікі</item>
+        <item>Тэлевізар</item>
+        <item>Цягнік</item>
+        <item>Аўтамабіль</item>
+        <item>Відэлец і нож</item>
+        <item>Кошык для пакупак</item>
+        <item>Дзіця</item>
+        <item>Лапа жывёлы</item>
+        <item>Значок зоркі</item>
+        <item>Два чалавекі</item>
+        <item>Зорка</item>
+        <item>Сэрца</item>
+        <item>Дом</item>
+        <item>Паўмесяц</item>
+        <item>Гадзіннік</item>
+    </string-array>
+</resources>

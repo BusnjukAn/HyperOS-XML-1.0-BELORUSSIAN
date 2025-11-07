@@ -1033,4 +1033,8 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="privacy_revoke_dialog_positive_text_numbers_description">
+        <item quantity="other">Вы можаце адклікаць згоду праз %d сек.</item>
+        <item quantity="one">Вы можаце адклікаць згоду праз %d сек.</item>
+    </plurals>
 </resources>

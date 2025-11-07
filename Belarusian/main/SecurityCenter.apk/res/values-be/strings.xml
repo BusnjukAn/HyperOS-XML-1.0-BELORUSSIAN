@@ -8020,4 +8020,19 @@ Xiaomi Gaming Cooler"</string>
   <string name="wireless_high_temp_warning_title">Бесправадная зарадка спынена</string> 
   <string name="wireless_hottemp_warning_button_ok">Зразумела</string> 
   <string name="wireless_hottemp_warning_message">Ваша прылада перагрэлася. Бесправадная зарадка спынена і адновіцца аўтаматычна, як толькі прылада астыне.</string>
+  <string name="ai_guard_post_go">Пачаць</string>
+  <string name="ai_guard_post_preference_guidance_summary">"%1$d. Перайдзіце ў Налады > Абарона > Бяспека > Абарона ад махлярства > Выклікi.\n%2$d. Уключыце AІ-абарону выклікаў і дайце неабходныя дазволы."</string>
+  <string name="ai_guard_post_preference_guidance_title">Як выкарыстоўваць</string>
+  <string name="app_manager_details_electric_title_new">Сілкаванне</string>
+  <string name="app_manager_details_electric_title_value">Выдатак батарэі %s</string>
+  <string name="app_manager_details_traffic_title_new">Доступ да сеткі</string>
+  <string name="app_manager_details_traffic_title_value">Выкарыстана дадзеных %1$s</string>
+  <string name="gt_function_close">Згарнуць</string>
+  <string name="gt_function_more">Яшчэ</string>
+  <string name="lockscreen_access_pattern_area">Вобласць графічнага ключа</string>
+  <string name="pc_battery_detail">Падрабязнасці аб батарэі</string>
+  <string name="security_access">Прыватны доступ</string>
+  <string name="security_access_contact_tip">Гэта праграма падтрымлівае Прыватны доступ. Доступ прадастаўляецца толькі да абраных вамі кантактаў — для абароны вашай прыватнасцi.</string>
+  <string name="security_access_file_tip">Гэта праграма падтрымлівае Прыватны доступ. Доступ прадастаўляецца толькі да абраных вамі файлаў — для абароны вашай прыватнасцi.</string>
+  <string name="security_access_media_tip">Гэта праграма падтрымлівае Прыватны доступ. Доступ прадастаўляецца толькі да абраных вамі фота і відэа — для абароны вашай прыватнасцi.</string>
 </resources>

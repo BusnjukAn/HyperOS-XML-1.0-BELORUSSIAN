@@ -392,4 +392,8 @@
   <string name="miuix_navigator_category_group_collapsed">Згорнута</string>
   <string name="miuix_navigator_category_group_expanded">Разгорнута</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="private_access_preview_limted">Прадпрагляд (%1$d з %2$d)</string>
+  <string name="private_access_select_max_toast">Немагчыма абраць больш кантактаў</string>
+  <string name="private_access_text">Іншыя праграмы могуць атрымліваць доступ толькі да абраных вамі кантактаў — для абароны вашай прыватнасцi</string>
+  <string name="private_access_title">Прыватны доступ</string>
 </resources>

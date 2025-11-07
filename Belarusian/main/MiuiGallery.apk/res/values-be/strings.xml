@@ -1778,7 +1778,7 @@
   <string name="story_option_menu_delete">Выдаліць гісторыю</string>
   <string name="story_option_menu_rename">Перайменаваць</string>
   <string name="story_photo_downloading">Спампоўка…</string>
-  <string name="story_remove_confirm_message">Выдаленыя фатаграфіі зноў ня зьявяцца ў гэтай гісторыі. Вы ўсё роўна зможаце знайсці іх у Галерэі.</string>
+  <string name="story_remove_confirm_message">Выдаленыя фатаграфіі зноў ня з\'явяцца ў гэтай гісторыі. Вы ўсё роўна зможаце знайсці іх у Галерэі.</string>
   <string name="story_remove_confirm_positive">Выдаліць</string>
   <string name="story_remove_confirm_title">Выдаленне фатаграфій</string>
   <string name="story_rename_invalid_char">Немагчыма выкарыстаць \"%s\" у загалоўку гісторыі. Выкарыстоўвайце літары і лічбы.</string>
@@ -1966,7 +1966,7 @@
   <string name="video_compress_not_with_format">Сціск відэа не падтрымліваецца для гэтага фармату</string>
   <string name="video_compress_not_with_low_quality">Бягучае вырашэнне з\'яўляецца самым нізкім</string>
   <string name="video_compress_save_stop_tips">Націсніце яшчэ раз, каб спыніць сціск</string>
-  <string name="video_compress_size">≈%s пасля сціску</string>
+  <string name="video_compress_size">(≈%s пасля сціску)</string>
   <string name="video_edit_file_not_exits_tip">Спачатку спампуйце відэа</string>
   <string name="video_editor_abandon_changes_tip_message">Скасаваць усе змены?</string>
   <string name="video_editor_abandon_changes_tip_title">Скасаваць змены</string>
@@ -3151,7 +3151,7 @@
   <string name="all_story_empty_desc">Тут пакуль няма гісторый</string>
   <string name="all_story_empty_tip">"Тут пакуль няма гісторый.
 Падлучыце зарадную прыладу і выключыце экран, каб з\'явіліся гісторыі."</string>
-  <string name="all_story_title">Гісторыі</string>
+  <string name="all_story_title">Усе гісторыі</string>
   <string name="download_library_dialog_message">Галерэі патрэбны шаблоны, каб ствараць гісторыі лакальна на гэтай прыладзе. Рэкамендуем выкарыстоўваць Wi-Fi для загрузкі шаблонаў.</string>
   <string name="download_library_dialog_title">Загрузіце шаблоны</string>
   <string name="empty_tip_btn">Зрабіць фота</string>
@@ -3287,7 +3287,7 @@
   <string name="cleaner_size">Ачысціць кошык (%s)</string>
   <string name="invite_user_has_joined">Гэтаму карыстальніку ўжо прадастаўлены доступ да гэтага альбома</string>
   <string name="media_type_hd">Высокая раздзяляльнасць</string>
-  <string name="photodetail_rename_invalid_prefix">Імёны файлаў не могуць пачынацца з \".\"</string>
+  <string name="photodetail_rename_invalid_prefix">Імёны не могуць пачынацца з \"%1$s\"</string>
   <string name="search_edit_hint">Пошук файлаў ці альбомаў</string>
   <string name="search_no_smart_sort_tag">Ідэнтыфікуйце аб\'екты на фатаграфіях, каб атрымаць больш вынікаў пошуку</string>
   <string name="search_no_sync_tag">Уключыце сінхранізацыю, каб атрымаць больш вынікаў пошуку</string>
@@ -4131,7 +4131,7 @@
   <string name="msg_toast_recommend_widget_show_title_off">Загаловак не адлюстроўваецца на віджэце працоўнага стала</string>
   <string name="switch_gallery_recommend_widget_show_title">Паказаць загаловак</string>
   <string name="ai_film_description">Стварайце цудоўныя відэа з дапамогай AI</string>
-  <string name="ai_film_title">Аўтаматычнае рэдагаванне</string>
+  <string name="ai_film_title">AI фільм</string>
   <string name="bottomsheet_action_collapse">Згарнуць ніжні ліст</string>
   <string name="bottomsheet_action_expand">Разгарнуць ніжні ліст</string>
   <string name="bottomsheet_action_expand_halfway">Разгарнуць напалову</string>
@@ -4722,7 +4722,7 @@
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
   <string name="gallery_widget_editor_generate_random_text">Згенераваць выпадковы тэкст</string> 
   <string name="hide">Схаваць</string> 
-  <string name="operation_video_to_live">Пераўтварыць у дынамічнае фота</string> 
+  <string name="operation_video_to_live">Пераўтварыць у жывое фота</string> 
   <string name="seeking_progress_bar_talkback">Перайшлі да: %1$s %2$s %3$s</string> 
   <string name="share_device_near_share">Сумеснае выкарыстанне прылад</string> 
   <string name="share_device_near_share_image_describe">Проста паднясіце прыладу да вобласці NFC іншага тэлефона, каб хутка падзяліцца</string>

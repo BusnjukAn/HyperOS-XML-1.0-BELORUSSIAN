@@ -840,4 +840,5 @@
   <string name="typhoon_warring_line_48">48-гадзінная лінія папярэджання</string>
   <string name="typhoon_wind_pressures">Цэнтральны ціск</string>
   <string name="typhoon_wind_speeds">Хуткасць ветру</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
 </resources>

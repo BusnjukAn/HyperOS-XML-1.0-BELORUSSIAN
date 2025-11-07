@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="bluetooth_pairing_pin_error_message">Спалучэнне з %1$s не атрымалася з-за няправільнага PIN-кода або пароля.</string>
+  <string name="bounce_keys_summary">Хуткія паўторныя націсканні адной і той жа клавішы ігнаруюцца</string>
+  <string name="slow_keys_summary">Вы можаце выбраць, колькі часу трэба ўтрымліваць клавішу, перш чым націсканне будзе зарэгістравана</string>
+</resources>

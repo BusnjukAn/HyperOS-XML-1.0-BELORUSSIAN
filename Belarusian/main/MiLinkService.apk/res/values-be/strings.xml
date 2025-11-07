@@ -1843,4 +1843,5 @@
   <string name="passport_register_dialog_title">Стварыць акаўнт Xiaomi</string> 
   <string name="passport_request_permission_title">Патрабуюцца дазволы</string> 
   <string name="passport_third_sns_service_unavailable">Сэрвіс недаступны. Упэўніцеся, што праграма ўсталявана і не заблакавана.</string>
+  <string name="circulate_network_connect_failed_pad_pc_not_supported">Гэтая прылада не падтрымліваецца. Праверце, ці адпавядае мадэль вашай прылады ці версія сістэмы патрабаванням. Вы таксама можаце прагледзець даведку.</string>
 </resources>

@@ -1014,7 +1014,7 @@
   <string name="mhh_disable">Медыцынскія ўстановы і бальніцы адключаны</string>
   <string name="mhh_enable">Медыцынскія ўстановы і бальніцы ўключаны</string>
   <string name="mi_mobile_settings_summary">Планы дадзеных, якія прадстаўляюцца Xiaomi</string>
-  <string name="mi_mobile_sim_activate_message">Актывуйце SIM %1$d, каб мець магчымасць выкарыстоўваць Mi Mobile. Гэта можа заняць ад %2$d да %3$d хвілін.</string>
+  <string name="mi_mobile_sim_activate_message">Здаецца, SIM-карта %1$d не актываваная. Націсніце \"Актываваць\" і выканайце інструкцыі, каб пачаць.</string>
   <string name="mi_mobile_sim_activate_ok">Актываваць</string>
   <string name="mi_mobile_sim_activate_title">Сардэчна запрашаем у Mi Mobile!</string>
   <string name="mi_sim_not_active">Мі SIM не актываваная</string>

@@ -432,8 +432,8 @@
   <string name="collage_title_stitching">Кінастужка</string>
   <string name="collaps_people">Схаваць</string>
   <string name="confirm">OК</string>
-  <string name="confirm_cancel_task_files">Адмяніць адпраўку файлаў %1$s?</string>
-  <string name="confirm_cancel_task_images">Адмяніць адпраўку выяў %1$s?</string>
+  <string name="confirm_cancel_task_files">Адмяніць адпраўку файлаў?</string>
+  <string name="confirm_cancel_task_images">Адмяніць адпраўку выяў?</string>
   <string name="confirm_delete_selected_albums">Выдаліць выбраныя альбомы?</string>
   <string name="confirm_download_video_message">Для прагляду відэа неабходна цалкам спампаваць яго. Спампоўка будзе працягнутая пры падключэнні да сеткі Wi-Fi.</string>
   <string name="confirm_download_video_title">Спампоўка відэа</string>

@@ -1986,7 +1986,7 @@
   <string name="setting_internet_message_on_simIndex">Бясплатны абмен паведамленнямі праз інтэрнэт (SIM %d)</string>
   <string name="setting_smart_server">Смарт-вызначальнік ідэнтыфікатара адпраўніка</string>
   <string name="sim_card_not_detected_service_unavailable">Не ўдалося знайсці SIM-карту. Немагчыма карыстацца гэтым сэрвісам.</string>
-  <string name="vital_signs_data_high_bpm_multi" formatted="false">Высокі пульс, некалькі разоў за апошнюю гадзіну. Самы апошні: %1$d%–2$d вуд/хв. (%3$s–%4$s)</string>
+  <string name="vital_signs_data_high_bpm_multi" formatted="false">Высокі пульс, некалькі разоў за апошнюю гадзіну. Самы апошні: %1$d%–%2$d вуд/хв. (%3$s–%4$s)</string>
   <string name="give_up">Скасаваць</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абраць</string>
   <string name="need_to_discard_message">Скасаваць чарнавік?</string>

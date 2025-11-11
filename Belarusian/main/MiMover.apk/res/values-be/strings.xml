@@ -38,7 +38,7 @@
   <string name="app_name">Mi Трансфер</string>
   <string name="app_update_64_dialog_cancel">Не зараз</string>
   <string name="app_update_64_dialog_confirm">Абнавіць</string>
-  <string name="app_update_64_dialog_title">Абнаўленне да 64-разраднай архітэктуры</string>
+  <string name="app_update_64_dialog_title">Абнаўленне да 64-бітнай архітэктуры</string>
   <string name="app_update_64_notfication_body">Абнаўленне для павышэння прадукцыйнасці праграмы</string>
   <string name="app_update_title">Абнавіць усе праграмы</string>
   <string name="apple_calendar">Каляндар</string>
@@ -54,7 +54,7 @@
   <string name="appname_app_data_suffix">Дадзеныя праграмы %1$s</string>
   <string name="apps_cannot_be_transfered_confirm_button">Пачаць</string>
   <string name="apps_cannot_be_transfered_next_button">Далей</string>
-  <string name="apps_cannot_be_transfered_summary">Гэтыя 64-разрадныя праграмы нельга перанесці на 32-разрадную прыладу. Пасля пераносу іх можна загрузіць непасрэдна з GetApps.</string>
+  <string name="apps_cannot_be_transfered_summary">Гэтыя 64-бітныя праграмы нельга перанесці на 32-бітную прыладу. Пасля пераносу іх можна загрузіць непасрэдна з GetApps.</string>
   <string name="apps_cannot_be_transfered_title">Немагчыма перанесці гэтыя праграмы</string>
   <string name="audio">Аўдыё</string>
   <string name="audio_video_document">Аўдыя, відэа і дакументы</string>
@@ -1174,4 +1174,11 @@
   <string name="audio_permission_desc">Для перадачы музыкі і аўдыё на новую прыладу</string>
   <string name="blutooth_permission_desc">Для пошуку бліжэйшых прылад, гатовых да падлучэння</string>
   <string name="image_video_permission_desc">Для перадачы фатаграфій і відэа на новую прыладу</string>
+  <string name="app_update_64_dialog_title_formatted">Абнаўленне да %1$d-бітнай архітэктуры</string> 
+  <string name="apps_cannot_be_transfered_summary_formatted">Гэтыя %1$d-бітныя праграмы нельга перанесці на %2$d-бітную прыладу. Вы можаце спампаваць іх непасрэдна з GetApps пасля пераносу.</string> 
+  <string name="lockscreen_access">Вобласць шаблона</string> 
+  <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string> 
+  <string name="recent_one_year_formatted">Мінулы %d год</string> 
+  <string name="recent_seven_days_formatted">Мінулыя %d дзён</string> 
+  <string name="recent_thirty_days_formatted">Мінулыя %d дзён</string>
 </resources>

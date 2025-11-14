@@ -327,4 +327,5 @@
   <string name="miui_aesthetics_a_data_format">dd M EEE</string>
   <string name="miui_pad_c_date">d.M</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абраць</string>
+  <string name="kg_function_wallpaper_pinch_to_zoom">Маштабуйце і панарамуйце двума пальцамі</string>
 </resources>

@@ -12151,7 +12151,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="block_no_connected_devices">Няма падлучаных прылад</string>
   <string name="icon_display_customization_action">Налада адлюстравання абразкоў</string>
   <string name="minors_control_title">Рэжым дзіцячай бяспекі</string>
-  <string name="natural_scroll_summary">Кантэнт пракручваецца разам з пальцам</string>
+  <string name="natural_scroll_summary">Старонка пракручваецца ў напрамку жэсту</string>
   <string name="setting_alarm_clock_title">Будзільнік</string>
   <string name="setting_hotspot_title">Пункт доступу</string>
   <string name="setting_location_title">Службы месцазнаходжання</string>
@@ -13239,4 +13239,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="zen_modes_summary">{count,plural, =0{Не турбаваць}=1{{mode_1}}=2{{mode_1}, {mode_2}}one{{mode_1}, {mode_2}, {mode_3}}few{{mode_1}, {mode_2}, {mode_3}}many{{mode_1}, {mode_2}, {mode_3}}other{{mode_1}, {mode_2}, {mode_3}}}</string>
   <string name="zen_modes_summary_some_active">{count,plural,offset:2 =0{}=1{Рэжым \"{mode_1}\" актыўны}=2{Рэжымы \"{mode_1}\" і \"{mode_2}\" актыўныя}=3{Рэжымы \"{mode_1}\", \"{mode_2}\" і \"{mode_3}\" актыўныя}one{Рэжымы \"{mode_1}\", \"{mode_2}\" і яшчэ # актыўныя}few{Рэжымы \"{mode_1}\", \"{mode_2}\" і яшчэ # актыўныя}many{Рэжымы \"{mode_1}\", \"{mode_2}\" і яшчэ # актыўныя}other{Рэжымы \"{mode_1}\", \"{mode_2}\" і яшчэ # актыўныя}}</string>
   <string name="zone_auto_title_summary">Задаваць аўтаматычна па дадзеных бліжэйшых мабільных сетак</string>
+  <string name="smart_storage_backup_title">Разумнае сховішча Xiaomi</string> 
+  <string name="smart_storage_summary">Стварыце рэзервовую копію прылады або адновіце дадзеныя з дапамогай разумнага сховішча</string> 
+  <string name="smart_storage_title">Разумнае сховішча</string> 
+  <string name="wifi_connect_successful_talkback">Паспяхова падключана да сеткі %s</string>
 </resources>

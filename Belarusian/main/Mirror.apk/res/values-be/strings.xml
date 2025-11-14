@@ -741,7 +741,7 @@
   <string name="trust_bind_unlock_title_iphone">Дазволіць iPhone разблакіраваць гэтую прыладу</string>
   <string name="trust_bind_unlock_title_mac">Дазволіць Mac разблакіраваць гэтую прыладу</string>
   <string name="trust_bind_unlock_title_pad">Дазволіць планшэту разблакіраваць гэтую прыладу</string>
-  <string name="trust_fingerlock_auth">Дайце дазволы на вашым тэлефоне</string>
+  <string name="trust_fingerlock_auth">На вашым тэлефоне дазвольце планшэту разблакаваць Працоўны стол+</string>
   <string name="trust_fingerlock_auth_cancel">Адмена</string>
   <string name="trust_fingerlock_auth_cancel_toast">Адменена</string>
   <string name="trust_fingerlock_auth_overtime_retry">Час запыту скончыўся. Паспрабуйце яшчэ раз.</string>
@@ -775,4 +775,5 @@
   <string name="trust_risk_security_subtitle">Выяўлены рызыка бяспекі. Увядзіце пароль экрана на %1$s для пацверджання асобы.</string>
   <string name="island_default_market_name_other_laptop">Ноўтбук</string>
   <string name="island_disconnected_button">Адключыць</string>
+  <string name="transferring">Перадача файлаў. Заставайцеся на гэтай старонцы.</string>
 </resources>

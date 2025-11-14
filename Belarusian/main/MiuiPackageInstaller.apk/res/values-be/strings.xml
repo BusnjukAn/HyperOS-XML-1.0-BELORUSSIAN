@@ -132,7 +132,7 @@
   <string name="default_net_loading">Загрузка, пачакайце</string>
   <string name="default_reason_list1">Праграмы нельга ўсталёўваць не з крамы праграм</string>
   <string name="default_reason_list2">Няма ніякай розніцы, ці ўключаная яна ці не</string>
-  <string name="default_reason_list3">Занадта складана ўводзіць пароль кожны раз пры ўсталёўцы</string>
+  <string name="default_reason_list3">Пацвярджаць кожную ўсталёўку нязручна</string>
   <string name="default_reason_list4">Немагчыма загрузіць і ўсталяваць неабходныя праграмы</string>
   <string name="default_reason_list5">Адзіночная аўтарызацыя не ўдалася</string>
   <string name="detect_risk">Выяўлены рызык</string>
@@ -202,7 +202,7 @@
   <string name="face_verify_retry_tips">Націсніце і паспрабуйце яшчэ раз</string>
   <string name="fingerprint_authrioze_done">Праверана паспяхова</string>
   <string name="fingerprint_authrioze_retry">Паспрабаваць яшчэ раз</string>
-  <string name="fingerprint_authrioze_tips">Дакраніцеся пальцам да датчыка</string>
+  <string name="fingerprint_authrioze_tips">Пацвердзіце адбітак пальца</string>
   <string name="fingerprint_authrioze_too_many_times">Занадта шмат няўдалых спроб. Замест гэтага праверце блакаванне экрана.</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -224,8 +224,8 @@
   <string name="friday_short">Птн</string>
   <string name="friday_shortest">Птн</string>
   <string name="general_mode_setting">Налада агульнага рэжыму</string>
-  <string name="general_mode_setting_subtitle">Абарона ад небяспечных праграм, абарона канфідэнцыяльнасць і бяспека</string>
-  <string name="general_mode_subtitle">Абарона ад небяспечных праграм, абарона канфідэнцыйнасці</string>
+  <string name="general_mode_setting_subtitle">Абарона ад небяспечных праграм, абарона прыватнасці і бяспека</string>
+  <string name="general_mode_subtitle">Абарона ад небяспечных праграм і парушэнняў прыватнасці</string>
   <string name="general_mode_title">Агульны рэжым</string>
   <string name="get_the_app_through_mi_app_store">Атрыманне праграм з крамы праграм Xiaomi дапамагае забяспечыць бяспеку вашай прылады</string>
   <string name="give_up">Адмовіцца</string>
@@ -233,9 +233,9 @@
   <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="ignore_virus_install_text">Я разумею усе магчымыя рызыкі. %1$s</string>
   <string name="ignore_virus_install_text_clickable">Усталяваць</string>
-  <string name="install_abi_error">Гэта праграма несумяшчальна з 32-бітнай архітэктурай</string>
-  <string name="install_abi_error_des">Усталюйце замест гэтага 32-бітную версію гэтай праграмы</string>
-  <string name="install_abi_error_des_market">Вы можаце перайсці ў краму праграм Xiaomi, каб загрузіць і ўсталяваць 32-бітную версію праграмы</string>
+  <string name="install_abi_error">Гэтая праграма выкарыстоўвае %1$d-бітную архітэктуру і несумяшчальная з %1$d-бітнай.</string>
+  <string name="install_abi_error_des">Усталюйце %1$d-бітную версію гэтай праграмы.</string>
+  <string name="install_abi_error_des_market">Спампуйце %1$d-бітную версію гэтай праграмы з GetApps.</string>
   <string name="install_app_loading">Праверка усталявальнага пакета...</string>
   <string name="install_completed_pure_open_tip_title">Уключыце Mi Абарону, каб заблакаваць небяспечныя праграмы і захаваць прыватнасць</string>
   <string name="install_package_error">Усталявальны пакет несумяшчальны з вашай сістэмай</string>
@@ -431,7 +431,7 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Пераключыцца ў рэжым уводу \"Тэкст\"</string>
   <string name="mtrl_picker_toggle_to_year_selection">Дакраніцеся, каб пераключыцца на выбар года</string>
   <string name="mtrl_timepicker_confirm">ОК</string>
-  <string name="net_work_error_msg">Не атрымалася падлучыцца да сеткі для запуску праверкі бяспекі</string>
+  <string name="net_work_error_msg">Адбылася памылка сеткі. Не ўдалося праверыць гэтую праграму.</string>
   <string name="net_work_error_retry">Паўтарыць</string>
   <string name="night">Вечар</string>
   <string name="no_check_risk">Пагрозы не знойдзены</string>
@@ -763,9 +763,9 @@
   <string name="safe_mode_in_service">Mi Абарона ўключана</string>
   <string name="safe_mode_introduce_close_tip">Выключыць</string>
   <string name="safe_mode_introduce_close_tip_des">Mi Абарона не зможа забяспечыць бяспеку вашай прылады. Магчымы рызыкі, будзьце асцярожныя.</string>
-  <string name="safe_mode_tip_title_off_msg">Mi Абарона выключана</string>
+  <string name="safe_mode_tip_title_off_msg">Уключыце Mi Абарону</string>
   <string name="safe_mode_tip_title_on_msg">Mi Абарона</string>
-  <string name="safe_mode_title_text">Mi Абарона</string>
+  <string name="safe_mode_title_text">Уключыце Mi Абарону</string>
   <string name="safe_version_install">Бяспечная версія</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
@@ -862,7 +862,7 @@
   <string name="settings">Налады</string>
   <string name="settings_security_mode_recent_install_app">Усталёўка: %1$s</string>
   <string name="settings_security_mode_service_list_title_off_msg">Mi Абарона дае наступныя магчымасці</string>
-  <string name="settings_security_mode_service_list_title_on_msg">Бяспечны рэжым дае наступныя магчымасці</string>
+  <string name="settings_security_mode_service_list_title_on_msg">Уключаюцца наступныя сэрвісы…</string>
   <string name="settings_security_mode_service_msg_0">Новыя меры абароны ад махлярства і прыватнасці</string>
   <string name="settings_security_mode_service_msg_1">Забарона усталёўкi небяспечных праграм з невядомых крыніц</string>
   <string name="settings_security_mode_service_msg_2">Кантроль і абмежаванне шкоднаснай актыўнасці праграмыў</string>
@@ -958,7 +958,7 @@
   <string name="the_united_nations_day">Дзень Арганізацыі Аб\'яднаных Нацый</string>
   <string name="the_valentines_day">Дзень святого Валянціна</string>
   <string name="the_water_lantern_festival">Свята водных ліхтароў</string>
-  <string name="thirty_days_no_asking">Ніякіх запытаў на працягу 30 дзён</string>
+  <string name="thirty_days_no_asking">Не нагадваць на працягу %1$d дзён</string>
   <string name="this_installation">Гэтая ўсталёўка</string>
   <string name="thursday">Чацвер</string>
   <string name="thursday_short">Чац</string>
@@ -998,7 +998,7 @@
   <string name="untrusted_external_source_title">Дазволіць ўсталеўку з \"%1$s\"?</string>
   <string name="untrusted_external_source_warning_summary">Прылада і асабістыя дадзеныя могуць быць уразлівыя для нападаў праграм, устаноўленых з невядомых крыніц. Дазваляючы ўсталеўку праграмы з гэтай крыніцы, вы прымаеце на сябе адказнасць за любы шкоду або страту дадзеных, якія могуць паўстаць пры яе выкарыстанні.</string>
   <string name="update_start">Працягнуць</string>
-  <string name="uri_no_permission">Немагчыма прачытаць файл, адмоўлена ў дазволе</string>
+  <string name="uri_no_permission">Няма дазволаў. Не ўдалося атрымаць доступ да файла.</string>
   <string name="user_is_not_allowed_dlg_text">У бягучага карыстальніка адсутнічае дазвол на выдаленне.</string>
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
@@ -1021,7 +1021,7 @@
   <string name="wednesday_shortest">Сер</string>
   <string name="welcome_to_security_mody">Сардэчна запрашаем у Mi Абарону</string>
   <string name="what_is_security_mode">Што такое Mi Абарона?</string>
-  <string name="xiaomi_account_risk">Па паролю Xiaomi акаўнта</string>
+  <string name="xiaomi_account_risk">Пароль Xiaomi акаўнта</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не цяпер</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
@@ -1092,7 +1092,7 @@
   <string name="single_authorize">Аднаразовая аўтарызацыя</string>
   <string name="sure">ОК</string>
   <string name="sure_close_enhance_safe_guard">Вы ўпэўненыя, што жадаеце адключыць узмоцненую абарону?</string>
-  <string name="sure_close_enhance_safe_guard_des">Каб забяспечыць бяспеку вашага мабільнага тэлефона, узмоцненая абарона можа адфільтроўваць праграмы, якія не прайшлі праверку бяспекі ў краме праграм Xiaomi, і абараняць кожную зробленую вамі ўсталёўку!</string>
+  <string name="sure_close_enhance_safe_guard_des">Пашыраная абарона дапамагае абараніць прыладу, блакуючы праграмы, якія не прайшлі праверку GetApps.</string>
   <string name="unrecorded_app_dialog_tips_clickable_msg_default">Азнаёмцеся з палітыкай рэгістрацыі</string>
   <string name="unrecorded_app_dialog_tips_help">Калі вы давяраеце гэтай праграме, перайдзіце ў правы верхні кут \" ︙ > Аднаразовая аўтарызацыя\", каб дазволіць гэту ўсталёўку</string>
   <string name="unrecorded_app_dialog_tips_msg_default">Гэта праграма не была зарэгістравана ў адпаведнасці з патрабаваннямі палітыкі. Калі вашы інтарэсы будуць парушаны, магчыма, вы не зможаце звязацца з распрацоўшчыкам гэтай праграмы. Калі ласка, усталёўвайце з асцярожнасцю!</string>
@@ -1129,7 +1129,7 @@
   <string name="full_safe_enhance_mode_summary">Падтрымліваецца толькі ўсталёўка праграм з крамы Xiaomi</string>
   <string name="full_safe_install_risk_source_dialog_safe_title_des">Гэта крыніца ўсталёўкі мае высокі рызык: пашкоджвае працу сістэмы. Рэкамендуецца ўсталёўваць праграму праз іншыя бяспечныя каналы!</string>
   <string name="full_safe_install_source_dialog_safe_title_des">Дазваляе ўсталёўваць праграмы з гэтай крыніцы, а прылада і бяспека асабістай прыватнасці ўразлівыя да невядомых рызык.</string>
-  <string name="full_safe_protect_guide_message">Пры ўсталёўцы праграм праз крыніцы, якія не належаць краме Xiaomi, такія як браўзеры, вы будзеце атрымліваць напаміны аб бяспецы, каб прадухіліць выпадковую ўсталёўку рызыкоўных праграм. Рэкамендуецца ўключыць.</string>
+  <string name="full_safe_protect_guide_message">Пры ўсталёўцы праграм не з GetApps вы атрымаеце папярэджанне бяспекі. Перайдзіце ў больш высокі рэжым Mi Абароны для лепшай абароны.</string>
   <string name="full_safe_protect_title">Абарона ўсталёўкі праграмы</string>
   <string name="full_safe_version_update_known_button_text">Я ведаю</string>
   <string name="full_safe_version_update_tip_bottom">*Прыходзьце і паспрабуйце~</string>
@@ -1321,7 +1321,7 @@
   <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
   <string name="miuix_progressbar_loading">Секундку...</string>
   <string name="miuix_show_password">Паказаць пароль</string>
-  <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
+  <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
   <string name="negative_number_talkback">Адмоўнае %1$d</string>
   <string name="safe_mode_tip_arrow_talkback">Націсніце, каб адкрыць налады Mi Абароны</string>
@@ -1334,4 +1334,91 @@
   <string name="passport_third_sns_service_unavailable">Служба недаступная. Упэўніцеся, што праграма ўсталявана і не заблакавана.</string>
   <string name="environment_indicator_text">%1$s сервер\n%2$s</string>
   <string name="text_input_layout_default_error">Гэта памылка па змаўчанні</string>
+  <string name="advanced_mode_intro">Падтрымліваюцца толькі праграмы, усталяваныя з GetApps пасля праверкі асобы</string>
+  <string name="app_uninstall_ensure">Выдаліць</string>
+  <string name="blocked_by_advanced_mode_dialog_content">Уключаны Ўзмоцнены рэжым. Можна ўсталёўваць толькі праграмы, якія прайшлі праверку бяспекі ў GetApps.</string>
+  <string name="blocked_by_advanced_mode_dialog_positive">Шукаць у GetApps</string>
+  <string name="blocked_by_advanced_mode_dialog_tip">Уключаны Ўзмоцнены рэжым</string>
+  <string name="blocked_by_advanced_mode_dialog_title">Папярэджанне бяспекі</string>
+  <string name="close_safe_mode_after_security_auth">Пацвердзіце для выключэння</string>
+  <string name="close_safe_mode_dialog_comment">Ваш (click)водгук(/click) дапаможа нам стаць лепш.</string>
+  <string name="close_safe_mode_dialog_message_1000">Выключэнне Mi Абароны спыніць абарону ад рызыкоўных праграм і можа паставіць прыладу пад пагрозу.</string>
+  <string name="close_safe_mode_dialog_message_2000">Выключэнне Mi Абароны спыніць абарону ад рызыкоўных праграм. Калі ўзнікнуць праблемы з усталёўкай, пераключыцеся ў базавы рэжым.</string>
+  <string name="close_safe_mode_dialog_message_3000">"Выключэнне Mi Абароны спыніць абарону ад рызыкоўных праграм. Калі ў вас узнікнуць наступныя праблемы, перайдзіце ў пашыраны рэжым:
+1. Усталёўкі з GetApps будуць патрабаваць пацвярджэння.
+2. Праграмы не з GetApps нельга будзе ўсталяваць."</string>
+  <string name="close_safe_mode_dialog_title">Выключыць Mi Абарону?</string>
+  <string name="default_reason_list6">Праверка занадта складаная і цяжкая для выканання</string>
+  <string name="enhance_mode_intro_new">Для ўсталёўкі невядомых праграм патрабуецца аўтарызацыя</string>
+  <string name="enhance_safe_guard_title_new">Заставайцеся пад абаронай з новай Mi Абаронай</string>
+  <string name="enhance_safe_guard_update_advice">Рэкамендуецца</string>
+  <string name="enhance_safe_mode_new">Mi Абарона — пашыраны рэжым</string>
+  <string name="enhance_safe_mode_open_description_new">Для ўсталёўкі невядомых праграм патрабуецца аўтарызацыя, каб абараніць вас ад вірусаў і рызыкоўных праграм.</string>
+  <string name="full_safe_advanced_beta_version_update_tips_msg">"Перыяд бэта-тэставання: %2$d/%1$d–%4$d/%3$d
+1. Mi Абарона цяпер — Mi Абарона (Базавы рэжым).
+2. Пашыраная абарона цяпер — Mi Абарона (Пашыраны рэжым).
+3. Ацэніце поўную, палепшаную бяспеку падчас бэта-тэставання абноўленай Mi Абароны (Ўзмоцнены рэжым)."</string>
+  <string name="full_safe_advanced_beta_version_update_tips_title">Бэта-тэст Mi Абароны</string>
+  <string name="full_safe_advanced_version_update_tips_msg">"Мы абнаўляем Mi Абарону! Што новага:
+1. Mi Абарона цяпер — Mi Абарона (Базавы рэжым).
+2. Пашыраная абарона цяпер — Mi Абарона (Пашыраны рэжым).
+3. Атрымайце палепшаную бяспеку з абноўленай Mi Абаронай (Ўзмоцнены рэжым)."</string>
+  <string name="full_safe_advanced_version_update_tips_title">Абнаўленне Mi Абароны</string>
+  <string name="high_risk_dialog_hint_title">Увага</string>
+  <string name="high_risk_dialog_network_error_msg">Бягучае сеткавае злучэнне нестабільнае. Каб пазбегнуць магчымых рызык, падключыцеся да інтэрнэту перад усталёўкай праграмы.</string>
+  <string name="install_hint_enhanced_mode_hint_desc_new">Уключана Mi Абарона — пашыраны рэжым. Гэтая праграма заменена версіяй, якая прайшла праверку бяспекі. Калі вы ўсё ж хочаце ўсталяваць гэтую версію, націсніце \"︙\" і выберыце \"Дазволіць адзін раз\".</string>
+  <string name="install_hint_enhanced_mode_hint_new">Mi Абарона</string>
+  <string name="install_hint_network_error_msg">Выяўлены рызыкі. Падключыцеся да сеткі і паспрабуйце зноў.</string>
+  <string name="install_hint_network_error_prohibit_installing_msg">Немагчыма ўсталяваць гэтую праграму праз некалькі рызык бяспекі</string>
+  <string name="install_hint_title">Увага</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="open_safe_mode_advanced">Уключыць</string>
+  <string name="open_safe_mode_enhance">Уключыць</string>
+  <string name="open_safe_mode_enhance_old">Уключыць</string>
+  <string name="open_safe_mode_normal">Уключыць</string>
+  <string name="safe_mode_advanced">Mi Абарона — Ўзмоцнены рэжым</string>
+  <string name="safe_mode_advanced_beta_suffix">Узмоцнены рэжым (Бэта)</string>
+  <string name="safe_mode_advanced_suffix">Узмоцнены рэжым</string>
+  <string name="safe_mode_enhance">Mi Абарона — пашыраны рэжым</string>
+  <string name="safe_mode_enhance_old">Пашыраная абарона</string>
+  <string name="safe_mode_enhance_suffix">Пашыраны рэжым</string>
+  <string name="safe_mode_normal">Mi Абарона — базавы рэжым</string>
+  <string name="safe_mode_normal_suffix">Базавы рэжым</string>
+  <string name="safe_mode_slide_to_other_page_tips_talkback">Правядзіце пальцам па гарызанталі, каб убачыць іншыя рэжымы</string>
+  <string name="security_mode_beta_msg">*Перыяд бэта-тэставання: %2$d/%1$d–%4$d/%3$d</string>
+  <string name="security_mode_feedback_title">Падзяліцеся сваім меркаваннем</string>
+  <string name="settings_security_advanced_mode_service_hint_1">Версія GetApps занадта старая. Абнавіце да апошняй, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="settings_security_advanced_mode_service_msg_1">Падчас усталёўкі патрабуецца пацвярджэнне асобы, каб прадухіліць выпадковыя або несанкцыянаваныя ўсталёўкі</string>
+  <string name="settings_security_advanced_mode_service_msg_2">Можна ўсталёўваць толькі праграмы, якія прайшлі праверку бяспекі GetApps</string>
+  <string name="settings_security_advanced_mode_service_title_1">Праверка ўсталёўкі з GetApps (Узмоцненая абарона)</string>
+  <string name="settings_security_advanced_mode_service_title_2">Абарона ў рэжыме рэальнага часу пры ўсталёўцы праграм (Узмоцненая абарона)</string>
+  <string name="settings_security_enhance_mode_service_msg_1">Для ўсталёўкі праграм, не правераных у GetApps, патрабуецца ручное пацвярджэнне</string>
+  <string name="settings_security_enhance_mode_service_title_1">Абарона ў рэжыме рэальнага часу пры ўсталёўцы праграм (Пашыраная абарона)</string>
+  <string name="settings_security_enhance_mode_service_title_1_old">Абарона пры ўсталёўцы праграм</string>
+  <string name="settings_security_normal_mode_service_msg_1">Падтрымлівае базу дадзеных правераных праграм для ацэнкі ўзроўню рызыкі</string>
+  <string name="settings_security_normal_mode_service_msg_2">Строга кантралюе дазволы, прадухіляючы празмерныя запыты, якія могуць парушыць прыватнасць</string>
+  <string name="settings_security_normal_mode_service_msg_3">Вызначае і абмяжоўвае невядомыя крыніцы ўсталёўкі, прадухіляючы пагрозы ад шкоднасных праграм</string>
+  <string name="settings_security_normal_mode_service_title_1">Вызначэнне рызыкоўных праграм</string>
+  <string name="settings_security_normal_mode_service_title_2">Кіраванне дазволамі прыватнасці</string>
+  <string name="settings_security_normal_mode_service_title_3">Праверка крыніц праграм</string>
+  <string name="super_market_not_support_ios_hint_desc">Версія GetApps занадта старая. Абнавіце да апошняй, каб выкарыстоўваць пашыраную абарону.</string>
+  <string name="sure_degrade_safe_mode_from_advanced_msg">Пасля пераключэння праграмы не з GetApps больш не будуць блакавацца. Гэта можа павялічыць рызыку. Праверка асобы пры ўсталёўцы з GetApps таксама будзе адключана, што павялічыць верагоднасць выпадковых або несанкцыянаваных усталёвак.</string>
+  <string name="sure_degrade_safe_mode_from_enhance_msg">Пасля пераключэння можна будзе ўсталёўваць праграмы, не правераныя ў GetApps, без дазволу. Гэта можа быць небяспечна.</string>
+  <string name="sure_degrade_safe_mode_to_enhance_title">Пераключыцца ў пашыраны рэжым?</string>
+  <string name="sure_degrade_safe_mode_to_normal_title">Пераключыцца ў базавы рэжым?</string>
+  <string name="sure_degrade_safe_mode_to_normal_title_old">Пераключыцца на Mi Абарону?</string>
+  <string name="switch_safe_mode_after_security_auth">Пацвердзіце для пераключэння</string>
+  <string name="switch_to_1000">Перайсці ў базавы рэжым</string>
+  <string name="switch_to_2000">Перайсці ў пашыраны рэжым</string>
+  <string name="toast_down_to_safe_mode_enhance">Пераключана ў пашыраны рэжым</string>
+  <string name="toast_down_to_safe_mode_normal">Пераключана ў базавы рэжым</string>
+  <string name="toast_down_to_safe_mode_normal_old">Пераключана на Mi Абарону</string>
+  <string name="toast_up_to_safe_mode_advanced">Уключаны ўзмоцнены рэжым</string>
+  <string name="toast_up_to_safe_mode_enhance">Уключаны пашыраны рэжым</string>
+  <string name="toast_up_to_safe_mode_enhance_old">Пашыраная абарона ўключана</string>
+  <string name="toast_up_to_safe_mode_normal">Уключана Mi Абарона — базавы рэжым</string>
+  <string name="toast_up_to_safe_mode_normal_old">Mi Абарона ўключана</string>
+  <string name="underscrenn_fingerprint_authrioze_tips">Пацвердзіце адбітак пальца</string>
+  <string name="update_and_exit">Пераключыць</string>
+  <string name="verify_to_sure_switch">Пацвердзіце для пераключэння</string>
 </resources>

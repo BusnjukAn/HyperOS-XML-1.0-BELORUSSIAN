@@ -472,4 +472,10 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="tap_share_send_fail_with_too_many">
+        <item quantity="other">Не атрымалася адправіць. Абрана больш за %d элементаў.</item>
+        <item quantity="one">Не атрымалася адправіць. Абрана больш за %d элемент.</item>
+        <item quantity="few">Не атрымалася адправіць. Абрана больш за %d элемента.</item>
+        <item quantity="many">Не атрымалася адправіць. Абрана больш за %d элементаў.</item>
+    </plurals>
 </resources>

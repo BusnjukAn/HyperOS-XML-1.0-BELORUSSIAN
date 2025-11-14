@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
+  <string name="llm_water_mark_text">Змест згенераваны штучным інтэлектам і прызначаны толькі для даведкі</string>
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="settings_already_open_debug_item_toast">Налады адладкі ўключаны</string>
+  <string name="share_image_title_text_src">Арыгінальны тэкст</string>
+  <string name="share_image_title_text_tra">Тэкст выніку перакладу</string>
+</resources>

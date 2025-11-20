@@ -994,4 +994,20 @@
         <item quantity="other">Не атрымалася адправіць. Агульная колькасць элементаў перавышае %d.</item>
         <item quantity="one">Не атрымалася адправіць. Агульная колькасць элементаў перавышае %d.</item>
     </plurals>
+    <plurals name="video_hours_talkback">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="video_millseconds_talkback">
+        <item quantity="other">%d мiлiсек.</item>
+        <item quantity="one">%d мiлiсек.</item>
+    </plurals>
+    <plurals name="video_minutes_talkback">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
+    <plurals name="video_seconds_talkback">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+    </plurals>
 </resources>

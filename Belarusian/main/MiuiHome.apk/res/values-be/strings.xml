@@ -1312,4 +1312,5 @@
   <string name="miuix_appcompat_action_sheet_default_message">Абраць</string>
   <string name="uninstall_app_reminder_msg">"Я разумею, што выдаленыя дадзеныя праграмы нельга аднавіць"</string>
   <string name="uninstall_app_reminder_toast">"Пацвердзіце, што вы разумееце, што выдаленыя дадзеныя праграмы нельга аднавіць"</string>
+  <string name="wallpaper_zoom_title">Эфекты маштабавання шпалер</string>
 </resources>

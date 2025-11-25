@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Паўгадзіны таму</item>
+    <item quantity="one">Паўгадзіны таму</item>
+    <item quantity="few">Паўгадзіны таму</item>
+    <item quantity="many">Паўгадзіны таму</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="one">Толькі што</item>
+    <item quantity="few">Толькі што</item>
+    <item quantity="many">Толькі што</item>
+    <item quantity="other">Толькі што</item>
+  </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="one">Абраны %d элемент</item>
+    <item quantity="few">Абрана %d элемента</item>
+    <item quantity="many">Абрана %d элементаў</item>
+    <item quantity="other">Абрана %d элементаў</item>
+  </plurals>
+  <plurals name="miuix_indexer_selected">
+    <item quantity="one">Абраны %1$d элемент</item>
+    <item quantity="other">Абрана %1$d элементаў</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="one">1 хвіліну таму</item>
+    <item quantity="few">%d хвілін таму</item>
+    <item quantity="many">%d хвіліны таму</item>
+    <item quantity="other">%d хвілін таму</item>
+  </plurals>
+  <plurals name="pin_maximum_limit_toast">
+    <item quantity="one">Вы можаце дадаць да %1$d элемента. Выдаліце ​​элементы на заднім экране, каб дадаць новыя.</item>
+    <item quantity="other">Вы можаце дадаць да %1$d элементаў. Выдаліце ​​элементы на заднім экране, каб дадаць новыя</item>
+  </plurals>
+</resources>

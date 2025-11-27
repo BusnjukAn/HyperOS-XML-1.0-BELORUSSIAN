@@ -4060,4 +4060,6 @@
   <string name="zen_modes_dialog_done">Гатова</string>
   <string name="zen_modes_dialog_settings">Налады</string>
   <string name="zen_modes_dialog_title">Рэжымы</string>
+  <string name="accessibility_status_bar_stealth">Вы інкогніта</string> 
+  <string name="forget_password_string">Забылі пароль</string>
 </resources>

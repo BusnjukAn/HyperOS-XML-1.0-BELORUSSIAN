@@ -183,4 +183,9 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="fingerprint_authrioze_retry_after_seconds">
+        <item quantity="other">Не ўдалося пацвердзіць ваш адбітак пальца %1$d разоў. Паўтарыце спробу праз %2$d сек.</item>
+        <item quantity="one">Не ўдалося пацвердзіць ваш адбітак пальца %1$d раз. Паўтарыце спробу праз %2$d сек.</item>
+        <item quantity="few">Не ўдалося пацвердзіць ваш адбітак пальца %1$d разы. Паўтарыце спробу праз %2$d сек.</item>
+    </plurals>
 </resources>

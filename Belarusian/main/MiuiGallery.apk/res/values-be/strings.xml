@@ -5100,4 +5100,5 @@
   <string name="video_projection_fail_title">Не атрымалася трансляваць</string>
   <string name="video_seek_finish_talkback">Цяпер у: %1$s %2$s %3$s%4$s</string>
   <string name="vp_app_name">Відэаплэер</string>
+  <string name="merge_pet_album_button_title">Гадаванцы групы</string>
 </resources>

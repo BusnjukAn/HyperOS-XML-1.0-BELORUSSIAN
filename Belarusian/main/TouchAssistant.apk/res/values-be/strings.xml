@@ -309,4 +309,5 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
 </resources>

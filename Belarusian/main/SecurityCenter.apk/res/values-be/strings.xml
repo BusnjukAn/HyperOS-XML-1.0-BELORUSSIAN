@@ -5004,7 +5004,7 @@
   <string name="power_wireless_update_dialog_button">Зразумела</string>
   <string name="power_wireless_update_dialog_message">Зарадзіце сваю прыладу як мінімум да %s, каб мець магчымасць абнавіць прашыўку бесправадной зарадкі.</string>
   <string name="power_wireless_update_dialog_title">Нізкі зарад батарэі</string>
-  <string name="power_wireless_update_driver">Абнаўленне прашыўкі</string>
+  <string name="power_wireless_update_driver">Абнаўленне прашыўкі бесправадной зарадкі</string>
   <string name="power_wireless_update_notification_button">Прагляд</string>
   <string name="power_wireless_update_notification_subtitle">Абнавіце прашыўку, каб павысіць стабільнасць бесправадной зарадкі</string>
   <string name="power_wireless_update_notification_title">Абнаўленне бесправадной зарадкі</string>
@@ -7365,7 +7365,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="pc_smart_charge_pogo_project_dialog_title">Абарона батарэі</string>
   <string name="pc_smart_charge_pogo_project_notification_content">Каб падоўжыць тэрмін службы батарэі, узровень зарада батарэі гэтай прылады не павінен перавышаць бягучы ўзровень пры падлучэнні да аўтамабіля</string>
   <string name="pc_smart_charge_pogo_project_notification_title">Абарона батарэі</string>
-  <string name="pc_smart_charge_title">Разумная зарадка</string>
+  <string name="pc_smart_charge_title">Інтэлектуальная зарадка</string>
   <string name="pc_this_time_charge_full">У гэты раз зарадзіць поўнасцю</string>
   <string name="pc_this_time_charge_full_work">Амаль цалкам зараджана</string>
   <string name="performance_frame_enhance_super_display_tips">Павышаная частата кадраў і суперраздзяляльнасць не могуць працаваць адначасова. Уключэнне аднаго з іх прывядзе да адключэння другога.</string>
@@ -8035,4 +8035,21 @@ Xiaomi Gaming Cooler"</string>
   <string name="security_access_contact_tip">Гэта праграма падтрымлівае Прыватны доступ. Доступ прадастаўляецца толькі да абраных вамі кантактаў — для абароны вашай прыватнасцi.</string>
   <string name="security_access_file_tip">Гэта праграма падтрымлівае Прыватны доступ. Доступ прадастаўляецца толькі да абраных вамі файлаў — для абароны вашай прыватнасцi.</string>
   <string name="security_access_media_tip">Гэта праграма падтрымлівае Прыватны доступ. Доступ прадастаўляецца толькі да абраных вамі фота і відэа — для абароны вашай прыватнасцi.</string>
+  <string name="applock_lock_mode_locked_or_exit_or_wait_summary">Блакаваць праграмы праз %1$d хвіліну пасля таго, як вы сыдзеце, выйдзеце або пераключыцеся на іншую праграму</string>
+  <string name="applock_lock_mode_locked_or_exit_summary">Блакаваць праграмы кожны раз, калі вы выходзіце з ix цi пераключаецеся на іншую праграму</string>
+  <string name="applock_lock_mode_locked_summary">Не патрабаваць праверкі, пакуль прылада не будзе заблакаваная</string>
+  <string name="click_page_to_recognition">Націсніце, каб працягнуць распазнаванне</string>
+  <string name="go_to_setting">Налады</string>
+  <string name="need_input_face">Дадаць дадзеныя аб твары</string>
+  <string name="need_input_face_subtitle">Спачатку дадайце дадзеныя аб твары ў Наладах.</string>
+  <string name="need_input_finger">Дадаць адбітак пальца</string>
+  <string name="need_input_finger_subtitle">Спачатку дадайце свой адбітак пальца ў Наладах.</string>
+  <string name="page_lose_focus_cant_recognition">Не атрымалася праверыць біяметрычныя дадзеныя з-за праблемы</string>
+  <string name="privacy_apps_password_auth_summary">Пацвердзіце сваю асобу перад доступам да схаваных праграм</string>
+  <string name="privacy_apps_password_auth_title">Праверка асобы</string>
+  <string name="search_keyword_firewall_1">Кіраванне падлучэннем да сеткі</string>
+  <string name="search_keyword_firewall_2">Спосаб падлучэння да сеткі</string>
+  <string name="search_keyword_firewall_3">Налады сеткі</string>
+  <string name="sms_guard_alert">Зменена праграма для абмену паведамленнямі па змаўчанні. Праграма Паведамленні ад Xiaomi больш не зможа блакаваць SMS-спам.</string>
+  <string name="reverse_charge_island_title">Зваротная зарадка</string>
 </resources>

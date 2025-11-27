@@ -1493,4 +1493,5 @@
   <string name="lying_use_device_tip">Ляжанне падчас выкарыстання прылады можа прывесці да перанапружання вачэй</string>
   <string name="time_limit_period_summary">Вы ўстанавілі гэты перыяд часу, таму прылада не можа быць выкарыстана</string>
   <string name="time_limit_period_title">Недаступна</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
 </resources>

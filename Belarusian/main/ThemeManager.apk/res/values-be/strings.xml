@@ -2323,7 +2323,7 @@
   <string name="kg_function_button_text_home_pick">Выбраць</string>
   <string name="kg_function_font_filter_type_title">Эфект</string>
   <string name="kg_function_text_omponent_contents">Адлюстраваныя элементы</string>
-  <string name="kg_function_wallpaper_pinch_to_zoom">Сціснуць для павелічэння</string>
+  <string name="kg_function_wallpaper_pinch_to_zoom">Маштабаванне і панарамаванне двума пальцамі</string>
   <string name="kg_gallery_label">Рэдагаваць слайд-шоу</string>
   <string name="kg_gallery_reset_magic_type_tips">Немагчыма ўсталяваць эфекты пры выкарыстанні слайд-шоў шпалер. Адноўлена зыходная выява.</string>
   <string name="kg_giving_up_editing">Адмяніць</string>
@@ -2526,4 +2526,16 @@
   <string name="back_screen_operation_tutorial">Пра задні экран</string>
   <string name="kg_font_filter_color_pale_orange_red">Светлы аранжава-чырвоны</string>
   <string name="rear_screen_service_assistant">Кіраванне заднім экранам</string>
+  <string name="ai_content_no_regenerate">"Нельга выкарыстоўваць элементы, створаныя AІ"</string> 
+  <string name="ai_generate_content_fail_message">Гэты кантэнт можа парушаць нашы правілы. Абярыце новыя фота.</string> 
+  <string name="ai_video_analysis_processing_toast">Аналіз відэа…</string> 
+  <string name="ai_video_not_meet_requirement_dialog_message">Абярыце відэа з чалавекам ці жывёлай і пераканайцеся, што асноўны аб\'ект займае больш за %s кадра.</string> 
+  <string name="ai_video_not_meet_requirement_dialog_message_new">Абярыце відэа з чалавекам ці жывёлай і пераканайцеся, што аб\'ект выразна бачны і не перакрыты.</string> 
+  <string name="ai_video_not_meet_requirement_dialog_title">"Немагчыма згенераваць відэа"</string> 
+  <string name="ai_wallpaper_generate_unsupported_toast">"Гэтыя шпалеры не працуюць з AІ"</string> 
+  <string name="automatic_brightness_adjustment">Наладзьце яркасць аўтаматычна</string> 
+  <string name="rear_screen_brightness_adjustment">Яркасць</string> 
+  <string name="rear_screen_screenshot">Здымак экрана</string> 
+  <string name="rear_screen_service_assistant_new">Кіраванне заднім экранам</string> 
+  <string name="rear_screen_template_upper_limit_old">Выдаліце ​​пункты ў раздзеле \"Налады\" > \"Задні экран\" > \"Персаналізацыя\", каб мець магчымасць дадаваць дадатковыя элементы</string>
 </resources>

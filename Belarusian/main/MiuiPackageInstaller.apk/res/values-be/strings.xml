@@ -1421,4 +1421,10 @@
   <string name="underscrenn_fingerprint_authrioze_tips">Пацвердзіце адбітак пальца</string>
   <string name="update_and_exit">Пераключыць</string>
   <string name="verify_to_sure_switch">Пацвердзіце для пераключэння</string>
+  <string name="auth_reach_limit_switch_method">Занадта шмат няўдалых спроб. Паспрабуйце іншы спосаб праверкі.</string> 
+  <string name="face_authrioze_too_many_times">Не ўдалося выканаць праверку. Паспрабуйце іншы спосаб праверкі.</string> 
+  <string name="miui_failed_session">Праверце крыніцу ўсталёўкі, каб даведацца пра прычыну гэтай праблемы</string> 
+  <string name="miui_failed_session_with_source">Праверце крыніцу ўсталёўкі (%1$s), каб даведацца пра прычыну гэтай праблемы</string> 
+  <string name="verify_switch_hint_hard">Пераключыцеся на іншы спосаб праверкі ў раздзеле \"Налады\" > \"Аўтарызацыя бяспекі\"</string> 
+  <string name="verify_switch_hint_soft">Вы можаце пераключыцца на іншы спосаб праверкі ў раздзеле \"Налады\" > \"Аўтарызацыя бяспекі\"</string>
 </resources>

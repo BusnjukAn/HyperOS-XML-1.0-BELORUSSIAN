@@ -1313,4 +1313,7 @@
   <string name="uninstall_app_reminder_msg">"Я разумею, што выдаленыя дадзеныя праграмы нельга аднавіць"</string>
   <string name="uninstall_app_reminder_toast">"Пацвердзіце, што вы разумееце, што выдаленыя дадзеныя праграмы нельга аднавіць"</string>
   <string name="wallpaper_zoom_title">Эфекты маштабавання шпалер</string>
+  <string name="calendar_date_picker_a11y_next_month">Перайсці на наступны месяц</string> 
+  <string name="calendar_date_picker_a11y_prev_month">Перайсці на папярэдні месяц</string> 
+  <string name="default_folder_title_amazon_apps">Праграмы Amazon</string>
 </resources>

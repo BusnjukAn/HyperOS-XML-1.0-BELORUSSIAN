@@ -396,4 +396,8 @@
   <string name="private_access_select_max_toast">Немагчыма абраць больш кантактаў</string>
   <string name="private_access_text">Іншыя праграмы могуць атрымліваць доступ толькі да абраных вамі кантактаў — для абароны вашай прыватнасцi</string>
   <string name="private_access_title">Прыватны доступ</string>
+  <string name="already_answered">Адказана на iPhone</string>
+  <string name="dialer_devices_from_iphone">Ад %s</string>
+  <string name="rtt_call">Выклік RTT</string>
+  <string name="unknown_details_new_contact_phone_to_mi">Захаваць кантакт на гэтай прыладзе</string>
 </resources>

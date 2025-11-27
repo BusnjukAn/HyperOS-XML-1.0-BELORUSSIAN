@@ -328,4 +328,7 @@
   <string name="miui_pad_c_date">d.M</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абраць</string>
   <string name="kg_function_wallpaper_pinch_to_zoom">Маштабуйце і панарамуйце двума пальцамі</string>
+  <string name="kg_dialog_ai_blocking_for_not_support_wallpaper">Немагчыма выкарыстоўваць AI з гэтымі шпалерамі</string> 
+  <string name="kg_dialog_ai_blocking_for_resolution_too_small">Разрознасць выявы шпалер павінна быць не менш за %1$d×%2$d пікселяў</string>
+  <string name="kg_dialog_ai_blocking_for_too_large">Памер выявы шпалер павінен быць менш за %d МБ</string>
 </resources>

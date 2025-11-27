@@ -1138,7 +1138,7 @@
   <string name="passport_wrong_vcode">Уведзены няправільны код</string>
   <string name="passport_wrong_voice">Уведзены няправільны код</string>
   <string name="permission_camera_description">Для фатаграфавання падчас запісу</string>
-  <string name="photo_description">Фота</string>
+  <string name="photo_description">Выява</string>
   <string name="photo_load_failed">Немагчыма загрузіць фота.</string>
   <string name="preference_group_title_for_ai_setting">AI-функцыі</string>
   <string name="preference_group_title_for_normal_setting">Агульнае</string>
@@ -1168,5 +1168,20 @@
   <string name="action_sheet_title_translate">Выбар мовы</string>
   <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
   <string name="notification_title_SUMMARY_SUCCESS">Зводка створана</string>
-  <string name="tap_share_cloud_file_tip">Спачатку спампуйце выбраныя элементы</string>
+  <string name="tap_share_cloud_file_tip">Спачатку спампуйце абраныя элементы</string>
+  <string name="intelligent_polishing_cant_work_warning_title">Немагчыма выкарыстоўваць разумную апрацоўку</string>
+  <string name="local_funcation_setting">Налады на прыладзе</string>
+  <string name="offline_data_recognize_content">Гэтая функцыя падтрымлівае аўтаматычнае распазнаванне маўлення, рэзюмаванне і пераклад. Вашы дадзеныя не будуць загружаны ў воблака, але выкарыстанне гэтай функцыі можа паўплываць на тэрмін службы батарэі, тэмпературу прылады і прадукцыйнасць.</string>
+  <string name="offline_data_recognize_title">Мадэлі на прыладзе</string>
+  <string name="offline_data_recognize_warning_content">Дадзеныя будуць апрацоўвацца толькі на прыладзе. Разумная апрацоўка будзе недаступная.</string>
+  <string name="offline_data_recognize_warning_title">Разумная апрацоўка будзе недаступная</string>
+  <string name="offline_model_manage">Кіраванне мадэлямі</string>
+  <string name="settings_ai_record_abstract_method_one">Пасля запісу вы можаце праглядзець кароткі змест транскрыпцыі.</string>
+  <string name="settings_ai_record_diff_speaker_method_one">Аўтаматычна вызначаць дакладчыкаў пасля пачатку запісу і групаваць абзацы па дакладчыках.</string>
+  <string name="settings_ai_record_diff_speaker_method_two">Пасля запісу націсніце на назву дакладчыка, каб адкрыць яго старонку. Націсніце %1$s, каб перайменаваць дакладчыка.</string>
+  <string name="settings_ai_record_method">Як карыстацца</string>
+  <string name="settings_ai_record_trans_method_one">Аўтаматычна транскрыбаваць аўдыё пасля пачатку запісу. Вы можаце праглядаць транскрыпцыю ў рэжыме рэальнага часу падчас запісу.</string>
+  <string name="settings_ai_record_translate_method_one">Пасля запісу націсніце %1$s у правым верхнім куце, каб перакласці запіс на іншую мову.</string>
+  <string name="settings_ai_record_view_speeches_method_one">Пасля запісу націсніце на пазнаку дакладчыка, каб праглядзець усе фрагменты яго маўлення.</string>
+  <string name="state_decode_recognize_tip">Падрыхтоўка да транскрыпцыі…</string>
 </resources>

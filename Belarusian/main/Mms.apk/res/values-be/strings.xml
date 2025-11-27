@@ -1991,4 +1991,7 @@
   <string name="miuix_appcompat_action_sheet_default_message">Абраць</string>
   <string name="need_to_discard_message">Скасаваць чарнавік?</string>
   <string name="select_dialog_item_others">Іншае…</string>
+  <string name="consume">%s (Выкарыстоўваць)</string> 
+  <string name="notification_channel_flow_other_name">Сінхранізаваць апавяшчэння iPhone</string> 
+  <string name="verification_code_flow_title">Код пацверджання %1$s</string>
 </resources>

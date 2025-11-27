@@ -333,4 +333,7 @@
   <string name="yesterday">Учора</string>
   <string name="camera_high_spec_recording">Немагчыма запісаць экран падчас запісу відэа ў %1$s</string>
   <string name="tap_to_view">Націсніце для прагляду</string>
+  <string name="cancel">Забараніць</string>
+  <string name="candraw_overlays_permission_text">Дазвольце праграме праграме \"Запіс экрана\" паказваць элементы паверх іншых праграм. Вы можаце даць гэты дазвол у Наладах.</string>
+  <string name="to_open">Налады</string>
 </resources>

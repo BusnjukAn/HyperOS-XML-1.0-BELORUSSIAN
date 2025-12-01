@@ -1181,4 +1181,35 @@
   <string name="recent_one_year_formatted">Мінулы %d год</string> 
   <string name="recent_seven_days_formatted">Мінулыя %d дзён</string> 
   <string name="recent_thirty_days_formatted">Мінулыя %d дзён</string>
+  <string name="close_cellular_summary_pad">Ваша прылада выкарыстоўвае мабільныя дадзеныя з-за сістэмных абмежаванняў. Адключыце мабільныя дадзеныя і зноў падлучыцеся да новай прылады.</string> 
+  <string name="close_cellular_summary_phone">Ваша прылада выкарыстоўвае мабільныя дадзеныя з-за сістэмных абмежаванняў. Адключыце мабільныя дадзеныя і зноў падлучыцеся да новай прылады.</string> 
+  <string name="guest_hint_connect_new_device_pad">Абярыце новую прыладу</string> 
+  <string name="guest_hint_connect_new_device_phone">Абярыце новую прыладу</string> 
+  <string name="install_app_old_title_pad">Адскануйце QR-код для ўсталёўкі Mi Трансфер на старую прыладу</string> 
+  <string name="install_app_old_title_phone">Адскануйце QR-код для ўсталёўкі Mi Трансфер на старую прыладу</string> 
+  <string name="new_trans_intro_desc_2_pad">У новай версіі Mi Трансфер не трэба ўводзіць пароль пункту доступу. Проста адкрыйце Mi Трансфер на старой прыладзе, націсніце \"Я адпраўнік\" і абярыце назву пункту доступу для падлучэння.</string> 
+  <string name="new_trans_intro_desc_2_phone">У новай версіі Mi Трансфер не трэба ўводзіць пароль пункту доступу. Проста адкрыйце Mi Трансфер на старой прыладзе, націсніце \"Я адпраўнік\" і абярыце назву пункту доступу для падлучэння.</string> 
+  <string name="new_trans_intro_desc_6_pad">Дадзеныя праграмы не могуць быць перанесеныя, бо ў Mi Трансфер няма неабходных дазволаў на прыладах іншых вытворцаў.</string> 
+  <string name="new_trans_intro_desc_6_phone">Дадзеныя праграмы не могуць быць перанесеныя, бо ў Mi Трансфер няма неабходных дазволаў на прыладах іншых вытворцаў.</string> 
+  <string name="new_trans_intro_desc_new_pad">%1$d. Пераканайцеся, што Mi трансфер на вашай новай прыладзе абноўлены. Вы можаце спампаваць апошнюю версію Mi Трансфер у GetApps або <Data>&lt;a href=%2$s>націсніце тут&lt;/a></Data>".\n%3$d. Калі пункт доступу па-ранейшаму не адлюстроўваецца ў Mi Трансфер, адкрыйце налады Wi-Fi і праверце, ці адлюстроўваецца ён там. Калі так, вярніцеся ў Mi Трансфер і націсніце на назву пункту доступу."</string> 
+  <string name="new_trans_intro_desc_new_pad_china">%1$d. Пераканайцеся, што Mi трансфер на вашай новай прыладзе абноўлены. Вы можаце спампаваць апошнюю версію Mi Трансфер у GetApps або <Data>&lt;a href=%2$s>націсніце тут&lt;/a></Data>".\n%3$d. Калі пункт доступу па-ранейшаму не адлюстроўваецца ў Mi Трансфер, адкрыйце налады Wi-Fi і праверце, ці адлюстроўваецца ён там. Калі так, вярніцеся ў Mi Трансфер і націсніце на назву пункту доступу."</string> 
+  <string name="new_trans_intro_desc_new_phone">%1$d. Пераканайцеся, што Mi трансфер на вашай новай прыладзе абноўлены. Вы можаце спампаваць апошнюю версію Mi Трансфер у GetApps або <Data>&lt;a href=%2$s>націсніце тут&lt;/a></Data>".\n%3$d. Калі пункт доступу па-ранейшаму не адлюстроўваецца ў Mi Трансфер, адкрыйце налады Wi-Fi і праверце, ці адлюстроўваецца ён там. Калі так, вярніцеся ў Mi Трансфер і націсніце на назву пункту доступу."</string> 
+  <string name="new_trans_intro_desc_new_phone_china">%1$d. Пераканайцеся, што Mi трансфер на вашай новай прыладзе абноўлены. Вы можаце спампаваць апошнюю версію Mi Трансфер у GetApps або <Data>&lt;a href=%2$s>націсніце тут&lt;/a></Data>".\n%3$d. Калі пункт доступу па-ранейшаму не адлюстроўваецца ў Mi Трансфер, адкрыйце налады Wi-Fi і праверце, ці адлюстроўваецца ён там. Калі так, вярніцеся ў Mi Трансфер і націсніце на назву пункту доступу."</string> 
+  <string name="new_trans_intro_question_1_pad">%d. Чаму я не бачу пункт доступу новай прылады на старой?</string> 
+  <string name="new_trans_intro_question_1_phone">%d. Чаму я не бачу пункт доступу новай прылады на старой?</string> 
+  <string name="new_trans_intro_question_3_pad">%d. Чаму піша, што на старой прыладзе нядосыць месцы ў памяці?</string> 
+  <string name="new_trans_intro_question_3_phone">%d. Чаму піша, што на старой прыладзе нядосыць месцы ў памяці?</string> 
+  <string name="new_trans_intro_question_6_pad">%d. Чаму дадзеныя праграм нельга перанесці з прылады іншага вытворцы? </string> 
+  <string name="new_trans_intro_question_6_phone">%d. Чаму дадзеныя праграм нельга перанесці з прылады іншага вытворцы? </string> 
+  <string name="new_trans_intro_question_8_pad">%d. Чаму мая гісторыя WeChat знікла на новай прыладзе?</string> 
+  <string name="new_trans_intro_question_8_phone">%d. Чаму мая гісторыя WeChat знікла на новай прыладзе?</string> 
+  <string name="scanner_quit_alert_message_pad">Калі вы зараз закрыеце Mi Трансфер, вам давядзецца зноў падлучыць дзве прылады. Усё роўна выйсці?</string> 
+  <string name="scanner_quit_alert_message_phone">Калі вы зараз закрыеце Mi Трансфер, вам давядзецца зноў падлучыць дзве прылады. Усё роўна выйсці?</string> 
+  <string name="searching_for_new_device_pad">Пошук новай прылады…</string> 
+  <string name="searching_for_new_device_phone">Пошук новай прылады…</string> 
+  <string name="select_old_device_title_pad">Абярыце тып старой прылады</string> 
+  <string name="select_old_device_title_phone">Абярыце тып старой прылады</string> 
+  <string name="time">Перыяд часу</string> 
+  <string name="trans_install_guide_old_content_first_pad">Адскануйце гэты QR-код старой прыладай, каб спампаваць і ўсталяваць Mi Трансфер.</string> 
+  <string name="trans_install_guide_old_content_first_phone">Адскануйце гэты QR-код старой прыладай, каб спампаваць і ўсталяваць Mi Трансфер.</string>
 </resources>

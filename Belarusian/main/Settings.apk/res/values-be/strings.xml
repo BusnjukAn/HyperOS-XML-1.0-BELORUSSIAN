@@ -13242,5 +13242,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="smart_storage_backup_title">Разумнае сховішча Xiaomi</string> 
   <string name="smart_storage_summary">Стварыце рэзервовую копію прылады або адновіце дадзеныя з дапамогай разумнага сховішча</string> 
   <string name="smart_storage_title">Разумнае сховішча</string> 
-  <string name="wifi_connect_successful_talkback">Паспяхова падключана да сеткі %s</string>
+  <string name="wifi_connect_successful_talkback">Паспяхова падлучана да сеткі %s</string>
+  <string name="glove_mode">Рэжым \"У пальчатках\"</string> 
+  <string name="glove_mode_summary">Уключыце, каб экран хутчэй рэагаваў, калі вы ў пальчатках. Гэтая функцыя не працуе ў гульнях.</string>
 </resources>

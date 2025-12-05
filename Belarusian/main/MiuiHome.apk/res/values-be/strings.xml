@@ -1316,4 +1316,9 @@
   <string name="calendar_date_picker_a11y_next_month">Перайсці на наступны месяц</string> 
   <string name="calendar_date_picker_a11y_prev_month">Перайсці на папярэдні месяц</string> 
   <string name="default_folder_title_amazon_apps">Праграмы Amazon</string>
+  <string name="change_layout_type_dialog_action_negative">Адмена</string>
+  <string name="change_layout_type_dialog_action_positive">Змяніць</string>
+  <string name="change_layout_type_dialog_content_small_search">Ужыванне макета \"%1$s\" адключыць \"Кампактны пошук\", і вашы прыкладанні будуць пераўпарадкаваны.</string>
+  <string name="change_layout_type_dialog_content_super_xiao_ai">Ужыванне макета \"%1$s\" адключыць функцыю \"Спытаць Xiaomi AI\", і вашы праграмы будуць пераўпарадкаваны.</string>
+  <string name="change_layout_type_dialog_title">Змяніць выгляд Працоўнага стала</string>
 </resources>

@@ -658,4 +658,64 @@
         <item quantity="one">Атрымаць %1$d файл</item>
         <item quantity="few">Атрымаць %1$d файла</item>
     </plurals>
+    <plurals name="tapshare_activity_send_describe_note">
+        <item quantity="other">%1$d нататак</item>
+        <item quantity="few">%1$d нататкі</item>
+        <item quantity="one">%1$d нататка</item>
+    </plurals>
+    <plurals name="tapshare_activity_send_describe_soundrecord">
+        <item quantity="other">%1$d запісаў</item>
+        <item quantity="few">%1$d запісы</item>
+        <item quantity="one">%1$d запіс</item>
+    </plurals>
+    <plurals name="tapshare_describe_note">
+        <item quantity="other">%1$d нататак</item>
+        <item quantity="few">%1$d нататкі</item>
+        <item quantity="one">%1$d нататка</item>
+    </plurals>
+    <plurals name="tapshare_describe_soundrecord">
+        <item quantity="other">%1$d запісаў</item>
+        <item quantity="few">%1$d запісы</item>
+        <item quantity="one">%1$d запіс</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_note">
+        <item quantity="other">Атрымана %1$d нататак</item> 
+        <item quantity="one">Атрымана %1$d нататка</item> 
+        <item quantity="few">Атрымана %1$d нататкі</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_soundrecord">
+        <item quantity="other">Атрымана %1$d запісаў</item> 
+        <item quantity="one">Атрымана %1$d запіс</item> 
+        <item quantity="few">Атрымана %1$d запісу</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_note">
+        <item quantity="other">Атрыманне %1$d нататак…</item> 
+        <item quantity="one">Атрыманне %1$d нататкі…</item> 
+        <item quantity="few">Атрыманне %1$d нататак…</item> 
+    </plurals>
+    <plurals name="tapshare_receiving_describe_soundrecord">
+        <item quantity="other">Атрыманне %1$d запісаў…</item> 
+        <item quantity="one">Атрыманне %1$d запісу…</item> 
+        <item quantity="few">Атрыманне %1$d запісаў…</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_note">
+        <item quantity="other">Адправіць %1$d нататак</item> 
+        <item quantity="one">Адправіць %1$d нататку</item> 
+        <item quantity="few">Адправіць %1$d нататкі</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_soundrecord">
+        <item quantity="other">Адправіць %1$d запісаў</item> 
+        <item quantity="one">Адправіць %1$d запіс</item> 
+        <item quantity="few">Адправіць %1$d запісу</item> 
+    </plurals>
+    <plurals name="tapshare_sending_describe_note">
+        <item quantity="other">Адпраўка %1$d нататак…</item> 
+        <item quantity="one">Адпраўка %1$d нататкі…</item> 
+        <item quantity="few">Адпраўка %1$d нататак…</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_soundrecord">
+        <item quantity="other">Адпраўка %1$d запісаў…</item> 
+        <item quantity="one">Адпраўка %1$d запісу…</item> 
+        <item quantity="few">Адпраўка %1$d запісаў…</item> 
+    </plurals>
 </resources>

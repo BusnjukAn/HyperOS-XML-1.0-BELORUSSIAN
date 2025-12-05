@@ -535,7 +535,7 @@
   <string name="share_refuse">Перанос адхілены</string>
   <string name="share_send_notification_describe">Атрымальнік: %1$s</string>
   <string name="sub_title_mishare_switch_mine_desc">Перш чым усталяваць статут атрымання «З гэтага акаўнта», пераканайцеся, што версія сістэмы іншай прылады абноўлена да Xiaomi HyperOS або навейшай, а праграма Абмен файламі абноўлена да версіі 3.0.0 ці навейшай.</string>
-  <string name="transfer_to_different_account_summary_ios" formatted="false">%d. На абедзвюх прыладах (Xiaomi і іншых прыладах Android) неабходна ўключыць Абмен файламі ў Цэнтры кіравання. Вы зможаце атрымліваць файлы ад каго заўгодна на працягу %d хвілін.\n%d. На iPhone і iPad неабходна ўключыць Службы ўзаемазвязнасці Xiaomi і пераканацца, што абедзве прылады падлучаны да адной і той жа лакальнай сеткі.</string>
+  <string name="transfer_to_different_account_summary_ios">%1$d. На абедзвюх прыладах (Xiaomi і іншых прыладах Android) неабходна ўключыць Абмен файламі ў Цэнтры кіравання. Вы зможаце атрымліваць файлы ад каго заўгодна на працягу %2$d хвілін.\n%3$d. На iPhone і iPad неабходна ўключыць Службы ўзаемазвязнасці Xiaomi і пераканацца, што абедзве прылады падлучаны да адной і той жа лакальнай сеткі.</string>
   <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1&gt;%1$d&lt;/xliff:g&gt;. На наўтбуку Xiaomi пераканайцеся, што Xiaomi PC Manager спампаваны, затым уключыце Абмен файламі ў Цэнтры кіравання, каб атрымліваць файлы. Cпіс падтрымліваемых мадэляў кампутараў прыводзіцца &lt;a href=%2$s&gt;тут&lt;/a&gt;.&lt;br&gt;&lt;xliff:g id=mishare_ios_2 refersto=2&gt;%3$d&lt;/xliff:g&gt;. На Mac неабходна ўключыць Службы ўзаемазвязнасці Xiaomi і пераканацца, што абедзве прылады падлучаныя да адной і той жа лакальнай сеткі.</Data></string>
   <string name="guide_operation">Правядзіце двума пальцамі ўлево або ўправа, каб пераключыцца.</string>
   <string name="guide_page" formatted="false">Старонка %d з %d старонак</string>
@@ -674,4 +674,22 @@
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
   <string name="mishare_settings_summary_international_ios">Тэлефоны і планшэты Xiaomi\nПрылады Apple: iPhone, iPad і Mac\nІншыя прылады Android: vivo, realme, OPPO і іншыя абраныя брэнды могуць падтрымліваць гэтую функцыю. Гл. падрабязней на афіцыйным сайце кожнага брэнда.</string>
+  <string name="required_permissions_desc">Для адпраўкі і атрымання файлаў;Для перадачы файлаў па Bluetooth і Wi-Fi;Для пошуку даступных прылад паблізу па Bluetooth;Для пошуку даступных прылад паблізу і перадачы файлаў па Wi-Fi;Для праверкі наяўнасці усталяваных праграм, каб адкрыць іх пасля атрымання дадзеных</string>
+  <string name="tap_share_contact_person_describe">Выкарыстоўвайце \"Перадача дотыкам\" на старонцы звестак аб кантакце або на старонцы выбару, або націсніце \"Падзяліцца\", каб адкрыць меню агульнага доступу.</string> 
+  <string name="tap_share_contact_person_title">Падзяліцца кантактам</string> 
+  <string name="tap_share_file_describe">Выкарыстоўвайце \"Перадача дотыкам\" са старонкі выбару ў дыспетчару файлаў або націсніце \"Адправіць\", каб адкрыць меню агульнага доступу.</string> 
+  <string name="tap_share_file_title">Падзяліцца файламі</string> 
+  <string name="tap_share_game_team_up_describe">Увайдзіце ў групавы пакой у Mobile Legends: Bang Bang, каб выкарыстоўваць \"Перадача дотыкам\". Спачатку абновіце Mobile Legends: Bang Bang да версіі %1$s ці пазнейшай.</string> 
+  <string name="tap_share_game_team_up_title">Гульнявая група</string> 
+  <string name="tap_share_image_and_video_comment">Вы можаце адпраўляць наступныя тыпы кантэнту:</string> 
+  <string name="tap_share_image_and_video_describe">Прагніце выяву цалкам у Галерэі або націсніце і ўтрымлівайце, каб адкрыць старонку выбару для выкарыстання \"Перадача дотыкам\", або націсніце \"Адправіць\", каб адкрыць меню.</string> 
+  <string name="tap_share_image_and_video_title">Падзяліцца фота і відэа</string> 
+  <string name="tap_share_navigation_address_describe">Адкрыйце інфармацыю аб месцазнаходжанні ў Baidu Maps, каб выкарыстоўваць \"Перадача дотыкам\", або націсніце \"Падзяліцца\", каб адкрыць меню. Спачатку абновіце Baidu Maps да версіі %1$s ці пазнейшай.</string> 
+  <string name="tap_share_navigation_address_title">Падзяліцца адрасам навігацыі</string> 
+  <string name="tap_share_network_page_describe">Адкрыйце вэб-старонку ў Mi Браўзэр, каб выкарыстоўваць \"Перадача дотыкам\", або націсніце \"Падзяліцца\", каб адкрыць меню агульнага доступу.</string> 
+  <string name="tap_share_network_page_title">Падзяліцца вэб-старонкай</string> 
+  <string name="tap_share_wifi_password_describe">Каб падзяліцца сеткай Wi-Fi, да якой вы падключаны, адкрыйце спіс сетак Wi-Fi, каб выкарыстоўваць \"Перадача дотыкам\", або націсніце на падлучаную сетку Wi-Fi, каб адкрыць меню агульнага доступу.</string> 
+  <string name="tap_share_wifi_password_describe_china">Каб падзяліцца сеткай Wi-Fi, да якой вы падключаны, адкрыйце спіс сетак Wi-Fi, каб выкарыстоўваць \"Перадача дотыкам\", або націсніце на падлучаную сетку Wi-Fi, каб адкрыць меню агульнага доступу.</string> 
+  <string name="tap_share_wifi_password_title">Падзяліцца паролем Wi-Fi</string> 
+  <string name="tap_share_wifi_password_title_china">Падзяліцца паролем Wi-Fi</string>
 </resources>

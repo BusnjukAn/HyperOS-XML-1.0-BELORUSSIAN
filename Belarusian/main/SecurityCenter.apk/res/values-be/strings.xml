@@ -6448,7 +6448,7 @@
   <string name="pc_high_temp_protection_noti_tile">Ваша прылада перагрэлася</string>
   <string name="pc_temperature_too_high">Прылада перагрэлася</string>
   <string name="pc_wait_device_cools_down">Пачакайце, пакуль ваша прылада астыне, каб выкарыстоўваць гэтую функцыю.</string>
-  <string name="permission_instruction_shake">Гэты дазвол дазваляе праграмам адсочваць арыентацыю і рух вашай прылады (напрыклад, трасяніну, нахіл і кручэнне)</string>
+  <string name="permission_instruction_shake">Гэты дазвол дазваляе праграмам адсочваць арыентацыю і рух вашай прылады (напрыклад, трасяніну, нахіл і кручэнне), а таксама выкарыстоўваць гульнявыя элементы кіравання і навігацыю па карце.</string>
   <string name="power_settings_firmware_update_title">Абнаўленні прашыўкі</string>
   <string name="storage_system_other_tip_new">Уключае прастору для захоўвання, неабходную для працы сістэмы і абнаўленняў. Памер гэтай часткі будзе мяняцца ў залежнасці ад стану сістэмы.</string>
   <string name="vb_video_effects_immersion_sound">Імерсіўны гук</string>
@@ -7946,13 +7946,13 @@ Xiaomi Gaming Cooler"</string>
   <string name="pc_smart_charge_notify_summary_night_pause_charge">Зарадка прыпынена ў %1$s. Яна адновіцца ў %2$s.</string>
   <string name="pc_smart_charge_notify_summary_night_start_charge">Зарадка прыпыніцца пры дасягненні %1$s і аўтаматычна адновіцца ў залежнасці ад вашага выкарыстання</string>
   <string name="pc_this_time_charge_full_now">Зарадзіць да 100%</string>
-  <string name="pp_agent_app_ctl_title">Дазволіць \"%s\" кіраваць наступнымі праграмамі</string>
+  <string name="pp_agent_app_ctl_title">Дазволіць \"%s\" кіраваць гэтымі праграмамі</string>
   <string name="pp_agent_request_screen_ctl_app_title">Уключыць AI-кіраванне для %s</string>
   <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Калі гэтая функцыя ўключана, %1s зможа кіраваць %2s.</string>
   <string name="pp_agent_request_screen_ctl_title">Уключыць AI-кіраванне</string>
   <string name="pp_agent_request_screen_info_title">Уключыць распазнаванне экрана AI</string>
   <string name="pp_agent_screen_ctl">AI-кіраванне</string>
-  <string name="pp_agent_screen_ctl_app_disable" formatted="false">\"%1s\" не можа кіраваць \"%2s\"</string>
+  <string name="pp_agent_screen_ctl_app_disable">%1$s зараз не можа кіравацца %2$s.</string>
   <string name="pp_agent_screen_ctl_desc">Калі гэтая функцыя ўключана, %s можа дапамагчы вам кіраваць праграмамі на гэтай прыладзе.</string>
   <string name="pp_agent_screen_info">Распазнаванне экрана AI</string>
   <string name="pp_agent_screen_info_desc">Калі гэтая функцыя ўключана, %s можа распазнаваць і атрымліваць доступ да змесціва вашага экрана ў рэальным часе.</string>
@@ -8052,4 +8052,25 @@ Xiaomi Gaming Cooler"</string>
   <string name="search_keyword_firewall_3">Налады сеткі</string>
   <string name="sms_guard_alert">Зменена праграма для абмену паведамленнямі па змаўчанні. Праграма Паведамленні ад Xiaomi больш не зможа блакаваць SMS-спам.</string>
   <string name="reverse_charge_island_title">Зваротная зарадка</string>
+  <string name="confirm_reject_all_permission_only_opening_screen">Абмежаваць гэты дазвол пры запуску праграмы для ўсіх праграм?</string> 
+  <string name="game_toolbox_smart_charge_title">Разумная зарадка</string> 
+  <string name="msg_only_opening_screen">Доступ будзе абмежаваны на працягу першых %d секунд пасля запуску праграмы</string> 
+  <string name="perm_disable_dialog_message">Дазвол гэтай праграмы (%1$s) не прайшоў праверку.</string> 
+  <string name="perm_disable_dialog_title">Дазволы абмежаваныя</string> 
+  <string name="perm_disable_note_text">Гэты дазвол не прайшоў праверку і цяпер абмежаваны: %1$s</string> 
+  <string name="perm_manage_external_storage">Доступ да ўсіх файлаў</string> 
+  <string name="perm_manage_zen_modes_access">Доступ да рэжымаў</string> 
+  <string name="permission_only_opening_screen">Абмежаваць доступ падчас запуску праграмы</string> 
+  <string name="pp_agent_app_ctl_manager">Кіраванне інтэлектуальным кіраваннем AI</string> 
+  <string name="pp_agent_app_ctl_manager_desc">Кіраванне праграмамі, якімі можа кіраваць %s</string> 
+  <string name="pp_agent_request_screen_info_app_title">Уключыць \"Распазнаванне экрана AI\" для %s</string> 
+  <string name="pp_agent_request_screen_info_app_title_msg">Калі гэтая функцыя ўключаная, %1$s можа атрымаць доступ да змесціва экрана %2$s</string> 
+  <string name="pp_agent_request_screen_info_app_title_msg_setting">Уключыце \"Распазнаванне экрана AI\" для %s у наладах каб працягнуць. Уключыць зараз?</string> 
+  <string name="pp_agent_request_screen_info_app_title_setting">Патрабуюцца дазволы</string> 
+  <string name="pp_agent_request_screen_info_positive_button_setting">Уключыць</string> 
+  <string name="pp_agent_screen_info_app_disable" formatted="false">%2s не можа распазнаць змесціва экрана %1s зараз</string> 
+  <string name="pp_agent_screen_info_manager">Кіраванне распазнаннем экрана AI</string> 
+  <string name="pp_agent_screen_info_manager_desc">Кіраванне праграмамі, якія %s можа распазнаваць на экране</string> 
+  <string name="pp_agent_screen_info_title">Дазволіць %s распазнаваць змесціва ў гэтых праграмых</string> 
+  <string name="reject_only_opening_screen">Абмежаваць доступ да ўсіх праграм падчас запуску</string>
 </resources>

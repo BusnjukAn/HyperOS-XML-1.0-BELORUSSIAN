@@ -4060,5 +4060,6 @@
   <string name="zen_modes_dialog_done">Гатова</string>
   <string name="zen_modes_dialog_settings">Налады</string>
   <string name="zen_modes_dialog_title">Рэжымы</string>
-  <string name="accessibility_status_bar_stealth">Вы інкогніта</string> 
+  <string name="accessibility_status_bar_stealth">Вы інкогніта</string>
+  <string name="lockscreen_reverse_charging_msg">Зваротная зарадка</string>
 </resources>

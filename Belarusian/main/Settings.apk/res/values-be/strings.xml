@@ -10400,7 +10400,7 @@
   <string name="wifi_wakeup_negative_button">Адмена</string>
   <string name="wifi_wakeup_positive_button">Уключыць</string>
   <string name="wifi_wakeup_scan_summary">Дазволіць праграмам і службам шукаць сеткі Wi-Fi, каб мець магчымасць аўтаматычна ўключаць Wi-Fi. Уключэнне гэтай функцыі дазволіць вашай прыладзе аўтаматычна падлучацца да захаваных сетак паблізу.</string>
-  <string name="wifi_wakeup_summary">Wi-Fi будзе ўключацца аўтаматычна побач з захаванымі высакаякаснымі сеткамі, напрыклад вашай дамашняй сеткай</string>
+  <string name="wifi_wakeup_summary">Wi-Fi будзе аўтаматычна актывавацца пры знаходжанні ў зоне дзеяння захаванай сеткі Wi-Fi</string>
   <string name="wifi_wakeup_summary_no_location">Недаступна, таму што выключана вызначэнне месцазнаходжання. Уключыце <annotation id="link">Вызначаць месцазнаходжанне</annotation>.</string>
   <string name="wifi_wakeup_title">Уключыць дадатковыя функцыі</string>
   <string name="wifi_wapi_as_cert">AS сертыфікат</string>
@@ -13245,4 +13245,6 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="wifi_connect_successful_talkback">Паспяхова падлучана да сеткі %s</string>
   <string name="glove_mode">Рэжым \"У пальчатках\"</string> 
   <string name="glove_mode_summary">Уключыце, каб экран хутчэй рэагаваў, калі вы ў пальчатках. Гэтая функцыя не працуе ў гульнях.</string>
+  <string name="eyes_protect_certification_summary_5">Спецыяльная кампенсацыя SVM Xiaomi падтрымлівае SVM ніжэй за 1 пры любой яркасці для больш камфортнага прагляду</string> 
+  <string name="eyes_protect_certification_title_5">PWM-рэгуляванне яркасці 3840 Гц</string>
 </resources>

@@ -626,7 +626,7 @@
   <string name="offline_call_notification_broadcast_location">Афлайн-сувязь Xiaomi перадае дадзеныя аб вашым месцазнаходжанні</string>
   <string name="offline_call_notification_broadcast_start">Вядзецца афлайн-сувязь Xiaomi</string>
   <string name="offline_call_remove">Выдаліць</string>
-  <string name="offline_call_settings_summary">Звязвацца з бліжэйшымі тэлефонамі Xiaomi у аўтаномным рэжыме, калі Bluetooth уключаны на абедзвюх прыладах</string>
+  <string name="offline_call_settings_summary">Зносіны з бліжэйшымі тэлефонамі Xiaomi у рэжыме афлайн, пакуль Bluetooth уключаны на абедзвюх прыладах</string>
   <string name="offline_call_settings_title">Афлайн-сувязь Xiaomi</string>
   <string name="offline_call_show_location_title">Падзяліцца маім месцазнаходжаннем з людзьмі паблізу</string>
   <string name="offline_chat_summary">"Майце зносіны з кантактамі паблізу праз Bluetooth, калі няма падлучэння да Інтэрнэту. Гэтая функцыя не падтрымлівае выкарыстанне навушнікаў Bluetooth падчас выклікаў."</string>
@@ -732,7 +732,7 @@
   <string name="offline_call_create_shortcut_success">Паспяхова дададзена</string>  
   <string name="offline_call_repeatedly_create_shortcut">Гэты цэтлiк ужо існуе</string>  
   <string name="offline_call_shortcut_display">Дадаць цэтлiк на працоўны стол</string>  
-  <string name="offline_chat_summary_global">Кантактуйце з бліжэйшымі прыладамі Xiaomi у афлайн-рэжыме, калі Bluetooth уключаны на абедзвюх прыладах (Бягучая прылада: %1$s)</string>  
+  <string name="offline_chat_summary_global">носіны з бліжэйшымі тэлефонамі Xiaomi у рэжыме афлайн, пакуль Bluetooth уключаны на абедзвюх прыладах (Бягучая прылада: %1$s)</string>  
   <string name="offline_chat_title_global">Афлайн-сувязь Xiaomi (дэма-рэжым)</string>  
   <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>  
   <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>  

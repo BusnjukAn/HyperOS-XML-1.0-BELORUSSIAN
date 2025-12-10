@@ -1184,4 +1184,5 @@
   <string name="settings_ai_record_translate_method_one">Пасля запісу націсніце %1$s у правым верхнім куце, каб перакласці запіс на іншую мову.</string>
   <string name="settings_ai_record_view_speeches_method_one">Пасля запісу націсніце на пазнаку дакладчыка, каб праглядзець усе фрагменты яго маўлення.</string>
   <string name="state_decode_recognize_tip">Падрыхтоўка да транскрыпцыі…</string>
+  <string name="loading_hyper_xiaoai">Хвілінку…</string>
 </resources>

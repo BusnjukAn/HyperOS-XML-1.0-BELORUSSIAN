@@ -1321,4 +1321,10 @@
   <string name="change_layout_type_dialog_content_small_search">Ужыванне макета \"%1$s\" адключыць \"Кампактны пошук\", і вашы прыкладанні будуць пераўпарадкаваны.</string>
   <string name="change_layout_type_dialog_content_super_xiao_ai">Ужыванне макета \"%1$s\" адключыць функцыю \"Спытаць Xiaomi AI\", і вашы праграмы будуць пераўпарадкаваны.</string>
   <string name="change_layout_type_dialog_title">Змяніць выгляд Працоўнага стала</string>
+  <string name="recents_guide_dialog_message">Цяпер дастуна новая шматслаёвая кампаноўка для зручнейшай і плыўнай працы.</string>
+  <string name="recents_guide_dialog_negative_button">Не зараз</string>
+  <string name="recents_guide_dialog_positive_button">Ужыць</string>
+  <string name="recents_guide_dialog_title">Новая кампаноўка «Нядаўніх»</string>
+  <string name="recents_layout_style_stack">Шматслаёва</string>
+  <string name="side_sheet_accessibility_pane_title">Бакавая панэль</string>
 </resources>

@@ -257,7 +257,7 @@
   <string name="pa_app_label">Стужка віджэтаў</string>
   <string name="pa_cancel">Адмена</string>
   <string name="pa_clear">Ачысціць</string>
-  <string name="pa_cta_dialog_all_purpose">Сардэчна запрашаем у стужку віджэтаў! У гэтай праграме вы знойдзеце ўсё, што вам трэба для працы, ладу жыцця і падарожжаў.</string>
+  <string name="pa_cta_dialog_all_purpose">З стужкай віджэтаў вы можаце атрымаць доступ да розных сэрвісаў для працы, жыцця, падарожжаў, акцый і шмат чаго іншага.</string>
   <string name="pa_cta_dialog_desc_location">Для прадастаўлення прапаноў па паездках</string>
   <string name="pa_cta_dialog_desc_phone_state">Для ідэнтыфікацыі вашай прылады па IMEI</string>
   <string name="pa_cta_dialog_desc_storage">Для кэшавання элементаў</string>
@@ -2027,4 +2027,14 @@
   <string name="passport_register_dialog_positive">Стварыць</string> 
   <string name="passport_register_dialog_title">Стварыць акаўнт Xiaomi</string>
   <string name="pa_travel_date_format_ymd_week">dd.MM.yyyy EEEE</string>
+  <string name="pa_stock_delete_dialog_message">Калі вы выдаліце ​​гэтую акцыю, яна будзе назаўжды выдалена з усіх віджэтаў акцый, задняга экрана і ўсіх іншых месцаў, дзе яна адлюстроўваецца. Выдаліць зараз?</string> 
+  <string name="pa_stock_delete_dialog_negative">Адмена</string> 
+  <string name="pa_stock_delete_dialog_positive">Выдаліць</string> 
+  <string name="pa_stock_delete_dialog_title">Выдаліць \"%s\"?</string> 
+  <string name="pa_stock_rear_screen_display">Паказваць на заднім экране</string> 
+  <string name="pa_stock_rear_screen_display_instructions">Адлюстроўваць абраныя акцыі, за якімі вы сочыце, на заднім экране</string> 
+  <string name="pa_stock_rear_screen_displays">Акцыі на заднім экране (абярыце да %d)</string> 
+  <string name="pa_travel_train_ticket_change">Перанесена</string> 
+  <string name="pa_travel_train_ticket_purchase">Набыта</string> 
+  <string name="pa_travel_train_ticket_waitlist">Набыта</string>
 </resources>

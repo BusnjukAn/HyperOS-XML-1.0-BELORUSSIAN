@@ -2539,4 +2539,6 @@
   <string name="rear_screen_service_assistant_new">Кіраванне заднім экранам</string> 
   <string name="rear_screen_template_upper_limit_old">Выдаліце ​​пункты ў раздзеле \"Налады\" > \"Задні экран\" > \"Персаналізацыя\", каб мець магчымасць дадаваць дадатковыя элементы</string>
   <string name="ai_wallpaper_save_to_gallery">Паспяхова захавана</string>
+  <string name="ai_recorded_name_video">Xiaomi Surge Vision</string> 
+  <string name="retro_handheld_protective_case">Чахол у стылі рэтра</string>
 </resources>

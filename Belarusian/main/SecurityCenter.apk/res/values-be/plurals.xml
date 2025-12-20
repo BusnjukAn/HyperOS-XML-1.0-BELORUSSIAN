@@ -1892,4 +1892,18 @@
         <item quantity="many">%d кг.</item>
         <item quantity="other">%d кг.</item>
     </plurals>
+    <plurals name="fast_open_list_not_open_title">
+        <item quantity="one">Рэжым хуткага адкрыцця не можа спыніць %s праграма</item>
+        <item quantity="other">Рэжым хуткага адкрыцця не могуць спыніць %s праграм</item>
+        <item quantity="few">Рэжым хуткага адкрыцця не могуць спыніць %s праграмы</item>
+    </plurals>
+    <plurals name="fast_open_list_open_title">
+        <item quantity="one">Рэжым хуткага адкрыцця можа спыніць %s праграма</item>
+        <item quantity="other">Рэжым хуткага адкрыцця могуць спыніць %s праграм</item>
+        <item quantity="few">Рэжым хуткага адкрыцця могуць спыніць %s праграмы</item>
+    </plurals>
+    <plurals name="group_have_hongbao">
+        <item quantity="one">%2$d чырвоны канверт ад %1$s</item>
+        <item quantity="other">%2$d чырвоных канвертаў ад %1$s</item>
+    </plurals>
 </resources>

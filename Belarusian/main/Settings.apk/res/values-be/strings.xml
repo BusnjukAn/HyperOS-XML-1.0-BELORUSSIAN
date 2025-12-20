@@ -13247,4 +13247,6 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="glove_mode_summary">Уключыце, каб экран хутчэй рэагаваў, калі вы ў пальчатках. Гэтая функцыя не працуе ў гульнях.</string>
   <string name="eyes_protect_certification_summary_5">Спецыяльная кампенсацыя SVM Xiaomi падтрымлівае SVM ніжэй за 1 пры любой яркасці для больш камфортнага прагляду</string> 
   <string name="eyes_protect_certification_title_5">PWM-рэгуляванне яркасці 3840 Гц</string>
+  <string name="lock_screen_password">Блакаванне экрана</string> 
+  <string name="new_instruction_privacy_password_type">Тыпы пароляў прыватнасці</string>
 </resources>

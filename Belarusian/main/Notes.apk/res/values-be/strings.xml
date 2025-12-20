@@ -1739,4 +1739,8 @@
   <string name="dialog_share_title">Адправіць нататку</string>
   <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
   <string name="widget_size_item_title">Выбраць памер</string>
+  <string name="calendar_date_picker_a11y_next_month">Перайсці да наступнага месяца</string>
+  <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
+  <string name="todo_time_picker_dialog_spinner_title">Час</string>
+  <string name="todo_time_picker_dialog_title">Усталяваць час напаміну</string>
 </resources>

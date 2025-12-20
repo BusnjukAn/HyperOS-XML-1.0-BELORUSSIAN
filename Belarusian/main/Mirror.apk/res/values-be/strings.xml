@@ -776,4 +776,9 @@
   <string name="island_default_market_name_other_laptop">Ноўтбук</string>
   <string name="island_disconnected_button">Адключыць</string>
   <string name="transferring">Перадача файлаў. Заставайцеся на гэтай старонцы.</string>
+  <string name="account_market_name">%1$s %2$s</string> 
+  <string name="share_file_transfer_finish_cancel">Адмена</string> 
+  <string name="share_file_transfer_finish_message">Вы можаце прагледзець перададзеныя файлы ў Правадыру > Абмен файламі.</string> 
+  <string name="share_file_transfer_finish_open_dir">Праглядзець</string> 
+  <string name="share_file_transfer_finish_title">Перададзена паспяхова</string>
 </resources>

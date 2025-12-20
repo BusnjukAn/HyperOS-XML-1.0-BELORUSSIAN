@@ -8073,4 +8073,22 @@ Xiaomi Gaming Cooler"</string>
   <string name="pp_agent_screen_info_manager_desc">Кіраванне праграмамі, якія %s можа распазнаваць на экране</string> 
   <string name="pp_agent_screen_info_title">Дазволіць %s распазнаваць змесціва ў гэтых праграмых</string> 
   <string name="reject_only_opening_screen">Абмежаваць доступ да ўсіх праграм падчас запуску</string>
+  <string name="charge_by_pass_notify_element_info">Падрабязнасці апавяшчэння</string> 
+  <string name="charge_by_pass_notify_element_stop">Кнопка выхаду</string> 
+  <string name="charge_by_pass_notify_info">Ідзе разумная зарадка</string> 
+  <string name="charge_by_pass_switch_info">Разумная зарадка</string> 
+  <string name="clipboard_paste">Уставіць</string> 
+  <string name="lock_screen_face_password_type_tips">Вы можаце змяніць свой пароль у раздзеле \"Дадзеныя твару\" і \"Блакаванне экрана\"</string> 
+  <string name="lock_screen_finger_password_type_tips">Вы можаце змяніць свой пароль у раздзеле \"Адбіткі пальцаў\" і \"Блакаванне экрана\"</string> 
+  <string name="lock_screen_password_only_type_tips">Вы можаце змяніць свой пароль у раздзеле \"Блакаванне экрана\"</string> 
+  <string name="private_face_password_type_tips">Вы можаце змяніць свой пароль у раздзеле \"Дадзеныя твару\" і \"Блакаванне экрана\" > \"Пароль абароны прыватнасці\"</string> 
+  <string name="private_finger_password_type_tips">Вы можаце змяніць свой пароль у раздзеле \"Адбіткі пальцаў\" і \"Блакаванне экрана\" > \"Пароль абароны прыватнасці\"</string> 
+  <string name="private_password_only_type_tips">Вы можаце змяніць свой пароль у раздзеле \"Блакаванне экрана\" > \"Пароль абароны прыватнасці\"</string> 
+  <string name="reverse_charge_island_title">Зваротная зарадка</string> 
+  <string name="warning_car_accident_demo_call_self">Я хачу здзейсніць выклік самастойна</string> 
+  <string name="warning_car_accident_demo_wait_call_text">Выклік на нумар 112</string> 
+  <string name="warning_car_accident_demo_wait_medical_text">Медыцынская карта экстранай дапамогі</string> 
+  <string name="warning_car_accident_demo_wait_notify_text">Кантакныя асобы экстранай дапамогі апавешчаныя</string> 
+  <string name="warning_car_accident_demo_wait_text">Чаканне выратавання…</string> 
+  <string name="warning_car_accident_demo_wait_time_text">Аварыя была зафіксавана ў 14:40</string>
 </resources>

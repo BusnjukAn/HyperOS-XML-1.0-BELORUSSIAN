@@ -1273,8 +1273,6 @@
   <string name="HIPS_Perm_Receive_SMS_desc">Для атрымання вашых паведамленняў</string>
   <string name="keep_blur_location">Так</string>
   <string name="keep_notice_me">Працягваць апавяшчаць</string>
-  <string name="miuix_appcompat_show_dialog_description">Усплывальнае акно</string>
-  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
   <string name="notification_click_tip">Націсніце, каб паглядзець падрабязнасці</string>
   <string name="overlay_read_clip_toast">«%1$s» атрымаў доступ да буфера абмену</string>
   <string name="perm_action_allow">Дазволіць</string>

@@ -13249,4 +13249,6 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="eyes_protect_certification_title_5">PWM-рэгуляванне яркасці 3840 Гц</string>
   <string name="lock_screen_password">Блакаванне экрана</string> 
   <string name="new_instruction_privacy_password_type">Тыпы пароляў прыватнасці</string>
+  <string name="camera_mr_settings">Кальцо камеры</string> 
+  <string name="photography_handle_launch_camera_legend_mode">Leica Essential</string>
 </resources>

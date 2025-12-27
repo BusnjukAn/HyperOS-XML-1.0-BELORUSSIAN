@@ -1010,4 +1010,16 @@
         <item quantity="other">%d сек.</item>
         <item quantity="one">%d сек.</item>
     </plurals>
+    <plurals name="home_page_share_burst_over_limit_toast">
+        <item quantity="other">Можна перацягнуць да %d элементаў (у тым ліку серыю здымкаў)</item>
+        <item quantity="one">Можна перацягнуць да %d элемента (у тым ліку серыю здымкаў)</item>
+        <item quantity="few">Можна перацягнуць да %d элементаў (у тым ліку серыю здымкаў)</item>
+        <item quantity="many">Можна перацягнуць да %d элементаў (у тым ліку серыю здымкаў)</item>
+    </plurals>
+    <plurals name="home_page_share_count_over_limit_toast">
+        <item quantity="other">"Вы можаце перацягнуць да %d аб'ектаў"</item>
+        <item quantity="one">"Вы можаце перацягнуць да %d аб'екта"</item>
+        <item quantity="few">"Вы можаце перацягнуць да %d аб'ектаў"</item>
+        <item quantity="many">"Вы можаце перацягнуць да %d аб'ектаў"</item>
+    </plurals>
 </resources>

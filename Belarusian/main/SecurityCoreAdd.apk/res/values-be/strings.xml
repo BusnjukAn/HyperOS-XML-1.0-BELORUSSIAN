@@ -1541,4 +1541,34 @@
   <string name="poco_stylus_welcome">Азнаёмцеся з POCO Focus Pen</string>
   <string name="touchpad_touch_double_click_drag_summary">Двойчы дакраніцеся, утрымліваючы палец на другім дотыку, затым перацягвайце элемент</string>
   <string name="touchpad_touch_double_click_drag_title">Падвойны дотык для перацягвання</string>
+  <string name="gesture_shortcut_camera_mr_accidental_trigger_note">Каб прадухіліць выпадковыя запускі, рэжым \"У кішэні\" будзе аўтаматычна ўключацца падчас гульняў або калі прылада знаходзіцца ў кішэні</string> 
+  <string name="gesture_shortcut_camera_mr_angle">Кут павароту</string> 
+  <string name="gesture_shortcut_camera_mr_angle_medium">Сярэдні (па змаўчанні)</string> 
+  <string name="gesture_shortcut_camera_mr_angle_small">Малы</string> 
+  <string name="gesture_shortcut_camera_mr_angle_wide">Вялікі</string> 
+  <string name="gesture_shortcut_camera_mr_function">Хуткі запуск</string> 
+  <string name="gesture_shortcut_camera_mr_function_setting_title">Настройкі хуткага запуску</string> 
+  <string name="gesture_shortcut_camera_mr_guide_info">Хутка павярніце кальцо камеры, каб адкрыць праграму Камера</string> 
+  <string name="gesture_shortcut_camera_mr_guide_title">Хуткі запуск</string> 
+  <string name="gesture_shortcut_camera_mr_mode">Рэжым камеры</string> 
+  <string name="gesture_shortcut_camera_mr_mode_doc">Дакумент</string> 
+  <string name="gesture_shortcut_camera_mr_mode_fastshot">Хуткая здымка</string> 
+  <string name="gesture_shortcut_camera_mr_mode_ld">Leica Essential</string> 
+  <string name="gesture_shortcut_camera_mr_mode_photo">Фота</string> 
+  <string name="gesture_shortcut_camera_mr_mode_portrait">Партрэт</string> 
+  <string name="gesture_shortcut_camera_mr_mode_pro">Pro</string> 
+  <string name="gesture_shortcut_camera_mr_mode_video">Відэа</string> 
+  <string name="gesture_shortcut_camera_mr_off">Выкл.</string> 
+  <string name="gesture_shortcut_camera_mr_open_camera">Адкрыць камеру</string> 
+  <string name="gesture_shortcut_camera_mr_setting">Функцыі кальца камеры</string> 
+  <string name="gesture_shortcut_camera_mr_setting_title">Налады камеры</string> 
+  <string name="gesture_shortcut_camera_mr_take_photo">Зрабіць фота</string> 
+  <string name="gesture_shortcut_camera_mr_title">Кальцо камеры</string> 
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_item">Кальцо камеры</string> 
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_mode_always">Заўсёды</string> 
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_mode_camera_only">Толькі ў камеры</string> 
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info"><Data>Уключыце вібрацыю ў &lt;a href=\"%1$s\">Гук і вібрацыя&lt;/a></Data></string> 
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info_global"><Data>Уключыце вібрацыю ў &lt;a href=\"%1$s\">Гук і вібрацыя&lt;/a></Data></string> 
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_system_disable">Вібрацыя адключана</string> 
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_title">Налады вібрацыі</string>
 </resources>

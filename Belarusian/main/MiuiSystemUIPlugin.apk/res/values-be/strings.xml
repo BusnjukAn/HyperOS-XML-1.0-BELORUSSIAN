@@ -575,8 +575,7 @@
   <string name="qs_customize_header_title">Рэдагаванне і сартаванне</string>
   <string name="quick_settings_aisubtitles_label">Разумныя субтытры</string>
   <string name="open_system_optimization">Спачатку ўключыце аптымізацыю сiстэмы</string>
-  <string name="miplay_bluetooth_share_des_text">"Карыстальнікам навушнікаў Xiaomi: адкрыйце футарал для зарадкі або націсніце і ўтрымлівайце кнопку футарала %d сек.
-Для карыстальнікаў навушнікаў, адрозных ад Xiaomi: скіньце налады навушнікаў у наладах Bluetooth, затым падлучыцеся зноў."</string>
+  <string name="miplay_bluetooth_share_des_text">Вы можаце слухаць медыя разам з гэтымі навушнікамі. Для выкарыстання навушнікаў Xiaomi адкрыйце футарал або націсніце і ўтрымлівайце кнопку на ім на працягу %d секунд. Для выкарыстання іншых навушнікаў скіньце іх налады ў раздзеле Налады > Bluetooth, а затым падлучыце іх зноў.</string>
   <string name="miplay_bluetooth_share_headphone_pairing">Дадайце навушнікі для трансляцыі аўдыё</string>
   <string name="miplay_bluetooth_share_subTitle_text">Падзяліцца аўдыё на прыладзе з іншым чалавекам</string>
   <string name="miplay_bluetooth_share_title_text">Падзяліцца аўдыё</string>

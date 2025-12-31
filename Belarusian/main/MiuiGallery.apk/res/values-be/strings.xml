@@ -5125,4 +5125,18 @@
   <string name="ignore_alert_tip_content">Ігнараваныя элементы можна аднавіць у меню \"Яшчэ\" &gt; \"Праглядзець ігнараваныя элементы\".</string>
   <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
   <string name="remove_from_album_content">Выдаленыя элементы больш не будуць адлюстроўвацца ў гэтым альбоме.</string>
+  <string name="assistant_page_spring_feastival">Эфект кітайскага Новага года</string>
+  <string name="calendar_date_picker_a11y_next_month">Перайсці да наступнага месяца</string>
+  <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
+  <string name="edit_failed_with_reason">Каб рэдагаваць фота, сінхранізуйце яго з воблакам. Падлучыцеся да сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="operation_copy_edit_points">Капіяваць параметры рэдагавання</string>
+  <string name="operation_paste_edit_points">Уставіць параметры рэдагавання</string>
+  <string name="operation_restore_origin_image">Аднавіць арыгінал</string>
+  <string name="restore_environment_fail_msg">Файл Debug не існуе, аднаўленне не ўдалося.</string>
+  <string name="restore_environment_success_msg">Аднаўленне паспяхова выканана.</string>
+  <string name="restore_environment_tip">Аднавіць карыстальніцкія дадзеныя</string>
+  <string name="restore_failed_retry">Не ўдалося аднавіць. Паспрабуйце яшчэ раз.</string>
+  <string name="restore_success">Паспяхова адноўлена</string>
+  <string name="restore_user_environment">Аднавіць карыстальніцкае асяроддзе</string>
+  <string name="restoring_progress">Аднаўленне (%1$s/%2$s)</string>
 </resources>

@@ -280,4 +280,9 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="pa_express_widget_list_panel_subtitle_total">
+        <item quantity="other">%d пасылак</item>
+        <item quantity="one">%d пасылка</item>
+        <item quantity="few">%d пасылкі</item>
+    </plurals>
 </resources>

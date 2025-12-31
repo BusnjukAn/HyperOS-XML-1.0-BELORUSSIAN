@@ -707,7 +707,7 @@
   <string name="pa_express_state_unknown">Звестак пакуль няма</string>
   <string name="pa_express_tail_number">Заказ: %1$s</string>
   <string name="pa_express_title">Экспрэс-дастаўка</string>
-  <string name="pa_express_widget_logout">Увайдзіце, каб прагледзець пасылкі экспрэс-дастаўкі</string>
+  <string name="pa_express_widget_logout">Дадайце нумар тэлефона для праверкі інфармацыі аб дастаўцы</string>
   <string name="pa_express_widget_order_42">Увядзіце нумар адсочвання</string>
   <string name="pa_express_widget_post">Адправіць пасылку</string>
   <string name="pa_lite_setting_service_express">Экспрэс-дастаўка</string>
@@ -2037,4 +2037,14 @@
   <string name="pa_travel_train_ticket_change">Перанесена</string> 
   <string name="pa_travel_train_ticket_purchase">Набыта</string> 
   <string name="pa_travel_train_ticket_waitlist">Набыта</string>
+  <string name="pa_express_click_query">Націсніце для запыту</string> 
+  <string name="pa_express_empty">Няма пасылак</string> 
+  <string name="pa_express_my_parcel">Мае пасылкі</string> 
+  <string name="pa_express_send_service">Адправіць</string> 
+  <string name="pa_express_widget_2x2_list_item_desc">Заказ %1$s</string> 
+  <string name="pa_express_widget_2x2_logout_subtitle">Дадайце нумар тэлефона для прагляду падрабязнасцяў</string> 
+  <string name="pa_express_widget_2x2_logout_title">Напаміны аб дастаўцы</string> 
+  <string name="pa_express_widget_4x2_logout_subtitle">Дадайце нумар тэлефона для праверкі інфармацыі аб дастаўцы</string> 
+  <string name="pa_express_widget_4x2_logout_title">Напаміны аб дастаўцы</string> 
+  <string name="pa_express_widget_bind_phone">Дадаць</string>
 </resources>

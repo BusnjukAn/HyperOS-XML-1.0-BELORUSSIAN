@@ -331,4 +331,6 @@
   <string name="kg_dialog_ai_blocking_for_not_support_wallpaper">Немагчыма выкарыстоўваць AI з гэтымі шпалерамі</string> 
   <string name="kg_dialog_ai_blocking_for_resolution_too_small">Разрознасць выявы шпалер павінна быць не менш за %1$d×%2$d пікселяў</string>
   <string name="kg_dialog_ai_blocking_for_too_large">Памер выявы шпалер павінен быць менш за %d МБ</string>
+  <string name="kg_template_description_car">Там, дзе тэхналогіі сустракаюцца з прыгажосцю: адчуйце хуткасць будучыні з кожным разблакаваннем.</string>
+  <string name="kg_template_title_car">Электрамабіль Xiaomi</string>
 </resources>

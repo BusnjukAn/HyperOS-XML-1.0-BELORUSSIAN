@@ -1022,4 +1022,22 @@
         <item quantity="few">"Вы можаце перацягнуць да %d аб'ектаў"</item>
         <item quantity="many">"Вы можаце перацягнуць да %d аб'ектаў"</item>
     </plurals>
+    <plurals name="download_progress_file_message">
+        <item quantity="one">%1$d файл у чарзе. Спампоўка: %2$d/%3$d</item>
+        <item quantity="few">%1$d файлы ў чарзе. Спампоўка: %2$d/%3$d</item>
+        <item quantity="many">%1$d файлаў у чарзе. Спампоўка: %2$d/%3$d</item>
+        <item quantity="other">%1$d файлаў у чарзе. Спампоўка: %2$d/%3$d</item>
+    </plurals>
+    <plurals name="re_edit_paste_points_too_many_files_error">
+        <item quantity="one">Абярыце да %d элемента для адпраўкі</item>
+        <item quantity="few">Абярыце да %d элементаў для адпраўкі</item>
+        <item quantity="many">Абярыце да %d элементаў для адпраўкі</item>
+        <item quantity="other">Абярыце да %d элементаў для адпраўкі</item>
+    </plurals>
+    <plurals name="restore_failed_count">
+        <item quantity="one">Не ўдалося аднавіць %d элемент</item>
+        <item quantity="few">Не ўдалося аднавіць %d элементы</item>
+        <item quantity="many">Не ўдалося аднавіць %d элементаў</item>
+        <item quantity="other">Не ўдалося аднавіць %d элементаў</item>
+    </plurals>
 </resources>

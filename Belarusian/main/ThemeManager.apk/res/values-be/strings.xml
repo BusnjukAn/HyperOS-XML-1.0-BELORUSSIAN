@@ -2282,7 +2282,7 @@
   <string name="kg_dialog_ai_blocking_for_not_support_video">Генерацыя AI не падтрымліваецца для дынамічных шпалер</string>
   <string name="kg_dialog_ai_blocking_for_service_unavailable">Ваш акаўнт неаднаразова парушаў нашы правілы. Сэрвіс часова прыпынены. Паспрабуйце зноў пазней.</string>
   <string name="kg_dialog_ai_blocking_for_service_unavailable_title">Сэрвіс недаступны</string>
-  <string name="kg_dialog_ai_blocking_for_too_large">Памер выявы павінен быць менш за %d Мб</string>
+  <string name="kg_dialog_ai_blocking_for_too_large">Памер выявы для шпалер павінен быць менш за %d Мб</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_confirm">Зараз вы выкарыстоўваеце набор шпалер. Калі вы прыменіце новую тэму, шпалеры Экрана блакавання і Працоўнага стала будуць заменены. Усё роўна працягнуць?</string>
   <string name="kg_dialog_apply_super_wallpaper_confirm_title">Увага!</string>
   <string name="kg_doodle_chinese_talkback">Замалёўка (кітайскія іерогліфы)</string>
@@ -2541,4 +2541,12 @@
   <string name="ai_wallpaper_save_to_gallery">Паспяхова захавана</string>
   <string name="ai_recorded_name_video">Xiaomi Surge Vision</string> 
   <string name="retro_handheld_protective_case">Чахол у стылі рэтра</string>
+  <string name="ai_is_calculating_segment">AІ стварае эфект глыбіні…</string> 
+  <string name="apply_wallpaper_warning_not_apply_aod_wallpaper_when_super_wallpaper">Зараз вы выкарыстоўваеце супершпалеры. Адключыце іх, каб мець магчымасць змяніць налады экрана блакавання.</string> 
+  <string name="apply_wallpaper_warning_not_apply_home_wallpaper_when_super_wallpaper">Зараз вы выкарыстоўваеце супершпалеры. Адключыце іх, каб мець магчымасць змяняць налады працоўнага стала.</string> 
+  <string name="kg_dialog_ai_blocking_for_not_support_wallpaper">Немагчыма выкарыстоўваць AІ з гэтымі шпалерамі</string> 
+  <string name="kg_dialog_ai_blocking_for_resolution_too_small">Памер выявы для шпалер павінен быць не менш за %1$d×%2$d пікселяў</string> 
+  <string name="maml_config_select_image">Абярыце выяву</string> 
+  <string name="rear_screen_notice">Апавяшчэнні</string> 
+  <string name="toast_image_cannot_segment">Гэтая выява не падтрымлівае эфект глыбіні</string>
 </resources>

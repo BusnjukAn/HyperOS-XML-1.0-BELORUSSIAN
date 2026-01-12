@@ -339,4 +339,7 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="keyguard_notification_title">Апавяшчэнні на экране блакавання</string> 
+  <string name="ms_stock_assistant">Памочнік па акцыях</string> 
+  <string name="password_title">Адбіткі пальцаў, дадзеныя твару і блакаванне экрана</string>
 </resources>

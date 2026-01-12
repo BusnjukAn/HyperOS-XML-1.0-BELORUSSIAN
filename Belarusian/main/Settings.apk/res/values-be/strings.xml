@@ -12536,7 +12536,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="game_delta_action_moments">Здабыча прыпасаў і паспяховая эвакуацыя</string> 
   <string name="game_king_of_glory_moments">Забойствы, перамогі і іншыя ключавыя моманты</string> 
   <string name="game_peacekeeper_elites_moments">Скачкі з парашутам і баі</string> 
-  <string name="light_camera_state_summary">Уключыць падсвятленне пры фота- або відэаздымцы</string> 
+  <string name="light_camera_state_summary">Уключыць падсвятленне пры здымцы з таймерам або серыйнай здымцы</string> 
   <string name="light_camera_state_title">Індыкатар стану камеры</string>
   <string name="search_privacy_protection">Кіраванне дазволамі</string>
   <string name="accessibility_autoclick_main_switch_title">Аўтанацісканне</string>
@@ -12707,7 +12707,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="date_time_auto_summary">Задаваць аўтаматычна, выкарыстоўваючы сігналы сеткі і бесправадныя сігналы прылады</string>
   <string name="desc_notice_device_region_change">У якасці мовы сістэмы прылада захавае наступную: %s</string>
   <string name="desc_notice_device_region_change_for_preferred_language">Рэгіён \"%2$s\" будзе заменены рэгіёнам \"%1$s\" на вашых прыярытэтных мовах</string>
-  <string name="description_about_satellite_setting">Вы можаце адпраўляць і атрымліваць тэкставыя паведамленні, а таксама выкарыстоўваць некаторыя праграмы з дапамогай спадарожнікавай сувязі праз прыдатны ўліковы запіс %1$s.</string>
+  <string name="description_about_satellite_setting">Вы можаце адпраўляць і атрымліваць тэкставыя паведамленні праз спадарожнік з прыдатным уліковым запісам %1$s.</string>
   <string name="description_satellite_dialog_for_sim_restriction">Перш чым дадаць SIM-карту, завяршыце сеанс спадарожнікавай сувязі</string>
   <string name="description_satellite_setting_connectivity">спадарожнікавае падключэнне</string>
   <string name="description_satellite_setting_messaging">абмен паведамленнямі па спадарожнікавай сувязі</string>

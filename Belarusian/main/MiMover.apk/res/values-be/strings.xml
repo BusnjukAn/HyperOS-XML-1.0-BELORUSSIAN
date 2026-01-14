@@ -1212,4 +1212,9 @@
   <string name="time">Перыяд часу</string> 
   <string name="trans_install_guide_old_content_first_pad">Адскануйце гэты QR-код старой прыладай, каб спампаваць і ўсталяваць Mi Трансфер.</string> 
   <string name="trans_install_guide_old_content_first_phone">Адскануйце гэты QR-код старой прыладай, каб спампаваць і ўсталяваць Mi Трансфер.</string>
+  <string name="contains_unauthorized_data">Змяшчае несанкцыянаваныя дадзеныя</string> 
+  <string name="manual_connection_hint_phone">Націсніце \"Падлучыць ўручную\" на старой прыладзе</string> 
+  <string name="manual_connection_title_phone">Падлучыце старую прыладу да пункту доступу</string> 
+  <string name="permission_calendar_summary">Для перадачы падзей календара</string> 
+  <string name="permission_calendar_title">Доступ да календара</string>
 </resources>

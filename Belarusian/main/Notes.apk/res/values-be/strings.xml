@@ -400,7 +400,7 @@
   <string name="search_setting_description">Пошук тэксту ў нататках</string>
   <string name="select_account_prompt">Сінхранізацыя нататак</string>
   <string name="set_alarm_description">Усталяваць будзільнік</string>
-  <string name="setting_other">ІНШЫЯ</string>
+  <string name="setting_other">Іншае</string>
   <string name="setting_privacy">Палітыка прыватнасці</string>
   <string name="snippet_audio_stub">Аўдыёфайл</string>
   <string name="snippet_image_stub">[Выява]</string>
@@ -526,9 +526,9 @@
   <string name="toast_reach_text_limit_attachment">Немагчыма прымацаваць файл. Няма вольнага месца ў нататцы</string>
   <string name="toast_reach_text_limit_checkbox">Немагчыма дадаць сцяжок, таму што нататка занадта вялікая</string>
   <string name="toast_reach_text_limit_truncate">Нататка занадта доўгая. Тэкст у канцы быў абрэзаны.</string>
-  <string name="toast_refuse_to_record_when_in_call">Гэту функцыю нельга выкарыстоўваць падчас выклікаў</string>
-  <string name="toast_refuse_to_record_when_in_multi_window">Гэту функцыю нельга выкарыстоўваць з падзяленнем экрана</string>
-  <string name="toast_refuse_to_record_when_in_multi_window_new">Падзел экрана і плаваючыя вокны не могуць выкарыстоўваць гэтую функцыю</string>
+  <string name="toast_refuse_to_record_when_in_call">Гэтую функцыю нельга выкарыстоўваць падчас выклікаў</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">Гэтую функцыю нельга выкарыстоўваць з падзяленнем экрана</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">Гэтую функцыю нельга выкарыстоўваць з падзяленнем экрана цi з плаваючымi вокнамi</string>
   <string name="toast_refuse_to_use_contact">Доступ да кантактаў абмежаваны.\nДазвольце Нататкам чытанне кантактаў і пошук акаўнтаў на прыладзе.</string>
   <string name="toast_refuse_to_use_external_storage">Доступ да памяці абмежаваны.\nДазвольце нататцы чытанне змесціва SD-карты.</string>
   <string name="toast_refuse_to_use_phone_state">Доступ да тэлефона абмежаваны.\nДазвольце Нататкам чытанне стану і ID прылады.</string>
@@ -691,7 +691,7 @@
   <string name="miuix_appcompat_search_action_mode_cancel">Адмяніць</string>
   <string name="miuix_appcompat_search_input_description">Пошук</string>
   <string name="miuix_appcompat_select_all_description">Выбраць усе</string>
-  <string name="notes_description_content">\"Нататкі\" - гэта сістэмная праграма. Вы не зможаце выкарыстоўваць гэту праграму пасля таго, як выдаліце ​​яе.</string>
+  <string name="notes_description_content">\"Нататкі\" - гэта сістэмная праграма. Вы не зможаце выкарыстоўваць гэтую праграму пасля таго, як выдаліце ​​яе.</string>
   <string name="notes_description_title">Выдаліць \"Нататкі\"?</string>
   <string name="dialog_button_cancel">Адмена</string>
   <string name="dialog_button_close">Зачыніць</string>
@@ -1063,7 +1063,7 @@
   <string name="hover_tasklist">MD: [] прабел</string>
   <string name="hover_underline">MD: ~Тэкст~ прабел</string>
   <string name="hover_unorderlist">MD: - прабел</string>
-  <string name="cta_v2_app_purpose_v12_lite">Сардэчна запрашаем у Нататкі! Вы можаце выкарыстоўваць гэту праграму для стварэння нататак і задач.</string>
+  <string name="cta_v2_app_purpose_v12_lite">Сардэчна запрашаем у Нататкі! Вы можаце выкарыстоўваць гэтую праграму для стварэння нататак і задач.</string>
   <string name="insert_image_size_limit_tip">Памер гэтай выявы больш за %d Мб. Яна была аўтаматычна сціснута.</string>
   <string name="miuix_appcompat_edit">Рэдагаваць</string>
   <string name="warn_enter_browse_mode_forbid_create">Нельга ствараць або рэдагаваць нататкі ў рэжыме \"Толькі чытанне\"</string>

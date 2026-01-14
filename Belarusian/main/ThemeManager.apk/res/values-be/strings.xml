@@ -2549,4 +2549,5 @@
   <string name="maml_config_select_image">Абярыце выяву</string> 
   <string name="rear_screen_notice">Апавяшчэнні</string> 
   <string name="toast_image_cannot_segment">Гэтая выява не падтрымлівае эфект глыбіні</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
 </resources>

@@ -400,4 +400,7 @@
   <string name="dialer_devices_from_iphone">Ад %s</string>
   <string name="rtt_call">Выклік RTT</string>
   <string name="unknown_details_new_contact_phone_to_mi">Захаваць кантакт на гэтай прыладзе</string>
+  <string name="calendar_date_picker_a11y_next_month">Перайсці да наступнага месяца</string>
+  <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
+  <string name="scan_qrcode_card_hint">Каб дадаць кантакт, адскануйце QR-код.</string>
 </resources>

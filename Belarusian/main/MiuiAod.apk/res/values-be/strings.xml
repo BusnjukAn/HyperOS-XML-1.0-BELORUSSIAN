@@ -333,4 +333,6 @@
   <string name="kg_dialog_ai_blocking_for_too_large">Памер выявы шпалер павінен быць менш за %d МБ</string>
   <string name="kg_template_description_car">Там, дзе тэхналогіі сустракаюцца з прыгажосцю: адчуйце хуткасць будучыні з кожным разблакаваннем.</string>
   <string name="kg_template_title_car">Электрамабіль Xiaomi</string>
+  <string name="disable_aod_in_dark_room">Адключаць, калі прылада знаходзіцца у цемры</string>
+  <string name="aod_notification_use_app_icon">Выкарыстоўваць абразкі праграм для апавяшчэнняў</string>
 </resources>

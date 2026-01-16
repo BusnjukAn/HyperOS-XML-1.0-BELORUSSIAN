@@ -1430,4 +1430,6 @@
   <string name="osmd_dialog_message">Для падвышэння бяспекі пры ўсталёўцы праграм Mi абарона ўключаная па змаўчанні. Для больш надзейнай абароны вы можаце пераключыцца на пашыраную абарону. (click)Больш падрабязна(/click)</string> 
   <string name="osmd_dialog_message_in_ios">Для падвышэння бяспекі пры ўсталёўцы праграм Mi абарона - базавы рэжым уключаны па змаўчанні. Для больш надзейнай абароны вы можаце пераключыцца на пашыраную абарону. (click)Больш падрабязна(/click)</string> 
   <string name="osmd_dialog_title">Абарона абноўлена</string>
+  <string name="install_hint_sc_prohibit_installing_msg">Немагчыма ўсталяваць гэту праграму з-за шматлікіх пагроз бяспекі</string> 
+  <string name="install_hint_sc_prohibit_installing_risk_detail">Гэтая праграма патэнцыйна ашуканская. Дзейнічайце з асцярожнасцю, каб абараніць сваю бяспеку.</string>
 </resources>

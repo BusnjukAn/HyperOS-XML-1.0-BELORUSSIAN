@@ -1185,4 +1185,5 @@
   <string name="settings_ai_record_view_speeches_method_one">Пасля запісу націсніце на пазнаку дакладчыка, каб праглядзець усе фрагменты яго маўлення.</string>
   <string name="state_decode_recognize_tip">Падрыхтоўка да транскрыпцыі…</string>
   <string name="loading_hyper_xiaoai">Хвілінку…</string>
+  <string name="tips_for_asr_in_progress">Транскрыпцыя і зводка з выкарыстаннем AI %s"</string> 
 </resources>

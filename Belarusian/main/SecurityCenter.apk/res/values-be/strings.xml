@@ -1400,7 +1400,7 @@
   <string name="menu_summary_power_manager_1">Батарэя зараджана</string>
   <string name="menu_summary_power_manager_2">Засталося %s</string>
   <string name="menu_summary_power_manager_3">Батарэя разраджана</string>
-  <string name="menu_summary_power_manager_4">Да поўнага зараду %s</string>
+  <string name="menu_summary_power_manager_4">Да поўнага зараду %1$s</string>
   <string name="menu_text_antispam">Чорны спіс</string>
   <string name="menu_text_antivirus">Антывірус</string>
   <string name="menu_text_garbage_cleanup">Ачыстка</string>
@@ -8090,4 +8090,11 @@ Xiaomi Gaming Cooler"</string>
   <string name="warning_car_accident_demo_wait_notify_text">Кантакныя асобы экстранай дапамогі апавешчаныя</string> 
   <string name="warning_car_accident_demo_wait_text">Чаканне выратавання…</string> 
   <string name="warning_car_accident_demo_wait_time_text">Аварыя была зафіксавана ў 14:40</string>
+  <string name="game_toolbox_gyro_boost_title">Паскарэнне гіраскопа</string> 
+  <string name="game_toolbox_gyro_boost_toast">Уключыце гіраскоп у наладах гульні, каб выкарыстоўваць гэтую функцыю</string> 
+  <string name="game_toolbox_super_follow_up_msg_4.5">Наладзьце адчувальнасць адсочвання жэстаў: высокая для больш дакладнага адсочвання, нізкая для больш плыўнага руху</string> 
+  <string name="game_toolbox_super_shake_msg_4.5">Наладзьце адчувальнасць кіравання: высокая для хутчэйшага водгуку, нізкая для большай стабільнасці</string> 
+  <string name="gamebox_eye_protect">Камфорт для вачэй падчас гульні</string> 
+  <string name="gb_super_hot_area_msg_4.5">Наладзьце зону пакрыцця кіравання і адчувальнасць сэнсарнага экрана</string> 
+  <string name="gb_super_shake_4.5">Дакладнае інтэлектуальнае кіраванне</string>
 </resources>

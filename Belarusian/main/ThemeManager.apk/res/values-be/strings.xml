@@ -2550,4 +2550,16 @@
   <string name="rear_screen_notice">Апавяшчэнні</string> 
   <string name="toast_image_cannot_segment">Гэтая выява не падтрымлівае эфект глыбіні</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
+  <string name="ai_walllpaper_generate">Згенераваць</string>
+  <string name="ai_wallpaper_generation_effect_message">Для лепшых вынікаў пераканайцеся, што на выбраным фота ёсць да %d людзей або хатніх гадаванцаў.</string>
+  <string name="ai_wallpaper_generation_quality_message">Для лепшых вынікаў пераканайцеся, што на выбраным фота ёсць да %d людзей або хатніх гадаванцаў.</string>
+  <string name="ai_wallpaper_image_fail_message">Пераканайцеся, што на выбраным фота ёсць толькі адзін хатні гадаванец.</string>
+  <string name="ai_wallpaper_image_fail_message_two">Пераканайцеся, што на выбраным фота ёсць толькі адзін чалавек.</string>
+  <string name="ai_wallpaper_image_prompt">Увага</string>
+  <string name="ai_wallpaper_select_generation_type">Тып выявы</string>
+  <string name="ai_wallpaper_stop_generation">Стоп</string>
+  <string name="rear_screen_sunlight_mode">Рэжым сонечнага святла</string>
+  <string name="rear_screen_sunlight_mode_automatic_brightness_adjustment">Рэгулюйце яркасць у залежнасці ад моцнага навакольнага асвятлення, каб экран не стаў занадта цёмным</string>
+  <string name="theme_store">Крама тэм</string>
+  <string name="watch_take_off_shelf">Гэты элемент недаступны. Даследуйце іншыя дысплеі!</string>
 </resources>

@@ -744,4 +744,8 @@
   <string name="wallpaper_group_time_watch_title">Гадзіннік</string>
   <string name="wallpaper_group_arc_title">Дугавая лямпа</string>
   <string name="wallpaper_group_fun_wallpapers_title">Пацешныя шпалеры</string>
+  <string name="ks_launch_global_search">Пошук праграм</string> 
+  <string name="ks_launch_global_search_china">Пошук</string> 
+  <string name="typec_not_supporort_calls_toast">Нельга выкарыстоўваць гэтыя навушнікі для выклікаў</string> 
+  <string name="wallpaper_group_xiaomi_car_title">Электрамабіль Xiaomi</string>
 </resources>

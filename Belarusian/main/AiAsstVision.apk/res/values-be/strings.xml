@@ -6,4 +6,13 @@
   <string name="settings_already_open_debug_item_toast">Налады адладкі ўключаны</string>
   <string name="share_image_title_text_src">Арыгінальны тэкст</string>
   <string name="share_image_title_text_tra">Тэкст выніку перакладу</string>
+  <string name="desktop_shortcuts">Цэтлiк на працоўным стале</string>
+  <string name="desktop_shortcuts_add_success">Цэтлiк дададзены на працоўны стол</string>
+  <string name="passport_oauth_sucess_tip">Аўтарызаваны</string>
+  <string name="pref_title_shortcut">Цэтлiк на працоўным стале</string>
+  <string name="save_to_local_failure_message">Немагчыма захаваць лакальна</string>
+  <string name="save_to_local_icon_name">Захаваць лакальна</string>
+  <string name="save_to_local_success_message">Паспяхова захавана на лакальную прыладу</string>
+  <string name="shortcuts">Цэтлiкі</string>
+  <string name="unknown_app">Невядомая праграма</string>
 </resources>

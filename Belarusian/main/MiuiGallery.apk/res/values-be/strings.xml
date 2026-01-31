@@ -5139,4 +5139,6 @@
   <string name="restore_success">Паспяхова адноўлена</string>
   <string name="restore_user_environment">Аднавіць карыстальніцкае асяроддзе</string>
   <string name="restoring_progress">Аднаўленне (%1$s/%2$s)</string>
+  <string name="file_synced_talkback">Сінхранізавана з воблакам</string>
+  <string name="file_unsynced_talkback">Не сінхранізавана з воблакам</string>
 </resources>

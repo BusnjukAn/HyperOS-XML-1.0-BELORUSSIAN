@@ -1780,4 +1780,16 @@
   <string name="xiaomi_account">Акаўнт Xiaomi</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абраць</string>
   <string name="search_event_display_res">Пошук падзей</string>
+  <string name="count_down_close_reminder">Адключыць напамінкі са зваротным адлікам?</string> 
+  <string name="count_down_open_reminder">Уключыць напамінкі са зваротным адлікам?</string> 
+  <string name="count_down_out_range">Функцыя зваротнага адліку падтрымлівае напамінкі толькі на працягу 1 гадзіны. Калі ласка, адрэгулюйце час напамінку, а затым уключыце яго.</string> 
+  <string name="count_down_reminder_status">Зваротны адлік пачаўся</string> 
+  <string name="focus_notification_open_setting_button_ok">Уключыць</string> 
+  <string name="focus_notification_open_setting_message">Уключыце падсвятленне апавяшчэнняў для календара, каб выкарыстоўваць напамінкі са зваротным адлікам.</string> 
+  <string name="focus_notification_open_setting_title">Уключыць падсвятленне апавяшчэнняў?</string> 
+  <string name="leave_for">Адкрыць</string> 
+  <string name="pref_title_countdown_remind">Напамін са зваротным адлікам</string> 
+  <string name="repeat_count_down_close_title">Гэта паўтаральная падзея. Адключыць напамінкі са зваротным адлікам?</string> 
+  <string name="repeat_count_down_open_title">Гэта паўтаральная падзея. Уключыць напамінкі са зваротным адлікам?</string> 
+  <string name="time_until_start">Засталося часу</string>
 </resources>

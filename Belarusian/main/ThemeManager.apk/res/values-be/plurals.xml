@@ -472,4 +472,10 @@
         <item quantity="many">" (пробная версія: %1$d хвілін)"</item>
         <item quantity="other">" (пробная версія: %1$d хвілін)"</item>
     </plurals>
+    <plurals name="ai_wallpaper_input_characters">
+        <item quantity="one">Увядзіце %1$d–%2$d сімвала</item>
+        <item quantity="few">Увядзіце %1$d–%2$d сімвалаў</item>
+        <item quantity="many">Увядзіце %1$d–%2$d сімвалаў</item>
+        <item quantity="other">Увядзіце %1$d–%2$d сімвалаў</item>
+    </plurals>
 </resources>

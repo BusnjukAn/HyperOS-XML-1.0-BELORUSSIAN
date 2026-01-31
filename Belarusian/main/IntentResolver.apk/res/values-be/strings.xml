@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="share_title">Падзяліцца</string>
+  <string name="share_title">Падзяліцца</string>
+  <string name="calendar_date_picker_a11y_next_month">Змяніць на наступны месяц</string>
+  <string name="calendar_date_picker_a11y_prev_month">Змяніць на папярэдні месяц</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
 </resources>

@@ -117,7 +117,7 @@
   <string name="download_status_paused">Прыпыніць</string>
   <string name="download_success">Спампоўка завершана</string>
   <string name="download_wait_connect">Чаканне падлучэння</string>
-  <string name="downloading">Спампоўка…</string>
+  <string name="downloading">Спампоўка</string>
   <string name="downloading_empty">Пуста</string>
   <string name="editmode_menu_delete">Выдаліць</string>
   <string name="paused_by_app">Прыпынена</string>
@@ -133,4 +133,5 @@
   <string name="retry_download">Паспрабаваць яшчэ раз</string>
   <string name="toast_net_error">Немагчыма падлучыцца да сеткі. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="today_download">Загружана сёння</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
 </resources>

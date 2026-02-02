@@ -2562,4 +2562,6 @@
   <string name="rear_screen_sunlight_mode_automatic_brightness_adjustment">Рэгулюйце яркасць у залежнасці ад моцнага навакольнага асвятлення, каб экран не стаў занадта цёмным</string>
   <string name="theme_store">Крама тэм</string>
   <string name="watch_take_off_shelf">Гэты элемент недаступны. Даследуйце іншыя дысплеі!</string>
+  <string name="tips_login_xiaomi_account_for_ai_wallpaper">Увайдзіце ў свой Xiaomi акаўнт, каб выкарыстоўваць шпалеры са штучным інтэлектам.</string> 
+  <string name="tips_not_logged_in">Спачатку ўвайдзіце ў сістэму</string>
 </resources>

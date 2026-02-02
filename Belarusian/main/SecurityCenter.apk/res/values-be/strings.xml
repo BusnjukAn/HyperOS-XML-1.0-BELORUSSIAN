@@ -8013,7 +8013,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="protect_eye_open">Уключыць</string> 
   <string name="protect_eye_opened_summry">Зменіце налады ў раздзеле \"Налады\" > \"Экран і яркасць\" > \"Камфорт для вачэй\"</string> 
   <string name="protect_eye_opened_title">Рэжым чытання ўключаны</string> 
-  <string name="storage_clear_available_total_size_with_ufs">Выкарыстана: %1$s | Засталося: %2$s | Усяго: %3$s (Падоўжана на %4$s)</string> 
+  <string name="storage_clear_available_total_size_with_ufs">Выкарыстана: %1$s, Засталося: %2$s, Усяго: %3$s (%4$s з пашырэннем сховішча)</string> 
   <string name="wireless_high_temp_notification_warning_title">Бесправадная зарадка спынена з-за перагрэву</string> 
   <string name="wireless_high_temp_warning_dialog_ok">Зразумела</string> 
   <string name="wireless_high_temp_warning_text">Бесправадная зарадка адновіцца, як толькі прылада астыне</string> 
@@ -8097,4 +8097,5 @@ Xiaomi Gaming Cooler"</string>
   <string name="gamebox_eye_protect">Камфорт для вачэй падчас гульні</string> 
   <string name="gb_super_hot_area_msg_4.5">Наладзьце зону пакрыцця кіравання і адчувальнасць сэнсарнага экрана</string> 
   <string name="gb_super_shake_4.5">Дакладнае інтэлектуальнае кіраванне</string>
+  <string name="car_sickness_relief_comment_text_opened">Кропкі будуць адлюстроўвацца па абодвум бакам экрана, паказваючы на ​​рух транспартнага сродку, што можа дапамагчы адтэрмінаваць пачатак ўкалыхвання.\n\nВы можаце ўключаць і выключаць гэтую функцыю ў Цэнтры кіравання.</string>
 </resources>

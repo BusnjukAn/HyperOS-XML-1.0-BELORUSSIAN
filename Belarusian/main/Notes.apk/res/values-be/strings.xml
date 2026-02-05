@@ -91,7 +91,7 @@
   <string name="date_time_picker_has_not_set_alarm">Напамін не усталяваны</string>
   <string name="date_time_picker_has_set_alarm">Напамін усталяваны</string>
   <string name="db_downgrade_clear_button">Ачысціць праграмныя дадзеныя</string>
-  <string name="db_downgrade_clear_date_reminder">Для перахода на наступную версію сiстэмы патрабуецца ачыстка дадзеных праграмы «Нататкі». Перад тым як гэта зрабіць, упэўніцеся, што вы захавалі свае нататкі ў воблаке.</string>
+  <string name="db_downgrade_clear_date_reminder">Для перахода на наступную версію сiстэмы патрабуецца ачыстка дадзеных праграмы \"Нататкі\". Перад тым як гэта зрабіць, упэўніцеся, што вы захавалі свае нататкі ў воблаке.</string>
   <string name="default_folder_name">Тэчка без назвы</string>
   <string name="delete_folder_dialog_tile">Выдаліць тэчку</string>
   <string name="dialog_privacy_revoke_tips">Пасля таго як вы адклічаце аўтарызацыю, праграма спыніць збор дадзеных, а таксама ўсе звязаныя з імі дадзеныя будуць выдалены з сервераў. Гэта можа зрабіць праграму практычна непрыдатнай для выкарыстання. Усё роўна адклікаць аўтарызацыю? Для таго каб гарантаваць бяспеку вашага акаўнта, увайдзіце ў i.mi.com, перш чым ануляваць аўтарызацыю на паслугі воблака.</string>
@@ -306,9 +306,9 @@
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_now">Не зараз</string>
   <string name="not_set">Не зададзена</string>
-  <string name="note_description_content">Праграма «Нататкі» — выдатны сродак для запісу вашых думак. У ёй маюцца ўбудаваныя напаміны, і яна сінхранізуе вашы нататкі з воблакам, каб вы маглі атрымаць доступ да іх у любым месцы ў любы час. Перад выдаленнем праграмы ўпэўніцеся, што вы можаце абысціся без гэтых функцый.</string>
+  <string name="note_description_content">Праграма \"Нататкі\" — выдатны сродак для запісу вашых думак. У ёй маюцца ўбудаваныя напаміны, і яна сінхранізуе вашы нататкі з воблакам, каб вы маглі атрымаць доступ да іх у любым месцы ў любы час. Перад выдаленнем праграмы ўпэўніцеся, што вы можаце абысціся без гэтых функцый.</string>
   <string name="note_description_title">Аб праграме</string>
-  <string name="note_gesture_guide_step1">Утрымлівайце «+» для стварэння галасавой нататкі</string>
+  <string name="note_gesture_guide_step1">Утрымлівайце \"+\" для стварэння галасавой нататкі</string>
   <string name="note_gesture_guide_step2">Перацягніце адну нататку на іншую, каб стварыць тэчку</string>
   <string name="note_gesture_guide_step3">Перацягніце нататку на значок тэчкі, каб перамясціць нататку ў тэчку</string>
   <string name="note_link_email">Напісаць пісьмо</string>
@@ -338,8 +338,8 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Правядзіце ўверх двума пальцамі для выдалення нататак без пацверджання</string>
   <string name="pref_desc_todo_float_mode">Правядзіце ад верхняга краю экрана для адкрыцця панэлі інструментаў задач</string>
   <string name="pref_remind_type_summary">Прайграць гук напаміну ў бязгучнам рэжыме</string>
-  <string name="pref_remind_type_summary_new">Ігнараваць рэжым «Без гуку» і прайграваць гук да адключэння будзільніка</string>
-  <string name="pref_remind_type_title">Ігнараваць рэжым «Без гуку»</string>
+  <string name="pref_remind_type_summary_new">Ігнараваць рэжым \"Без гуку\" і прайграваць гук да адключэння будзільніка</string>
+  <string name="pref_remind_type_title">Ігнараваць рэжым \"Без гуку\"</string>
   <string name="pref_remind_type_title_new">Апавяшчэнні з высокім прыярытэтам</string>
   <string name="pref_title_cloud_trash_bin">Выдаленыя нататкі ў воблаку</string>
   <string name="pref_title_common">Дадатковыя налады</string>
@@ -589,10 +589,10 @@
   <string name="todo_search_hint">Пошук задач</string>
   <string name="todo_time_picker_title">Усталяваць напамін</string>
   <string name="todo_user_guide_fw_pop">Дадаць цэтлiк на Галоўны экран</string>
-  <string name="todo_user_guide_tip1">Рады вітаць у «Задачах»!</string>
+  <string name="todo_user_guide_tip1">Рады вітаць у \"Задачах\"!</string>
   <string name="todo_user_guide_tip2">Тут можна дадаць тэкставыя і галасавыя задачы.</string>
   <string name="todo_user_guide_tip3">Проста націсніце на тэкставую задачу, каб адрэдагаваць яе.</string>
-  <string name="todo_user_guide_tip4">Не забудзьцеся стварыць цэтлiк «Задачы» на Галоўным экране.</string>
+  <string name="todo_user_guide_tip4">Не забудзьцеся стварыць цэтлiк \"Задачы\" на Галоўным экране.</string>
   <string name="todo_user_guide_tip5">Будзьце ў курсе падзей і не забывайце аб важных справах!</string>
   <string name="todo_user_guide_tip6">Націсніце \"Увод\", каб стварыць кантрольны спіс падзадач</string>
   <string name="todoalert_done">OК</string>
@@ -1553,7 +1553,7 @@
   <string name="math_label">Дзесятковы лік</string>
   <string name="math_proper_fraction">Змешаны лік</string>
   <string name="math_radian">Радыяны</string>
-  <string name="math_radian_degree">Адзінка вугла</string>
+  <string name="math_radian_degree">Адзінка кута</string>
   <string name="math_result_approximate">Рэжым акруглення</string>
   <string name="math_result_end">Абсечана</string>
   <string name="math_result_length">Дзесятковыя знакі</string>
@@ -1732,7 +1732,7 @@
   <string name="ai_text_confirm_cancel">Адмена</string>
   <string name="ai_text_revoke_modifications">Адмяніць змены</string>
   <string name="ai_text_watermark">Гэты змест створаны AI і прызначаны толькі для даведкі.</string>
-  <string name="ai_usage_content_text">%1$d. Адкрыйце нататкі.\n%2$d. Націсніце на плюс у правым ніжнім вуглу, стварыце нататку, а затым націсніце {icon}, каб пачаць.</string>
+  <string name="ai_usage_content_text">%1$d. Адкрыйце нататкі.\n%2$d. Націсніце на плюс у правым ніжнім куце, стварыце нататку, а затым націсніце {icon}, каб пачаць.</string>
   <string name="ai_usage_text_title">Як карыстацца</string>
   <string name="ai_writing_content_text">AI-пісьменнік дапамагае вам арганізаваць і палепшыць ваш тэкст. Вы можаце выкарыстоўваць яго наступнымі спосабамі:\n%1$d. Кароткі змест тэксту для хуткага вымання ключавой інфармацыі з доўгіх артыкулаў.\n%2$d. Пашырэнне тэксту для ўзбагачэння кароткіх нататак.\n%3$d. Карэкцыя тэксту для больш гладкіх выразаў.\n%4$d. Праверка правапісу і граматыкі.</string>
   <string name="dialog_share_as_duplicate">Адправіць нататку як копію</string>
@@ -1743,4 +1743,5 @@
   <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
   <string name="todo_time_picker_dialog_spinner_title">Час</string>
   <string name="todo_time_picker_dialog_title">Усталяваць час напаміну</string>
+  <string name="export_markdown_saved_at">Экспартавана ў %1$s</string>
 </resources>

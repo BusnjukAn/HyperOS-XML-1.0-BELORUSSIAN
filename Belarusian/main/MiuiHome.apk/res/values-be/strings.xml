@@ -573,7 +573,7 @@
   <string name="navigation_guide_home_summary">Правядзіце па экране знізу ўверх</string>
   <string name="navigation_guide_home_title">Перайсці на працоўны стол</string>
   <string name="navigation_guide_prohibit_gesture_hint">Поўнаэкранныя жэсты недаступныя падчас прагляду дэманстрацый</string>
-  <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Перайдзіце ў «Налады - Працоўны стол - Стандартныя налады - Сістэмная навiгацыя», каб праглядзець дадатковыя навучальныя відэа.</string>
+  <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Перайдзіце ў \"Налады - Працоўны стол - Стандартныя налады - Сістэмная навiгацыя\", каб праглядзець дадатковыя навучальныя відэа.</string>
   <string name="navigation_guide_recent_summary">Правядзіце па экране знізу ўверх і затрымайце палец</string>
   <string name="navigation_guide_recent_title">Адкрыць Нядаўнія</string>
   <string name="navigation_guide_settings">Дэманстрацыя жэстаў</string>
@@ -932,7 +932,7 @@
   <string name="guide_privacy_dialog_title">Умовы выкарыстання</string>
   <string name="Icon_name_classic_mode">Налады працоўнага стала</string>
   <string name="in_app_result_by">Вынікі ў праграме па</string>
-  <string name="layout_guide_description">Калі вам не падабаецца Меню праграм, вы можаце ў любы час пераключыцца на класічны выгляд адлюстравання. Скарыстайцеся цэтлiкам «Налады працоўнага стала» для пераключэння паміж двума рэжымамі.</string>
+  <string name="layout_guide_description">Калі вам не падабаецца Меню праграм, вы можаце ў любы час пераключыцца на класічны выгляд адлюстравання. Скарыстайцеся цэтлiкам \"Налады працоўнага стала\" для пераключэння паміж двума рэжымамі.</string>
   <string name="layout_guide_tip_title">Пераключэнне рэжымаў адлюстравання адным націскам</string>
   <string name="layout_guide_title">Як адключыць Меню праграм</string>
   <string name="memory_leak">Уцечка памяці</string>
@@ -952,7 +952,7 @@
   <string name="navigation_guide_home_title_spec_with_quotation_pad">Зварот на працоўны стол</string>
   <string name="navigation_guide_next_spec_pad">Далей</string>
   <string name="navigation_guide_prev_spec_pad">Назад</string>
-  <string name="navigation_guide_provision_see_more_pad">Перайдзіце ў «Налады - Працоўны стол - Стандартныя налады - Сістэмная навiгацыя», каб праглядзець дадатковыя навучальныя відэа.</string>
+  <string name="navigation_guide_provision_see_more_pad">Перайдзіце ў \"Налады - Працоўны стол - Стандартныя налады - Сістэмная навiгацыя\", каб праглядзець дадатковыя навучальныя відэа.</string>
   <string name="navigation_guide_provision_title_pad">Жэсты</string>
   <string name="navigation_guide_recent_summary_pad">Правядзіце па экране знізу ўверх і затрымайце палец</string>
   <string name="navigation_guide_recent_summary_spec_pad">Правядзіце па экране знізу ўверх і затрымайце палец</string>
@@ -1113,7 +1113,7 @@
   <string name="home_pull_up_content">Цяпер вы можаце адкрыць пошук, правёўшы ўніз па працоўным стале.</string>
   <string name="risk_app_report">Паскардзіцца на гэту праграму</string>
   <string name="home_pull_down_content">Правядзіце ўніз па працоўным стале, каб знайсці элементы на гэтай прыладзе і ў Інтэрнэце.</string>
-  <string name="home_pull_down_content_tips">Вы можаце змяніць налады, выбраўшы «Налады» > «Працоўны стол» > «Жэст уніз па працоўным стале».</string>
+  <string name="home_pull_down_content_tips">Вы можаце змяніць налады, выбраўшы \"Налады\" > \"Працоўны стол\" > \"Жэст уніз па працоўным стале\".</string>
   <string name="fsg_assist_enable_summary">Правядзіце пальцам ад кута экрана, каб выкарыстаць Асістэнт Google</string>
   <string name="fsg_assist_enable_title">Асістэнт Google</string>
   <string name="shortcut_share_dialog_content_pad">Файлы, якія вы адпраўляеце са сваёй прылады, а таксама іх атрымальнікі выбіраюцца і вызначаюцца вамі. Будзьце ўважлівыя пры выбары файлаў для адпраўкі і іх атрымальнікаў. Вы не можаце выкарыстоўваць сваю прыладу для перадачы вірусаў, шкоднасных праграм, траянаў і іншага шкоднаснага праграмнага забеспячэння іншым карыстальнікам. Не выкарыстоўвайце сваю прыладу для перадачы праграмнага забеспячэння, якое можа паўплываць на звычайнае выкарыстанне прылады атрымальніка, або любых аб\'ектаў, якія могуць пашкодзіць, сапсаваць, перахапіць або знішчыць любыя сістэмныя дадзеныя або асабістую інфармацыю на мабільных канцавых прыладах. Вы будзеце несці адказнасць за любую шкоду, прычыненую іншым карыстальнікам або мабільным прыладам. Xiaomi зробіць усё магчымае, каб функцыянальнасць перадачы дадзеных, а таксама тэхналогіі і інфармацыя былі бяспечнымі, эфектыўнымі, дакладнымі і надзейнымі. Аднак з-за бягучых тэхналагічных абмежаванняў Xiaomi не гарантуе, што функцыянальнасць сумеснага выкарыстання з\'яўляецца бездакорнай і задаволіць усе вашыя патрэбы.</string>
@@ -1124,7 +1124,7 @@
   <string name="free_style_unavailable_message">Mi Space больш не падтрымліваецца ў гэтай версіі. Аднак вы можаце працягваць выкарыстоўваць гэтую тэму.</string>
   <string name="content_center">Кантэнт-цэнтр</string>
   <string name="international_home_pull_down_content">Правядзіце ўніз працоуным стале, каб выканаць пошук на гэтай прыладзе і ў Інтэрнэце.</string>
-  <string name="international_home_pull_down_sub_content">Вы можаце пераключыць гэты жэст на адкрыццё Цэнтра кіравання ў меню «Налады» > «Працоуны стол» > «Жэст ўніз па працоуным стале».</string>
+  <string name="international_home_pull_down_sub_content">Вы можаце пераключыць гэты жэст на адкрыццё Цэнтра кіравання ў меню \"Налады\" > \"Працоуны стол\" > \"Жэст ўніз па працоуным стале\".</string>
   <string name="international_home_pull_down_up_btn_get">Зразумела</string>
   <string name="international_home_pull_up_content">Правядзіце уверх па працоуным стале, каб адкрыць Кантэнт-цэнтр.</string>
   <string name="international_home_pull_up_sub_content">Каб знайсці праграмы і прапановы праграм, правядзіце ўніз ад цэнтра працоўнага стала.</string>
@@ -1324,7 +1324,8 @@
   <string name="recents_guide_dialog_message">Цяпер дастуна новая шматслаёвая кампаноўка для зручнейшай і плыўнай працы.</string>
   <string name="recents_guide_dialog_negative_button">Не зараз</string>
   <string name="recents_guide_dialog_positive_button">Ужыць</string>
-  <string name="recents_guide_dialog_title">Новая кампаноўка «Нядаўніх»</string>
+  <string name="recents_guide_dialog_title">Новая кампаноўка \"Нядаўніх\"</string>
   <string name="recents_layout_style_stack">Шматслаёва</string>
   <string name="side_sheet_accessibility_pane_title">Бакавая панэль</string>
+  <string name="material_hour_24h_suffix">%1$s г.</string>
 </resources>

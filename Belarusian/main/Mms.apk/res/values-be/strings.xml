@@ -1994,4 +1994,5 @@
   <string name="consume">%s (Выкарыстоўваць)</string> 
   <string name="notification_channel_flow_other_name">Сінхранізаваць апавяшчэння iPhone</string> 
   <string name="verification_code_flow_title">Код пацверджання %1$s</string>
+  <string name="message_cannot_send_invalid_sim">Выкарыстоўваная вамі SIM-карта не падтрымлівае адпраўку SMS</string>
 </resources>

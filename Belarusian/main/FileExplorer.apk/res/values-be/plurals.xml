@@ -496,4 +496,22 @@
         <item quantity="few">"Немагчыма выбраць больш за %1$s аб'екта"</item>
         <item quantity="many">"Немагчыма выбраць больш за %1$s аб'ектаў"</item>
     </plurals>
+    <plurals name="delete_cload_nas_files">
+        <item quantity="other">"Выдаліць %1$d выбраных аб'ектаў з усіх прылад, воблака і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў воблаку Xiaomi і праграме Xiaomi SmartStorage."</item>
+        <item quantity="one">"Выдаліць %1$d выбраны аб'ект з усіх прылад, воблака і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў воблаку Xiaomi і праграме Xiaomi SmartStorage."</item>
+        <item quantity="few">"Выдаліць %1$d выбраныя аб'екты з усіх прылад, воблака і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў воблаку Xiaomi і праграме Xiaomi SmartStorage."</item>
+        <item quantity="many">"Выдаліць %1$d выбраных аб'ектаў з усіх прылад, воблака і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў воблаку Xiaomi і праграме Xiaomi SmartStorage."</item>
+    </plurals>
+    <plurals name="delete_nas_files">
+        <item quantity="other">"Выдаліць %1$d выбраных аб'ектаў з усіх прылад і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў праграме Xiaomi SmartStorage."</item>
+        <item quantity="one">"Выдаліць %1$d выбраны аб'ект з усіх прылад і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў праграме Xiaomi SmartStorage."</item>
+        <item quantity="few">"Выдаліць %1$d выбраныя аб'екты з усіх прылад і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў праграме Xiaomi SmartStorage."</item>
+        <item quantity="many">"Выдаліць %1$d выбраных аб'ектаў з усіх прылад і Xiaomi SmartStorage? Вы зможаце аднавіць нядаўна выдаленыя элементы ў праграме Xiaomi SmartStorage."</item>
+    </plurals>
+    <plurals name="file_num_content">
+        <item quantity="other">%2$d файлаў, у тым ліку %1$s</item>
+        <item quantity="one">%2$d файл, у тым ліку %1$s</item>
+        <item quantity="few">%2$d файлы, у тым ліку %1$s</item>
+        <item quantity="many">%2$d файлаў, у тым ліку %1$s</item>
+    </plurals>
 </resources>

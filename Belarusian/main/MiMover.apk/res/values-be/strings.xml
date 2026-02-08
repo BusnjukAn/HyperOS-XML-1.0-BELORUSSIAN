@@ -307,8 +307,8 @@
   <string name="host_boot_installation_button">Далей</string>
   <string name="host_boot_installation_content">1. Зайдзіце ў налады на вашым старым прыладзе.\n2. Увядзіце Mi Трансфер ў радку пошуку.\n3. Націсніце \"Mi Трансфер\" ў выніках пошуку.</string>
   <string name="host_boot_installation_dialog_message">Версія Mi Трансфер на старой прыладзе несумяшчальная з версіяй, усталяванай тут. Абнавіце Mi Трансфер на старой прыладзе.</string>
-  <string name="host_boot_installation_first_title">Адкрыйце Mi Трансфер на вашай старай прыладзе</string>
-  <string name="host_boot_installation_message">Выберыце старонку, якую вы бачыце на старай прыладзе. Калі вы карыстаецеся старой версіяй Mi Трансфер, мы раскажам вам, як абнавіць яе.</string>
+  <string name="host_boot_installation_first_title">Адкрыйце Mi Трансфер на вашай старой прыладзе</string>
+  <string name="host_boot_installation_message">Выберыце старонку, якую вы бачыце на старой прыладзе. Калі вы карыстаецеся старой версіяй Mi Трансфер, мы раскажам вам, як абнавіць яе.</string>
   <string name="host_boot_installation_second_title">Пацвердзіце версію Mi Трансфер</string>
   <string name="host_boot_installation_step_one_messege">Перайдзіце ў Налады, увядзіце \"Mi Трансфер\" у радку пошуку, а потым націсніце на \"Mi Трансфер\" у выніках пошуку.</string>
   <string name="host_boot_installation_step_one_title">1. Адкрыйце Mi Трансфер на старой прыладзе.</string>
@@ -536,7 +536,7 @@
   <string name="new_trans_intro_desc_new">%1$d. Пераканайцеся, што на новай прыладзе ўстаноўлена найноўшая версія Mi Трансфер. Вы можаце спампаваць апошнюю версію праграмы ў Краме Play або перайшоўшы па гэтай спасылцы: %2$s.\n%3$d. Калі пункт доступу усё яшчэ не з\'яўляецца ў Mi Трансфер, адкрыйце налады Wi-Fi і праверце, ці бачны там пункт доступу. Калі так, то вярніцеся ў Mi Трансфер і націсніце на імя пункта доступу.</string>
   <string name="new_trans_intro_desc_new_click">Спампаваць</string>
   <string name="new_trans_intro_desc_old">%d. Калі пункт доступу усё яшчэ не з\'яўляецца ў Mi Трансфер, адкрыйце налады Wi-Fi і праверце, ці бачны там пункт доступу. Калі так, то вярніцеся ў Mi Трансфер і націсніце на імя пункта доступу.</string>
-  <string name="new_trans_intro_question_1">%d. Чаму я не бачу пункт доступу, створаны новай прыладай, на старай прыладзе?</string>
+  <string name="new_trans_intro_question_1">%d. Чаму я не бачу пункт доступу, створаны новай прыладай, на старой прыладзе?</string>
   <string name="new_trans_intro_question_2">%d. Які пароль усталяваны для пункта доступу?</string>
   <string name="new_trans_intro_question_3">%d. Чаму праграма паведамляе, што на старой прыладзе недастаткова памяці?</string>
   <string name="new_trans_intro_question_4">%d. Чаму не ўдаецца перанесці ўсе праграмы?</string>
@@ -544,7 +544,7 @@
   <string name="new_trans_intro_question_6">%d. Чаму не ўдаецца перанесці дадзеныя праграмы з прылады іншага вытворцы?</string>
   <string name="new_trans_intro_question_7">%d. Ці давядзецца пачаць аперацыю зноў, калі я зачыню праграму Mi Трансфер падчас пераносу дадзеных?</string>
   <string name="new_trans_intro_question_8">%d. Чаму на новай прыладзе не адлюстроўваецца гісторыя дыялогаў WeChat?</string>
-  <string name="new_wait_link_first">Адкрыйце Mi Трансфер на вашай старай прыладзе</string>
+  <string name="new_wait_link_first">Адкрыйце Mi Трансфер на вашай старой прыладзе</string>
   <string name="new_wait_link_message_2">Кнопка \"Я адпраўнік\" знаходзіцца ў правым куце стартавай старонкі праграмы Mi Трансфер.</string>
   <string name="new_wait_link_title_2">1. Націсніце \"Я адпраўнік\" і пачакайце крыху.</string>
   <string name="new_wait_link_title_3">2. Абярыце наступны пункт доступу Wi-Fi на старой прыладзе.</string>
@@ -917,7 +917,7 @@
   <string name="trans_one_key_migrate">Mi Трансфер</string>
   <string name="trans_receive_time_remained">Атрымана: %1$s | Засталося: %2$s</string>
   <string name="trans_send_time_remained">Адпраўлена: %1$s | Засталося: %2$s</string>
-  <string name="trans_show_qr_code_label">Адкрыйце Mi Трансфер на старай прыладзе</string>
+  <string name="trans_show_qr_code_label">Адкрыйце Mi Трансфер на старой прыладзе</string>
   <string name="trans_show_qr_code_label_for_pad">Адкрыйце Mi Трансфер на старой прыладзе</string>
   <string name="trans_sync_transfer_data_list">Абярыце аб\'екты для перадачы на ​​старой прыладзе</string>
   <string name="trans_sync_transfer_data_list_apple">Перадача элементаў з прылады Apple</string>

@@ -8098,4 +8098,6 @@ Xiaomi Gaming Cooler"</string>
   <string name="gb_super_hot_area_msg_4.5">Наладзьце зону пакрыцця кіравання і адчувальнасць сэнсарнага экрана</string> 
   <string name="gb_super_shake_4.5">Дакладнае інтэлектуальнае кіраванне</string>
   <string name="car_sickness_relief_comment_text_opened">Кропкі будуць адлюстроўвацца па абодвум бакам экрана, паказваючы на ​​рух транспартнага сродку, што можа дапамагчы адтэрмінаваць пачатак ўкалыхвання.\n\nВы можаце ўключаць і выключаць гэтую функцыю ў Цэнтры кіравання.</string>
+  <string name="quick_mode_closed">Выкл.</string> 
+  <string name="quick_mode_opened">Укл.</string> 
 </resources>

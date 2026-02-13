@@ -163,4 +163,7 @@
         <item quantity="one">Пачаць %s спампоўку</item>
         <item quantity="few">Пачаць %s спампоўкi</item>
     </plurals>
+    <plurals name="browser_home_number_items">
+        <item quantity="other">Усяго элементаў: %d</item>
+    </plurals>
 </resources>

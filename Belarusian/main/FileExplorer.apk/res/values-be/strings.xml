@@ -1257,4 +1257,12 @@
   <string name="file_upload_success">Паспяхова загружана</string>
   <string name="notification_task_cancel">Скасаваць</string>
   <string name="operation_continue">Працягнуць</string>
+  <string name="add_to_desktop">Дадаць на працоўны стол</string>
+  <string name="dialog_message_shortcut_invalid">Гэтая тэчка была выдалена або зменена. Выдаліць гэты цэтлiк зараз?</string>
+  <string name="dialog_title_shortcut_invalid">Цэтлiк недаступны</string>
+  <string name="record_permission_rationale_message">Дазвольце Правадыру доступ да сховішча, каб мець магчымасць пошуку запісаў у Дыктафоне</string>
+  <string name="record_permission_rationale_title">Патрабуюцца дазволы</string>
+  <string name="shortcut_add_fail">Не атрымалася дадаць. Паспрабуйце яшчэ раз.</string>
+  <string name="shortcut_added">Паспяхова дададзена</string>
+  <string name="shortcut_exists">Гэтая тэчка ўжо існуе</string>
 </resources>

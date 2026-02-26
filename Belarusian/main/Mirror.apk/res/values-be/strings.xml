@@ -737,10 +737,10 @@
   <string name="trust_bind_success_toast_iphone">Дазволы паспяхова дадзены</string>
   <string name="trust_bind_unlock_subtitle_password">Увядзіце пароль экрана гэтай прылады, каб давяраць %1$s</string>
   <string name="trust_bind_unlock_subtitle_pattern">Намалюйце ўзор экрана гэтай прылады, каб давяраць %1$s</string>
-  <string name="trust_bind_unlock_title_car">Дазволіць аўтамабілю разблакіраваць гэтую прыладу</string>
-  <string name="trust_bind_unlock_title_iphone">Дазволіць iPhone разблакіраваць гэтую прыладу</string>
-  <string name="trust_bind_unlock_title_mac">Дазволіць Mac разблакіраваць гэтую прыладу</string>
-  <string name="trust_bind_unlock_title_pad">Дазволіць планшэту разблакіраваць гэтую прыладу</string>
+  <string name="trust_bind_unlock_title_car">Дазволіць аўтамабілю разблакоўваць гэтую прыладу</string>
+  <string name="trust_bind_unlock_title_iphone">Дазволіць iPhone разблакоўваць гэтую прыладу</string>
+  <string name="trust_bind_unlock_title_mac">Дазволіць Mac разблакоўваць гэтую прыладу</string>
+  <string name="trust_bind_unlock_title_pad">Дазволіць планшэту разблакоўваць гэтую прыладу</string>
   <string name="trust_fingerlock_auth">На вашым тэлефоне дазвольце планшэту разблакаваць Працоўны стол+</string>
   <string name="trust_fingerlock_auth_cancel">Адмена</string>
   <string name="trust_fingerlock_auth_cancel_toast">Адменена</string>
@@ -821,4 +821,7 @@
   <string name="trust_risk_security_subtitle_phone2phone">Выяўлена рызыка бяспекі. Увядзіце блакаванне экрана на вашым %1$s для пацвярджэння.</string>
   <string name="trust_to_set_password_dialog_content">Для гэтай функцыі патрабуецца блакаванне экрана на гэтай прыладзе. Усталюйце блакаванне экрана, каб разблакоўваць іншую прыладу адсюль.</string>
   <string name="trust_to_set_password_dialog_title">Спачатку ўсталюйце блакаванне экрана</string>
+  <string name="island_default_market_name_phone">Тэлефон Xiaomi</string>
+  <string name="trust_bind_unlock_title_ipad">Дазволіць iPad разблакоўваць гэтую прыладу</string>
+  <string name="passport_error_phone">Увядзіце сапраўдны нумар тэлефона</string>
 </resources>

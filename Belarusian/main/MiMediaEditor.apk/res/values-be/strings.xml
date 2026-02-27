@@ -72,11 +72,11 @@
   <string name="accessibility_tab_statedesc_unselect">Не абрана</string>
   <string name="photo_editor_matting_change_bg_completion">Дапамажыце мне змяніць фон</string>
   <string name="video_text_add">Дадаць тэкст</string>
-  <string name="collage_video_export_livephoto">Дынамічныя здымкі</string>
-  <string name="convert_livephoto_title">Пераўтварыць у дынамічны здымак</string>
-  <string name="convert_livephoto_video_not_support">Немагчыма пераўтварыць гэтае відэа ў дынамічны здымак</string>
-  <string name="convert_livephoto_video_time_limit">Толькі відэа працягласцю да %d секунд можна пераўтварыць у дынамічныя здымкі</string>
-  <string name="motion_photo_decode_failed">Немагчыма змяніць вокладку гэтага дынамічнага здымка</string>
-  <string name="motion_photo_re_pick_title">Дынамічныя здымкі</string>
-  <string name="pref_wm_dynamic_background_summary_title">Паказваць дынамічны фон кадра для дынамічных здымкаў</string>
+  <string name="collage_video_export_livephoto">Жывы момант</string>
+  <string name="convert_livephoto_title">Пераўтварыць у жывы момант</string>
+  <string name="convert_livephoto_video_not_support">Немагчыма пераўтварыць гэтае відэа ў жывы момант</string>
+  <string name="convert_livephoto_video_time_limit">Толькі відэа працягласцю да %d секунд можна пераўтварыць у жывы момант</string>
+  <string name="motion_photo_decode_failed">Немагчыма змяніць вокладку гэтага жывога моманта</string>
+  <string name="motion_photo_re_pick_title">Жывы момант</string>
+  <string name="pref_wm_dynamic_background_summary_title">Паказваць дынамічны фон кадра для жывых момантаў</string>
 </resources>

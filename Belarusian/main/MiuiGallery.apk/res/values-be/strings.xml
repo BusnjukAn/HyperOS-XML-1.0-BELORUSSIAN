@@ -951,7 +951,7 @@
   <string name="kilobyteShort">Кб</string>
   <string name="limit_height">Вышыня павінна быць > 0</string>
   <string name="limit_width">Шырыня павінна быць > 0</string>
-  <string name="live_photo">Жывое фота</string>
+  <string name="live_photo">Жывы момант</string>
   <string name="load_complete">Больш няма аб\'ектаў</string>
   <string name="load_failed">Не атрымалася спампаваць, націсніце, каб паўтарыць</string>
   <string name="load_relations">Пачакайце…</string>
@@ -3004,7 +3004,7 @@
   <string name="filter_popular_blues">Блюз</string>
   <string name="filter_popular_sunset_gold">Ззянне</string>
   <string name="migrate_msg">Некаторым альбомам патрабуецца дазвол на перамяшчэнне элементаў пасля абнаўлення сістэмы.</string>
-  <string name="motion_photo_enter">Дынамічнае фота</string>
+  <string name="motion_photo_enter">Жывы момант</string>
   <string name="onekey_beautify_tag_done">Эфекты прыменены</string>
   <string name="saf_hyper_link_text">Кіраванне дазволамі</string>
   <string name="saf_operation_guide_1">"Галерэі патрабуецца ваш дазвол, каб мець магчымасць абараняць вашыя дадзеныя і кіраваць імі. "</string>

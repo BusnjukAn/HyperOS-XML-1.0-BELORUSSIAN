@@ -4,4 +4,8 @@
   <string name="calendar_date_picker_a11y_next_month">Змяніць на наступны месяц</string>
   <string name="calendar_date_picker_a11y_prev_month">Змяніць на папярэдні месяц</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
+  <string name="send_photographic_competition_tip_cancel">Адмена</string> 
+  <string name="send_photographic_competition_tip_confirm">Адправіць</string> 
+  <string name="send_photographic_competition_tip_content">Для адпраўкі гэтага фота патрабуюцца метададзеныя выявы, уключаючы мадэль прылады і параметры камеры. Адправіць зараз?</string> 
+  <string name="send_photographic_competition_tip_title">Увага</string>
 </resources>

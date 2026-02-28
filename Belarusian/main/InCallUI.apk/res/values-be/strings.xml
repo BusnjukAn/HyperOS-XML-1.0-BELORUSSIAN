@@ -683,4 +683,6 @@
   <string name="spam_call_mark">Пазнака</string>
   <string name="spam_call_quick_operation">Хуткія дзеянні для %s</string>
   <string name="spam_call_unknown_number">Невядомы нумар</string>
+  <string name="description_image_button_reject_block">Адхіліць і заблакаваць</string> 
+  <string name="spam_call_add_number_to_blacklist">Заблакаваць гэты нумар?</string>
 </resources>

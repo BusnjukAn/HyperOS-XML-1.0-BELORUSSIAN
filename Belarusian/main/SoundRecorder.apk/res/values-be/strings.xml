@@ -107,7 +107,7 @@
   <string name="evening">Поўдзень</string>
   <string name="expand_button_title">Пашыраныя налады</string>
   <string name="export_to_note">Экспарт</string>
-  <string name="faq">Пытанні і адказы：\n\n1. Статусы замовы.\nЁсць тры статусы: \"апрацоўка\", \"завершана\", \"памылка транскрыбіравання\". Пасля завяршэння транскрыбавання тэкст захоўваецца ў адпаведным файле.\n\n2. Зварот сродкаў.\nЗварот ажыццяўляецца на працягу 5 працоўных дзён з даты плацяжу. У выпадку пратэрмінаванага рахункі, звяжыцеся з намі па тэлефоне гарачай лініі абслугоўвання кліентаў (400-100-5678).\n\n3.Як зрабіць запіс больш дакладнай?\nУ цяперашні час падтрымліваецца транскрыбаванне толькі кітайскай мовы, дакладнасць вынікаў будзе залежаць ад адлегласці да прылады, навакольнага шуму, галасы размаўлялага і іншых фактараў. Для больш дакладных вынікаў падчас размовы падносьце прыладу бліжэй.</string>
+  <string name="faq">Пытанні і адказы：\n\n1. Статусы замовы.\nЁсць тры статусы: \"апрацоўка\", \"завершана\", \"памылка расшыфроўкi\". Пасля завяршэння расшыфроўкi тэкст захоўваецца ў адпаведным файле.\n\n2. Зварот сродкаў.\nЗварот ажыццяўляецца на працягу 5 працоўных дзён з даты плацяжу. У выпадку пратэрмінаванага рахункі, звяжыцеся з намі па тэлефоне гарачай лініі абслугоўвання кліентаў (400-100-5678).\n\n3.Як зрабіць запіс больш дакладнай?\nУ цяперашні час падтрымліваецца расшыфроўа толькі кітайскай мовы, дакладнасць вынікаў будзе залежаць ад адлегласці да прылады, навакольнага шуму, галасы размаўлялага і іншых фактараў. Для больш дакладных вынікаў падчас размовы падносьце прыладу бліжэй.</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -899,10 +899,10 @@
   <string name="add_mark">Пазнака</string>
   <string name="ai_recognize_fail">Памылка расшыфроўкі</string>
   <string name="ai_recognize_fail_tip">Не атрымалася падвесці вынікі. Паўтарыце спробу.</string>
-  <string name="ai_recognize_preference_summary">Аўтаматычна транскрыбаваць падчас запісу</string>
-  <string name="asr_in_progress">%s Транскрыпцыя і зводка</string>
-  <string name="asr_in_progress_with_polish">%s Шліфоўка і зводка</string>
-  <string name="asr_progress">Транскрыпцыя аўдыё %s</string>
+  <string name="ai_recognize_preference_summary">Аўтаматычна расшыфроўваць падчас запісу</string>
+  <string name="asr_in_progress">%s Расшыфроўка і зводка</string>
+  <string name="asr_in_progress_with_polish">%s Дапрацоўка і зводка</string>
+  <string name="asr_progress">Расшыфроўка аўдыё %s</string>
   <string name="bottomsheet_action_collapse">Згарнуць ніжні аркуш</string>
   <string name="bottomsheet_action_expand">Разгарнуць ніжні аркуш</string>
   <string name="bottomsheet_drag_handle_clicked">Маркер перацягвання націснуты двойчы</string>
@@ -1144,7 +1144,7 @@
   <string name="preference_group_title_for_normal_setting">Агульнае</string>
   <string name="preference_key_ai_recognize">AI-распазнаванне гаворкі</string>
   <string name="preference_key_intelligent_polishing">Разумная паліроўка</string>
-  <string name="re_asr_error_tip">Не атрымалася транскрыбаваць. Паспрабуйце яшчэ раз.</string>
+  <string name="re_asr_error_tip">Не атрымалася расшыфраваць. Паспрабуйце яшчэ раз.</string>
   <string name="recognize_data_loading">Хвілінку…</string>
   <string name="searchview_clear_text_content_description">Ачысціць тэкст</string>
   <string name="searchview_navigation_content_description">Назад</string>
@@ -1153,7 +1153,7 @@
   <string name="settings_ai_record_in_call">AI-зводка аўдыё</string>
   <string name="settings_ai_record_in_call_description">Запісвайце выклікі, зробленыя ў іншых праграмах, і стварайце зводкі</string>
   <string name="side_sheet_accessibility_pane_title">Бакавая панэль</string>
-  <string name="state_wait_recognize_tip">Завяршаецца бягучая транскрыпцыя…</string>
+  <string name="state_wait_recognize_tip">Завяршаецца бягучая расшыфроўка…</string>
   <string name="summary_content_more">Занадта шмат слоў, зводка не распачата</string>
   <string name="summary_content_short">Колькасць слоў занадта мала, зводка не пачата</string>
   <string name="system_permission_declare_double_link"><Data>Перш чым працягнуць, азнаёмцеся і пагадзіцеся з нашым &lt;a href=\"%1$s\">Карыстальніцкім пагадненнем&lt;/a> і нашай &lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>.</Data></string>
@@ -1176,14 +1176,28 @@
   <string name="offline_data_recognize_warning_content">Дадзеныя будуць апрацоўвацца толькі на прыладзе. Разумная апрацоўка будзе недаступная.</string>
   <string name="offline_data_recognize_warning_title">Разумная апрацоўка будзе недаступная</string>
   <string name="offline_model_manage">Кіраванне мадэлямі</string>
-  <string name="settings_ai_record_abstract_method_one">Пасля запісу вы можаце праглядзець кароткі змест транскрыпцыі.</string>
+  <string name="settings_ai_record_abstract_method_one">Пасля запісу вы можаце праглядзець кароткі змест расшыфроўкi.</string>
   <string name="settings_ai_record_diff_speaker_method_one">Аўтаматычна вызначаць дакладчыкаў пасля пачатку запісу і групаваць абзацы па дакладчыках.</string>
   <string name="settings_ai_record_diff_speaker_method_two">Пасля запісу націсніце на назву дакладчыка, каб адкрыць яго старонку. Націсніце %1$s, каб перайменаваць дакладчыка.</string>
   <string name="settings_ai_record_method">Як карыстацца</string>
-  <string name="settings_ai_record_trans_method_one">Аўтаматычна транскрыбаваць аўдыё пасля пачатку запісу. Вы можаце праглядаць транскрыпцыю ў рэжыме рэальнага часу падчас запісу.</string>
+  <string name="settings_ai_record_trans_method_one">Аўтаматычна расшыфроўваць аўдыё пасля пачатку запісу. Вы можаце праглядаць расшыфроўку ў рэжыме рэальнага часу падчас запісу.</string>
   <string name="settings_ai_record_translate_method_one">Пасля запісу націсніце %1$s у правым верхнім куце, каб перакласці запіс на іншую мову.</string>
   <string name="settings_ai_record_view_speeches_method_one">Пасля запісу націсніце на пазнаку дакладчыка, каб праглядзець усе фрагменты яго маўлення.</string>
-  <string name="state_decode_recognize_tip">Падрыхтоўка да транскрыпцыі…</string>
+  <string name="state_decode_recognize_tip">Падрыхтоўка да расшыфроўкi…</string>
   <string name="loading_hyper_xiaoai">Хвілінку…</string>
-  <string name="tips_for_asr_in_progress">Транскрыпцыя і зводка з выкарыстаннем AI %s</string> 
+  <string name="tips_for_asr_in_progress">Расшыфроўка і зводка з выкарыстаннем AI %s</string>
+  <string name="notification_for_asr_in_decode">Апрацоўка…</string>
+  <string name="notification_for_asr_in_progress">Расшыфроўка з дапамогай AI %s</string>
+  <string name="notification_for_asr_in_progress_with_polish">Дапрацоўка з дапамогай AI %s</string>
+  <string name="notification_title_AI_POLISH_FAILED">Не атрымалася дапрацаваць</string>
+  <string name="notification_title_AI_RECOGNIZE_FINISHED_with_polish">Паспяхова дапрацавана</string>
+  <string name="pdf_file_fail">Не атрымалася запампаваць. Паўтарыце спробу.</string>
+  <string name="pdf_file_too_big">Файл занадта вялікі, каб выкарыстоўваць гэту функцыю</string>
+  <string name="pdf_note_display_name">Расшыфроўка %1$s</string>
+  <string name="recognize_content">Расшыфроўка</string>
+  <string name="record_ai_polish_fail">Не атрымалася дапрацаваць. Паспрабуйце яшчэ раз.</string>
+  <string name="record_name_minute">​</string>
+  <string name="record_sensitive_polish_fail">Нельга дапрацаваць адчувальны змест</string>
+  <string name="record_trans_too_large">Гэты запіс занадта доўгі для расшыфроўкi</string>
+  <string name="tips_for_asr_running">Іншая расшыфроўка ўжо выконваецца…</string>
 </resources>

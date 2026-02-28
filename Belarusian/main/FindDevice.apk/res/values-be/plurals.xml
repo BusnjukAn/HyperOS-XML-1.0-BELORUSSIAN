@@ -136,4 +136,66 @@
         <item quantity="other">%1$d м.</item>
         <item quantity="one">%1$d м.</item>
     </plurals>
+    <plurals name="code_device_offline_days">
+        <item quantity="other">Не ў сетцы %1$d дзён</item>
+        <item quantity="one">Не ў сетцы %1$d дзень</item>
+        <item quantity="few">Не ў сетцы %1$d дні</item>
+        <item quantity="many">Не ў сетцы %1$d дзён</item>
+    </plurals>
+    <plurals name="find_tag_follow_you">
+        <item quantity="other">Выяўлена %d рэчаў побач з вамі. Націсніце, каб паглядзець падрабязнасці.</item>
+        <item quantity="one">Выяўлена %d рэч побач з вамі. Націсніце, каб паглядзець падрабязнасці.</item>
+        <item quantity="few">Выяўлена %d рэчы побач з вамі. Націсніце, каб паглядзець падрабязнасці.</item>
+        <item quantity="many">Выяўлена %d рэчаў побач з вамі. Націсніце, каб паглядзець падрабязнасці.</item>
+    </plurals>
+    <plurals name="name_too_long_please_retry_2">
+        <item quantity="other">Можна ўвесці да %1$d сімвалаў</item>
+        <item quantity="one">Можна ўвесці да %1$d сімвала</item>
+        <item quantity="few">Можна ўвесці да %1$d сімвалаў</item>
+        <item quantity="many">Можна ўвесці да %1$d сімвалаў</item>
+    </plurals>
+    <plurals name="precise_find_distance">
+        <item quantity="other">%1$s м. наперадзе</item>
+        <item quantity="one">%1$s м. наперадзе</item>
+    </plurals>
+    <plurals name="precise_find_distance_back">
+        <item quantity="other">%1$s м. ззаду</item>
+        <item quantity="one">%1$s м. ззаду</item>
+    </plurals>
+    <plurals name="precise_find_distance_back_left">
+        <item quantity="other">%1$s м. ззаду злева</item>
+        <item quantity="one">%1$s м. ззаду злева</item>
+    </plurals>
+    <plurals name="precise_find_distance_back_right">
+        <item quantity="other">%1$s м. ззаду справа</item>
+        <item quantity="one">%1$s м. ззаду справа</item>
+    </plurals>
+    <plurals name="precise_find_distance_front">
+        <item quantity="other">%1$s м. наперадзе</item>
+        <item quantity="one">%1$s м. наперадзе</item>
+    </plurals>
+    <plurals name="precise_find_distance_front_left">
+        <item quantity="other">%1$s м. наперадзе злева</item>
+        <item quantity="one">%1$s м. наперадзе злева</item>
+    </plurals>
+    <plurals name="precise_find_distance_front_right">
+        <item quantity="other">%1$s м. наперадзе справа</item>
+        <item quantity="one">%1$s м. наперадзе справа</item>
+    </plurals>
+    <plurals name="precise_find_distance_left">
+        <item quantity="other">%1$s м. злева</item>
+        <item quantity="one">%1$s м. злева</item>
+    </plurals>
+    <plurals name="precise_find_distance_near">
+        <item quantity="other">Побач, %1$s м.</item>
+        <item quantity="one">Побач, %1$s м.</item>
+    </plurals>
+    <plurals name="precise_find_distance_right">
+        <item quantity="other">%1$s м. справа</item>
+        <item quantity="one">%1$s м. справа</item>
+    </plurals>
+    <plurals name="precise_find_volume_reminder_confirm_time">
+        <item quantity="other">Прайграць (%d)</item>
+        <item quantity="one">Прайграць (%d)</item>
+    </plurals>
 </resources>

@@ -3021,8 +3021,8 @@
   <string name="miui_notification_menu_msg_fold">Згрупаваць усе апавяшчэннi ад %1$s разам?</string>
   <string name="miui_notification_menu_msg_unfold">Адлюстроўваць апавяшчэннi %1$s асобна?</string>
   <string name="miui_notification_menu_unfold">Адзначыць як важнае</string>
-  <string name="miui_notification_slide_menu_msg_ongoing">Забараніць пастаянныя апавяшчэнні для \"%1$s\"?</string>
-  <string name="miui_notification_slide_menu_ongoing">Забараніць пастаянныя апавяшчэнні</string>
+  <string name="miui_notification_slide_menu_msg_ongoing">Абмежаваць пастаянныя апавяшчэнні для \"%1$s\"?</string>
+  <string name="miui_notification_slide_menu_ongoing">Абмежаваць пастаянныя апавяшчэнні</string>
   <string name="miui_vertical_time_format_12">hh\nmm</string>
   <string name="miui_vertical_time_format_24">HH\nmm</string>
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>

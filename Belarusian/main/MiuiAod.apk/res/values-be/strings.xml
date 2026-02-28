@@ -335,4 +335,8 @@
   <string name="kg_template_title_car">Электрамабіль Xiaomi</string>
   <string name="disable_aod_in_dark_room">Адключаць, калі прылада знаходзіцца у цемры</string>
   <string name="aod_notification_use_app_icon">Выкарыстоўваць абразкі праграм для апавяшчэнняў</string>
+  <string name="kg_font_filter_color_pale_orange_red">Светлы аранжава-чырвоны</string>
+  <string name="kg_talkback_double_tap_to_activate">Націсніце двойчы для актывацыі</string>
+  <string name="kg_talkback_off">Выкл.</string>
+  <string name="kg_talkback_on">Укл.</string>
 </resources>

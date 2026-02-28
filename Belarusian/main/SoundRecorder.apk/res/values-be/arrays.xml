@@ -128,4 +128,8 @@
         <item>Традыцыйная кітайская (САР Ганконг)</item>
         <item>Філіпінская</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
 </resources>

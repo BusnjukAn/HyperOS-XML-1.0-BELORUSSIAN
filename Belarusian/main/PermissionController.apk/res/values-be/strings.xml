@@ -1293,4 +1293,5 @@
   <string name="virtual_reject_notice_title_contacts">%1$s запытвае доступ да кантактаў</string>
   <string name="virtual_reject_notice_title_phonestate">%1$s запытвае доступ да інфармацыі аб прыладзе</string>
   <string name="virtual_reject_notice_title_sms">%1$s запытвае доступ да паведамленняў</string>
+  <string name="miui_reject_only_opening_screen">Абмежаваць доступ падчас запуску праграмы</string>
 </resources>

@@ -520,4 +520,22 @@
         <item quantity="few">Вы можаце дадаць да %d тэчак</item>
         <item quantity="many">Вы можаце дадаць да %d тэчак</item>
     </plurals>
+    <plurals name="delete_pc_files">
+        <item quantity="other">Назаўсёды выдаліць %2$d файлаў з %1$s зараз?</item>
+        <item quantity="one">Назаўсёды выдаліць %2$d файл з %1$s зараз?</item>
+        <item quantity="few">Назаўсёды выдаліць %2$d файла з %1$s зараз?</item>
+        <item quantity="many">Назаўсёды выдаліць %2$d файлаў з %1$s зараз?</item>
+    </plurals>
+    <plurals name="file_fail_count">
+        <item quantity="other">"Не атрымалася перадаць %s элементаў"</item>
+        <item quantity="one">"Не атрымалася перадаць %s элемент"</item>
+        <item quantity="few">"Не атрымалася перадаць %s элемента"</item>
+        <item quantity="many">"Не атрымалася перадаць %s элементаў"</item>
+    </plurals>
+    <plurals name="file_success_count">
+        <item quantity="other">"Перададзена %s элементаў"</item>
+        <item quantity="one">"Перададзены %s элемент"</item>
+        <item quantity="few">"Перададзена %s элемента"</item>
+        <item quantity="many">"Перададзена %s элементаў"</item>
+    </plurals>
 </resources>

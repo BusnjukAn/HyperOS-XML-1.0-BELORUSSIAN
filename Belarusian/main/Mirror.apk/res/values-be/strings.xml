@@ -824,4 +824,6 @@
   <string name="island_default_market_name_phone">Тэлефон Xiaomi</string>
   <string name="trust_bind_unlock_title_ipad">Дазволіць iPad разблакоўваць гэтую прыладу</string>
   <string name="passport_error_phone">Увядзіце сапраўдны нумар тэлефона</string>
+  <string name="tips_call_content">%s атрымаў уваходны выклiк, калі ласка, выканайце дзеянне гэтага тэлефона</string>
+  <string name="tips_call_title">Зараз не падтрымліваецца функцыя выклiкаў</string>
 </resources>

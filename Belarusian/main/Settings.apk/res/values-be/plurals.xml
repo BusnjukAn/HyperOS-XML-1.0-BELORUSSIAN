@@ -1037,4 +1037,32 @@
         <item quantity="other">Вы можаце адклікаць згоду праз %d сек.</item>
         <item quantity="one">Вы можаце адклікаць згоду праз %d сек.</item>
     </plurals>
+    <plurals name="enter_digit_password_max_length"> 
+        <item quantity="other">Вы можаце ўвесці да %1$d лічбаў</item> 
+        <item quantity="one">Вы можаце ўвесці да %1$d лічбы</item> 
+    </plurals> 
+    <plurals name="enter_digit_password_min_length"> 
+        <item quantity="other">Увядзіце не менш за %1$d лічбаў</item> 
+        <item quantity="one">Увядзіце не менш за %1$d лічбы</item> 
+    </plurals> 
+    <plurals name="enter_mix_password_max_length"> 
+        <item quantity="other">Вы можаце ўвесці да %d сімвалаў</item> 
+        <item quantity="one">Вы можаце ўвесці да %d сімвала</item> 
+    </plurals> 
+    <plurals name="enter_mix_password_min_chars"> 
+        <item quantity="other">Увядзіце не менш за %1$d сімвалаў</item> 
+        <item quantity="one">Увядзіце як мінімум %1$d сімвал</item> 
+    </plurals> 
+    <plurals name="keyguard_lock_too_many_attempts"> 
+        <item quantity="other">Занадта шмат спроб. Паспрабуйце яшчэ раз праз %d сек.</item> 
+        <item quantity="one">Занадта шмат спроб. Паспрабуйце яшчэ раз праз %d сек.</item> 
+    </plurals> 
+    <plurals name="pluto_switch_headset_anti_lost_with_fall_summary"> 
+        <item quantity="other">Атрымаць напамін, калі вашы навушнікі ўпалі або вы іх не носіце і яны знаходзяцца па-за футаралам больш за %d хв.</item> 
+        <item quantity="one">Атрымаць напамін, калі вашы навушнікі ўпалі або вы іх не носіце і яны знаходзяцца па-за футаралам больш за %d хв.</item> 
+    </plurals> 
+    <plurals name="remaining_attempts_message"> 
+        <item quantity="other">Засталося спроб: %1$d</item> 
+        <item quantity="one">Засталося спроб: %1$d</item> 
+    </plurals>
 </resources>

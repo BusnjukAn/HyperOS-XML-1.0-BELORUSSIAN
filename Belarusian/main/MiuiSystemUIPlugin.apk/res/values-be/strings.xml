@@ -729,4 +729,5 @@
   <string name="qs_flip_tile_setting_label">Цэнтр кіравання знешнім экранам</string>
   <string name="qs_flip_tile_vibrate">Вібрацыя</string>
   <string name="restart_hint">Націсніце і ўтрымлівайце кнопку сiлкавання на працягу %d сек., каб прымусова перазагрузіць прыладу.</string>
+  <string name="flashlight_enter_super_mode_toast">Высокая яркасць можа прывесці да нагрэву прылады пры працяглым выкарыстанні</string>
 </resources>

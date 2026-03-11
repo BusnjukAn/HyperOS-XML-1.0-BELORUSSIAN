@@ -5,7 +5,7 @@
   <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
   <string name="abc_action_mode_done">Гатова</string>
   <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
-  <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+  <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
   <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -44,7 +44,7 @@
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="default_debt_msg_words">Гэта прылада заблакавана за нясвоечасовую аплату растэрміноўкі.\nЗвяжыцеся з вашым гандлёвым агентам, каб атрымаць больш інфармацыі.</string>
-  <string name="default_lock_msg_words">Гэта прылада звязана з існуючым Mi Акаўнтам. З меркаванняў бяспекі неабходна ўвесці пароль, каб праверыць прыладу.</string>
+  <string name="default_lock_msg_words">Гэта прылада звязана з існуючым Xiaomi Акаўнтам. З меркаванняў бяспекі неабходна ўвесці пароль, каб праверыць прыладу.</string>
   <string name="default_lock_msg_words_with_phone">Прывітанне! Я страціў гэту прыладу. Не маглі б вы звязацца са мной? Дзякуй!</string>
   <string name="device_locked">Прылада заблакавана</string>
   <string name="device_lost">Прылада страчана</string>
@@ -66,8 +66,8 @@
   <string name="find_device_capture_notification_title">Пошук прылады збіраецца зрабіць фота</string>
   <string name="find_device_crash">Пошук прылады нечакана закрыты.</string>
   <string name="find_device_error_access_denied">Доступ забаронены.</string>
-  <string name="find_device_error_account_sys_timeout">"Не атрымалася падлучыцца да Mi Акаўнта. "</string>
-  <string name="find_device_error_account_unknown_error">Памылка Mi Акаўнта (%s).</string>
+  <string name="find_device_error_account_sys_timeout">"Не атрымалася падлучыцца да Xiaomi Акаўнта. "</string>
+  <string name="find_device_error_account_unknown_error">Памылка Xiaomi Акаўнта (%s).</string>
   <string name="find_device_error_custom">%s</string>
   <string name="find_device_error_network">Памылка сеткі.</string>
   <string name="find_device_error_password_changed">Пароль акаўнта быў нядаўна зменены.</string>
@@ -139,7 +139,7 @@
   <string name="miuix_appcompat_search_input_description">Пошук</string>
   <string name="miuix_appcompat_select_all">Выбраць усё</string>
   <string name="miuix_appcompat_select_all_description">Выбраць усё</string>
-  <string name="miuix_appcompat_select_item">Выберыце аб\'екты</string>
+  <string name="miuix_appcompat_select_item">Абярыце аб\'екты</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
@@ -201,7 +201,7 @@
   <string name="passport_vcode_prompt_long">Увядзіце праверачны код</string>
   <string name="passport_verify">Праверыць</string>
   <string name="password">Увядзіце пароль</string>
-  <string name="phone_locked">Гэтая прылада, магчыма, суадносіцца з існуючым Mi Акаўнтам (%s). Калі ласка, увядзіце пароль для актывацыі прылады.</string>
+  <string name="phone_locked">Гэтая прылада, магчыма, суадносіцца з існуючым Xiaomi Акаўнтам (%s). Калі ласка, увядзіце пароль для актывацыі прылады.</string>
   <string name="phone_locked_account_email">, звязаны email: %s</string>
   <string name="phone_locked_account_phone">, звязаны нумар тэлефона: %s</string>
   <string name="pm">ПП</string>
@@ -286,7 +286,7 @@
   <string name="unlock_error_device_id">Немагчыма атрымаць ID прылады</string>
   <string name="unlock_error_interrupted">Перарвана</string>
   <string name="unlock_error_network">Немагчыма злучыцца з сеткай</string>
-  <string name="unlock_error_passport_sdk_timeout">SDK для Mi Акаўнт не адказвае</string>
+  <string name="unlock_error_passport_sdk_timeout">SDK для Xiaomi Акаўнта не адказвае</string>
   <string name="unlock_error_rpc">Памылка RPC</string>
   <string name="unlock_error_server">Памылка сервера</string>
   <string name="unlock_error_ssl_hand_shake">Не атрымалася далучыцца да сервера, паспрабуйце ўсталяваць дату і час уручную.</string>
@@ -301,7 +301,7 @@
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
   <string name="verifing_account">Праверка пароля…</string>
-  <string name="verify_password_failed">Не атрымалася праверыць ID Mi Акаўнта. %s.</string>
+  <string name="verify_password_failed">Не атрымалася праверыць ID Xiaomi Акаўнта. %s.</string>
   <string name="wednesday">Серада</string>
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
@@ -573,7 +573,7 @@
   <string name="power_off_locate_title">Паведамляць месцазнаходжанне перад выключэннем</string>
   <string name="pre_privacy_policy">Палітыка канфідэнцыяльнасці</string>
   <string name="pre_user_agreement">Карыстальніцкае пагадненне</string>
-  <string name="privacy_dialog_finddevice_all_purpose">З дапамогай функцыі \"Пошук прылады\" вы можаце вызначаць месцазнаходжанне, блакаваць або ачышчаць даныя на прыладзе, калі яна страчана. Вы таксама можаце дапамагаць іншым знаходзіць іх прылады Xiaomi.</string>
+  <string name="privacy_dialog_finddevice_all_purpose">З дапамогай функцыі \"Пошук прылады\" вы можаце вызначаць месцазнаходжанне, блакаваць або ачышчаць даныя на прыладзе, калі яна страчана. Вы таксама можаце дапамагаць іншым знаходзіць іх прылады. %s</string>
   <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
   <string name="privacy_settings">Канфідэнцыяльнасць</string>
   <string name="query_account_info">Праверка інфармацыі пра ўліковы запіс…</string>
@@ -604,8 +604,8 @@
   <string name="stop_noising">Спыніць прайграванне</string>
   <string name="stop_noising_content_with_device">%1$s %2$s шукае гэтую прыладу.</string>
   <string name="stop_noising_content_without_device">%1$s шукае гэтую прыладу.</string>
-  <string name="stop_noising_notification_content_with_device">%1$s %2$s шукае гэтую прыладу.</string>
-  <string name="stop_noising_notification_content_without_device">%1$s шукае гэтую прыладу.</string>
+  <string name="stop_noising_notification_content_with_device">Ад %1$s %2$s</string>
+  <string name="stop_noising_notification_content_without_device">Ад %1$s</string>
   <string name="tab_mine_close_share_location_dialog_message">Калі вы адключыце гэтую функцыю, людзі, з якімі вы дзяліцеся сваім месцазнаходжаннем, больш не змогуць яго бачыць.</string>
   <string name="tab_mine_close_share_location_dialog_title">Спыніць дзяліцца месцазнаходжаннем?</string>
   <string name="tab_mine_close_share_location_diolog_button_cancel">Адмена</string>
@@ -670,11 +670,11 @@
   <string name="hybrid_provider">Прадастаўлена %1$s</string>
   <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="item_view_role_description">Укладка</string>
-  <string name="material_clock_toggle_content_description">Выберыце ДП (да паўдня) або ПП (пасля паўдня)</string>
+  <string name="material_clock_toggle_content_description">Абярыце ДП (да паўдня) або ПП (пасля паўдня)</string>
   <string name="material_hour_24h_suffix">%1$s гадз</string>
-  <string name="material_hour_selection">Выберыце гадзіну</string>
+  <string name="material_hour_selection">Абярыце гадзіну</string>
   <string name="material_hour_suffix">%1$s гадз</string>
-  <string name="material_minute_selection">Выберыце хвіліны</string>
+  <string name="material_minute_selection">Абярыце хвіліны</string>
   <string name="material_minute_suffix">%1$s хв</string>
   <string name="material_slider_range_end">Канец дыяпазону</string>
   <string name="material_slider_range_start">Пачатак дыяпазону</string>
@@ -684,7 +684,7 @@
   <string name="material_timepicker_hour">Гадзіна</string>
   <string name="material_timepicker_minute">Хвіліна</string>
   <string name="material_timepicker_pm">ПП</string>
-  <string name="material_timepicker_select_time">Выберыце час</string>
+  <string name="material_timepicker_select_time">Абярыце час</string>
   <string name="material_timepicker_text_input_mode_description">Пераключыцца на рэжым тэксту пры ўводзе часу.</string>
   <string name="miuix_accessibility_title">Загаловак</string>
   <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string>
@@ -732,7 +732,7 @@
   <string name="mtrl_picker_announce_current_range_selection">Выбраная дата пачатку: %1$s, выбраная дата заканчэння: %2$s</string>
   <string name="mtrl_picker_announce_current_selection">Бягучае вылучэнне: %1$s</string>
   <string name="mtrl_picker_cancel">Скасаваць</string>
-  <string name="mtrl_picker_date_header_title">Выберыце дату</string>
+  <string name="mtrl_picker_date_header_title">Абярыце дату</string>
   <string name="mtrl_picker_date_header_unselected">Выбраная дата</string>
   <string name="mtrl_picker_end_date_description">Дата заканчэння: %1$s</string>
   <string name="mtrl_picker_invalid_format">Няправільны фармат.</string>
@@ -744,7 +744,7 @@
   <string name="mtrl_picker_out_of_range">Па-за межамі дыяпазону: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Дата пачатку – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата заканчэння</string>
-  <string name="mtrl_picker_range_header_title">Выберыце дыяпазон дат</string>
+  <string name="mtrl_picker_range_header_title">Абярыце дыяпазон дат</string>
   <string name="mtrl_picker_range_header_unselected">Дата пачатку – дата заканчэння</string>
   <string name="mtrl_picker_save">Захаваць</string>
   <string name="mtrl_picker_start_date_description">Дата пачатку: %1$s</string>
@@ -1066,7 +1066,7 @@
   <string name="finddevice_iot_view_details">Падрабязнасці</string>
   <string name="finddevice_iot_view_help">Дапамога</string>
   <string name="finddevice_iot_wallet">Кашалёк</string>
-  <string name="first_record">Упершыню зафіксавана %1$s</string>
+  <string name="first_record">Першы запіс: dd.MM.yyyy HH:mm</string>
   <string name="follow_thing">Рэчы, якія адсочваюцца</string>
   <string name="has_open_on">Уключана з %1$s %2$s</string>
   <string name="history_hint_b">Адлюстроўваюцца даныя толькі за апошнія %1$d дзён (да %2$d запісаў)</string>
@@ -1080,7 +1080,7 @@
   <string name="iphone_setting_summary">%1$d. Уключыце Bluetooth.\n%2$d. Падлучыцеся да сеткі.\n%3$d. У Ўзаемазвязанасцi Xiaomi → Профіль → Налады \"Пошук прылады\" выканайце спалучэнне.\n%4$d. Прыміце запыт на спалучэнне.</string>
   <string name="iphone_view_help">Дапамога</string>
   <string name="items_page">Рэчы</string>
-  <string name="last_record">Апошні запіс: %1$s</string>
+  <string name="last_record">Апошні запіс: dd.MM.yyyy HH:mm</string>
   <string name="lost_notify">Апавяшчэнні аб пакінутых рэчах</string>
   <string name="lost_notify_hint">Апавяшчэнні аб пакінутых рэчах</string>
   <string name="lost_notify_to_some_device">На %1$s</string>
@@ -1131,7 +1131,7 @@
   <string name="ota_first_dialog_title">Даступна абнаўленне</string>
   <string name="ota_have_new_version">Даступна абнаўленне прашыўкі. Націсніце, каб абнавіць.</string>
   <string name="ota_version">Версія прашыўкі: %s</string>
-  <string name="other_xiaomi_tag">Адсочваемы %1$s</string>
+  <string name="other_xiaomi_tag">Тэг, які адсочваецца</string>
   <string name="passport_family_invite_member_sms">Сямейныя сэрвісы: %1$s запрашае вас у сям\'ю для агульнага воблачнага сховішча і іншых функцый. Таксама можна выкарыстоўваць \"Сямейную абарону\" для дзяцей і родных. Націсніце %2$s, каб далучыцца.</string>
   <string name="passport_family_invite_member_wechat_title">%s запрашае вас у сям\'ю</string>
   <string name="permission_settings_category">Дазволы</string>
@@ -1211,10 +1211,10 @@
   <string name="reset_mi_earphone_title">Не ўдалося падлучыцца. Паспрабуйце зноў.</string>
   <string name="reset_mi_tag_step">%1$d. Адкрыйце прыладу і выньце батарэйку.\n%2$d. Устаўце батарэйку назад і зацісніце кнопку на %3$d секунд. Два сігналы пацвердзяць скід.</string>
   <string name="reset_mi_tag_title">Не ўдалося падлучыцца. Скіньце і паспрабуйце зноў.</string>
-  <string name="reset_mi_watch_step">Выдаліце гэтую прыладу ў Mi Здароўе, затым выканайце спалучэнне нанова</string>
+  <string name="reset_mi_watch_step">У Xiaomi Здароўе перайдзіце ў раздзел Прылада > Бяспека > Пошук прылады, а затым націсніце \"Паспрабаваць яшчэ раз\".</string>
   <string name="revoke_settings_category">Адкліканне згоды</string>
   <string name="save_fail">Не ўдалося захаваць</string>
-  <string name="select_tag_icon">Выбраць значок</string>
+  <string name="select_tag_icon">Абярыце значок</string>
   <string name="sepatate_status_change">Уключэнне…</string>
   <string name="service_error">Памылка сервера</string>
   <string name="setting_lang_for_shop">Магазін і супольнасць падтрымліваюць толькі мясцовыя мовы</string>
@@ -1265,4 +1265,22 @@
   <string name="tag_track_hint_b">Даведайцеся, як адключыць перадачу месцазнаходжання</string> 
   <string name="trust_this_earphone">Давяраць гэтым навушнікам</string> 
   <string name="trust_this_earphone_message">Пасля таго, як вы даверыцеся гэтым навушнікам, вы больш не будзеце атрымліваць апавяшчэнні аб іх перамяшчэнні разам з вашай прыладай.</string>
+  <string name="tracking_alert_notification_text">Гэтыя навушнікі злучаны з іншым акаўнтам Xiaomi. Папрасіце іншага карыстальніка адключыць функцыю \"Пошук прылады\" або адмяніць спалучэнне гэтых навушнікаў.</string>
+  <string name="check_for_updates">Праверыць наяўнасць абнаўленняў</string>
+  <string name="check_for_updates_loading">Праверка абнаўленняў…</string>
+  <string name="find_new_app_version">Даступная новая версія</string>
+  <string name="force_update_mesage">Гэтая версія больш не падтрымліваецца. Абнавіце да апошняй версіі ў GetApps.</string>
+  <string name="has_new_version">Абнаўленне</string>
+  <string name="no_more_reminder_this_update">"Больш не нагадваць"</string>
+  <string name="precise_find_device_band_disconnected">"Немагчыма падлучыцца да бранзалета. Здаецца, яго няма побач."</string>
+  <string name="precise_find_uwb_loading">Пачакайце…</string>
+  <string name="precise_find_uwb_permission_dialog_message_ranging">Каб мець магчымасць карыстацца гэтай функцыяй, дазвольце праграме вызначаць адноснае становішча паміж бліжэйшымі прыладамі.</string>
+  <string name="precise_find_uwb_tip_double_arrow">"Вызначэнне напрамку…
+Змяніце напрамак і прайдзіце яшчэ некалькі крокаў"</string>
+  <string name="precise_find_uwb_tip_init">"Не нахіляйце тэлефон"</string>
+  <string name="precise_find_uwb_tip_init2">"Вызначэнне напрамку…
+Прайдзіцеся некалькі крокаў"</string>
+  <string name="update_message">Даступная новая версія (%s). Абнавіць у GetApps?</string>
+  <string name="update_not_update">Бягучая версія абноўлена</string>
+  <string name="update_now">Абнавіць</string>
 </resources>

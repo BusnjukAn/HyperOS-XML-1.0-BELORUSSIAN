@@ -1265,4 +1265,13 @@
   <string name="shortcut_add_fail">Не атрымалася дадаць. Паспрабуйце яшчэ раз.</string>
   <string name="shortcut_added">Паспяхова дададзена</string>
   <string name="shortcut_exists">Гэтая тэчка ўжо існуе</string>
+  <string name="delete_cloud_pc_files">Вы выдаляеце элементы на некалькіх прыладах. Элементы з воблака можна аднавіць з Воблака Xiaomi. Элементы на кампутары будуць выдалены назаўсёды. Выдаліць усё роўна?</string>
+  <string name="delete_permanently_dialog_button">Выдаліць</string>
+  <string name="delete_permanently_loacal_cloud_pc_files">Вы выдаляеце элементы на некалькіх прыладах. Элементы з воблака можна аднавіць з Воблака Xiaomi. Элементы на гэтай прыладзе будуць выдалены назаўсёды. Выдаліць усё роўна?</string>
+  <string name="delete_permanently_local_pc_files">Вы выдаляеце элементы на некалькіх прыладах. Элементы на гэтай прыладзе і кампутары будуць выдалены назаўсёды. Выдаліць усё роўна?</string>
+  <string name="file_desktop">Кампутар</string>
+  <string name="file_local_disk_format">Лакальны дыск (%s:)</string>
+  <string name="file_my_computer">Мой кампутар</string>
+  <string name="file_upload_pc">Загрузка элементаў у %s…</string>
+  <string name="storage_internal_device">Унутранае сховішча</string>
 </resources>

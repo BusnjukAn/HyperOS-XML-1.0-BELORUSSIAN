@@ -1328,4 +1328,18 @@
         <item>Яркі (рэкамендуецца)</item> 
         <item>Арыгінальны</item> 
     </string-array>
+    <string-array name="bluetooth_audio_active_device_array">
+        <item></item>
+        <item>Выкарыстоўваецца (медыя і выклікі)</item>
+        <item>Выкарыстоўваецца (медыя)</item>
+        <item>Выкарыстоўваецца (выклікі)</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_entries">
+        <item>Адключыць усё</item>
+        <item>Дазволіць сістэмныя службы</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_summary">
+        <item>Усе прылады і функцыі Bluetooth будуць адключаныя</item>
+        <item>Некаторыя сістэмныя службы працягнуць выкарыстоўваць Bluetooth</item>
+    </string-array>
 </resources>

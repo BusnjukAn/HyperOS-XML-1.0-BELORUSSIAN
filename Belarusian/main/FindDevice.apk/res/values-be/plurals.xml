@@ -198,4 +198,8 @@
         <item quantity="other">Прайграць (%d)</item>
         <item quantity="one">Прайграць (%d)</item>
     </plurals>
+    <plurals name="trust_location_search_result_distance">
+        <item quantity="one">%1$d м.</item>
+        <item quantity="other">%1$d м.</item>
+    </plurals>
 </resources>

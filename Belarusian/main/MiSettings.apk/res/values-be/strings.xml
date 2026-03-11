@@ -1494,4 +1494,18 @@
   <string name="time_limit_period_summary">Вы ўстанавілі гэты перыяд часу, таму прылада не можа быць выкарыстана</string>
   <string name="time_limit_period_title">Недаступна</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
+  <string name="forbidden_app">Заблакаваная праграма</string> 
+  <string name="limited_app_duration">Ліміт часу для праграм</string> 
+  <string name="minors_day_tab">За дзень</string> 
+  <string name="minors_filter_other">Іншае</string> 
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string> 
+  <string name="new_last_7_day_range_usage">Апошнія %d дзён</string> 
+  <string name="new last_day_range_usage">Учора</string> 
+  <string name="new today_range_usage">Сёння</string> 
+  <string name="no_app_usage_data">Няма дадзеных аб выкарыстанні праграм</string> 
+  <string name="no_category_usage_data">Няма дадзеных па катэгорыях</string> 
+  <string name="no data currentlyly">Няма дадзеных</string> 
+  <string name="unlimited_app_duration">Без абмежаванняў</string> 
+  <string name="usage_new_home_by_category">Па катэгорыях</string> 
+  <string name="usage_new_home_by_limit">Па абмежаваннях</string>
 </resources>

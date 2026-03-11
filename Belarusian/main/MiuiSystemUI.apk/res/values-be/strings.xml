@@ -4062,4 +4062,19 @@
   <string name="zen_modes_dialog_title">Рэжымы</string>
   <string name="accessibility_status_bar_stealth">Вы інкогніта</string>
   <string name="lockscreen_reverse_charging_msg">Зваротная зарадка</string>
+  <string name="format_month_day_style_interactive_pets">d.M</string> 
+  <string name="miui_notification_menu_msg_unliveupdate">Гэта спыніць усе абнаўленні ў рэальным часе ад %1$s. Новыя апавяшчэнні будуць адлюстроўвацца ў звычайным фармаце. Спыніць абнаўлення ў рэальным часе?</string> 
+  <string name="miui_notification_menu_unliveupdate">Спыніць абнаўленні ў рэжыме рэальнага часу</string> 
+  <string name="ongoing_notification_extra_content_description">Пастаяннае</string> 
+  <string name="tiny_bubble_date_format">d.M</string> 
+  <string name="tiny_bubble_date_week_content_description">dd MMM EEEE</string> 
+  <string name="tiny_bubble_date_week_format">d.M EEE</string> 
+  <string name="tiny_doodle_clock_date">dd MMMM</string>
+  <string name="flashlight_enter_super_mode_toast">Высокая яркасць можа прывесці да нагрэву прылады пры працяглым выкарыстанні</string>
+  <string name="quick_settings_coolingfan_lable">Вентылятар астуджэння</string> 
+  <string name="quick_settings_coolingfan_mode">Рэжым працв вентылятара</string>
+  <string name="quick_settings_coolingfan_mode_high">Прадукцыйны</string>
+  <string name="quick_settings_coolingfan_mode_silent">Ціхі</string>
+  <string name="quick_settings_coolingfan_mode_smart">Разумны</string>
+  <string name="quick_settings_coolingfan_state_off">Вентылятар астуджэння выключаны</string>
 </resources>

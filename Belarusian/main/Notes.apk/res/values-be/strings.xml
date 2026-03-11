@@ -1744,4 +1744,9 @@
   <string name="todo_time_picker_dialog_spinner_title">Час</string>
   <string name="todo_time_picker_dialog_title">Усталяваць час напаміну</string>
   <string name="export_markdown_saved_at">Экспартавана ў %1$s</string>
+  <string name="tapshare_notes_without_title">Нататка без назвы</string>
+  <string name="tapshare_restore_notes_fail_toast">Не атрымалася імпартаваць. Паспрабуйце яшчэ раз.</string>
+  <string name="tapshare_restore_notes_success_toast">Паспяхова імпартавана</string>
+  <string name="tapshare_restore_notes_toast">Імпарт у Нататкі…</string>
+  <string name="tapshare_send_counts_exceed_toast">Немагчыма адправіць больш за %d элементаў адначасова</string>
 </resources>

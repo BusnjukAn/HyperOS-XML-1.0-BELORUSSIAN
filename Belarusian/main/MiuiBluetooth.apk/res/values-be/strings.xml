@@ -747,14 +747,11 @@
   <string name="celluar_tether_disconnect_notify_connected_Wi-Fi">Тэлефон падлучаны да Wi-Fi. Агульны доступ да злучэння адключаны.</string> 
   <string name="celluar_tether_disconnect_notify_phone_connected_Wi-Fi">Падлучана да Wi-Fi. Агульны доступ да злучэння адключаны.</string> 
   <string name="celluar_tether_disconnect_Wi-Fi_prompt">Для павелічэння хуткасці злучэння адключыцеся ад Wi-Fi</string> 
-  <string name="easy_tether_auto_connect_close">Адкл.</string> 
-  <string name="easy_tether_auto_connect_open">Укл.</string> 
   <string name="easy_tether_connect_control_center">Цэнтр кіравання → Спіс Wi-Fi</string> 
   <string name="easy_tether_connect_settings">Налады → Спіс Wi-Fi</string> 
   <string name="easy_tether_hotspot_connected">Падлучана да пункту доступу</string> 
   <string name="easy_tether_mobile_data_connected">Падлучана да мабільных дадзеных</string> 
   <string name="easy_tether_using_mobile_data">Выкарыстоўваюцца мабільныя дадзеныя</string> 
   <string name="fast_connect_device_image">Выява</string> 
-  <string name="fmt_date_numeric_year_month">>MM.yyyy</string> 
   <string name="headset_dual_device">Прылада выкарыстоўвае аўтаматычнае падлучэнне гарнітуры. Адначасовае падлучэнне да дзвюх прылад адключанае.</string>
 </resources>

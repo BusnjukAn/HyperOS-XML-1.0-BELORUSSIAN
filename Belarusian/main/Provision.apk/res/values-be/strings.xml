@@ -949,7 +949,6 @@
   <string name="kind_note06_cn">Унутраны экран гэтай прылады пакрыты спецыяльнай ахоўнай плёнкай. Не здымайце і не замяняйце ахоўную плёнку ўнутранага экрана самастойна, бо гэта можа прывесці да пашкоджання ўнутранага экрана і паўплываць на гарантыйнае абслугоўванне. Калі вам неабходна замяніць ахоўную плёнку, звернецеся ў сэрвісны цэнтр Xiaomi.</string> 
   <string name="kind_note06_global">Унутраны экран гэтай прылады пакрыты спецыяльнай ахоўнай плёнкай. Не здымайце і не замяняйце ахоўную плёнку ўнутранага экрана самастойна, бо гэта можа прывесці да пашкоджання экрана.</string> 
   <string name="kind_subtitle">Гэтая прылада мае экран, якi складваецца. Для абароны прылады звярніце ўвагу на наступнае:</string> 
-  <string name="locale_picker_search_hint">Пошук рэгіёнаў</string> 
   <string name="miuix_accessibility_title">Загаловак</string> 
   <string name="miuix_appcompat_accessibility_collapse_state">Згорнута</string> 
   <string name="miuix_appcompat_accessibility_expand_state">Разгорнута</string> 

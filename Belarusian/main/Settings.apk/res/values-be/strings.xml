@@ -1635,7 +1635,6 @@
   <string name="bluetooth_pairing_group_late_bonding">Дадайце ў існуючы ўзгоднены набор новага ўдзельніка</string>
   <string name="bluetooth_pairing_key_msg">Код спалучэння Bluetooth</string>
   <string name="bluetooth_pairing_page_title">Спалучыце новую прыладу</string>
-  <string name="bluetooth_pairing_pin_error_message">Не атрымалася спалучыцца, таму што быў уведзены няправільны PIN ці ключ доступу.</string>
   <string name="bluetooth_pairing_pref_title">Спалучыце новую прыладу</string>
   <string name="bluetooth_pairing_rejected_error_message">Спалучэнне было скасавана %1$s.</string>
   <string name="bluetooth_pairing_request">Спалучыцца з %1$s?</string>
@@ -10941,7 +10940,6 @@
   <string name="aon_gesture_cue_tone_title">Прайграваць гук пацверджання</string>
   <string name="aon_gesture_dialog_message">Калі гэтая функцыя ўключана, гэтая прылада будзе выяўляць і аналізаваць вашыя жэсты. Ваша асабістая інфармацыя не будзе апрацоўвацца, ніякія дадзеныя не будуць захоўвацца лакальна ці ў воблаку.</string>
   <string name="aon_gesture_dialog_title">Заява аб прыватнасцi</string>
-  <string name="aon_gesture_double_press_summary">Прайграванне і паўза</string>
   <string name="aon_gesture_double_press_title">Прайграць або прыпыніць</string>
   <string name="aon_gesture_draw_circle_summary_pad">Адказаць або завяршыць выклік, пераведзены на планшэт</string>
   <string name="aon_gesture_draw_circle_summary_phone">Адказаць і завяршыць выклік</string>
@@ -11087,7 +11085,6 @@
   <string name="bluetooth_screen_auto_on_title">Аўтаматычнае ўключэнне заўтра</string>
   <string name="bluetooth_talkback_hearing_aids">Слыхавыя апараты</string>
   <string name="bounce_keys">Ігнараванне паўторнага націскання</string>
-  <string name="bounce_keys_summary">Паўторныя націсканні адной і той жа клавішы, ажыццёўленыя на працягу %1$d мс, ігнаруюцца</string>
   <string name="camera_extensions_fallback_description">Дазваляе выкарыстоўваць стандартную праграмную рэалізацыю пашыраных функцый камеры, такіх як HDR, Начны рэжым і іншыя пашырэнні для камеры.</string>
   <string name="camera_extensions_fallback_title">Дазволіць выкарыстанне пашырэнняў ПЗ камеры</string>
   <string name="category_name_about_satellite_messaging">Аб спадарожнікавых паведамленнях</string>
@@ -11476,7 +11473,6 @@
   <string name="sleep_on_fold_summary">Пярэдні экран блакіруецца пры складванні прылады</string>
   <string name="sleep_on_fold_title">Ніколі</string>
   <string name="slow_keys">Павольныя клавішы</string>
-  <string name="slow_keys_summary">Наладзiць час, неабходны для актывацыі націску клавішы, на %1$d мс</string>
   <string name="state_off">Выключана</string>
   <string name="state_on">Уключана</string>
   <string name="stay_awake_on_fold_summary">Пярэдні экран уключаецца пры складванні прылады</string>

@@ -1040,4 +1040,16 @@
         <item quantity="many">Не ўдалося аднавіць %d элементаў</item>
         <item quantity="other">Не ўдалося аднавіць %d элементаў</item>
     </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">%.1f cек.</item>
+        <item quantity="one">%.1f cек.</item>
+        <item quantity="few">%.1f cек.</item>
+        <item quantity="many">%.1f cек.</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description_new">
+        <item quantity="other">Сегмент %1$d. Дадайце фота ці відэа працягласцю не менш за %2$.1f секунд</item>
+        <item quantity="one">Сегмент %1$d. Дадайце фота ці відэа працягласцю не менш за %2$.1f секунду</item>
+        <item quantity="few">Сегмент %1$d. Дадайце фота ці відэа працягласцю не менш за %2$.1f секунды</item>
+        <item quantity="many">Сегмент %1$d. Дадайце фота ці відэа працягласцю не менш за %2$.1f секунд</item>
+    </plurals>
 </resources>

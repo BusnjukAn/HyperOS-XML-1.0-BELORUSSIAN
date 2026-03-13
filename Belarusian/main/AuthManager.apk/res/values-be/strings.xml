@@ -189,7 +189,7 @@
   <string name="HIPS_Perm_operator_get_phonenumbner">Доступ да нумара тэлефона для ўваходу</string>
   <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Атрымаць нумар тэлефона ў аператара сувязі для ўваходу</string>
   <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Калі вам не ўдалося ўвайсці ў сістэму адным націскам, вярніцеся на старонку ўваходу і паспрабуйце ізноў.</string>
-  <string name="HIPS_Perm_operator_get_phonenumbner_Message">Гэта праграма хоча атрымаць ваш нумар тэлефона ў аператара сувязі для ўваходу ў сістэму. Дазволіць?</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Message">%1$s хоча атрымаць ваш нумар тэлефона ў аператара сувязі для ўваходу ў сістэму. Дазволіць?</string>
   <string name="HIPS_Perm_operator_shake">Доступ да дадзеных акселерометра</string>
   <string name="HIPS_Perm_operator_shake_Desc">Для вызначэння становішча прылады ў прасторы, распазнання трасяніны і прадастаўлення інтэрактыўных сэнсарных функцый</string>
   <string name="HIPS_Perm_operator_wall_paper">Усталёўваць шпалеры</string>

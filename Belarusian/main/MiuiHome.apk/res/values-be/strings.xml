@@ -1328,4 +1328,8 @@
   <string name="recents_layout_style_stack">Шматслаёва</string>
   <string name="side_sheet_accessibility_pane_title">Бакавая панэль</string>
   <string name="material_hour_24h_suffix">%1$s г.</string>
+  <string name="abandoned_search">Пошук</string> 
+  <string name="gadget_setup_text">Налады віджэта</string> 
+  <string name="google_search_bar">Пошук у Google</string> 
+  <string name="menu_launcher_search">Панэль пошуку</string>
 </resources>

@@ -177,4 +177,5 @@
   <string name="miuix_navigator_category_group_expanded">Разгорнута</string>
   <string name="miuix_edit_dialog_fragment_empty_arg_title">Няма аргументаў</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
+  <string name="timer_alert_vibrate_title">Вібраваць, калі адлік таймера скончыцца</string>
 </resources>

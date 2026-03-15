@@ -394,4 +394,16 @@
         <item quantity="other">%1$s відэа</item>
         <item quantity="one">%1$s відэа</item>
     </plurals>
+    <plurals name="micloud_cloud_default_benefit_family_member_limit">
+        <item quantity="one">Прадастаўленне доступу %d члену сям\'і</item>
+        <item quantity="few">Прадастаўленне доступу %d членам сям\'і</item>
+        <item quantity="many">Прадастаўленне доступу %d членам сям\'і</item>
+        <item quantity="other">Прадастаўленне доступу %d членам сям\'і</item>
+    </plurals>
+    <plurals name="micloud_cloud_default_benefit_recover_days">
+        <item quantity="one">Аднаўленне выдаленых элементаў на працягу %d дня</item>
+        <item quantity="few">Аднаўленне выдаленых элементаў на працягу %d дзён</item>
+        <item quantity="many">Аднаўленне выдаленых элементаў на працягу %d дзён</item>
+        <item quantity="other">Аднаўленне выдаленых элементаў на працягу %d дзён</item>
+    </plurals>
 </resources>

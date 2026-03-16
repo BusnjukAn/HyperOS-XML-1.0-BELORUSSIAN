@@ -1368,4 +1368,11 @@ ID:%s
   <string name="xiaomi_account_bind_phone">Звязаны нумар тэлефона</string>
   <string name="xiaomi_account_login">Увайсцi</string>
   <string name="xiaomi_account_one_step_login">Увайсцi</string>
+  <string name="jump_market_dialog_btn_cancel">Адмена</string>
+  <string name="jump_market_dialog_btn_open">Адкрыць</string>
+  <string name="jump_market_dialog_message">Гэтая функцыя не падтрымліваецца сістэмнай платформай. Вы можаце абнавіць яе ў GetApps. Адкрыць GetApps зараз?</string>
+  <string name="jump_market_dialog_title">Увага</string>
+  <string name="progress_notification_downloaded">Спампоўка завершана</string>
+  <string name="progress_notification_downloading">Прагрэс: %d%%</string>
+  <string name="progress_notification_name">Спампоўка плагіна</string>
 </resources>

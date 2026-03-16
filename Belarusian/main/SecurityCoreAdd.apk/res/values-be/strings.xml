@@ -1225,8 +1225,8 @@
   <string name="guide_cell_phone_call_endcall">Адказаць ці завяршыць выклік</string>
   <string name="guide_swipe_right_left">Правядзіце па гарызанталі</string>
   <string name="stylus_connect_failV2">Немагчыма падлучыцца. Паўтарыце спробу.</string>
-  <string name="stylus_ota_check_failed_infoV2">Немагчыма атрымаць версію прашыўкі. Падлучыце стылус яшчэ раз.</string>
-  <string name="stylus_ota_completed_tipV2">Стылус абноўлены. Перад выкарыстаннем паўторна падлучыце яго.</string>
+  <string name="stylus_ota_check_failed_infoV2">Немагчыма атрымаць версію прашыўкі. Падлучыце стiлус яшчэ раз.</string>
+  <string name="stylus_ota_completed_tipV2">Стiлус абноўлены. Перад выкарыстаннем паўторна падлучыце яго.</string>
   <string name="go_deleted_fingerprint">Перайсці да выдалення адбітка пальца</string>
   <string name="immediately_go">Перайсці</string>
   <string name="maintenance_mode_fingerprint_msg">Паколькі пасля абслугоўвання патрабуецца каліброўка адбітка пальца, спачатку неабходна выдаліць бягучы адбітак пальца. Вы можаце паўторна ўвесці яго пасля абслугоўвання. Мы працягнем абараняць вашую прыватнасць.</string>
@@ -1489,7 +1489,7 @@
   <string name="power_off_title_v2">Выключэнне</string>
   <string name="stylus_ota_cancel">Адмена</string>
   <string name="stylus_ota_fail">Не атрымалася абнавіць</string>
-  <string name="stylus_ota_fail_reason">Не атрымалася абнавіць прашыўку. Зноў падключыце стылус альбо абнавіце ўручную.</string>
+  <string name="stylus_ota_fail_reason">Не атрымалася абнавіць прашыўку. Зноў падлучыце стiлус альбо абнавіце ўручную.</string>
   <string name="stylus_ota_manual">Абнавіць уручную</string>
   <string name="stylus_ota_manual_as_lowversion">Абнавіце стілус да апошняй версіі, каб выкарыстоўваць яго</string>
   <string name="stylus_ota_popup_describe">Абнаўлення прашыўкі</string>
@@ -1537,7 +1537,6 @@
   <string name="stylus_touch_film_close">Выкл.</string>
   <string name="stylus_touch_film_settings_guide">Налады</string>
   <string name="freeform_side_app_bar">Бакавая панэль</string>
-  <string name="stylus_added_shortcuts">Дададзены хуткія каманды</string>
   <string name="poco_stylus_welcome">Азнаёмцеся з POCO Focus Pen</string>
   <string name="touchpad_touch_double_click_drag_summary">Двойчы дакраніцеся, утрымліваючы палец на другім дотыку, затым перацягвайце элемент</string>
   <string name="touchpad_touch_double_click_drag_title">Падвойны дотык для перацягвання</string>
@@ -1571,4 +1570,38 @@
   <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info_global"><Data>Уключыце вібрацыю ў &lt;a href=\"%1$s\">Гук і вібрацыя&lt;/a></Data></string> 
   <string name="gesture_shortcut_camera_mr_vibrate_setting_system_disable">Вібрацыя адключана</string> 
   <string name="gesture_shortcut_camera_mr_vibrate_setting_title">Налады вібрацыі</string>
+  <string name="access_card_summary">Карта доступу</string> 
+  <string name="berserk_mode_close_toast">Максімальны рэжым адключаны</string> 
+  <string name="berserk_mode_open_toast">Максімальны рэжым уключаны</string> 
+  <string name="cursor_style_arrow_desc">Указальнік-стрэлка</string> 
+  <string name="cursor_style_hollow_desc">Указальнік-кальцо</string> 
+  <string name="cursor_style_solid_desc">Указальнік-кропка</string> 
+  <string name="eyecare_mode_close_toast">Рэжым чытання адключаны</string> 
+  <string name="eyecare_mode_open_toast">Рэжым чытання ўключаны</string> 
+  <string name="freeform_guide_video_description">Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плаваючым акне</string> 
+  <string name="freeform_video_description">· Націсніце і ўтрымлівайце, затым змахніце ўніз апавяшчэнне, каб адкрыць яго ў плаваючым акне.\n· Націсніце \"Плаваючыя вокны\" у спісе праграм, каб выбраць праграму.</string> 
+  <string name="freeform_video_description_open_freeform_and_splitscreen">· Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плаваючым акне.\n· Перацягнуць праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым акне, або да краю, каб выкарыстоўваць рэжым падзеленага экрана.</string> 
+  <string name="freeform_video_description_open_freeform_and_splitscreen_pad">Падчас выкарыстання праграмы перацягнiце іншую праграму з бакавой панэлі ў цэнтр экрана, каб адкрыць яе ў плаваючым акне, або да краю, каб выкарыстоўваць рэжым падзеленага экрана</string> 
+  <string name="freeform_video_description_pad">Перацягвайце элементы з док-панэлі, каб адкрываць плаваючыя вокны</string> 
+  <string name="key_stylus_laser_pen_summary">Сцісніце стілус, каб уключыць лазерную ўказку. Адпусціце, каб выключыць.</string> 
+  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string> 
+  <string name="pad_shortcut_btn_customize">Налады</string> 
+  <string name="pad_shortcut_btn_later">Не зараз</string> 
+  <string name="pad_shortcut_tip">Націсніце і ўтрымлівайце для ўключэння</string> 
+  <string name="pad_shortcut_tip_close">Націсніце і ўтрымлівайце для выключэння</string> 
+  <string name="pad_shortcut_welcome">Кнопка хуткага доступу</string> 
+  <string name="pad_shortcut_welcome_summary">Націсніце і ўтрымлівайце для ўключэння або адключэння Максімальнага рэжыму. Вы таксама можаце наладзіць кнопку на рэжым чытання, выклік Xiaomi Hyper XiaoAi або выкарыстанне стілуса.</string> 
+  <string name="stylus_added_shortcuts">Дададзеныя цэтлікі</string> 
+  <string name="stylus_double_click_summary">Двойчы краніце стілуса, каб хутка пераключаць прылады ў праграме</string> 
+  <string name="stylus_exit_title">Выхад</string> 
+  <string name="stylus_exit_title_summary">Двойчы краніце стілуса, каб ачысціць выявы або выйсці з рэжыму лазернай указкі</string> 
+  <string name="stylus_focus_pro_welcome">Xiaomi Focus Pen Pro</string> 
+  <string name="stylus_function_virtual_laser_summary">Абярыце лазер на панэлі хуткіх налад</string> 
+  <string name="stylus_laser_pen_summary">Выкарыстоўвайце стілус як лазерную ўказку або для малявання вылучэнняў</string> 
+  <string name="stylus_laser_pen_title">Лазерная ўказка</string> 
+  <string name="stylus_pinch_summary">Сцісніце стілус, каб адкрыць панэль хуткіх налад</string> 
+  <string name="stylus_quick_operations_summary">Сцісніце стілус, каб адкрыць панэль хуткіх налад, двойчы краніце для пераключэння інструментаў і правядзіце ўверх ці ўніз для выдаленага перагортвання старонак</string> 
+  <string name="stylus_slide_up_down_summary">Правядзіце ўверх ці ўніз па стілусу для выдаленага перагортвання старонак або рэгулявання таўшчыні пэндзля</string> 
+  <string name="stylus_slide_up_down_title">Правядзіце ўверх ці ўніз</string> 
+  <string name="unselected">Не абрана</string>
 </resources>

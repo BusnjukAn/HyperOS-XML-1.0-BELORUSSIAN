@@ -444,4 +444,12 @@
   <string name="wrong_finger_error_title">Памылка</string>
   <string name="yes">Так</string>
   <string name="yesterday">Учора</string>
+  <string name="ble_up_needed_toast">Націсніце кнопку на ключу бяспекі для праверкі</string>
+  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
+  <string name="passkey_qr_dialog_hint">Асканіруйце QR-код з дапамогай прылады з аперацыйнай сістэмай Xiaomi HyperOS 2 або іншай сумяшчальнай прылады, каб увайсці ў %1$s</string>
+  <string name="pin_blocked_toast">PIN-код ключа бяспекі заблакаваны. Паўтарыце спробу пазней.</string>
+  <string name="pin_disconnected_toast">Ключ бяспекі адключаны</string>
+  <string name="pin_invalid_toast">Не атрымалася праверыць PIN-код. Паўтарыце спробу.</string>
+  <string name="pin_length_error_toast">Гэтая даўжыня PIN-кода не падтрымліваецца</string>
+  <string name="use_other_device_passkey">Выкарыстоўвайце пароль іншай прылады</string>
 </resources>

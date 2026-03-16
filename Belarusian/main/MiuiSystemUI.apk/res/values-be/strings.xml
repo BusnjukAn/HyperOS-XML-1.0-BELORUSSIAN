@@ -371,7 +371,7 @@
   <string name="clipboard_text_hidden">Націсніце для прагляду</string>
   <string name="clock_title_default">Па змаўчанні</string>
   <string name="close">Закрыць</string>
-  <string name="close_button_text">Закрыць</string>
+  <string name="close_button_text">Закрыць %1$s</string>
   <string name="close_text">Закрыць</string>
   <string name="collapse_menu_text">Закрыць меню</string>
   <string name="confirm">Зразумела</string>
@@ -2994,7 +2994,7 @@
   <string name="material_timepicker_minute">Хвіліна</string>
   <string name="material_timepicker_select_time">Выберыце час</string>
   <string name="material_timepicker_text_input_mode_description">Пераключыцца на рэжым тэксту пры ўводзе часу.</string>
-  <string name="maximize_button_text">Разгарнуць</string>
+  <string name="maximize_button_text">Разгарнуць %1$s</string>
   <string name="media_category">Медыя</string>
   <string name="media_output_broadcast_code_hint_no_more_than_max">Скарыстайце менш за 16 сімвалаў</string>
   <string name="media_output_dialog_add_output">Дадайце прылады вываду</string>
@@ -3013,7 +3013,7 @@
   <string name="memory_leak">Уцечка памяці</string>
   <string name="menu_ime">Пераключальнік клавіятуры</string>
   <string name="mic_active">Мікрафон актыўны</string>
-  <string name="minimize_button_text">Згарнуць</string>
+  <string name="minimize_button_text">Згарнуць %1$s</string>
   <string name="miui_notification_menu_aggregate_feedback">Зваротная сувязь</string>
   <string name="miui_notification_menu_allow">Дазволіць</string>
   <string name="miui_notification_menu_feedback_success">Дзякуй за ваш водгук!</string>

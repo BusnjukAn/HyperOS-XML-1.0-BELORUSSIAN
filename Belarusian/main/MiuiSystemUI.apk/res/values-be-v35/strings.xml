@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="close_button_text">Закрыць</string>
+  <string name="maximize_button_text">Разгарнуць</string>
+  <string name="minimize_button_text">Згарнуць</string>
+</resources>

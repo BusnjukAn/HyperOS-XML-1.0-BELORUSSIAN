@@ -665,4 +665,7 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="exception_cloud_storage_is_not_enough">Недастаткова месца</string> 
+  <string name="file_size_lager_than_50g">Больш, чым %d Гб</string> 
+  <string name="upload_left_quota_not_enough">Не атрымалася загрузіць з-за недахопу месца ў воблачным сховішчы. Павялічце свой тарыфны план або выдаліце ​​некаторыя элементы і паспрабуйце зноўку.</string>
 </resources>

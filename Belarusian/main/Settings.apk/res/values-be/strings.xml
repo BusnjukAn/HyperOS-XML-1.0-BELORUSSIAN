@@ -12009,7 +12009,7 @@
   <string name="ai_notification_settings">Зводка апавяшчэнняў AI</string>
   <string name="aon_gesture_double_press_diagram_title">Двойчы націсніце, каб прайграць або прыпыніць</string>
   <string name="aon_gesture_double_press_summary">Працуе з прайграваннем аўдыё і відэа</string>
-  <string name="aon_gesture_down_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, падняўшы пальцы ўверх, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой уніз.</string>
+  <string name="aon_gesture_down_waving_diagram_summary" formatted="false">"Пераканайцеся, што вы знаходзіцеся ў добра асветленым месцы, затым трымайце руку на адлегласці %d–%d см. перад камерай далонню наперад. Пасля паспяховага распазнавання выканайце ўзмах рукой уніз. Затым вы можаце выкарыстоўваць гэты жэст для зруху ўніз па экране."</string>
   <string name="aon_gesture_down_waving_diagram_title">Памахаць рукой уніз перад экранам</string>
   <string name="aon_gesture_learn_double_press_title">Вывучыце жэст \"Падвойны націск\"</string>
   <string name="aon_gesture_learn_left_right_waving_title">Вывучыце жэст \"Гарызантальнае памахванне\"</string>
@@ -12021,7 +12021,7 @@
   <string name="aon_gesture_right_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, пальцы накіраваныя налева, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой направа.</string>
   <string name="aon_gesture_right_waving_diagram_title">Памахаць правай рукой перад экранам</string>
   <string name="aon_gesture_status_not_open">Выкл.</string>
-  <string name="aon_gesture_up_waving_diagram_summary" formatted="false">Змесціце руку на адлегласці %d–%d см. ад камеры, апусціўшы пальцы ўніз, затым зрабіце паўзу. Калі з\'явіцца абразок рукі, памахайце рукой уверх.</string>
+  <string name="aon_gesture_up_waving_diagram_summary" formatted="false">"Пераканайцеся, што вы знаходзіцеся ў добра асветленым месцы, затым трымайце руку на адлегласці %d–%d см. перад камерай далонню ўніз. Пасля паспяховага распазнавання выканайце ўзмах рукой уверх. Затым вы можаце выкарыстоўваць гэты жэст для зруху ўверх па экране."</string>
   <string name="aon_gesture_up_waving_diagram_title">Памахаць рукой уверх перад экранам</string>
   <string name="aon_scanner_dialog_message_new">Пры выкарыстанні хуткага сканара сканаваныя вамі QR-коды будуць перададзены ў AI Сканар. Гэтая інфармацыя не будзе захоўвацца на вашым прыладзе і не будзе загружана ў воблака. Уключэнне гэтай функцыі крыху павялічыць энергаспажыванне.</string>
   <string name="aon_scanner_download_message_new">Паколькі паслугі хуткага сканара прадастаўляюцца AI Сканарам, нам неабходна перадаць сканаваныя вамі QR-коды ў AI Сканар. Усталюйце AI Сканар, перш чым працягнуць.</string>

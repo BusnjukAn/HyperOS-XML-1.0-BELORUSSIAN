@@ -114,4 +114,6 @@
   <string name="search_zero_news_games_cta_ads">Усталяваць</string>
   <string name="search_zero_news_games_cta_game">Гуляць</string>
   <string name="test_ad">Тэставая рэклама</string>
+  <string name="hot_news_card_refresh">Абнавіць</string> 
+  <string name="text_add">Дадаць</string>
 </resources>

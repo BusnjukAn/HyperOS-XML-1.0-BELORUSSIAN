@@ -1576,8 +1576,8 @@
   <string name="cursor_style_arrow_desc">Указальнік-стрэлка</string> 
   <string name="cursor_style_hollow_desc">Указальнік-кальцо</string> 
   <string name="cursor_style_solid_desc">Указальнік-кропка</string> 
-  <string name="eyecare_mode_close_toast">Рэжым чытання адключаны</string> 
-  <string name="eyecare_mode_open_toast">Рэжым чытання ўключаны</string> 
+  <string name="eyecare_mode_close_toast">Рэжым камфорту для вачэй адключаны</string> 
+  <string name="eyecare_mode_open_toast">Рэжым камфорту для вачэй ўключаны</string> 
   <string name="freeform_guide_video_description">Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плаваючым акне</string> 
   <string name="freeform_video_description">· Націсніце і ўтрымлівайце, затым змахніце ўніз апавяшчэнне, каб адкрыць яго ў плаваючым акне.\n· Націсніце \"Плаваючыя вокны\" у спісе праграм, каб выбраць праграму.</string> 
   <string name="freeform_video_description_open_freeform_and_splitscreen">· Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плаваючым акне.\n· Перацягнуць праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым акне, або да краю, каб выкарыстоўваць рэжым падзеленага экрана.</string> 

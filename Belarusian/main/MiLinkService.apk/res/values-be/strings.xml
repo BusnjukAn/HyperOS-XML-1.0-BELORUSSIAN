@@ -1969,4 +1969,12 @@
   <string name="circulate_headset_error_airpods_headset_both_in_box">Спачатку надзеньце навушнікі</string>
   <string name="circulate_headset_error_airpods_headset_not_worn">Надзеньце абодва навушнікі, каб выкарыстоўваць гэтую функцыю</string>
   <string name="connect_settings_share_notification_local_device_summary_v2">Каб прымаць выклiкі, паведамленні і апавяшчэнні праграм на прыладзе Xiaomi, падключыцеся да яе з iPhone: Узаемазвязанасць Xiaomi → Сінхранізацыя апавяшчэнняў → Сінхранізаваць на Xiaomi.</string>
+  <string name="dialog_reset_app_subscribe_content_v2">Некаторыя праграмы былі раней выдаленыя з вашага %1$s, і вы не будзеце атрымліваць апавяшчэнні на гэтай прыладзе. Наладзьце сінхранізацыю апавяшчэнняў нанова.</string> 
+  <string name="notification_channel_subtitle_ref_call_2">Уваходны выклік на %1$s</string> 
+  <string name="notification_channel_subtitle_ref_dingtalk_2">Апавяшчэнне DingTalk на %1$s</string> 
+  <string name="notification_channel_subtitle_ref_lary_2">Апавяшчэнне Lark на %1$s</string> 
+  <string name="notification_channel_subtitle_ref_mqq_2">Апавяшчэнне QQ на %1$s</string> 
+  <string name="notification_channel_subtitle_ref_sms_2">SMS на %1$s</string> 
+  <string name="notification_channel_subtitle_ref_wework_2">Апавяшчэнне WeChat на %1$s</string> 
+  <string name="notification_channel_subtitle_ref_xin_2">Апавяшчэнне WeChat на %1$s</string>
 </resources>

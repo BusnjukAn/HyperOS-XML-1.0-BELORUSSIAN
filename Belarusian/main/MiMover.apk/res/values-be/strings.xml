@@ -1288,4 +1288,5 @@
   <string name="permission_wifi_title_new">Уключэнне і выключэнне Wi-Fi</string>
   <string name="permission_wifi_title_new_china">Уключэнне і выключэнне Wi-Fi</string>
   <string name="trans_sync_transfer_data_list_phone">Абярыце элементы для пераносу на старой прыладзе</string>
+  <string name="trans_show_qr_code_label_pad">Адкрыйце Mi Трансфер на старой прыладзе</string>
 </resources>

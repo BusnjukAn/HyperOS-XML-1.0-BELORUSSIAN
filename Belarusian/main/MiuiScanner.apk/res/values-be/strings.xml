@@ -1117,4 +1117,9 @@
   <string name="aon_recognize_code_lottie_res">Хуткае сканаванне</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string> 
   <string name="revert">Адклікаць</string>
+  <string name="translate_content_error">"Немагчыма перакласці. Абярыце іншае фота."</string> 
+  <string name="translate_language_error">"Абраная мова не адлюстроўваецца на гэтым фота. Паспрабуйце іншую."</string> 
+  <string name="translate_recognized_error">"Немагчыма знайсці тэкст на мэтавай мове"</string> 
+  <string name="translate_recognized_without_text">"Не атрымалася распазнаць тэкст"</string> 
+  <string name="translate_service_error">Адбылася памылка сервера. Паспрабуйце яшчэ раз.</string>
 </resources>

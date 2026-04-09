@@ -1375,4 +1375,15 @@ ID:%s
   <string name="progress_notification_downloaded">Спампоўка завершана</string>
   <string name="progress_notification_downloading">Прагрэс: %d%%</string>
   <string name="progress_notification_name">Спампоўка плагіна</string>
+  <string name="calendar_date_picker_a11y_next_month">Перайсці да наступнага месяца</string>
+  <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Выбраць</string>
+  <string name="passport_cta_provision_required_all_permissions_desc">Для доступу да тэлефоннага нумара прылады для падтрымкі ўваходу адным націскам і пры выкарыстанні рэжыму згубленай прылады ў функцыі \"Пошук прылады\", каб можна было здзяйсняць выклікі на ўказаны нумар; Для здзяйснення выклікаў на ўказаны нумар тэлефона пры выкарыстанні рэжыму згубленай прылады ў функцыі \"Пошук прылады\"; Для пошуку прылады з дапамогай функцыі \\"Пошук прылады\\"; Для пошуку прылады па SMS, калі сеткавае падлучэнне недаступна; Для доступу або захоўвання дадзеных, звязаных з функцыяй \\"Пошук прылады\\"; Для адпраўкі на прыладу каманды аб прайграванні гуку ў функцыі \\"Пошук прылады\\".</string>
+  <string name="passport_cta_provision_required_bluetooth_admin_desc">Для запыту прайгравання гуку на прыладзе ў функцыі \"Пошук прылады\"</string>
+  <string name="passport_cta_provision_required_call_phone_permissions_desc">Для званкоў на нумар тэлефона, які вы пазначаеце пры выкарыстанні рэжыму згубленай прылады ў рэжыме \"Пошук прылады\".</string>
+  <string name="passport_cta_provision_required_camera_desc">Для паляпшэння прасторавага пазіцыянавання пры выкарыстанні функцыі \"Пошуку прылады\"</string>
+  <string name="passport_cta_provision_required_location_desc">Для пошуку прылады праз функцыю \"Пошук прылады\"</string>
+  <string name="passport_cta_provision_required_read_phone_state_permissions_desc">Для доступу да нумара тэлефона прылады для падтрымкі ўваходу адным дотыкам, а таксама пры выкарыстанні рэжыму згубленай прылады ў функцыі \"Пошук прылады\", каб можна было рабіць званкі на пазначаны вамі нумар.</string>
+  <string name="passport_cta_provision_required_read_sms_desc">Для вызначэння месцазнаходжання прылады праз SMS, калі падключэнне да сеткі недаступнае</string>
+  <string name="passport_cta_provision_required_storage_desc">Для доступу або захоўвання дадзеных, звязаных з функцыяй \"Пошук прылады\"</string>
 </resources>

@@ -933,7 +933,7 @@
   <string name="free_traffic_settings">Налады бясплатнага трафіка</string>
   <string name="function_close">Выкл.</string>
   <string name="function_shield_auto_bright">Адключыць аўтаяркасць</string>
-  <string name="function_shield_eye_shield">Адключыць рэжым чытання</string>
+  <string name="function_shield_eye_shield">Адключыць рэжым камфорту для вачэй</string>
   <string name="function_shield_pull_notification_bar">Не адкрываць панэль апавяшчэнняў</string>
   <string name="function_shield_settings_title">Абмежаваць наступныя функцыі падчас гульні</string>
   <string name="function_shield_summary">Абмежаваць наступныя функцыі сістэмы падчас гульні</string>
@@ -2279,7 +2279,7 @@
   <string name="summary_default_app">%s не ўсталявана як сістэмная праграма па змаўчанні</string>
   <string name="summary_dev">Сцеражыцеся вірусаў і абараняйце асабістыя дадзеныя</string>
   <string name="summary_do_not_disturb">Вы выкарыстоўваеце рэжым \"Не турбаваць\".</string>
-  <string name="summary_eye_shield">Адключыце рэжым чытання, каб вярнуцца да налад па змаўчанні.</string>
+  <string name="summary_eye_shield">Адключыце рэжым камфорту для вачэй, каб вярнуцца да налад па змаўчанні.</string>
   <string name="summary_find_device">Знаходзіце і блакуйце прыладу адкуль заўгодна</string>
   <string name="summary_first_aid_kit">Вырашыце праблемы з вашай прыладай</string>
   <string name="summary_flow_notification">Праглядайце звесткі пра трафік за месяц у панэлі апавяшчэнняў</string>
@@ -5480,7 +5480,7 @@
   <string name="auto_task_please_select_item">Выбраць элемент</string>
   <string name="auto_task_rule_bluetooth">Вы можаце аўтаматычна адкрыць %2$s пры выкарыстанні Bluetooth з %1$s. Стварыць гэтую задачу?</string>
   <string name="auto_task_rule_map_location">Вы можаце аўтаматычна ўключыць службы вызначэння месцазнаходжання пры выкарыстанні карт. Стварыць гэтую задачу?</string>
-  <string name="auto_task_rule_read_mode">Вы можаце аўтаматычна ўключыць рэжым чытання пры выкарыстанні прыкладанняў для чытання. Стварыць гэтую задачу?</string>
+  <string name="auto_task_rule_read_mode">Вы можаце аўтаматычна ўключыць рэжым камфорту для вачэй пры выкарыстанні праграм для чытання. Стварыць гэтую задачу?</string>
   <string name="auto_task_rule_zen_mode">Вы можаце аўтаматычна ўключыць рэжым \"Не турбаваць\" падчас абеду з 12:00 да 14:00. Стварыць гэтую задачу?</string>
   <string name="auto_task_select_address_company">Праца</string>
   <string name="auto_task_select_address_home">Дом</string>
@@ -5585,7 +5585,7 @@
   <string name="task_summary_close_dc_light">Выключыць падаўленне мігацення</string>
   <string name="task_summary_close_dial_tone">Выключыць танальныя сігналы набору нумара</string>
   <string name="task_summary_close_drive_mode">Выключыць рэжым \"У машыне\"</string>
-  <string name="task_summary_close_eye_care_mode">Выключыць рэжым чытання</string>
+  <string name="task_summary_close_eye_care_mode">Выключыць рэжым камфорту для вачэй</string>
   <string name="task_summary_close_hotspot">Выключыць пункт доступу</string>
   <string name="task_summary_close_location">Выключыць вызначэнне</string>
   <string name="task_summary_close_mute">Выключыць рэжым \"Без гуку\"</string>
@@ -5605,7 +5605,7 @@
   <string name="task_summary_open_dial_tone">Уключыць танальныя сігналы набору нумара</string>
   <string name="task_summary_open_disturb_mode">Уключыць рэжым \"Не турбаваць\"</string>
   <string name="task_summary_open_drive_mode">Уключыць рэжым \"У машыне\"</string>
-  <string name="task_summary_open_eye_care_mode">Уключыць рэжым чытання</string>
+  <string name="task_summary_open_eye_care_mode">Уключыць рэжым камфорту для вачэй</string>
   <string name="task_summary_open_hotspot">Уключыць пункт доступу</string>
   <string name="task_summary_open_location">Уключыць вызначэнне</string>
   <string name="task_summary_open_mute">Уключыць рэжым \"Без гуку\"</string>
@@ -5652,7 +5652,7 @@
   <string name="title_result_dial_tone">Танальныя сігналы набору нумара</string>
   <string name="title_result_drive">Рэжым \"У машыне\"</string>
   <string name="title_result_examination">Праверка бяспекі</string>
-  <string name="title_result_eye_care">Рэжым чытання</string>
+  <string name="title_result_eye_care">Рэжым камфорту для вачэй</string>
   <string name="title_result_flashlight">Ліхтарык</string>
   <string name="title_result_hotspot">Кропка доступу</string>
   <string name="title_result_location">Месцазнаходжанне</string>
@@ -8008,11 +8008,11 @@ Xiaomi Gaming Cooler"</string>
   <string name="ew_subscribe_title_new">(%1$s) Папярэджанне аб землятрусе | Землятрус магнітудай %3$s адбыўся ў раёне %2$s. Дрыготка можа адчувацца праз %4$s.</string> 
   <string name="open_shut_down_password">Уключыць</string> 
   <string name="protect_eye_dont_open">Не зараз</string> 
-  <string name="protect_eye_hint_summry">Уключыце рэжым чытання для больш камфортнага чытання</string> 
+  <string name="protect_eye_hint_summry">Уключыце рэжым камфорту для вачэй для больш зручнейшага чытання</string> 
   <string name="protect_eye_hint_title">Камфорт для вачэй</string> 
   <string name="protect_eye_open">Уключыць</string> 
   <string name="protect_eye_opened_summry">Зменіце налады ў раздзеле \"Налады\" > \"Экран і яркасць\" > \"Камфорт для вачэй\"</string> 
-  <string name="protect_eye_opened_title">Рэжым чытання ўключаны</string> 
+  <string name="protect_eye_opened_title">Рэжым камфорту для вачэй ўключаны</string> 
   <string name="storage_clear_available_total_size_with_ufs">Выкарыстана: %1$s, Засталося: %2$s, Усяго: %3$s (%4$s з пашырэннем сховішча)</string> 
   <string name="wireless_high_temp_notification_warning_title">Бесправадная зарадка спынена з-за перагрэву</string> 
   <string name="wireless_high_temp_warning_dialog_ok">Зразумела</string> 
@@ -8099,5 +8099,26 @@ Xiaomi Gaming Cooler"</string>
   <string name="gb_super_shake_4.5">Дакладнае інтэлектуальнае кіраванне</string>
   <string name="car_sickness_relief_comment_text_opened">Кропкі будуць адлюстроўвацца па абодвум бакам экрана, паказваючы на ​​рух транспартнага сродку, што можа дапамагчы адтэрмінаваць пачатак ўкалыхвання.\n\nВы можаце ўключаць і выключаць гэтую функцыю ў Цэнтры кіравання.</string>
   <string name="quick_mode_closed">Выкл.</string> 
-  <string name="quick_mode_opened">Укл.</string> 
+  <string name="quick_mode_opened">Укл.</string>
+  <string name="ew_guide_start_warning_range_new">Інфармацыя аб папярэджаннях землятрусаў прадастаўлена Кітайскай сеткай цэнтраў землятрусаў і даступна толькі на тэрыторыі Кітая.</string>
+  <string name="permission_optimization_recommendation1">Змяніць з \"Заўсёды дазваляць\" на \"Забараніць\"</string>
+  <string name="permission_optimization_recommendation2">Змяніць з \"Заўсёды дазваляць\" на \"Толькі пры выкарыстанні\"</string>
+  <string name="permission_optimization_recommendation3">Змяніць з \"Толькі пры выкарыстанні\" на \"Забараніць\"</string>
+  <string name="permission_optimization_recommendation4">Змяніць з \"Толькі пры выкарыстанні\" на \"Заўсёды пытаць\"</string>
+  <string name="permission_optimization_recommendation5">Змяніць з \"Заўсёды дазваляць\" на \"Абмежаваць цяпер\"</string>
+  <string name="permission_optimization_recommendation6">Змяніць з \"Заўсёды дазваляць\" на \"Абраць некаторыя\"</string>
+  <string name="permission_optimization_recommendation7">Змяніць з \"Дазволіць\" на \"Забараніць\"</string>
+  <string name="prem_optimization_allow_notify_summary">Дазволіць \"Парадам па дазволах\" адпраўляць апавяшчэнні</string>
+  <string name="prem_optimization_allow_notify_title">Дазволіць апавяшчэнні</string>
+  <string name="prem_optimization_btn_summary">Аптымізаваць</string>
+  <string name="prem_optimization_cancle_scan_msg">Сканаванне не завершана</string>
+  <string name="prem_optimization_has_no_data_msg">Усё ў парадку</string>
+  <string name="prem_optimization_notify_action_nomore">Не паказваць %d дн.</string>
+  <string name="prem_optimization_notify_action_page">Аптымізаваць</string>
+  <string name="prem_optimization_size_title">Абярыце дазволы для налады</string>
+  <string name="prem_optimization_title">Парады па дазволах</string>
+  <string name="prem_optimization_total_summary">Наладзьце дазволы для лепшай абароны вашай прыватнасці</string>
+  <string name="sensitive_permission_authorization_title">Адчувальныя дазволы</string>
+  <string name="warningcenter_policeassist_open_content_new">Аўтаматычна адпраўляць інфармацыю аб вашым месцазнаходжанні ў мiліцыю праз SMS або мабільныя даныя падчас выклікаў 110, 120, 119 або 122.</string>
+  <string name="warningcenter_policeassist_privacy_tip_new"><Data>Пасля ўключэння экстранай геалакацыі, у выпадку вашага выкліку 110, 120, 119 або 122 сістэма аўтаматычна вызначыць ваша месцазнаходжанне і адправіць яго ў мiліцыю праз SMS або інтэрнэт, каб дапамагчы ім хутчэй адрэагаваць.&lt;br>Для прадастаўлення базавых паслуг экстранай геалакацыі патрабуецца падключэнне да інтэрнэту і доступ да вашага месцазнаходжання. Калі вы не згодны прадаставіць вышэйпаказаныя неабходныя дазволы або не дазваляеце нам збіраць і выкарыстоўваць гэту інфармацыю, гэта функцыя не будзе працаваць належным чынам. Вы можаце адмовіцца ад выкарыстання гэтай функцыі або адключыць яе ў любы час.&lt;br>Прачытайце і прымеце гэта &lt;a href=\"%1$s\">Паведамленне карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці экстранай геалакацыі&lt;/a> перад працягам.</Data></string>
 </resources>

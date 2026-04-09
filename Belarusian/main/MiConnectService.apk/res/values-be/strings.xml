@@ -263,4 +263,10 @@
   <string name="xiaomi_nfc_tag_device">Mi прылада</string>
   <string name="xiaomi_tv">Mi TV</string>
   <string name="yesterday">Учора</string>
+  <string name="bind_continuity_listener_service">Абмежаваць толькі ўзаемазвязанасць</string> 
+  <string name="bind_continuity_listener_service_description">Дазволіць гэтй праграме абмяжоўваць гэты кампанент толькі для ўзаемазвязанасці?</string> 
+  <string name="bind_continuity_service">Выкарыстоўваць канфігурацыю ўзаемазвязанасці</string> 
+  <string name="bind_continuity_service_description">Дазволіць гэтй праграме выкарыстоўваць канфігурацыю ўзаемазвязанасці?</string> 
+  <string name="bind_continuity_service_internal">Адкрыць гэту праграму праз канфігурацыю ўзаемазвязанасці</string> 
+  <string name="bind_continuity_service_internal_description">Дазволіць узаемазвязанасці адкрываць гэту праграму, выкарыстоўваючы яе канфігурацыю?</string>
 </resources>

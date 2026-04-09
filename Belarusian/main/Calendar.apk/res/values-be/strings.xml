@@ -1792,4 +1792,9 @@
   <string name="repeat_count_down_close_title">Гэта паўтаральная падзея. Адключыць напамінкі са зваротным адлікам?</string> 
   <string name="repeat_count_down_open_title">Гэта паўтаральная падзея. Уключыць напамінкі са зваротным адлікам?</string> 
   <string name="time_until_start">Засталося часу</string>
+  <string name="count_down_out_range_all_day">Немагчыма ўсталяваць зваротны адлік для падзеі на ўвесь дзень</string> 
+  <string name="count_down_out_range_below">Немагчыма ўсталяваць зваротны адлік у момант пачатку падзеі</string> 
+  <string name="count_down_out_range_over">Немагчыма ўсталяваць зваротны адлік раней, чым за %d гадзін да пачатку падзеі</string> 
+  <string name="count_down_reminder_status_new">Напамін аб зваротным адліку ўключаны</string> 
+  <string name="keyguard_multi_window_tip">Немагчыма адлюстраваць гэтую старонку ў рэжыме падзеленага экрана. Замест гэтага вы можаце вярнуцца да поўнаэкраннай версіі.</string>
 </resources>

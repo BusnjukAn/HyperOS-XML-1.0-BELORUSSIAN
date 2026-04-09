@@ -1196,7 +1196,7 @@
   <string name="sunday_shortest">Н</string>
   <string name="tab_finance">Фінансы</string>
   <string name="tab_message">Паведамленнi</string>
-  <string name="tab_promotions">Рэклама</string>
+  <string name="tab_promotions">Спам</string>
   <string name="the_anniversary_of_lifting_martial_law">Гадавіна адмены ваеннага становішча</string>
   <string name="the_anti_aggression_day">Дзень барацьбы з агрэсіяй</string>
   <string name="the_arbor_day">Дзень дрэванасаждэння</string>
@@ -1995,4 +1995,9 @@
   <string name="notification_channel_flow_other_name">Сінхранізаваць апавяшчэння iPhone</string> 
   <string name="verification_code_flow_title">Код пацверджання %1$s</string>
   <string name="message_cannot_send_invalid_sim">Выкарыстоўваная вамі SIM-карта не падтрымлівае адпраўку SMS</string>
+  <string name="silent_notification_notify_content">Вы атрымалі шмат кодаў пацверджання за кароткі час. Гэтыя апавяшчэнні будуць часова адключаныя.</string> 
+  <string name="silent_notification_notify_double">SIM %1$d і SIM %2$d атрымалі шмат кодаў пацверджання за кароткі час. Гэтыя апавяшчэнні будуць часова адключаныя.</string> 
+  <string name="silent_notification_notify_single">SIM %1$d атрымала шмат кодаў пацверджання за кароткі час. Гэтыя апавяшчэнні будуць часова адключаныя.</string> 
+  <string name="silent_notification_notify_title">Адключэнне SMS-паведамленняў з пацвярджэннем</string> 
+  <string name="silent_notification_tip_exit">Адключыць SMS-паведамленні з пацверджаннем</string>
 </resources>

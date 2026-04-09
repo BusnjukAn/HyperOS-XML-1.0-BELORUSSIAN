@@ -749,4 +749,6 @@
   <string name="typec_not_supporort_calls_toast">Нельга выкарыстоўваць гэтыя навушнікі для выклікаў</string> 
   <string name="wallpaper_group_xiaomi_car_title">Электрамабіль Xiaomi</string>
   <string name="wallpaper_group_new_year_title">Кітайскі Новы год</string>
+  <string name="aon_learn_gesture_position_down_tip">Трымайце руку накіраванай уніз, на адлегласці ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца падказка для жэсту.</string>
+  <string name="aon_learn_gesture_position_up_tip">Трымайце руку накіраванай наперад, на адлегласці ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца падказка для жэсту.</string>
 </resources>

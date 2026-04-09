@@ -132,12 +132,12 @@
   <string name="ew_detail_receive_alert_from">Дадзеныя прадастаўлены высокатэхналагічным інстытутам па зьмяншэньні небясьпекі стыхійных бедстваў ў Чэнду</string>
   <string name="ew_detail_receive_distance_message1">%s км.</string>
   <string name="ew_detail_receive_distance_message2">%s км (Эпіцэнтр знаходзіцца далёка ад вас. Магчыма, вы не адчуеце землятрус.)</string>
-  <string name="ew_detail_receive_distance_title">Адлегласць да эпіцэнтра</string>
+  <string name="ew_detail_receive_distance_title">Адлегласць да эпіцэнтра ад вас</string>
   <string name="ew_detail_receive_location_message">%2$s°N %1$s°E</string>
-  <string name="ew_detail_receive_location_title">Месцазнаходжанне</string>
+  <string name="ew_detail_receive_location_title">Эпіцэнтр</string>
   <string name="ew_detail_receive_time_title">Час пачатку</string>
   <string name="ew_detail_receive_warn_time_message">%s сек.</string>
-  <string name="ew_detail_receive_warn_time_title">Час да пачатку</string>
+  <string name="ew_detail_receive_warn_time_title">Час папярэджання</string>
   <string name="ew_monitor_slogan">Далучайцеся да нашай праграмы\nманіторынгу землятрусу</string>
   <string name="ew_save_title">Захаваць</string>
   <string name="ew_share_logo_title">Папярэджаньне пра землятрус</string>
@@ -315,7 +315,7 @@
   <string name="incall_dialog_negative_btn_text">Адмена</string>
   <string name="incall_dialog_positive_btn_text">Налады</string>
   <string name="incall_dialog_title">Падказка</string>
-  <string name="install_success">%s паспяховая ўсталеўка</string>
+  <string name="install_success">Усталеўка %s прайшла паспяхова</string>
   <string name="kid_mode">Дзіцячая прастору</string>
   <string name="kid_mode_des1">Бацькі поўнасцю кантралююць дзеянні дзіцяці</string>
   <string name="kid_mode_des2">Спецыяльныя праграмы для дзяцей</string>
@@ -737,4 +737,8 @@
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Згорнута</string>
   <string name="miuix_stretchablewidget_expanded">Разгорнута</string>
+  <string name="ew_detail_earthquake_feel_title_new">Інтэнсіўнасць у лакальнай зоне %d</string> 
+  <string name="ew_detail_earthquake_times" formatted="false">Папярэджанне %d (%s)</string> 
+  <string name="ew_detail_receive_alert_cancel">Адменена</string> 
+  <string name="ew_detail_receive_alert_more">Прагледзець папярэднія папярэджанні</string>
 </resources>

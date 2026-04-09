@@ -66,12 +66,12 @@
   <string name="first_unlock_time">"Першая разблакіроўка: "</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd.MM</string>
   <string name="fmt_date_short_month">MMMM</string>
   <string name="fmt_date_short_month_day">d.MM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="focus_mode_timer_add_limit">Перыяд можа быць не больш %d хвілін</string>
   <string name="focus_mode_timer_delete">Выдаліць</string>
   <string name="focus_mode_timer_exist">Гэты перыяд ужо існуе</string>
@@ -1508,4 +1508,6 @@
   <string name="unlimited_app_duration">Без абмежаванняў</string> 
   <string name="usage_new_home_by_category">Па катэгорыях</string> 
   <string name="usage_new_home_by_limit">Па абмежаваннях</string>
+  <string name="calendar_date_picker_a11y_next_month">Перайсці да наступнага месяца</string>
+  <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
 </resources>

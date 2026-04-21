@@ -1390,4 +1390,10 @@
   <string name="micloud_dspt_provision_no_sms_and_call_v2">Вы можаце выкарыстоўваць Воблака Xiaomi для сінхранізацыі фота, кантактаў, нататак, запісаў і іншых даных, а таксама дзяліцца элементамі з сябрамі. Гэтай праграме для нармальнай працы патрабуецца падключэнне да інтэрнэту. Для сінхранізацыі даных можа спатрэбіцца мабільнае злучэнне і ўключэнне Wi-Fi.</string>
   <string name="micloud_dspt_provision_no_sms_v2">Вы можаце выкарыстоўваць Воблака Xiaomi для сінхранізацыі фота, кантактаў, гісторыі выклікаў, нататак і іншых даных, а таксама дзяліцца элементамі з сябрамі. Гэтай праграме для нармальнай працы патрабуецца падключэнне да інтэрнэту. Для сінхранізацыі даных можа спатрэбіцца мабільнае злучэнне і ўключэнне Wi-Fi.</string>
   <string name="micloud_preference_look_vip">Паглядзець</string>
+  <string name="micloud_membership_benefit_recycle_bin">Аднаўляйце выдаленыя элементы на працягу доўгага часу</string>
+  <string name="micloud_membership_benefit_storage">Захоўвайце фота і відэа з пашыранай дыскавай прасторай</string>
+  <string name="micloud_membership_detail">Падрабязней</string>
+  <string name="micloud_membership_level_diamond">Ультра падпіска</string>
+  <string name="micloud_membership_level_gold">Прэміум падпіска</string>
+  <string name="micloud_membership_level_platinum">Мега падпіска</string>
 </resources>

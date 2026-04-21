@@ -2000,4 +2000,19 @@
   <string name="silent_notification_notify_single">SIM %1$d атрымала шмат кодаў пацверджання за кароткі час. Гэтыя апавяшчэнні будуць часова адключаныя.</string> 
   <string name="silent_notification_notify_title">Адключэнне SMS-паведамленняў з пацвярджэннем</string> 
   <string name="silent_notification_tip_exit">Адключыць SMS-паведамленні з пацверджаннем</string>
+  <string name="add_block">Дадаць у чорны спіс</string>
+  <string name="add_block_tag_message">Пасля дадавання ўсе паведамленні, якія ўтрымліваюць ключавое слова \"%s\", будуць блакавацца. Гэта можа ўключаць коды пацверджання і інфармацыю пра заказы. Дадаць зараз?</string>
+  <string name="add_number_message">Пасля дадавання ўсе ўваходныя выклікі і паведамленні ад %s будуць блакавацца. Дадаць зараз?</string>
+  <string name="blacklist_add_dependency_cta_failed">Адкрыйце \"Бяспеку\" і прымеце ўмовы выкарыстання, каб выкарыстоўваць гэту функцыю</string>
+  <string name="blacklist_add_failed">"Не атрымалася дадаць у чорны спіс. Паўтарыце спробу."</string>
+  <string name="blacklist_add_success">Дададзена ў чорны спіс</string>
+  <string name="keyword_blacklist_add_failed">"Не атрымалася дадаць ключавое слова ў чорны спіс. Паўтарыце спробу."</string>
+  <string name="keyword_blacklist_add_success">Ключавое слова дададзена ў чорны спіс</string>
+  <string name="menu_remove_sms_block">Выдаліць з чорнага спісу</string>
+  <string name="remove_keyword_block_fail">"Не атрымалася выдаліць ключавое слова з чорнага спісу. Паўтарыце спробу."</string>
+  <string name="remove_keyword_block_message">Спыніць блакіроўку ключавога слова \"%s\"?</string>
+  <string name="remove_keyword_block_toast">Ключавое слова выдалена з чорнага спісу</string>
+  <string name="remove_sms_block_fail">"Не атрымалася выдаліць нумар з чорнага спісу. Паўтарыце спробу."</string>
+  <string name="remove_sms_block_message">Выдаліць гэты нумар з чорнага спісу?</string>
+  <string name="remove_sms_block_toast">Нумар выдалены з чорнага спісу</string>
 </resources>

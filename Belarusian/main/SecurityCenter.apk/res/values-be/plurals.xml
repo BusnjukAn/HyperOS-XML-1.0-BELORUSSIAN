@@ -1961,4 +1961,14 @@
         <item quantity="one">%d элемент</item>
         <item quantity="few">%d элемента</item>
     </plurals>
+    <plurals name="permission_usage_terminal_microphone">
+        <item quantity="one">"%1$s | Гэта праграма выкарыстоўвала мікрафон прылады %2$d раз"</item>
+        <item quantity="few">"%1$s | Гэта праграма выкарыстоўвала мікрафон прылады %2$d разы"</item>
+        <item quantity="other">"%1$s | Гэта праграма выкарыстоўвала мікрафон прылады %2$d разоў"</item>
+    </plurals>
+    <plurals name="storage_fbo_process_talkback">
+        <item quantity="one">Апрацаваны %2$d фрагмент на %1$s</item>
+        <item quantity="few">Апрацавана %2$d фрагменты на %1$s</item>
+        <item quantity="other">Апрацавана %2$d фрагментаў на %1$s</item>
+    </plurals>
 </resources>

@@ -1797,4 +1797,11 @@
   <string name="count_down_out_range_over">Немагчыма ўсталяваць зваротны адлік раней, чым за %d гадзін да пачатку падзеі</string> 
   <string name="count_down_reminder_status_new">Напамін аб зваротным адліку ўключаны</string> 
   <string name="keyguard_multi_window_tip">Немагчыма адлюстраваць гэтую старонку ў рэжыме падзеленага экрана. Замест гэтага вы можаце вярнуцца да поўнаэкраннай версіі.</string>
+  <string name="hint_what_smart_input">Паспрабуйце ўвесці \"Сустрэча заўтра ў %s\"</string>
+  <string name="hint_what_smart_input_12">h:mm aa</string>
+  <string name="hint_what_smart_input_24">HH:mm</string>
+  <string name="no_location_hint">"Нічога не знойдзена"</string>
+  <string name="no_location_network">"Не атрымалася падлучыцца да сеткі"</string>
+  <string name="pack_up">Схаваць</string>
+  <string name="search_location_hint">Увядзіце адрас</string>
 </resources>

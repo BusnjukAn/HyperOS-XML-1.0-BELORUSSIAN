@@ -3721,7 +3721,7 @@
   <string name="footer_learn_more_content_description">Даведацца больш пра сэрвіс \"%1$s\"</string>
   <string name="for_diagnosis_usage_only">Выкарыстоўвайце гэтую інфармацыю толькі для дыягностыкі.</string>
   <string name="forbidden_network">(забаронена)</string>
-  <string name="forbidden_set_unlock_password_msg">У цяперашні час прылада знаходзіцца ў рэжыме абслугоўвання, пароль не можа быць усталяваны або зменены.</string>
+  <string name="forbidden_set_unlock_password_msg">Рэжым аднаўлення ўключаны. Цяпер нельга ўсталяваць або змяніць пароль.</string>
   <string name="forbidden_switch_apn_string">Абраныя налады APN не адпавядаюць цяперашняму тыпу сеткі</string>
   <string name="force_allow_on_external">Дазваляць праграмам запіс на знешняе сховішча</string>
   <string name="force_allow_on_external_summary">Дазволіць любым праграмам запіс на знешняе сховішча незалежна ад іх значэнняў у маніфесце</string>
@@ -13465,4 +13465,10 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="xiaoai_wake_up_light_summary">Падсвечваць экран пры актывацыі або адказе галасавога памочніка</string>
   <string name="xiaoai_wake_up_light_title">Выкарыстоўваць з Hyper XiaoAi</string>
   <string name="your_new_unlock_pattern">Гэта ваш новы графічны ключ</string>
+  <string name="disable_permission_text_by_hyper">Гэты дазвол не прайшоў праверку і цяпер абмежаваны</string> 
+  <string name="frp_status_activated">Абарона ад скіду да заводскіх налад уключана</string> 
+  <string name="game_eyecare_empty_list_tip">Тут пакуль нічога няма</string> 
+  <string name="night_eye_protection_summary">Аўтаматычна памяншаць яркасць пасля засынання для вашага камфорту, калі вы прачынаецеся і глядзіце на прыладу ўначы</string> 
+  <string name="night_eye_protection_title">Начны камфорт для вачэй</string> 
+  <string name="post_reset_google_verification">Пасля скіду да заводскіх налад увайдзіце ў сістэму з уліковым запісам Google, якi раней выкарыстоўваўся на гэтай прыладзе, каб усталяваць пароль.</string>
 </resources>

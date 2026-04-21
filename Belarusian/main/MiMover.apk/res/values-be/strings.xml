@@ -1289,4 +1289,22 @@
   <string name="permission_wifi_title_new_china">Уключэнне і выключэнне Wi-Fi</string>
   <string name="trans_sync_transfer_data_list_phone">Абярыце элементы для пераносу на старой прыладзе</string>
   <string name="trans_show_qr_code_label_pad">Адкрыйце Mi Трансфер на старой прыладзе</string>
+  <string name="ap_name">Назва пункту доступу</string> 
+  <string name="ap_password">Пароль пункту доступу</string> 
+  <string name="ble_guest_connecting_title_pad">Падлучэнне да новай прылады…</string> 
+  <string name="ble_wait_verify_code_pad">Генерацыя кода на новай прыладзе…</string> 
+  <string name="calendar_require_permission">Для перадачы патрабуюцца дазволы. Націсніце, каб надаць.</string> 
+  <string name="contains_unauthorized_data_new">Змяшчае несанкцыянаваныя дадзеныя</string> 
+  <string name="contains_unauthorized_or_incompatible_data">Змяшчае несанкцыянаваныя або несумяшчальныя дадзеныя</string> 
+  <string name="new_trans_intro_desc_7_pad">Mi Трансфер зможа працягнуць з таго месца, дзе вы спыніліся. Аднак, калі праблемы сумяшчальнасці прылад не дазволяць аднавіць перапыненую перадачу, вам, магчыма, давядзецца пачаць усё спачатку.</string> 
+  <string name="new_trans_intro_desc_8_pad">Гісторыя WeChat з вашай старой прылады перазапіша гісторыю WeChat на вашай новай прыладзе падчас перадачы.</string> 
+  <string name="note_format_incompatible">Фарматы нататак на дзвюх прыладах несумяшчальныя. Перадача немагчымая.</string> 
+  <string name="note_incompatible_tip_message">Версія нататак на новай прыладзе занадта старая. Некаторыя нататкі не могуць быць перададзены. Захавайце рэзервовыя копіі важных элементаў.</string> 
+  <string name="note_partial_format_incompatible">Фарматы некаторых нататак несумяшчальныя паміж дзвюма прыладамі. Немагчыма перадаць некаторыя элементы.</string> 
+  <string name="note_partial_incompatible_message">Фарматы нататак на дзвюх прыладах несумяшчальныя, таму нататкі не могуць быць перададзены. Захавайце рэзервовыя копіі важных элементаў.</string> 
+  <string name="note_partial_incompatible_title">%d. Нататкі не могуць быць перададзены.</string> 
+  <string name="portion_note_partial_incompatible_title">%d. Некаторыя нататкі не могуць быць перададзены.</string> 
+  <string name="portion_secret_partial_incompatible_message">Фарматы нататак на дзвюх прыладах несумяшчальныя, таму некаторыя нататкі не могуць быць перададзены. Захавайце рэзервовыя копіі важных элементаў.</string> 
+  <string name="private_sms_title">Асабістыя паведамленні</string> 
+  <string name="transfer_quit_alert_message_extra_pad">Ход перадачы будзе захаваны. Пры наступным падлучэнні дзвюх прылад вы зможаце аднавіць перадачу з таго месца, дзе спыніліся.</string>
 </resources>

@@ -403,4 +403,8 @@
   <string name="calendar_date_picker_a11y_next_month">Перайсці да наступнага месяца</string>
   <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
   <string name="scan_qrcode_card_hint">Каб дадаць кантакт, адскануйце QR-код.</string>
+  <string name="add_blacklist_dialog_text">Выклікі і паведамленні ад %s будуць заблакаваныя.</string>
+  <string name="add_blacklist_success">Заблакавана</string>
+  <string name="call_block_banner_text">Наладзьце параметры блакавання выклікаў</string>
+  <string name="callrecordview_menu_call_block_setting">Чорны спіс</string>
 </resources>

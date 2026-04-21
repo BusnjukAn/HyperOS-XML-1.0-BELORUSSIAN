@@ -1802,6 +1802,5 @@
   <string name="hint_what_smart_input_24">HH:mm</string>
   <string name="no_location_hint">"Нічога не знойдзена"</string>
   <string name="no_location_network">"Не атрымалася падлучыцца да сеткі"</string>
-  <string name="pack_up">Схаваць</string>
   <string name="search_location_hint">Увядзіце адрас</string>
 </resources>

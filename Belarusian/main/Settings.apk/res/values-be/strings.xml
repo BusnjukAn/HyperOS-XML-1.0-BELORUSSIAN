@@ -13471,4 +13471,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="night_eye_protection_summary">Аўтаматычна памяншаць яркасць пасля засынання для вашага камфорту, калі вы прачынаецеся і глядзіце на прыладу ўначы</string> 
   <string name="night_eye_protection_title">Начны камфорт для вачэй</string> 
   <string name="post_reset_google_verification">Пасля скіду да заводскіх налад увайдзіце ў сістэму з уліковым запісам Google, якi раней выкарыстоўваўся на гэтай прыладзе, каб усталяваць пароль.</string>
+  <string name="fan_other_features">Іншыя функцыі</string>
+  <string name="fan_self_clean">Самаачыстка вентылятара</string>
+  <string name="fan_self_clean_summary">Калі вентылятар не працаваў больш за %d дзён, ён выканае самаачыстку аўтаматычна, калі экран выключаны, а прылада зараджаецца.</string>
 </resources>

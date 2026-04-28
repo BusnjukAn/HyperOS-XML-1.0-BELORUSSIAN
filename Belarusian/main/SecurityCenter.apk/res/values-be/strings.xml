@@ -8212,4 +8212,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="pc_dialog_dual_type_c_port_device_in_reminder_title">Увага</string>
   <string name="power_dialog_super_save_msg_fan_enable">\"Максімальнае энергазберажэнне\" абмяжоўвае большасць энергазатратных функцый, адключае вентылятар і зніжае прадукцыйнасць прылады, каб пакінуць базавыя функцыі (напрыклад, выклікі, SMS і падлучэнне да сеткі) даступнымі як мага даўжэй. Уключыць гэты рэжым?</string>
   <string name="superpower_progress_turnoff_fan">Адключэнне вентылятара</string>
+  <string name="applock_mixed_input_password_hint_text">Увядзіце пароль</string> 
+  <string name="menu_item_virus_risky_app_detect_risky_app_feedback_new">%s Калі вы не згодны з гэтым папярэджаннем, націсніце (click)тут(/click), каб адправіць водгук.</string> 
+  <string name="toast_no_install_getapps">Усталюйце GetApps і паспрабуйце зноў</string>
 </resources>

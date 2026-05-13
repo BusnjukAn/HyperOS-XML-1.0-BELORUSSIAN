@@ -116,4 +116,9 @@
   <string name="test_ad">Тэставая рэклама</string>
   <string name="hot_news_card_refresh">Абнавіць</string> 
   <string name="text_add">Дадаць</string>
+  <string name="tiktok_world_cup_all_matched">Поўны расклад</string> 
+  <string name="tiktok_world_cup_finished">Завершана</string> 
+  <string name="tiktok_world_cup_in_progress">Ідзе %d хв.</string> 
+  <string name="tiktok_world_cup_tips">Паказаны толькі сённяшнія матчы</string> 
+  <string name="tiktok_world_cup_uncoming">Маючыя адбыцца матчы</string>
 </resources>

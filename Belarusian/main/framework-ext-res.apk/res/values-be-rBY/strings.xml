@@ -751,4 +751,8 @@
   <string name="wallpaper_group_new_year_title">Кітайскі Новы год</string>
   <string name="aon_learn_gesture_position_down_tip">Трымайце руку накіраванай уніз, на адлегласці ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца падказка для жэсту.</string>
   <string name="aon_learn_gesture_position_up_tip">Трымайце руку накіраванай наперад, на адлегласці ад %1$d да %2$d см. ад камеры, пакуль не з\'явіцца падказка для жэсту.</string>
+  <string name="night_wakeup_notification_exit">Выключыць</string>
+  <string name="night_wakeup_notification_message">Рэгуляванне яркасці для абароны вачэй</string>
+  <string name="night_wakeup_notification_summary">Уключэнне…</string>
+  <string name="night_wakeup_notification_title">Начны рэжым для камфорту вачэй уключаны</string>
 </resources>

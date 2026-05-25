@@ -2510,4 +2510,5 @@
   <string name="wifi_call_available_message_DEO2">Выклікі будуць выкарыстоўваць Wi-Fi, калі пакрыццё мабільнай сеткі недастаткова і вы падключаны да сеткі Wi-Fi. Гэтая настройка па змаўчанні прымяняецца толькі на тэрыторыі Германіі. Вы можаце змяніць гэты параметр у любы час у настройках смартфона. Калі ў вас узнікнуць пытанні, звярніцеся да свайго мабільнага аператара.</string> 
   <string name="wifi_call_available_title_DEO2">Wi-Fi выклікі ўключаны</string> 
   <string name="wifi_on">Wi-Fi падлучаны</string>
+  <string name="euicc_binding_check_error_toast_message">Не ўдалося звязаць вашу eSIM з вашай прыладай. eSIM недаступная</string>
 </resources>

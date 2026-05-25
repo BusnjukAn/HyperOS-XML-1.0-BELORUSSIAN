@@ -826,4 +826,6 @@
   <string name="passport_error_phone">Увядзіце сапраўдны нумар тэлефона</string>
   <string name="tips_call_content">%s атрымаў уваходны выклiк, калі ласка, выканайце дзеянне гэтага тэлефона</string>
   <string name="tips_call_title">Зараз не падтрымліваецца функцыя выклiкаў</string>
+  <string name="tips_call_content">У вас уваходны выклік. Адкажыце на яго на вашым %s.</string>
+  <string name="tips_call_title">Працоўны стол+ не падтрымлівае выклікі</string>
 </resources>

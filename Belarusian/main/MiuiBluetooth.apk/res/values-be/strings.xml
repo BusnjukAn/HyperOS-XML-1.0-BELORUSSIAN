@@ -754,4 +754,5 @@
   <string name="easy_tether_using_mobile_data">Выкарыстоўваюцца мабільныя дадзеныя</string> 
   <string name="fast_connect_device_image">Выява</string> 
   <string name="headset_dual_device">Прылада выкарыстоўвае аўтаматычнае падлучэнне гарнітуры. Адначасовае падлучэнне да дзвюх прылад адключанае.</string>
+  <string name="headset_device_error_muilt_mma_connected">Навушнікі выкарыстоўваюцца іншай прыладай. Паспрабуйце пазней.</string>
 </resources>

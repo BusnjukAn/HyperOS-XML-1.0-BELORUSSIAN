@@ -2604,4 +2604,8 @@
   <string name="toast_keep_one_wallpaper">Пакіньце хаця б адзін элемент</string>
   <string name="write_settings_permission_dialog_message">Каб выкарыстоўваць гэту функцыю, уключыце \"Дазволіць змяненне сістэмных налад\" у Наладах > Канфідэнцыяльнасць і бяспека > Іншыя дазволы > Спецыяльныя дазволы > Змяненне сістэмных налад > Тэмы.</string>
   <string name="write_settings_permission_dialog_title">Патрабуецца дазвол</string>
+  <string name="rear_screen_manage_wallpaper">Кіраванне</string>
+  <string name="rear_screen_old_device_empty">Тут пакуль нічога няма</string>
+  <string name="rear_screen_old_device_subtitle">Спачатку спампуйце ці прымяніце шпалеры. Націсніце і ўтрымлівайце для кіравання.</string>
+  <string name="rear_screen_old_device_wallpaper">Шпалеры на старой прыладзе</string>
 </resources>

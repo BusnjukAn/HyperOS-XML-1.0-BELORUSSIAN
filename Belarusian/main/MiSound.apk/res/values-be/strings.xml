@@ -35,4 +35,6 @@
   <string name="bose_effect_classic_summary">Насычаныя басы, дэталёвы гук і дакладнае пачуццё рытму забяспечваюць больш уражальнае гучанне. Падтрымка Dolby Atmos.</string>
   <string name="bose_effect_more">Больш падрабязна</string>
   <string name="bose_effect_title">Гукавыя эфекты</string>
+  <string name="distance_perception">Успрыманне адлегласці</string>
+  <string name="distance_perception_summary">Пры ўключаным аб\'ёмным гуку дынамічна рэгулюе гучнасць і гукавое поле ў залежнасці ад вашай адлегласці да экрана</string>
 </resources>

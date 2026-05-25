@@ -835,4 +835,17 @@
   <string name="browser_rename_dialog_permission_check">Перайменаваць не ўдалося, праверце правы доступу</string>
   <string name="browser_rename_dialog_tip">Змена пашырэння файла можа зрабіць яго непрыдатным для выкарыстання.</string>
   <string name="browser_rename_dialog_title">Перайменаваць файл</string>
+  <string name="browser_cloud_task_toast_successed">Захавана ў воблачным дыску. &lt;font color=#0D84FF>Націсніце для прагляду.&lt;/font></string>
+  <string name="browser_create_cloud_task_toast_success">Дададзена ў задачы. &lt;font color=#0D84FF>Націсніце для прагляду.&lt;/font></string>
+  <string name="browser_item_to_mp4">Канвертаваць у MP4</string>
+  <string name="browser_m3u8_page_title">Файлы M3U8</string>
+  <string name="browser_m3u8_to_mp4_title">Сканвертаваныя файлы MP4</string>
+  <string name="browser_more_dialog_to_mp4">Канвертаваць M3U8 у MP4</string>
+  <string name="browser_mp4_convert_error">Не ўдалося канвертаваць. Паспрабуйце яшчэ раз.</string>
+  <string name="browser_mp4_convert_success">Канвертацыя выканана паспяхова. &lt;font color=#0D84FF>Глядзіце ў Профілі > Відэа.&lt;/font></string>
+  <string name="browser_mp4_delete_original">Выдаліць зыходны файл</string>
+  <string name="browser_mp4_delete_success">Выдалена паспяхова</string>
+  <string name="browser_share_m3u8_diloag_content">Немагчыма падзяліцца файламі M3U8. Канвертаваць іх у MP4, каб падзяліцца?</string>
+  <string name="browser_share_m3u8_diloag_title">Канвертаваць файлы для адпраўкі</string>
+  <string name="browser_share_m3u8_diloag_yes">Канвертаваць</string>
 </resources>

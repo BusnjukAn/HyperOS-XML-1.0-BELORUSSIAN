@@ -493,4 +493,7 @@
   <string name="zxing_button_ok">ОК</string>
   <string name="zxing_msg_camera_framework_bug">На жаль, узнікла памылка камеры. Магчыма, спатрэбіцца перазагрузіць прыладу.</string>
   <string name="zxing_msg_default_status">Каб сканаваць штрых-код, змесціце яго ў прамавугольнік відашукальніка.</string>
+  <string name="new_password_dialog_fallback_title">Захаваць пароль?</string> 
+  <string name="replace_password_dialog_fallback_title">Абнавіць пароль?</string> 
+  <string name="wifi_near_sync_notification_title">Сінхранізацыя пароляў Wi-Fi…</string>
 </resources>

@@ -1066,7 +1066,7 @@
   <string name="finddevice_iot_view_details">Падрабязнасці</string>
   <string name="finddevice_iot_view_help">Дапамога</string>
   <string name="finddevice_iot_wallet">Кашалёк</string>
-  <string name="first_record">Першы запіс: dd.MM.yyyy HH:mm</string>
+  <string name="first_record">Упершыню выяўлены ў %2$s (%1$s)</string>
   <string name="follow_thing">Рэчы, якія адсочваюцца</string>
   <string name="has_open_on">Уключана з %1$s %2$s</string>
   <string name="history_hint_b">Адлюстроўваюцца даныя толькі за апошнія %1$d дзён (да %2$d запісаў)</string>
@@ -1080,7 +1080,7 @@
   <string name="iphone_setting_summary">%1$d. Уключыце Bluetooth.\n%2$d. Падлучыцеся да сеткі.\n%3$d. У Ўзаемазвязанасцi Xiaomi → Профіль → Налады \"Пошук прылады\" выканайце спалучэнне.\n%4$d. Прыміце запыт на спалучэнне.</string>
   <string name="iphone_view_help">Дапамога</string>
   <string name="items_page">Рэчы</string>
-  <string name="last_record">Апошні запіс: dd.MM.yyyy HH:mm</string>
+  <string name="last_record">Апошні раз выяўлены ў %2$s (%1$s)</string>
   <string name="lost_notify">Апавяшчэнні аб пакінутых рэчах</string>
   <string name="lost_notify_hint">Апавяшчэнні аб пакінутых рэчах</string>
   <string name="lost_notify_to_some_device">На %1$s</string>
@@ -1126,12 +1126,12 @@
   <string name="ota_dialog_title_install">Усталёўка…</string>
   <string name="ota_failed">Не ўдалося абнавіць прашыўку</string>
   <string name="ota_finish">Прашыўка актуальная</string>
-  <string name="ota_first_dialog_msg">Не выключайце экран і не выходзьце з \"Пошуку прылады\".</string>
+  <string name="ota_first_dialog_msg">Не блакуйце экран і не пакідайце гэту старонку падчас абнаўлення. Абнавіць зараз?</string>
   <string name="ota_first_dialog_start">Абнавіць</string>
   <string name="ota_first_dialog_title">Даступна абнаўленне</string>
   <string name="ota_have_new_version">Даступна абнаўленне прашыўкі. Націсніце, каб абнавіць.</string>
   <string name="ota_version">Версія прашыўкі: %s</string>
-  <string name="other_xiaomi_tag">Тэг, які адсочваецца</string>
+  <string name="other_xiaomi_tag">%1$s перамяшчаецца разам з вамі</string>
   <string name="passport_family_invite_member_sms">Сямейныя сэрвісы: %1$s запрашае вас у сям\'ю для агульнага воблачнага сховішча і іншых функцый. Таксама можна выкарыстоўваць \"Сямейную абарону\" для дзяцей і родных. Націсніце %2$s, каб далучыцца.</string>
   <string name="passport_family_invite_member_wechat_title">%s запрашае вас у сям\'ю</string>
   <string name="permission_settings_category">Дазволы</string>
@@ -1259,8 +1259,8 @@
   <string name="xiaomi_setting">Наладзіць на тэлефоне Xiaomi</string>
   <string name="xiaomi_setting_summary">%1$d. Уключыце Bluetooth.\n%2$d. Уключыце \"Узаемазвязанасць\" у Наладах.\n%3$d. Падлучыцеся да сеткі.\n%4$d. Не выключайце экран.</string>
   <string name="xiaomi_tag_low_battery">Нізкі зарад батарэі Xiaomi Tag</string>
-  <string name="device_found_nearby_message">%1$s з\'явіўся побач з %3$s на %2$s</string> 
-  <string name="device_found_nearby_message_without_address">%1$s быў абноўлены ў %2$s. Праверце падрабязнасці на старонцы прылады.</string> 
+  <string name="device_found_nearby_message">%1$s з\'явіўся побач з %4$s %2$s у %3$s</string> 
+  <string name="device_found_nearby_message_without_address">Месцазнаходжанне %1$s абноўлена %2$s у %3$s. Падрабязней — на старонцы прылады.</string> 
   <string name="stop_earphone">Выключыць гэтыя навушнікі</string> 
   <string name="tag_track_hint_b">Даведайцеся, як адключыць перадачу месцазнаходжання</string> 
   <string name="trust_this_earphone">Давяраць гэтым навушнікам</string> 
@@ -1283,4 +1283,14 @@
   <string name="update_message">Даступная новая версія (%s). Абнавіць у GetApps?</string>
   <string name="update_not_update">Бягучая версія абноўлена</string>
   <string name="update_now">Абнавіць</string>
+  <string name="ble_connect_by_other_error">Не ўдалося падлучыцца. Іншы карыстальнік ужо вызначае месцазнаходжанне гэтай прылады.</string>
+  <string name="close_find_tip_when_device_lost">Не атрымліваецца адключыць \"Пошук прылады\", пакуль уключана абарона ад страты. Падрабязней</string>
+  <string name="finddevice_security_auth_message">Прайдзіце праверку бяспекі, каб мець магчымасць знаходзіць прылады, прайграваць гук і выкарыстоўваць \"Афлайн-пошук\".</string>
+  <string name="finddevice_security_auth_title">Праверка бяспекі</string>
+  <string name="precise_find_device_band_occupied_by_other">Не ўдалося падлучыцца да браслета. Іншы карыстальнік вызначае яго месцазнаходжанне.</string>
+  <string name="precise_find_device_earphone_occupied_by_other">Не ўдалося падлучыцца да навушнікаў. Іншы карыстальнік вызначае іх месцазнаходжанне.</string>
+  <string name="precise_find_device_tag_occupied_by_other">Не ўдалося падлучыцца да меткі. Іншы карыстальнік вызначае яе месцазнаходжанне.</string>
+  <string name="precise_find_device_tracked_device_occupied_by_other">Не ўдалося падлучыцца. Іншы карыстальнік вызначае месцазнаходжанне гэтай прылады.</string>
+  <string name="precise_find_device_watch_occupied_by_other">Не ўдалося падлучыцца да гадзінніка. Іншы карыстальнік вызначае іх месцазнаходжанне.</string>
+  <string name="the_owner_can_view_its_location_b">Уладальнік можа бачыць яго месцазнаходжанне. Націсніце для прагляду.</string>
 </resources>

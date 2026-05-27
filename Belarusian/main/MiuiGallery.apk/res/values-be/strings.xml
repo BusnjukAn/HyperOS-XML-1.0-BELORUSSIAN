@@ -5141,4 +5141,16 @@
   <string name="restoring_progress">Аднаўленне (%1$s/%2$s)</string>
   <string name="file_synced_talkback">Сінхранізавана з воблакам</string>
   <string name="file_unsynced_talkback">Не сінхранізавана з воблакам</string>
+  <string name="passport_completed">Гатова</string>
+  <string name="passport_confirm_new_pwd">Падцвердзіце новы пароль</string>
+  <string name="passport_error_illegal_pwd">Няправільны фармат пароля</string>
+  <string name="passport_input_new_pwd">Увядзіце новы пароль</string>
+  <string name="passport_password_req_notice">Пароль павінен складацца з %1$d–%2$d сімвалаў і ўключаць як мінімум два з наступных сімвалаў: лічбы, літары і спецыяльныя сімвалы.</string>
+  <string name="passport_set_password_title">Усталяваць пароль</string>
+  <string name="password_guessable_pattern">Надзейнасць пароля нізкая. Выкарыстоўвайце спалучэнне непаслядоўных лічбаў, літар і спецыяльных сімвалаў.</string>
+  <string name="password_inconsistent">Два паролі не супадаюць. Пацвердзіце і паспрабуйце яшчэ раз.</string>
+  <string name="password_invalid_format_prompt">Паролі павінны ўтрымліваць як мінімум два з наступных сімвалаў: лічбы, літары і спецыяльныя сімвалы</string>
+  <string name="password_length_short_prompt">Няправільная даўжыня пароля. Усталюйце пароль з %1$d–%2$d сімвалаў.</string>
+  <string name="password_reused_with_in_year">Новы пароль такі ж, як і ў мінулым годзе. Выберыце зусім новы пароль.</string>
+  <string name="operation_print">Друк</string>
 </resources>

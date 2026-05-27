@@ -2608,4 +2608,5 @@
   <string name="rear_screen_old_device_empty">Тут пакуль нічога няма</string>
   <string name="rear_screen_old_device_subtitle">Спачатку спампуйце ці прымяніце шпалеры. Націсніце і ўтрымлівайце для кіравання.</string>
   <string name="rear_screen_old_device_wallpaper">Шпалеры на старой прыладзе</string>
+  <string name="browse_mode_hint">Вы выкарыстоўваеце анлайн-рэжым.\nНацісніце на экран і абярыце \"Згодны\" для звычайнага выкарыстання.</string>
 </resources>

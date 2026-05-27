@@ -1396,4 +1396,5 @@
   <string name="micloud_membership_level_diamond">Ультра падпіска</string>
   <string name="micloud_membership_level_gold">Прэміум падпіска</string>
   <string name="micloud_membership_level_platinum">Мега падпіска</string>
+  <string name="privacy_runtime_perm_read_phone_numbers_title">Чытанне нумароў тэлефонаў</string>
 </resources>

@@ -256,4 +256,130 @@
         <item quantity="few">%1$s+ сімвала</item>
         <item quantity="many">%1$s+ сімвалаў</item>
     </plurals>
+    <plurals name="cloud_state_synced_folders">
+        <item quantity="one">Сінхранізавана %1$s тэчка</item>
+        <item quantity="few">Сінхранізаваны %1$s тэчкі</item>
+        <item quantity="many">Сінхранізавана %1$s тэчак</item>
+        <item quantity="other">Сінхранізавана %1$s тэчак</item>
+    </plurals>
+    <plurals name="cloud_state_synced_items">
+        <item quantity="one">Сінхранізаваны %1$s элемент</item>
+        <item quantity="few">Сінхранізаваны %1$s элементы</item>
+        <item quantity="many">Сінхранізавана %1$s элементаў</item>
+        <item quantity="other">Сінхранізавана %1$s элементаў</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_folders">
+        <item quantity="one">%1$s тэчка не сінхранізавана</item>
+        <item quantity="few">%1$s тэчкі не сінхранізаваны</item>
+        <item quantity="many">%1$s тэчак не сінхранізаваны</item>
+        <item quantity="other">%1$s тэчак не сінхранізаваны</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_items">
+        <item quantity="one">%1$s элемент не сінхранізаваны</item>
+        <item quantity="few">%1$s элементы не сінхранізаваны</item>
+        <item quantity="many">%1$s элементаў не сінхранізаваны</item>
+        <item quantity="other">%1$s элементаў не сінхранізаваны</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_mm">
+        <item quantity="one">Вышыня не можа перавышаць %d міліметр. Увядзіце зноў.</item>
+        <item quantity="few">Вышыня не можа перавышаць %d міліметры. Увядзіце зноў.</item>
+        <item quantity="many">Вышыня не можа перавышаць %d міліметраў. Увядзіце зноў.</item>
+        <item quantity="other">Вышыня не можа перавышаць %d міліметраў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_px">
+        <item quantity="one">Вышыня не можа перавышаць %d піксель. Увядзіце зноў.</item>
+        <item quantity="few">Вышыня не можа перавышаць %d пікселі. Увядзіце зноў.</item>
+        <item quantity="many">Вышыня не можа перавышаць %d пікселяў. Увядзіце зноў.</item>
+        <item quantity="other">Вышыня не можа перавышаць %d пікселяў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_mm">
+        <item quantity="one">Перавышэнне ліміту вышыні на %d міліметр. Увядзіце зноў.</item>
+        <item quantity="few">Перавышэнне ліміту вышыні на %d міліметры. Увядзіце зноў.</item>
+        <item quantity="many">Перавышэнне ліміту вышыні на %d міліметраў. Увядзіце зноў.</item>
+        <item quantity="other">Перавышэнне ліміту вышыні на %d міліметраў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_px">
+        <item quantity="one">Перавышэнне ліміту вышыні на %d піксель. Увядзіце зноў.</item>
+        <item quantity="few">Перавышэнне ліміту вышыні на %d пікселі. Увядзіце зноў.</item>
+        <item quantity="many">Перавышэнне ліміту вышыні на %d пікселяў. Увядзіце зноў.</item>
+        <item quantity="other">Перавышэнне ліміту вышыні на %d пікселяў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_mm">
+        <item quantity="one">Вышыня не можа быць меншая за %d міліметр. Увядзіце зноў.</item>
+        <item quantity="few">Вышыня не можа быць меншая за %d міліметры. Увядзіце зноў.</item>
+        <item quantity="many">Вышыня не можа быць меншая за %d міліметраў. Увядзіце зноў.</item>
+        <item quantity="other">Вышыня не можа быць меншая за %d міліметраў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_px">
+        <item quantity="one">Вышыня не можа быць меншая за %d піксель. Увядзіце зноў.</item>
+        <item quantity="few">Вышыня не можа быць меншая за %d пікселі. Увядзіце зноў.</item>
+        <item quantity="many">Вышыня не можа быць меншая за %d пікселяў. Увядзіце зноў.</item>
+        <item quantity="other">Вышыня не можа быць меншая за %d пікселяў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_mm">
+        <item quantity="one">Павялічце вышыню як мінімум на %d міліметр</item>
+        <item quantity="few">Павялічце вышыню як мінімум на %d міліметры</item>
+        <item quantity="many">Павялічце вышыню як мінімум на %d міліметраў</item>
+        <item quantity="other">Павялічце вышыню як мінімум на %d міліметраў</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_px">
+        <item quantity="one">Павялічце вышыню як мінімум на %d піксель</item>
+        <item quantity="few">Павялічце вышыню як мінімум на %d пікселі</item>
+        <item quantity="many">Павялічце вышыню як мінімум на %d пікселяў</item>
+        <item quantity="other">Павялічце вышыню як мінімум на %d пікселяў</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_mm">
+        <item quantity="one">Шырыня не можа перавышаць %d міліметр. Увядзіце зноў.</item>
+        <item quantity="few">Шырыня не можа перавышаць %d міліметры. Увядзіце зноў.</item>
+        <item quantity="many">Шырыня не можа перавышаць %d міліметраў. Увядзіце зноў.</item>
+        <item quantity="other">Шырыня не можа перавышаць %d міліметраў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_px">
+        <item quantity="one">Шырыня не можа перавышаць %d піксель. Увядзіце зноў.</item>
+        <item quantity="few">Шырыня не можа перавышаць %d пікселі. Увядзіце зноў.</item>
+        <item quantity="many">Шырыня не можа перавышаць %d пікселяў. Увядзіце зноў.</item>
+        <item quantity="other">Шырыня не можа перавышаць %d пікселяў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_mm">
+        <item quantity="one">Перавышэнне ліміту шырыні на %d міліметр. Увядзіце зноў.</item>
+        <item quantity="few">Перавышэнне ліміту шырыні на %d міліметры. Увядзіце зноў.</item>
+        <item quantity="many">Перавышэнне ліміту шырыні на %d міліметраў. Увядзіце зноў.</item>
+        <item quantity="other">Перавышэнне ліміту шырыні на %d міліметраў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_px">
+        <item quantity="one">Перавышэнне ліміту шырыні на %d піксель. Увядзіце зноў.</item>
+        <item quantity="few">Перавышэнне ліміту шырыні на %d пікселі. Увядзіце зноў.</item>
+        <item quantity="many">Перавышэнне ліміту шырыні на %d пікселяў. Увядзіце зноў.</item>
+        <item quantity="other">Перавышэнне ліміту шырыні на %d пікселяў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_mm">
+        <item quantity="one">Шырыня не можа быць меншая за %d міліметр. Увядзіце зноў.</item>
+        <item quantity="few">Шырыня не можа быць меншая за %d міліметры. Увядзіце зноў.</item>
+        <item quantity="many">Шырыня не можа быць меншая за %d міліметраў. Увядзіце зноў.</item>
+        <item quantity="other">Шырыня не можа быць меншая за %d міліметраў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_px">
+        <item quantity="one">Шырыня не можа быць меншая за %d піксель. Увядзіце зноў.</item>
+        <item quantity="few">Шырыня не можа быць меншая за %d пікселі. Увядзіце зноў.</item>
+        <item quantity="many">Шырыня не можа быць меншая за %d пікселяў. Увядзіце зноў.</item>
+        <item quantity="other">Шырыня не можа быць меншая за %d пікселяў. Увядзіце зноў.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_mm">
+        <item quantity="one">Павялічце шырыню як мінімум на %d міліметр</item>
+        <item quantity="few">Павялічце шырыню як мінімум на %d міліметры</item>
+        <item quantity="many">Павялічце шырыню як мінімум на %d міліметраў</item>
+        <item quantity="other">Павялічце шырыню як мінімум на %d міліметраў</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_px">
+        <item quantity="one">Павялічце шырыню як мінімум на %d піксель</item>
+        <item quantity="few">Павялічце шырыню як мінімум на %d пікселі</item>
+        <item quantity="many">Павялічце шырыню як мінімум на %d пікселяў</item>
+        <item quantity="other">Павялічце шырыню як мінімум на %d пікселяў</item>
+    </plurals>
+    <plurals name="creation_terms">
+        <item quantity="one">%1$s элемент</item>
+        <item quantity="few">%1$s элементы</item>
+        <item quantity="many">%1$s элементаў</item>
+        <item quantity="other">%1$s элементаў</item>
+    </plurals>
 </resources>

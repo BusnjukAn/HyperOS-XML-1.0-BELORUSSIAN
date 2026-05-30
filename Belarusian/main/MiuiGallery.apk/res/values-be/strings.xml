@@ -3472,7 +3472,6 @@
   <string name="passport_page_load_failed">Немагчыма адкрыць старонку</string>
   <string name="passport_password_login_btn">Увайсцi</string>
   <string name="passport_password_not_show">Не паказваць пароль</string>
-  <string name="passport_password_req_notice">Пароль павінен складацца з 8-16 сімвалаў і змяшчаць як мінімум два з наступных сімвалаў: лічбы, літары і спецыяльныя сімвалы (напрыклад, 123abc@# або 123abc або abc@#).</string>
   <string name="passport_password_show">Паказаць пароль</string>
   <string name="passport_querying_phone_info">Запыт інфармацыі пра акаўнт…</string>
   <string name="passport_quick_login_title">Увядзіце пароль</string>

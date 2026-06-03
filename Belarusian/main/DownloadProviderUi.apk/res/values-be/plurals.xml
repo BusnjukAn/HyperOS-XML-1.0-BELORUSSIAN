@@ -166,4 +166,9 @@
     <plurals name="browser_home_number_items">
         <item quantity="other">Усяго элементаў: %d</item>
     </plurals>
+    <plurals name="browser_private_space_set_dialog_content">
+        <item quantity="other">Зрабіць %d элементаў прыватнымі?</item>
+        <item quantity="one">Зрабіць %d элемент прыватным?</item>
+        <item quantity="few">Зрабіць %d элемента прыватнымі?</item>
+    </plurals>
 </resources>

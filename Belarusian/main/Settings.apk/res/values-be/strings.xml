@@ -12788,16 +12788,16 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="glasses_battery">Батарэя</string>
   <string name="go_to_identity_check">Перайсці да праверкі асобы</string>
   <string name="go_to_settings">Перайсці ў налады</string>
-  <string name="headset_key_config_ai_subtitles_summary">Трымайце націску на навушніку, каб уключыць ШІ-субтытры\n(Даступна толькі пры падключэнні да тэлефона на Xiaomi HyperOS 2 або новей)</string>
-  <string name="headset_key_config_ai_subtitles_title">ШІ-субтытры</string>
+  <string name="headset_key_config_ai_subtitles_summary">Трымайце націску на навушніку, каб уключыць AI-субтытры\n(Даступна толькі пры падключэнні да тэлефона на Xiaomi HyperOS 2 або новей)</string>
+  <string name="headset_key_config_ai_subtitles_title">AI-субтытры</string>
   <string name="headset_key_config_dialogue_translation_summary">Трымайце націску на навушніку для перакладу дыялогу\n(Працуе толькі пры падключэнні да тэлефона на Xiaomi HyperOS 2 або новей)</string>
   <string name="headset_key_config_dialogue_translation_title">Перакладчык</string>
   <string name="headset_key_config_left_slide">Правядзіце па левым навушніку</string>
   <string name="headset_key_config_right_slide">Правядзіце па правым навушніку</string>
   <string name="headset_key_config_slide_volume_up_down">Рэгуляваць гучнасць</string>
   <string name="headset_key_config_volume_up_down">Рэгуляваць гучнасць</string>
-  <string name="headset_voice_control_assistant_summary">Уключыце, каб актываваць Mi ШІ, рэгуляваць гучнасць, прайграваць і прыпыняць музыку, а таксама пераключаць трэкі голасам</string>
-  <string name="headset_voice_control_assistant_summary_fixed">Уключыце, каб актываваць Mi ШІ, рэгуляваць гучнасць, прайграваць і прыпыняць музыку, пераключаць рэжым шумападаўлення і пераключаць трэкі голасам</string>
+  <string name="headset_voice_control_assistant_summary">Уключыце, каб актываваць Mi AI, рэгуляваць гучнасць, прайграваць і прыпыняць музыку, а таксама пераключаць трэкі голасам</string>
+  <string name="headset_voice_control_assistant_summary_fixed">Уключыце, каб актываваць Mi AI, рэгуляваць гучнасць, прайграваць і прыпыняць музыку, пераключаць рэжым шумападаўлення і пераключаць трэкі голасам</string>
   <string name="hi_res_mode_preference_title">Рэжым Hi-Res</string>
   <string name="homepage_search">Шукаць у наладах</string>
   <string name="hub_mode_category_title">Рэжым хаба</string>
@@ -13461,7 +13461,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="verify_with_fingerprint">Пацвердзіць з дапамогай адбітка пальца</string>
   <string name="work_profile_disable_password">Адключыць пароль рабочага профілю</string>
   <string name="work_profile_show_pattern">Паказваць графічны ключ</string>
-  <string name="xiao_mi_hyperos_ai_ex_summary">Адключэнне гэтага параметра таксама адключыць Hyper XiaoAi, ШІ-шпалеры, перакладчык і іншыя функцыі ШІ у наладах</string>
+  <string name="xiao_mi_hyperos_ai_ex_summary">Адключэнне гэтага параметра таксама адключыць Hyper XiaoAi, AI-шпалеры, перакладчык і іншыя функцыі AI у наладах</string>
   <string name="xiaoai_wake_up_light_summary">Падсвечваць экран пры актывацыі або адказе галасавога памочніка</string>
   <string name="xiaoai_wake_up_light_title">Выкарыстоўваць з Hyper XiaoAi</string>
   <string name="your_new_unlock_pattern">Гэта ваш новы графічны ключ</string>
@@ -13533,5 +13533,7 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="sound_patterns_category_title">Гукавыя схемы</string>
   <string name="system_sounds_and_vibrations_category_title">Сістэмныя гукі і вібрацыя</string>
   <string name="work_profile_sound_category_title">Гук працоўнага профіля</string>
-  <string name="xiao_mi_hyperos_ai_ex_summary_new">Адключэнне гэтага перамыкача таксама адключыць Xiaomi Hyper XiaoAi і іншыя функцыі ШІ ў наладах</string>
+  <string name="xiao_mi_hyperos_ai_ex_summary_new">Адключэнне гэтага перамыкача таксама адключыць Xiaomi Hyper XiaoAi і іншыя функцыі AI ў наладах</string>
+  <string name="back_strap_title_tip">Уключыце, каб атрымліваць персаналізаваныя абвесткі ў розных сцэнарах</string> 
+  <string name="light_camera_state_summary_new">Уключыць святлодыёднае падсвятленне пры здымцы з таймерам або серыйнай здымцы</string>
 </resources>

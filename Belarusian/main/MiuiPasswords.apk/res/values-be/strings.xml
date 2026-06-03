@@ -496,4 +496,5 @@
   <string name="new_password_dialog_fallback_title">Захаваць пароль?</string> 
   <string name="replace_password_dialog_fallback_title">Абнавіць пароль?</string> 
   <string name="wifi_near_sync_notification_title">Сінхранізацыя пароляў Wi-Fi…</string>
+  <string name="cta_permission_all_intent_for_passwords_manager">З дапамогай функцыі \"Кіраванне паролямі\" вы можаце кіраваць паролямі для ўліковых запісаў праграм. Паролі, захаваныя ў мэнэджары пароляў і Mi браўзэры, будуць аўтаматычна перанесены сюды.</string>
 </resources>

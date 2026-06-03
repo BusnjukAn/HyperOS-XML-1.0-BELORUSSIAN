@@ -2511,4 +2511,8 @@
   <string name="wifi_call_available_title_DEO2">Wi-Fi выклікі ўключаны</string> 
   <string name="wifi_on">Wi-Fi падлучаны</string>
   <string name="euicc_binding_check_error_toast_message">Не ўдалося звязаць вашу eSIM з вашай прыладай. eSIM недаступная</string>
+  <string name="wifi_call_available_message_claro">Калі ў радку стану адлюстроўваецца VoWLAN, тэлефануйце, выкарыстоўваючы любую сетку Wi-Fi у свеце, па мясцовым тарыфе вашага тарыфнага плана! Дадатковая інфармацыя на сайце www.claro.com.ar/clarovowifi</string> 
+  <string name="wifi_call_available_title_claro">Хочаце актываваць выклікі па Wi-Fi?</string> 
+  <string name="wifi_call_checkbox_claro">Больш не паказваць</string> 
+  <string name="wifi_call_confirm_claro">Актываваць</string>
 </resources>

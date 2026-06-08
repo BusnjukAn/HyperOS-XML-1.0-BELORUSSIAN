@@ -121,4 +121,8 @@
   <string name="tiktok_world_cup_in_progress">Ідзе %d хв.</string> 
   <string name="tiktok_world_cup_tips">Паказаны толькі сённяшнія матчы</string> 
   <string name="tiktok_world_cup_uncoming">Маючыя адбыцца матчы</string>
+  <string name="hot_news_load_failure">Не атрымалася загрузіць аб\'екты</string>
+  <string name="hot_news_load_no_content">Тут нічога няма</string>
+  <string name="hot_news_load_without_internet">Не атрымалася падлучыцца да сеткі</string>
+  <string name="hot_news_retry">Паспрабаваць зноў</string>
 </resources>

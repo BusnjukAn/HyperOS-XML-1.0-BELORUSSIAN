@@ -92,8 +92,8 @@
   <string name="date_time_picker_dialog_title">Усталюйце дату і час</string>
   <string name="detect_sim_card">Пошук SIM-карты</string>
   <string name="device_activation_card_cannot_get_yet">Не атрымалася атрымаць інфармацыю. Паспрабуйце яшчэ раз праз 3-5 дзён.</string>
-  <string name="device_activation_card_description">Першая актывацыя рэгіструецца, калі прылада падлучаецца да сеткі (уключаючы, апроч іншага, Wi-Fi і мабільныя сеткі) у першы раз. Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць 3-5 дзён пасля падлучэння да сеткі, перш чым правяраць статус актывацыі.&lt;br>&lt;br>Актывацыя прылады з\'яўляецца асноўным фактарам пры вызначэнні тэрміну дзеяння нашай пашыранай гарантыі. Праверце нашу &lt;a href=%1$s>Палітыку вяртання, абмену і рамонту&lt;/a> для атрымання дадатковых звестак.&lt;br>&lt;br>Калі ў вас ёсць пытанні, тэлефануйце на гарачую лінію службы падтрымкі кліентаў: 400-100-5678.</string>
-  <string name="device_activation_card_description_china">Першая актывацыя рэгіструецца, калі прылада падлучаецца да сеткі (уключаючы, апроч іншага, Wi-Fi і мабільныя сеткі) у першы раз. Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць 3-5 дзён пасля падлучэння да сеткі, перш чым правяраць статус актывацыі.&lt;br>&lt;br>Падрабязна гл. у нашай &lt;a href=%1$s>Палітыцы вяртання, абмену і рамонту&lt;/a>.&lt;br>&lt;br>Калі ў вас ёсць пытанні, тэлефануйце на гарачую лінію падтрымкі кліентаў: 400-100-5678.</string>
+  <string name="device_activation_card_description">Першая актывацыя рэгіструецца, калі прылада ўпершыню падключаецца да сеткі (уключаючы, але не абмяжоўваючыся Wi-Fi і мабільнымі сеткамі). Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць %1$d–%2$d дні пасля падключэння да сеткі перад праверкай статусу актывацыі.&lt;br>&lt;br>Актывацыя прылады з'яўляецца асноўным фактарам вызначэння тэрміну дзеяння пашыранай гарантыі. Азнаёмцеся з нашай &lt;a href=%3$s>Палітыкай вяртання, абмену і рамонту&lt;/a> для атрымання больш падрабязнай інфармацыі.&lt;br>&lt;br>Калі ў вас ёсць пытанні, тэлефануйце на гарачую лінію падтрымкі: 950816.</string>
+  <string name="device_activation_card_description_china">Першая актывацыя рэгіструецца, калі прылада ўпершыню падключаецца да сеткі (уключаючы, але не абмяжоўваючыся Wi-Fi і мабільнымі сеткамі). Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць %1$d–%2$d дні пасля падключэння да сеткі перад праверкай статусу актывацыі.&lt;br>&lt;br>Актывацыя прылады з'яўляецца асноўным фактарам вызначэння тэрміну дзеяння пашыранай гарантыі. Азнаёмцеся з нашай &lt;a href=%3$s>Палітыкай вяртання, абмену і рамонту&lt;/a> для атрымання больш падрабязнай інфармацыі.&lt;br>&lt;br>Калі ў вас ёсць пытанні, тэлефануйце на гарачую лінію падтрымкі: 950816.</string>
   <string name="device_activation_card_device_not_support">Па падтрымліваецца на гэтай прыладзе</string>
   <string name="device_activation_card_local_service_error">Не атрымалася атрымаць інфармацыю. Пачакайце хвіліну ці дзве і паспрабуйце ізноў.</string>
   <string name="device_activation_card_no_network_error">Не атрымалася падлучыцца да сеткі. Праверце налады сеткі і паспрабуйце ізноў.</string>
@@ -321,26 +321,26 @@
   <string name="micloud_main_sync_mode_summary">Сінхранізаваць дадзеныя ў рэжыме рэальнага часу. Гэтая функцыя павялічыць спажыванне энергіі.</string>
   <string name="micloud_main_sync_mode_title">Хуткая сінхранізацыя</string>
   <string name="micloud_manaul_sync_success_button_text">Падрабязнасці</string>
-  <string name="micloud_manaul_sync_success_title">Сінхранізавана</string>
+  <string name="micloud_manaul_sync_success_title">Сінхранізацыя паспяхова завершана</string>
   <string name="micloud_manual_activating">Актывацыя…</string>
   <string name="micloud_manual_all_sync_off_button_text">Уключыць</string>
   <string name="micloud_manual_all_sync_off_summary">Аднавіць сінхранізаваныя дадзеныя на новых прыладах з дапамогай воблака Xiaomi</string>
   <string name="micloud_manual_all_sync_off_title">Сінхранізацыя адключана</string>
   <string name="micloud_manual_buy_vip">Атрымаць больш месца</string>
   <string name="micloud_manual_cloud_storage_full_button_text">Атрымаць больш месца</string>
-  <string name="micloud_manual_cloud_storage_full_summary">Немагчыма сінхранізаваць фатаграфіі, кантакты і іншыя аб\'екты. Абнавіце план або вызваліце ​​месца для захоўвання.</string>
-  <string name="micloud_manual_cloud_storage_full_title">Немагчыма сінхранізаваць. Недастаткова месца для захоўвання ў воблаке Xiaomi.</string>
+  <string name="micloud_manual_cloud_storage_full_summary">Воблачнае сховішча запоўнена</string>
+  <string name="micloud_manual_cloud_storage_full_title">Не ўдалося сінхранізаваць</string>
   <string name="micloud_manual_cloud_storage_low_button_text">Атрымаць больш месца</string>
-  <string name="micloud_manual_cloud_storage_low_summary">Месца ў воблаке заканчваецца</string>
-  <string name="micloud_manual_cloud_storage_low_title">Сінхранізавана</string>
+  <string name="micloud_manual_cloud_storage_low_summary">Воблачнае сховішча амаль запоўнена</string>
+  <string name="micloud_manual_cloud_storage_low_title">Сінхранізацыя паспяхова завершана</string>
   <string name="micloud_manual_grant_permission">Дазволіць</string>
   <string name="micloud_manual_local_storage_low_button_text">Ачысціць</string>
-  <string name="micloud_manual_local_storage_low_summary">Вызваліце ​​месца і паспрабуйце яшчэ раз.</string>
-  <string name="micloud_manual_local_storage_low_summary_pad">Вызваліце месца на прыладзе і паспрабуйце яшчэ раз</string>
-  <string name="micloud_manual_local_storage_low_title">Немагчыма сінхранізаваць. Недастаткова месца для захоўвання на вашай прыладзе.</string>
-  <string name="micloud_manual_local_storage_low_title_pad">Недастаткова месца</string>
+  <string name="micloud_manual_local_storage_low_summary">Недастаткова памяці на прыладзе</string>
+  <string name="micloud_manual_local_storage_low_summary_pad">Недастаткова памяці на прыладзе</string>
+  <string name="micloud_manual_local_storage_low_title">Не ўдалося сінхранізаваць</string>
+  <string name="micloud_manual_local_storage_low_title_pad">Не ўдалося сінхранізаваць</string>
   <string name="micloud_manual_network_disconnet_button_text">Праверыць налады сеткі</string>
-  <string name="micloud_manual_network_disconnet_title">Немагчыма сінхранізаваць з-за памылкі сеткі</string>
+  <string name="micloud_manual_network_disconnet_title">Не ўдалося сінхранізаваць</string>
   <string name="micloud_manual_paused">Прыпынена</string>
   <string name="micloud_manual_pausing">Сінхранізацыя спынена</string>
   <string name="micloud_manual_reactivate">Актываваць зноў</string>
@@ -1169,7 +1169,7 @@
   <string name="progress_notification_name">Загрузка плагіна</string>
   <string name="gallery_auto_sync_fail_international_noti_content">Недастаткова месца для захоўвання. Немагчыма завяршыць сінхранізацыю фатаграфій.</string>
   <string name="manual_activation">Актываваць паўторна</string>
-  <string name="micloud_manual_cloud_storage_full_international_summary">Немагчыма сінхранізаваць фатаграфіі і кантакты.</string>
+  <string name="micloud_manual_cloud_storage_full_international_summary">Воблачнае сховішча запоўнена</string>
   <string name="privacy_policy_revoked_btn_msg">Зразумела</string>
   <string name="privacy_policy_revoked_msg_contains_manual_activation">Вы адклікалі сваю згоду з Палітыкай прыватнасці Воблака Xiaomi, і ўсе вашы дадзеныя, якія захоўваюцца ў воблаку, былі ачышчаны. Каб зноў выкарыстаць гэтую службу, пагадзіцеся з Палітыкай прыватнасці на сайце i.mi.com. У мэтах бяспекі вы можаце актываваць уліковы запіс толькі адзін раз у дзень.</string>
   <string name="calendar_sync_item_permission">каляндар</string>
@@ -1360,8 +1360,8 @@
   <string name="sync_on_success">Уключана паспяхова</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
   <string name="device_activation_card_cannot_get_yet_new">Немагчыма атрымаць інфармацыю. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
-  <string name="device_activation_card_description_china_new">"Першая актывацыя рэгіструецца пры першым падлучэнні прылады да сеткі (уключаючы, апроч іншага, сеткі Wi-Fi і мабільныя сеткі). Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць ад &lt;xliff:g id=days referto=3>%1$d&lt;/xliff:g> да &lt;xliff:g id=days referto=5>%2$d&lt;/xliff:g> дзён пасля падлучэння да сеткі, перш чым правяраць статус актывацыі. &lt;br>&lt;br Актывацыя прылады — асноўны фактар, які вызначае тэрмін дзеяння нашай пашыранай гарантыі. Азнаёмцеся з нашай &lt;a href=%3$s>Палітыкай вяртання, абмену і рамонту&lt;/a> для атрымання больш падрабязнай інфармацыі.&lt;br>&lt;br>Калі ў вас ёсць пытанні, патэлефануйце на нашу гарачую лінію падтрымкі кліентаў: 400-100-5678."</string>
-  <string name="device_activation_card_description_new">Першая актывацыя рэгіструецца пры першым падлучэнні прылады да сеткі (уключаючы, апроч іншага, сеткі Wi-Fi і мабільныя сеткі). Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць ад &lt;xliff:g id=days referto=3>%1$d&lt;/xliff:g> да &lt;xliff:g id=days referto=5>%2$d&lt;/xliff:g> дзён пасля падлучэння да сеткі, перш чым правяраць статус актывацыі. &lt;br>&lt;br Актывацыя прылады — асноўны фактар, які вызначае тэрмін дзеяння нашай пашыранай гарантыі. Азнаёмцеся з нашай &lt;a href=%3$s>Палітыкай вяртання, абмену і рамонту&lt;/a> для атрымання больш падрабязнай інфармацыі.&lt;br>&lt;br>Калі ў вас ёсць пытанні, патэлефануйце на нашу гарачую лінію падтрымкі кліентаў: 400-100-5678.</string>
+  <string name="device_activation_card_description_china_new">Першая актывацыя рэгіструецца, калі прылада ўпершыню падключаецца да сеткі (уключаючы, але не абмяжоўваючыся Wi-Fi і мабільнымі сеткамі). Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць %1$d–%2$d дні пасля падключэння да сеткі перад праверкай статусу актывацыі.&lt;br>&lt;br>Актывацыя прылады з'яўляецца асноўным фактарам вызначэння тэрміну дзеяння пашыранай гарантыі. Азнаёмцеся з нашай &lt;a href=%3$s>Палітыкай вяртання, абмену і рамонту&lt;/a> для атрымання больш падрабязнай інфармацыі.&lt;br>&lt;br>Калі ў вас ёсць пытанні, тэлефануйце на гарачую лінію падтрымкі: 950816.</string>
+  <string name="device_activation_card_description_new">Першая актывацыя рэгіструецца, калі прылада ўпершыню падключаецца да сеткі (уключаючы, але не абмяжоўваючыся Wi-Fi і мабільнымі сеткамі). Звычайна рэгістрацыя першай актывацыі займае некаторы час, таму лепш пачакаць %1$d–%2$d дні пасля падключэння да сеткі перад праверкай статусу актывацыі.&lt;br>&lt;br>Актывацыя прылады з'яўляецца асноўным фактарам вызначэння тэрміну дзеяння пашыранай гарантыі. Азнаёмцеся з нашай &lt;a href=%3$s>Палітыкай вяртання, абмену і рамонту&lt;/a> для атрымання больш падрабязнай інфармацыі.&lt;br>&lt;br>Калі ў вас ёсць пытанні, тэлефануйце на гарачую лінію падтрымкі: 950816.</string>
   <string name="micloud_all_sub_resend_common_sms_with_charge_hint_v2">"Для ўключэння сэрвісаў Воблака Xiaomi будзе аўтаматычна адпраўлена &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платнае SMS&lt;/b>&lt;/font>.&lt;br/>Пры замене SIM-карт для паўторнай актывацыі будзе аўтаматычна адпраўлена &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платнае SMS&lt;/b>&lt;/font>.&lt;br/>Усе выдаткі на SMS, звязаныя з вышэйпералічанымі дзеяннямі, спаганяюцца вашым аператарам. Xiaomi не спаганяе плату за гэтыя паведамленні."</string>
   <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint_v2">"Для ўключэння сэрвісаў Воблака Xiaomi будзе аўтаматычна адпраўлена &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платнае ўнутрыдзяржаўнае SMS&lt;/b>&lt;/font>.&lt;br/>Пры замене SIM-карт для паўторнай актывацыі будзе аўтаматычна адпраўлена &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платнае ўнутрыдзяржаўнае SMS&lt;/b>&lt;/font>.&lt;br/>Усе выдаткі на SMS, звязаныя з вышэйпералічанымі дзеяннямі, спаганяюцца вашым аператарам. Xiaomi не спаганяе плату за гэтыя паведамленні."</string>
   <string name="micloud_all_sub_resend_inter_sms_with_charge_hint_v2">"Для ўключэння сэрвісаў Воблака Xiaomi будзе аўтаматычна адпраўлена &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платнае міжнароднае SMS&lt;/b>&lt;/font>.&lt;br/>Пры замене SIM-карт для паўторнай актывацыі будзе аўтаматычна адпраўлена &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платнае міжнароднае SMS&lt;/b>&lt;/font>.&lt;br/>Усе выдаткі на SMS, звязаныя з вышэйпералічанымі дзеяннямі, спаганяюцца вашым аператарам. Xiaomi не спаганяе плату за гэтыя паведамленні."</string>
@@ -1397,4 +1397,5 @@
   <string name="micloud_membership_level_gold">Прэміум падпіска</string>
   <string name="micloud_membership_level_platinum">Мега падпіска</string>
   <string name="privacy_runtime_perm_read_phone_numbers_title">Чытанне нумароў тэлефонаў</string>
+  <string name="micloud_manual_network_disconnet_summary">Памылка сеткі</string>
 </resources>

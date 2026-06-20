@@ -1977,4 +1977,5 @@
   <string name="notification_channel_subtitle_ref_sms_2">SMS на %1$s</string> 
   <string name="notification_channel_subtitle_ref_wework_2">Апавяшчэнне WeChat на %1$s</string> 
   <string name="notification_channel_subtitle_ref_xin_2">Апавяшчэнне WeChat на %1$s</string>
+  <string name="mihome_camera_device_during_call_normal">Камера выкарыстоўваецца. Пачакайце некалькі хвілін і паспрабуйце зноў.</string>
 </resources>

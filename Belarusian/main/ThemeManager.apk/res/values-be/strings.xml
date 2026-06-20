@@ -2609,4 +2609,27 @@
   <string name="rear_screen_old_device_subtitle">Спачатку спампуйце ці прымяніце шпалеры. Націсніце і ўтрымлівайце для кіравання.</string>
   <string name="rear_screen_old_device_wallpaper">Шпалеры на старой прыладзе</string>
   <string name="browse_mode_hint">Вы выкарыстоўваеце анлайн-рэжым.\nНацісніце на экран і абярыце \"Згодны\" для звычайнага выкарыстання.</string>
+  <string name="multi_sim_combined_ringtone_settings_dialog_message">Гэта налада мелодыі выкліку будзе ўжыта адначасова да SIM %1$d і SIM %2$d.</string>
+  <string name="rear_screen_smart_display_summaryrear_notifications_screen_off">Калі пярэдні дысплей выкарыстоўваецца, задні дысплей аўтаматычна выключаецца праз некаторы час для эканоміі зарада батарэі</string>
+  <string name="rear_screen_smart_display_title">Разумны дысплей</string>
+  <string name="ringtone_btn_set_ringtone">Ужыць</string>
+  <string name="ringtone_dialog_subtitle_color_ring_only">Гэты трэк можна ўсталяваць толькі як мелодыю замест гудка з-за абмежаванняў аўтарскіх правоў</string>
+  <string name="ringtone_dialog_title_select_scene">Абярыце, куды ўжыць</string>
+  <string name="ringtone_guide_dialog_subtitle">Вы і той, хто тэлефануе, будзеце чуць гэту мелодыю, калі ён вам тэлефануе</string>
+  <string name="ringtone_guide_dialog_title">Таксама ўсталяваць як мелодыю замест гудка?</string>
+  <string name="ringtone_notification_option_long_duration_hint">Апавяшчэнне — гэта мелодыя занадта доўгая, што можа паўплываць на ўспрыманне апавяшчэнняў</string>
+  <string name="ringtone_option_long_duration_hint">Гэта мелодыя занадта доўгая, што можа паўплываць на ўспрыманне апавяшчэнняў</string>
+  <string name="ringtone_option_set_alarm">Усталяваць як сігнал будзільніка</string>
+  <string name="ringtone_option_set_both">Усталяваць як мелодыю выкліку і мелодыю замест гудка</string>
+  <string name="ringtone_option_set_color_ring">Усталяваць як мелодыю замест гудка</string>
+  <string name="ringtone_option_set_notification">Усталяваць як гук апавяшчэння</string>
+  <string name="ringtone_option_set_ringtone">Усталяваць як мелодыю выкліку</string>
+  <string name="ringtone_option_set_sms">Усталяваць як гук паведамлення</string>
+  <string name="ringtone_option_subtitle_color_ring">Той, хто тэлефануе, чуе гэта, калі тэлефануе вам</string>
+  <string name="ringtone_option_subtitle_ringtone">Вы чуеце гэта, калі хтосьці тэлефануе вам</string>
+  <string name="ringtone_option_subtitle_set_both">Вы і той, хто тэлефануе, чуеце гэта</string>
+  <string name="ringtone_section_alarm">Будзільнік</string>
+  <string name="ringtone_section_notification">Апавяшчэнне</string>
+  <string name="ringtone_section_phone_call">Тэлефонны выклік</string>
+  <string name="ringtone_toast_recommend_set_both">Усталюйце як мелодыю выкліку і мелодыю замест гудка, каб і вы, і той, хто тэлефануе, маглі чуць гэту мелодыю</string>
 </resources>

@@ -1260,4 +1260,6 @@
   <string name="share_summary">Падзяліцца зводкай</string>
   <string name="summary_information_tip_below">Наступны кантэнт створаны AІ і можа ўтрымліваць недакладную інфармацыю</string>
   <string name="summary_notification_completed">Зводка створана</string>
+  <string name="airecorder_resume_status_focus_notification">Запіс адноўлены</string>
+  <string name="new_add_mark">Пазнака</string>
 </resources>

@@ -144,4 +144,16 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Пераматаць уперад на %d секунды</item>
+        <item quantity="one">Пераматаць уперад на %d секунду</item>
+        <item quantity="few">Пераматаць уперад на %d секунды</item>
+        <item quantity="many">Пераматаць уперад на %d секунд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Пераматаць назад на %d секунды</item>
+        <item quantity="one">Пераматаць назад на %d секунду</item>
+        <item quantity="few">Пераматаць назад на %d секунды</item>
+        <item quantity="many">Пераматаць назад на %d секунд</item>
+    </plurals>
 </resources>

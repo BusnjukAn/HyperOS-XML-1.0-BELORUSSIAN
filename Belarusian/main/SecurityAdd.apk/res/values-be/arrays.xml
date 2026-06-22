@@ -27,4 +27,39 @@
         <item>Самы высокі</item>
         <item>Па змаўчанні</item>
     </string-array>
+    <string-array name="data_net_usage_number">
+        <item>Без абмежаванняў</item>
+        <item>100 МБ</item>
+        <item>200 МБ</item>
+        <item>500 МБ</item>
+        <item>Наладзіць</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25</item>
+        <item>0,5</item>
+        <item>0,75</item>
+        <item>Звычайная</item>
+        <item>1,25</item>
+        <item>1,5</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gs_performance_gpu_custom_fps_marks">
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>Па змаўчанні</item>
+    </string-array>
+    <string-array name="parent_center_item_array">
+        <item>Кіраванне праграмамі</item>
+        <item>Кіраванне часам</item>
+        <item>Сеткавыя налады</item>
+        <item>Абарона</item>
+        <item>Рэжым абароны вачэй</item>
+        <item>Дадатковыя налады</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Мужчынскі</item>
+        <item>Жаночы</item>
+    </string-array>
 </resources>

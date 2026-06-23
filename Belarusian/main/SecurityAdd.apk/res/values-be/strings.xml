@@ -1425,7 +1425,6 @@
   <string name="srl_header_release">Адпусціце для абнаўлення</string>
   <string name="srl_header_secondary">Адпусціце для другога ўзроўню</string>
   <string name="srl_header_update">Апошняе абнаўленне d.M HH:mm</string>
-  <string name="status_bar_notification_info_overflow">>999</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Нядзеля</string>
   <string name="sunday_short">Ндз</string>

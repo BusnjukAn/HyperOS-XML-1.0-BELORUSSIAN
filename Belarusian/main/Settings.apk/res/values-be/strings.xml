@@ -6382,7 +6382,7 @@
   <string name="ota_disable_automatic_update_summary">Ужыць абнаўленні падчас перазапуску прылады</string>
   <string name="otg_button">OTG</string>
   <string name="otg_closed">Адкл.</string>
-  <string name="otg_new_tip">"Гэтая функцыя дазваляе падлучацца да прылад Type-C і зараджаць іх. Калі падлучаныя навушнiкі, USB-назапашвальнікі ці іншыя прылады не распазнаюцца, уключыце перамыкач OTG. Ён аўтаматычна адключыцца пасля %d хвілін бяздзейнасці."</string>
+  <string name="otg_new_tip">Гэтая функцыя дазваляе падлучацца да прылад з раздымам Type-C і зараджаць іх. Функцыя аўтаматычна адключыцца пасля %d хв. бяздзейнасці.</string>
   <string name="otg_opened">Укл.</string>
   <string name="otg_settings">OTG</string>
   <string name="otg_tip">USB On-The-Go дазваляе USB-назапашвальнікам і партатыўным клавіятурам падлучацца да вашай мабільнай прылады і абменьвацца дадзенымі. \n\nnOTG аўтаматычна адключаецца праз 10 хвілін бяздзейнасці.</string>

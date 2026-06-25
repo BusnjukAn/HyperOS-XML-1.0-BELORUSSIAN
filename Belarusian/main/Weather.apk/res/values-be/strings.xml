@@ -841,4 +841,5 @@
   <string name="typhoon_wind_pressures">Цэнтральны ціск</string>
   <string name="typhoon_wind_speeds">Хуткасць ветру</string>
   <string name="miuix_appcompat_action_sheet_default_message">Абярыце</string>
+  <string name="dart_sun_time_remaining_hours_minutes_3">Праз %1$s %2$s</string>
 </resources>

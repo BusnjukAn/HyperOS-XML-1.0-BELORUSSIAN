@@ -182,4 +182,27 @@
         <item>Моцны тайфун</item> 
         <item>Супертайфун</item> 
     </string-array>
+    <string-array name="dart_realtime_humidity_status">
+        <item>Суха, піце больш вады</item>
+        <item>Камфортна</item>
+        <item>Вільготна, выкарыстоўвайце асушальнік</item>
+    </string-array>
+    <string-array name="dart_realtime_temperature_status">
+        <item>Экстрэмальны холад, заставайцеся дома</item>
+        <item>Моцны мароз, абараніцеся ад абмаражэння</item>
+        <item>Марозна, апранайцеся цяплей</item>
+        <item>Холадна, апранайце дадатковыя слаі</item>
+        <item>Прахалодна, апранайцеся цяплей</item>
+        <item>Камфортна</item>
+        <item>Цёпла, астудзіцеся</item>
+        <item>Горача, піце больш вады</item>
+        <item>Экстрэмальная спякота, папярэджанне аб цеплавой хвалі</item>
+    </string-array>
+    <string-array name="dart_realtime_uv_level">
+        <item>Нізкі, сонцаахоўны крэм не патрабуецца</item>
+        <item>Умераны, выкарыстоўвайце сонцаахоўны крэм</item>
+        <item>Высокі, выкарыстоўвайце сонцаахоўны крэм</item>
+        <item>Вельмі высокі, выкарыстоўвайце сонцаахоўны крэм</item>
+        <item>Экстрэмальны, выкарыстоўвайце сонцаахоўны крэм</item>
+    </string-array>
 </resources>

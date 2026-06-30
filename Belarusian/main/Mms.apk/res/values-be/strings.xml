@@ -2015,4 +2015,8 @@
   <string name="remove_sms_block_fail">"Не атрымалася выдаліць нумар з чорнага спісу. Паўтарыце спробу."</string>
   <string name="remove_sms_block_message">Выдаліць гэты нумар з чорнага спісу?</string>
   <string name="remove_sms_block_toast">Нумар выдалены з чорнага спісу</string>
+  <string name="default_sms_permission_dismiss">Зразумела</string> 
+  <string name="default_sms_permission_go_settings">Налады</string> 
+  <string name="default_sms_permission_message">Усталюйце праграму \"Паведамленні\" у якасці праграмы для абмену тэкставымі паведамленнямі па змаўчанні, каб мець магчымасць выдаляць SMS. Гэта можна зрабіць у Наладах > Праграмы > Стандартныя праграмы > Паведамленні.</string> 
+  <string name="default_sms_permission_title">Усталяваць праграму \"Паведамленні\" у якасці праграмы па змаўчанні</string>
 </resources>

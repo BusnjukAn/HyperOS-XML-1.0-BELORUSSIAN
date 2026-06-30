@@ -178,4 +178,7 @@
   <string name="miuix_edit_dialog_fragment_empty_arg_title">Няма аргументаў</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
   <string name="timer_alert_vibrate_title">Вібраваць, калі адлік таймера скончыцца</string>
+  <string name="ringtone_permission_dialog_content">Каб мець магчымасць усталёўваць уласную мелодыю выклiка, дазвольце доступ да музычных файлаў на вашай прыладзе ў раздзеле \"Налады\" > \"Праграмы\" > \"Гадзіннік\" > \"Дазволы\".</string>
+  <string name="ringtone_permission_dialog_title">Патрабуюцца дазволы</string>
+  <string name="ringtone_permission_still_denied_toast">Спачатку дайце дазволы</string>
 </resources>

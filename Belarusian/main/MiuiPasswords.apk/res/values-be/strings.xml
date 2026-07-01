@@ -184,7 +184,7 @@
   <string name="item_view_role_description">Укладка</string>
   <string name="leaked_passwords_summary">Пароль можа быць скампраметаваны</string>
   <string name="list_page_empty_hint">Тут пакуль нічога няма</string>
-  <string name="main_page_title">Паролі</string>
+  <string name="main_page_title">Пароль</string>
   <string name="material_clock_toggle_content_description">Абярыце ДП (да паўдня) ці ПП (пасля паўдня)</string>
   <string name="material_timepicker_am">ДП</string>
   <string name="material_timepicker_pm">ПП</string>
@@ -497,4 +497,17 @@
   <string name="replace_password_dialog_fallback_title">Абнавіць пароль?</string> 
   <string name="wifi_near_sync_notification_title">Сінхранізацыя пароляў Wi-Fi…</string>
   <string name="cta_permission_all_intent_for_passwords_manager">З дапамогай функцыі \"Кіраванне паролямі\" вы можаце кіраваць паролямі для ўліковых запісаў праграм. Паролі, захаваныя ў мэнэджары пароляў і Mi браўзэры, будуць аўтаматычна перанесены сюды.</string>
+  <string name="error_data_in_transfer">Сінхранізацыя завершыцца праз %s гадзін.</string> 
+  <string name="error_forbidden">Сінхранізацыя адключаная з-за праблем з вашым Xiaomi акаўнтам.</string> 
+  <string name="error_not_acceptable">Сінхранізацыя адключана.</string> 
+  <string name="error_title">Немагчыма сінхранізаваць</string> 
+  <string name="error_unauthorized">Сінхранізацыя адключаная з-за занадта вялікай колькасці спроб уваходу.</string> 
+  <string name="miuix_popup_show_description">Усплывальнае акно</string> 
+  <string name="security_chip_confirm">Зразумела</string> 
+  <string name="security_chip_data_protect">Дадзеныя абаронены спецыяльным абароненым чыпам</string> 
+  <string name="security_chip_double_cert">Выкарыстоўвае абаронены чып, сертыфікаваны як па міжнародных стандартах, так і па нацыянальных стандартах, што дапамагае супрацьстаяць фізічнаму ўздзеянню атакі.</string> 
+  <string name="security_chip_hardware_encrypt">Апаратнае шыфраванне</string> 
+  <string name="security_chip_root_key_protect">Карнявыя ключы абаронены спецыяльным абароненым чыпам і недаступныя для сістэмы або іншых праграм</string> 
+  <string name="security_chip_safe_box">Апаратнае абароненае сховішча</string> 
+  <string name="security_chip_title">Абаронены чып</string>
 </resources>

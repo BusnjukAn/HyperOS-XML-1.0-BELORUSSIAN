@@ -1342,4 +1342,16 @@
         <item>Усе прылады і функцыі Bluetooth будуць адключаныя</item>
         <item>Некаторыя сістэмныя службы працягнуць выкарыстоўваць Bluetooth</item>
     </string-array>
+    <string-array name="shade_display_awareness_entries">
+        <item>Толькі дысплэй прылады (па змаўчанні)</item>
+        <item>Знешні дысплэй</item>
+        <item>Апошняе націсканне на панэль стану</item>
+        <item>У залежнасці ад выкарыстання</item>
+    </string-array>
+    <string-array name="shade_display_awareness_summaries">
+        <item>Паказваць панэль толькі на дысплэі прылады</item>
+        <item>Паказваць панэль апавяшчэнняў на адным знешнім дысплэі</item>
+        <item>Паказваць панэль апавяшчэнняў на дысплэі, на якім адбывалася апошняе ўзаемадзеянне з панэллю стану</item>
+        <item>Паказваць панэль апавяшчэнняў на дысплэі, які выкарыстоўваўся апошнім</item>
+    </string-array>
 </resources>

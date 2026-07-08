@@ -253,4 +253,13 @@
         <item>Пароль абароны прыватнасці</item>
         <item>Блакаванне экрана</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Збалансавана</item>
+        <item>Высокая якасць</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Высокая хуткасць</item>
+        <item>Збалансавана</item>
+        <item>Высокая якасць</item>
+    </string-array>
 </resources>

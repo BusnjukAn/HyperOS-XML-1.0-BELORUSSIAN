@@ -125,4 +125,10 @@
   <string name="hot_news_load_no_content">Тут нічога няма</string>
   <string name="hot_news_load_without_internet">Не атрымалася падлучыцца да сеткі</string>
   <string name="hot_news_retry">Паспрабаваць зноў</string>
+  <string name="hot_news_channel_exchange_tab_done">Паспяхова пераўпарадкавана</string>
+  <string name="hot_news_channel_exchange_tab_loading">Пераўпарадкаванне…</string>
+  <string name="hot_news_channel_exchange_tab_subtitle">Націсніце і ўтрымлівайце, а затым перацягніце, каб змяніць парадак</string>
+  <string name="hot_news_channel_exchange_tab_title">Пераўпарадкаваць</string>
+  <string name="search_result_more_title">Падайце дазволы для атрымання дадатковых вынікаў</string>
+  <string name="search_result_open_permission">Налады</string>
 </resources>

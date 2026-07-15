@@ -439,7 +439,7 @@
   <string name="find_second_guide_open_dialog_button_cancel">Адмена</string>
   <string name="find_second_guide_open_dialog_button_cancel_open">Уключыць</string>
   <string name="find_second_guide_open_dialog_message">Уключыце гэтую функцыю, каб вызначаць месцазнаходжанне, блакаваць прыладу або ўключаць гукавы сігнал для яе пошуку.</string>
-  <string name="find_second_guide_open_dialog_title">Уключыць \"Знайсці мой тэлефон\"</string>
+  <string name="find_second_guide_open_dialog_title">Уключыць \"Знайсці маю прыладу\"</string>
   <string name="find_welcome_fragemnt_set_account_dialog_password_title">Усталяваць пароль</string>
   <string name="find_welcome_fragment_button_continue">Працягнуць</string>
   <string name="find_welcome_fragment_button_not_opne_find">Не зараз</string>

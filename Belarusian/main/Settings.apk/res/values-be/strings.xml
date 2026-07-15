@@ -13536,4 +13536,8 @@ Xiaomi нястомна стварае цудоўныя прадукты па с
   <string name="xiao_mi_hyperos_ai_ex_summary_new">Адключэнне гэтага перамыкача таксама адключыць Xiaomi Hyper XiaoAi і іншыя функцыі AI ў наладах</string>
   <string name="back_strap_title_tip">Уключыце, каб атрымліваць персаналізаваныя абвесткі ў розных сцэнарах</string> 
   <string name="light_camera_state_summary_new">Уключыць святлодыёднае падсвятленне пры здымцы з таймерам або серыйнай здымцы</string>
+  <string name="eyes_protect_certification_summary_10">Нізкі ўзровень сіняга святла (апаратнае рашэнне) і цыркадная дружалюбнасць</string>
+  <string name="eyes_protect_certification_title_10">Падвойная сертыфікацыя TÜV Rheinland Eye Comfort</string>
+  <string name="fan_smart_stop_on_recording">Прыпыняць падчас запісу гуку</string>
+  <string name="fan_smart_stop_on_recording_summary">Паменшыць шум вентылятара падчас выклiкаў, запісу аўдыё і відэа. Не ўжываецца да гульняў.</string>
 </resources>

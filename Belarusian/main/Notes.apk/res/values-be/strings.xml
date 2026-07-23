@@ -1889,4 +1889,5 @@
   <string name="save_bitmap_done_toast">Захавана ў Галерэі</string>
   <string name="save_bitmap_fail_toast">Не атрымалася загрузіць. Паспрабуйце зноў.</string>
   <string name="save_to_pictures">Захаваць у Галерэю</string>
+  <string name="ai_feature_retry">Паспрабаваць ізноў</string>
 </resources>

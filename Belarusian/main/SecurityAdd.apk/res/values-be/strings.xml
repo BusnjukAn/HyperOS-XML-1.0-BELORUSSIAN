@@ -1795,4 +1795,14 @@
   <string name="widget_style_mode_icon">Рэжым абразка</string>
   <string name="widget_style_mode_widget">Рэжым віджэта</string>
   <string name="widget_title_global_games">Міні-гульні з усяго свету</string>
+  <string name="crash_escape_btn_close">Закрыць</string> 
+  <string name="crash_escape_btn_confirm">Пацвердзіць</string> 
+  <string name="crash_escape_btn_keep">Захаваць</string> 
+  <string name="crash_escape_msg">Немагчыма запусціць Гульнявую прастору. Перазапусціце і паспрабуйце зноў.</string> 
+  <string name="crash_escape_msg_with_storage">Запуск гульнявой прасторы не атрымаўся. Рэжым захоўвання захаваны.</string> 
+  <string name="crash_escape_title">Памылка запуску Гульнявой прасторы</string> 
+  <string name="plugin_fallback_btn_restart">Перазапусціць</string> 
+  <string name="plugin_fallback_msg">Немагчыма загрузіць кампаненты Гульнявой прасторы. Перазапусціце і паспрабуйце зноў.</string> 
+  <string name="plugin_fallback_title">Гульнявая прастора</string> 
+  <string name="plugin_load_fallback_toast">Памылка загрузкі старонкі выпраўлена аўтаматычна. Калі ласка, завяршыце працэс і паспрабуйце зноў.</string>
 </resources>

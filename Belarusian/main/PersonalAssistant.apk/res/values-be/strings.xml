@@ -2047,4 +2047,6 @@
   <string name="pa_express_widget_4x2_logout_subtitle">Дадайце нумар тэлефона для праверкі інфармацыі аб дастаўцы</string> 
   <string name="pa_express_widget_4x2_logout_title">Напаміны аб дастаўцы</string> 
   <string name="pa_express_widget_bind_phone">Дадаць</string>
+  <string name="pa_app_recommend_menu_title">Не прапаноўваць %s</string> 
+  <string name="pa_widget_menu_edit_city">Абярыце месцазнаходжанне</string>
 </resources>

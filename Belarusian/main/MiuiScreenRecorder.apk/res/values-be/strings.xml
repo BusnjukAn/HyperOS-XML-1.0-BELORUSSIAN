@@ -336,4 +336,5 @@
   <string name="cancel">Забараніць</string>
   <string name="candraw_overlays_permission_text">Дазвольце праграме праграме \"Запіс экрана\" паказваць элементы паверх іншых праграм. Вы можаце даць гэты дазвол у Наладах.</string>
   <string name="to_open">Налады</string>
+  <string name="recording_saving_wait_toast">Захаванне відэа…</string>
 </resources>

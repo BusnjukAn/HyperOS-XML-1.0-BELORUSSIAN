@@ -2632,4 +2632,10 @@
   <string name="ringtone_section_notification">Апавяшчэнне</string>
   <string name="ringtone_section_phone_call">Тэлефонны выклік</string>
   <string name="ringtone_toast_recommend_set_both">Усталюйце як мелодыю выкліку і мелодыю замест гудка, каб і вы, і той, хто тэлефануе, маглі чуць гэту мелодыю</string>
+  <string name="kuyin_auth_btn_login">Увайсці</string> 
+  <string name="kuyin_auth_btn_switch_phone">Дадатковыя параметры</string> 
+  <string name="kuyin_auth_protocol_text"><Data>"Я прачытаў і згодны з &lt;a href=\"%1$s\">Пагадненнем карыстальніка Xiaom акаунтаi&lt;/a> і &lt;a href=\"%2$s\">Палітыкай прыватнасці Xiaomi акаўнта&lt;/a>."</Data></string> 
+  <string name="kuyin_auth_subtitle">Гэты сэрвіс запытвае доступ да нумара тэлефона, звязанага з вашым акаўнтам</string> 
+  <string name="kuyin_auth_title">Дазволіць доступ</string> 
+  <string name="kuyin_auth_toast_need_agree">Спачатку пагадзіцеся з нашымі ўмовамі і палажэннямі</string>
 </resources>

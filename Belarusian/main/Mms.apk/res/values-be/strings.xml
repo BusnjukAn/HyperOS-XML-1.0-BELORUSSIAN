@@ -2019,4 +2019,5 @@
   <string name="default_sms_permission_go_settings">Налады</string> 
   <string name="default_sms_permission_message">Усталюйце праграму \"Паведамленні\" у якасці праграмы для абмену тэкставымі паведамленнямі па змаўчанні, каб мець магчымасць выдаляць SMS. Гэта можна зрабіць у Наладах > Праграмы > Стандартныя праграмы > Паведамленні.</string> 
   <string name="default_sms_permission_title">Усталяваць праграму \"Паведамленні\" у якасці праграмы па змаўчанні</string>
+  <string name="emergency_alert_history_records">Гісторыя абвестак аб надзвычайных сітуацыях</string>
 </resources>

@@ -1875,8 +1875,8 @@
   <string name="export_fail">Не атрымалася экспартаваць</string>
   <string name="export_page_close">Адмена</string>
   <string name="export_preview_loading">Стварэнне папярэдняга прагляду…</string>
-  <string name="export_share_image">Экспарт як выява</string>
-  <string name="export_share_pdf">Экспарт як PDF</string>
+  <string name="export_share_image">Экспартаваць як выяву</string>
+  <string name="export_share_pdf">Экспартаваць як PDF</string>
   <string name="import_image_long_error">Гэта выява занадта доўгая. Паспрабуйце іншую.</string>
   <string name="import_pick_pdf_error">Абярыце PDF-файл</string>
   <string name="local_re_draw">Частковая перамалёўка</string>

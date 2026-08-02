@@ -1076,9 +1076,7 @@
   <string name="backup_suspend_summary_phone">Злучэнне страчана. Як толькі ваш тэлефон падлучыцца да той жа сеткі, што і SmartStorage, рэзервовае капіяванне аднавіцца аўтаматычна.</string>
   <string name="backup_suspend_title">Рэзервовае капіяванне прыпынена. Паўторнае падлучэнне…</string>
   <string name="backup_tab">Стварыць рэзервовую копію</string>
-  <string name="backup_tips_dialog_summary" formatted="false">"%d. Кланаваныя праграмы і асабістыя элементы не падтрымліваюцца.
-%d. Гэта рэзервовая копія ўключае толькі дадзеныя на бягучы момант. Новыя дадзеныя не будуць уключаны.
-%d. Памер абраных дадзеных для рэзервовага капіявання: %s. Для аднаўлення патрабуецца як мінімум удвая больш свабоднага месца, якое будзе аўтаматычна вызвалена пасля завяршэння аднаўлення."</string>
+  <string name="backup_tips_dialog_summary" formatted="false">>Кланаваныя праграмы і асабістыя элементы не падтрымліваюцца. Гэта рэзервовая копія ўключае толькі дадзеныя на бягучы момант. Новыя дадзеныя не будуць уключаны.</string>
   <string name="backup_tips_dialog_title">Майце на ўвазе</string>
   <string name="continue_restore_button">Працягнуць</string>
   <string name="miuix_appcompat_show_dialog_description">Усплывальнае акно</string>
@@ -1092,8 +1090,8 @@
   <string name="nas_backup_title">SmartStorage</string>
   <string name="nas_cancel_button">Скасаваць</string>
   <string name="nas_connecting_progress_dialog">Падлучэнне да SmartStorage…</string>
-  <string name="nas_disconnect_dialog_summary_pad" formatted="false">Каб выкарыстоўваць SmartStorage для рэзервовага капіявання і аднаўлення, пераканайцеся:\n%d. Прылада SmartStorage падлучана да Інтэрнэту.\n%d. Сетка стабільная. (Не перазагружайце і не выключайце планшэт падчас рэзервовага капіявання або аднаўлення).</string>
-  <string name="nas_disconnect_dialog_summary_phone" formatted="false">Каб выкарыстоўваць SmartStorage для рэзервовага капіявання і аднаўлення, пераканайцеся:\n%d. Прылада SmartStorage падлучана да Інтэрнэту.\n%d. Сетка стабільная. (Не перазагружайце і не выключайце тэлефон падчас рэзервовага капіявання або аднаўлення).</string>
+  <string name="nas_disconnect_dialog_summary_pad" formatted="false">Для выкарыстання SmartStorage для рэзервовага капіявання і аднаўлення пераканайцеся, што:\n%1$d. Прылада SmartStorage падлучана да сеткі.\n%2$d. Ваш планшэт падлучаны да Wi-Fi і знаходзіцца ў той жа сетцы, што і прылада SmartStorage.\n%3$d. Сетка стабільная. (Не перазагружайце і не выключайце планшэт падчас рэзервовага капіявання або аднаўлення).\n%4$d. Упэўніцеся, што функцыя міжсеткавага ўзаемадзеяння ўключана як на планшэце, так і на прыладзе SmartStorage.</string> 
+  <string name="nas_disconnect_dialog_summary_phone" formatted="false">Для выкарыстання SmartStorage для рэзервовага капіявання і аднаўлення пераканайцеся, што:\n%1$d. Прылада SmartStorage падлучана да сеткі.\n%2$d. Ваш тэлефон падключаны да Wi-Fi і знаходзіцца ў той жа сетцы, што і прылада SmartStorage.\n%3$d. Сетка стабільная. (Не перазагружайце і не выключайце тэлефон падчас рэзервовага капіявання або аднаўлення).\n%4$d. Упэўніцеся, што функцыя міжсеткавага ўзаемадзеяння ўключана як на вашым тэлефоне, так і на прыладзе SmartStorage.</string> 
   <string name="nas_disconnect_dialog_title">Не ўдаецца падлучыцца да SmartStorage</string>
   <string name="nas_low_memory_progress_backup_summary_nas">Недастаткова месца ў SmartStorage. Вызваліце ​​месца і націсніце \"Паспрабаваць яшчэ раз\", каб аднавіць рэзервовае капіяванне.</string>
   <string name="nas_low_memory_progress_backup_summary_pad">Недастаткова месца ў памяці планшэта. Вызваліце ​​месца і націсніце \"Паспрабаваць яшчэ раз\", каб аднавіць рэзервовае капіяванне.</string>
@@ -1357,4 +1355,8 @@
   <string name="privacy_update_note_placeholder">Каб палепшыць працу рэзервовага капіявання, мы дадалі функцыю рэзервовага капіявання і аднаўлення праз Xiaomi Smart Storage. Пры выкарыстанні рэзервовага капіявання і аднаўлення праграм мы будзем прадастаўляць паслугі рэзервовага капіявання і аднаўлення даных праз Xiaomi Smart Storage.</string>
   <string name="restore_tips_dialog_summary_qq">Вы збіраецеся аднавіць дадзеныя QQ. Гэта перазапіша бягучыя дадзеныя QQ дадзенымі з рэзервовай копіі ад %s. Гэта дзеянне нельга адмяніць. Будзьце асцярожныя.</string>
   <string name="restore_tips_dialog_summary_qq_wechat">Вы збіраецеся аднавіць дадзеныя QQ і WeChat. Гэта перазапіша бягучыя дадзеныя QQ і WeChat дадзенымі з рэзервовай копіі ад %s. Гэта дзеянне нельга адмяніць. Будзьце асцярожныя.</string>
+  <string name="backup_tips_dialog_summary_nas">%1$d. Кланаваныя праграмы і асабістыя элементы не падтрымліваюцца.\n%2$d. Гэтая рэзервовая копія ўключае толькі дадзеныя, створаныя да пачатку рэзервовага капіравання. Новыя дадзеныя, дададзеныя пазней, не будуць уключаны.\n%3$d. Вы абралі %4$s дадзеных для рэзервовага капіявання. Для аднаўлення патрабуецца як мінімум у %5$d разоў больш вольнага месца, якое будзе аўтаматычна вызвалена пасля завяршэння аднаўлення.</string> 
+  <string name="nas_restore_notification_title">Аднаўленне гісторыі WeChat з Xiaomi SmartStorage…</string> 
+  <string name="nas_split_check_fail">Памылка праверкі. Стварыце рэзервовую копію зноў.</string> 
+  <string name="nas_split_check_item_fail">Памылка праверкі</string>
 </resources>

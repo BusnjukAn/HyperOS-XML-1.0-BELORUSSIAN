@@ -1076,7 +1076,7 @@
   <string name="backup_suspend_summary_phone">Злучэнне страчана. Як толькі ваш тэлефон падлучыцца да той жа сеткі, што і SmartStorage, рэзервовае капіяванне аднавіцца аўтаматычна.</string>
   <string name="backup_suspend_title">Рэзервовае капіяванне прыпынена. Паўторнае падлучэнне…</string>
   <string name="backup_tab">Стварыць рэзервовую копію</string>
-  <string name="backup_tips_dialog_summary" formatted="false">>Кланаваныя праграмы і асабістыя элементы не падтрымліваюцца. Гэта рэзервовая копія ўключае толькі дадзеныя на бягучы момант. Новыя дадзеныя не будуць уключаны.</string>
+  <string name="backup_tips_dialog_summary">Кланаваныя праграмы і асабістыя элементы не падтрымліваюцца. Гэта рэзервовая копія ўключае толькі дадзеныя на бягучы момант. Новыя дадзеныя не будуць уключаны.</string>
   <string name="backup_tips_dialog_title">Майце на ўвазе</string>
   <string name="continue_restore_button">Працягнуць</string>
   <string name="miuix_appcompat_show_dialog_description">Усплывальнае акно</string>
@@ -1090,8 +1090,8 @@
   <string name="nas_backup_title">SmartStorage</string>
   <string name="nas_cancel_button">Скасаваць</string>
   <string name="nas_connecting_progress_dialog">Падлучэнне да SmartStorage…</string>
-  <string name="nas_disconnect_dialog_summary_pad" formatted="false">Для выкарыстання SmartStorage для рэзервовага капіявання і аднаўлення пераканайцеся, што:\n%1$d. Прылада SmartStorage падлучана да сеткі.\n%2$d. Ваш планшэт падлучаны да Wi-Fi і знаходзіцца ў той жа сетцы, што і прылада SmartStorage.\n%3$d. Сетка стабільная. (Не перазагружайце і не выключайце планшэт падчас рэзервовага капіявання або аднаўлення).\n%4$d. Упэўніцеся, што функцыя міжсеткавага ўзаемадзеяння ўключана як на планшэце, так і на прыладзе SmartStorage.</string> 
-  <string name="nas_disconnect_dialog_summary_phone" formatted="false">Для выкарыстання SmartStorage для рэзервовага капіявання і аднаўлення пераканайцеся, што:\n%1$d. Прылада SmartStorage падлучана да сеткі.\n%2$d. Ваш тэлефон падключаны да Wi-Fi і знаходзіцца ў той жа сетцы, што і прылада SmartStorage.\n%3$d. Сетка стабільная. (Не перазагружайце і не выключайце тэлефон падчас рэзервовага капіявання або аднаўлення).\n%4$d. Упэўніцеся, што функцыя міжсеткавага ўзаемадзеяння ўключана як на вашым тэлефоне, так і на прыладзе SmartStorage.</string> 
+  <string name="nas_disconnect_dialog_summary_pad">Для выкарыстання SmartStorage для рэзервовага капіявання і аднаўлення пераканайцеся, што:\n%1$d. Прылада SmartStorage падлучана да сеткі.\n%2$d. Ваш планшэт падлучаны да Wi-Fi і знаходзіцца ў той жа сетцы, што і прылада SmartStorage.\n%3$d. Сетка стабільная. (Не перазагружайце і не выключайце планшэт падчас рэзервовага капіявання або аднаўлення).\n%4$d. Упэўніцеся, што функцыя міжсеткавага ўзаемадзеяння ўключана як на планшэце, так і на прыладзе SmartStorage.</string> 
+  <string name="nas_disconnect_dialog_summary_phone">Для выкарыстання SmartStorage для рэзервовага капіявання і аднаўлення пераканайцеся, што:\n%1$d. Прылада SmartStorage падлучана да сеткі.\n%2$d. Ваш тэлефон падключаны да Wi-Fi і знаходзіцца ў той жа сетцы, што і прылада SmartStorage.\n%3$d. Сетка стабільная. (Не перазагружайце і не выключайце тэлефон падчас рэзервовага капіявання або аднаўлення).\n%4$d. Упэўніцеся, што функцыя міжсеткавага ўзаемадзеяння ўключана як на вашым тэлефоне, так і на прыладзе SmartStorage.</string> 
   <string name="nas_disconnect_dialog_title">Не ўдаецца падлучыцца да SmartStorage</string>
   <string name="nas_low_memory_progress_backup_summary_nas">Недастаткова месца ў SmartStorage. Вызваліце ​​месца і націсніце \"Паспрабаваць яшчэ раз\", каб аднавіць рэзервовае капіяванне.</string>
   <string name="nas_low_memory_progress_backup_summary_pad">Недастаткова месца ў памяці планшэта. Вызваліце ​​месца і націсніце \"Паспрабаваць яшчэ раз\", каб аднавіць рэзервовае капіяванне.</string>

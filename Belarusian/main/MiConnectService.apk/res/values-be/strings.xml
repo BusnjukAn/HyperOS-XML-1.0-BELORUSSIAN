@@ -269,4 +269,15 @@
   <string name="bind_continuity_service_description">Дазволіць гэтй праграме выкарыстоўваць канфігурацыю ўзаемазвязанасці?</string> 
   <string name="bind_continuity_service_internal">Адкрыць гэту праграму праз канфігурацыю ўзаемазвязанасці</string> 
   <string name="bind_continuity_service_internal_description">Дазволіць узаемазвязанасці адкрываць гэту праграму, выкарыстоўваючы яе канфігурацыю?</string>
+  <string name="copy">Капіяваць</string> 
+  <string name="expand_button_title">Пашыраныя налады</string> 
+  <string name="fmt_chinese_date">N e</string> 
+  <string name="miuix_appcompat_edit">Рэдагаваць</string> 
+  <string name="not_set">Не зададзена</string> 
+  <string name="receive_endpoint">Выкарыстоўваць узаемазвязанасць</string> 
+  <string name="receive_endpoint_description">Дазволіць гэтай праграме выкарыстоўваць узаемазвязанасць?</string> 
+  <string name="receive_nfc_notification">Атрымліваць падзеі NFC</string> 
+  <string name="receive_nfc_notification_description">Дазволіць гэтай праграме атрымліваць падзеі NFC?</string> 
+  <string name="static_bind_service_based_on_idm">Выкарыстоўваць канфігурацыю ўзаемазвязанасці</string> 
+  <string name="static_bind_service_based_on_idm_description">Дазволіць гэтай праграме выкарыстоўваць канфігурацыю ўзаемазвязанасці?</string>
 </resources>

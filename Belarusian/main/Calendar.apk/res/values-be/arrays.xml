@@ -97,8 +97,8 @@
     <item>Неадкладна абнавіць канфігурацыю сервера</item>
   </string-array>
   <string-array name="fortune_gender">
-        <item>Мужчына</item>
-        <item>Жанчына</item>
+    <item>Мужчынскі</item>
+    <item>Жаночы</item>
   </string-array>
   <string-array name="gemini_info">
     <item>gemini</item>
@@ -512,27 +512,14 @@
           <item>Індыйскі каляндар</item>
           <item>Будысцкі каляндар</item>
      </string-array>
-     <string-array name="passport_account_user_gender_name">
-        <item>Мужчына</item>
-        <item>Жанчына</item>
-    </string-array>
-    <string-array name="week_array">
-        <item>Нядзеля</item>
-        <item>Панядзелак</item>
-        <item>Аўторак</item>
-        <item>Серада</item>
-        <item>Чацвер</item>
-        <item>Пятніца</item>
-        <item>Субота</item>
-    </string-array>
     <string-array name="week_header_name_phone_landscape">
-        <item>НД</item>
         <item>ПН</item>
         <item>АЎ</item>
         <item>СР</item>
         <item>ЧЦ</item>
         <item>ПТ</item>
         <item>СБ</item>
+        <item>НД</item>
     </string-array>
     <string-array name="year_view_week_header_name_new">
         <item>ПН</item>

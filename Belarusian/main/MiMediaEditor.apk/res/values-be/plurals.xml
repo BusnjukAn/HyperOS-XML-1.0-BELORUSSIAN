@@ -1,8 +1,233 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <plurals name="miuix_indexer_selected">
-        <item quantity="other">Абрана %1$d элементаў</item>
-        <item quantity="one">Абраны %1$d элемент</item>
-        <item quantity="few">Абрана %1$d элемента</item>
+    <plurals name="filter_images_ratio_unsupport_v2">
+        <item quantity="other">"Адфільтраваны %d аб'ектаў, якія не падтрымліваецца"</item>
+        <item quantity="one">"Адфільтраваны %d аб'ект, які не падтрымліваецца"</item>
+        <item quantity="few">"Адфільтраваны %d аб'екта, якія не падтрымліваецца"</item>
+        <item quantity="many">"Адфільтраваны %d аб'ектаў, якія не падтрымліваюцца"</item>
+    </plurals>
+    <plurals name="filter_images_unsupport_v2">
+        <item quantity="other">"Адфільтраваны %d аб'ектаў, якія не падтрымліваюцца"</item>
+        <item quantity="one">"Адфільтраваны %d аб'ект, які не падтрымліваецца"</item>
+        <item quantity="few">"Адфільтраваны %d аб'екта, якія не падтрымліваецца"</item>
+        <item quantity="many">"Адфільтраваны %d аб'ектаў, якія не падтрымліваюцца"</item>
+    </plurals>
+    <plurals name="legendary_render_notice_v2">
+        <item quantity="other">"Апрацоўка зойме каля %1$d сек. Чаканне ў фонавым рэжыме не паўплывае на апрацоўку.
+Правярайце статус у раздзеле «Нядаўнія задачы»."</item>
+        <item quantity="one">"Апрацоўка зойме каля %1$d сек. Чаканне ў фонавым рэжыме не паўплывае на апрацоўку.
+Правярайце статус у раздзеле «Нядаўнія задачы»."</item>
+        <item quantity="few">"Апрацоўка зойме каля %1$d сек. Чаканне ў фонавым рэжыме не паўплывае на апрацоўку.
+Правярайце статус у раздзеле «Нядаўнія задачы»."</item>
+        <item quantity="many">"Апрацоўка зойме каля %1$d сек. Чаканне ў фонавым рэжыме не паўплывае на апрацоўку.
+Правярайце статус у раздзеле «Нядаўнія задачы»."</item>
+    </plurals>
+    <plurals name="live_photo_remover_over_limit_2">
+        <item quantity="other">Вы можаце апрацаваць да %d задач адначасова. Пачакайце, пакуль яны будуць завершаны, перш чым дадаваць яшчэ.</item>
+        <item quantity="one">Вы можаце апрацаваць да %d задачы адначасова. Пачакайце, пакуль яны будуць завершаны, перш чым дадаваць яшчэ.</item>
+        <item quantity="few">Вы можаце апрацаваць да %d задач адначасова. Пачакайце, пакуль яны будуць завершаны, перш чым дадаваць яшчэ.</item>
+        <item quantity="many">Вы можаце апрацаваць да %d задач адначасова. Пачакайце, пакуль яны будуць завершаны, перш чым дадаваць яшчэ.</item>
+    </plurals>
+    <plurals name="live_photo_remover_over_limit_3">
+        <item quantity="other">Падтрымліваюцца толькі моманты жывога эфіру працягласцю %d сек. Выберыце іншае фота і паспрабуйце яшчэ раз.</item>
+        <item quantity="one">Падтрымліваюцца толькі моманты жывога эфіру працягласцю %d сек. Выберыце іншае фота і паспрабуйце яшчэ раз.</item>
+        <item quantity="few">Падтрымліваюцца толькі моманты жывога эфіру працягласцю %d сек. Выберыце іншае фота і паспрабуйце яшчэ раз.</item>
+        <item quantity="many">Падтрымліваюцца толькі моманты жывога эфіру працягласцю %d сек. Выберыце іншае фота і паспрабуйце яшчэ раз.</item>
+    </plurals>
+    <plurals name="mark_doodle_max_node">
+        <item quantity="other">Вы можаце дадаць да %d стыкераў</item>
+        <item quantity="one">Вы можаце дадаць да %d стыкера</item>
+        <item quantity="few">Вы можаце дадаць да %d стыкераў</item>
+        <item quantity="many">Вы можаце дадаць да %d стыкераў</item>
+    </plurals>
+    <plurals name="mark_shape_max_node">
+        <item quantity="other">Дадайце да %d фігур</item>
+        <item quantity="one">Дадайце да %d фігуры</item>
+        <item quantity="few">Дадайце да %d фігур</item>
+        <item quantity="many">Дадайце да %d фігур</item>
+    </plurals>
+    <plurals name="mark_signature_max_node">
+        <item quantity="other">Вы можаце дадаць да %d подпісаў</item>
+        <item quantity="one">Вы можаце дадаць да %d подпісы</item>
+        <item quantity="few">Вы можаце дадаць да %d подпісаў</item>
+        <item quantity="many">Вы можаце дадаць да %d подпісаў</item>
+    </plurals>
+    <plurals name="mark_text_max_node">
+        <item quantity="other">Вы можаце дадаць да %d тэкставых палёў</item>
+        <item quantity="one">Вы можаце дадаць да %d тэкставага поля</item>
+        <item quantity="few">Вы можаце дадаць да %d тэкставых палёў</item>
+        <item quantity="many">Вы можаце дадаць да %d тэкставых палёў</item>
+    </plurals>
+    <plurals name="photo_agent_ai_points_cancel_dialog_notice">
+        <item quantity="other">Вы выкарысталі %d разоў бясплатна. Усё роўна спыніць?</item>
+        <item quantity="one">Вы выкарысталі %d раз бясплатна. Усё роўна спыніць?</item>
+        <item quantity="few">Вы выкарысталі %d разы бясплатна. Усё роўна спыніць?</item>
+        <item quantity="many">Вы выкарысталі %d разоў бясплатна. Усё роўна спыніць?</item>
+    </plurals>
+    <plurals name="photo_agent_ai_points_cancel_dialog_notice_2">
+        <item quantity="other">Вы выкарысталі %d балаў бясплатна. Усё роўна спыніць?</item>
+        <item quantity="one">Вы выкарысталі %d бал бясплатна. Усё роўна спыніць?</item>
+        <item quantity="few">Вы выкарысталі %d балы бясплатна. Усё роўна спыніць?</item>
+        <item quantity="many">Вы выкарысталі %d балаў бясплатна. Усё роўна спыніць?</item>
+    </plurals>
+    <plurals name="photo_agent_ai_points_point_cost_hint">
+        <item quantity="other">Гэта будзе каштаваць %d балаў</item>
+        <item quantity="one">Гэта будзе каштаваць %d бал</item>
+        <item quantity="few">Гэта будзе каштаваць %d бала</item>
+        <item quantity="many">Гэта будзе каштаваць %d балаў</item>
+    </plurals>
+    <plurals name="photo_agent_ai_points_remaining_count">
+        <item quantity="other">%d разоў</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d разы</item>
+        <item quantity="many">%d разоў</item>
+    </plurals>
+    <plurals name="photo_agent_ai_points_total_count">
+        <item quantity="other">%d разоў</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d разы</item>
+        <item quantity="many">%d разоў</item>
+    </plurals>
+    <plurals name="photo_crop_talkback_px">
+        <item quantity="other">%d пікселяў</item>
+        <item quantity="one">%d піксель</item>
+        <item quantity="few">%d пікселя</item>
+        <item quantity="many">%d пікселяў</item>
+    </plurals>
+    <plurals name="photo_editor_livephoto_enhance_notification_complete_msg">
+        <item quantity="other">Выканана %d задач. Націсніце, каб праглядзець.</item>
+        <item quantity="one">Выканана %d задача. Націсніце, каб праглядзець.</item>
+        <item quantity="few">Выканана %d задачы. Націсніце, каб праглядзець.</item>
+        <item quantity="many">Выканана %d задач. Націсніце, каб праглядзець.</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_distortion_value">
+        <item quantity="other">Размыццё: %d</item>
+        <item quantity="one">Размыццё: %d</item>
+        <item quantity="few">Размыццё: %d</item>
+        <item quantity="many">Размыццё: %d</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_horizontal_value">
+        <item quantity="other">Па гарызанталі: %d градусаў</item>
+        <item quantity="one">Па гарызанталі: %d градус</item>
+        <item quantity="few">Па гарызанталі: %d градуса</item>
+        <item quantity="many">Па гарызанталі: %d градусаў</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Паварот: %d градусаў</item>
+        <item quantity="one">Паварот: %d градус</item>
+        <item quantity="few">Паварот: %d градуса</item>
+        <item quantity="many">Паварот: %d градусаў</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_vertical_value">
+        <item quantity="other">Па вертыкалі: %d градусаў</item>
+        <item quantity="one">Па вертыкалі: %d градус</item>
+        <item quantity="few">Па вертыкалі: %d градуса</item>
+        <item quantity="many">Па вертыкалі: %d градусаў</item>
+    </plurals>
+    <plurals name="photo_editor_video_generation_loading_page_msg">
+        <item quantity="other">Генерацыя эфектаў можа заняць %d секунд. Выхад з праграмы не паўплывае на прагрэс. Вы атрымаеце апавяшчэнне, калі ўсё будзе гатова.</item>
+        <item quantity="one">Генерацыя эфектаў можа заняць %d секунду. Выхад з праграмы не паўплывае на прагрэс. Вы атрымаеце апавяшчэнне, калі ўсё будзе гатова.</item>
+        <item quantity="few">Генерацыя эфектаў можа заняць %d секунды. Выхад з праграмы не паўплывае на прагрэс. Вы атрымаеце апавяшчэнне, калі ўсё будзе гатова.</item>
+        <item quantity="many">Генерацыя эфектаў можа заняць %d секунд. Выхад з праграмы не паўплывае на прагрэс. Вы атрымаеце апавяшчэнне, калі ўсё будзе гатова.</item>
+    </plurals>
+    <plurals name="photo_editor_video_generation_loading_page_msg_v2">
+        <item quantity="other">Гэта займае каля %d секунд. Націсніце «Пачакаць», каб працягнуць у фонавым рэжыме. Вы атрымаеце апавяшчэнне, калі гэта задача будзе завершана.</item>
+        <item quantity="one">Гэта займае каля %d секунды. Націсніце «Пачакаць», каб працягнуць у фонавым рэжыме. Вы атрымаеце апавяшчэнне, калі гэта задача будзе завершана.</item>
+        <item quantity="few">Гэта займае каля %d секунд. Націсніце «Пачакаць», каб працягнуць у фонавым рэжыме. Вы атрымаеце апавяшчэнне, калі гэта задача будзе завершана.</item>
+        <item quantity="many">Гэта займае каля %d секунд. Націсніце «Пачакаць», каб працягнуць у фонавым рэжыме. Вы атрымаеце апавяшчэнне, калі гэта задача будзе завершана.</item>
+    </plurals>
+    <plurals name="video_ai_auto_limit1">
+        <item quantity="other">Немагчыма апрацаваць больш за %d кліпаў адначасова</item>
+        <item quantity="one">Немагчыма апрацаваць больш за %d кліп адначасова</item>
+        <item quantity="few">Немагчыма апрацаваць больш за %d кліпа адначасова</item>
+        <item quantity="many">Немагчыма апрацаваць больш за %d кліпаў адначасова</item>
+    </plurals>
+    <plurals name="video_ai_auto_limit2">
+        <item quantity="other">Немагчыма апрацаваць кліпы даўжэйшыя за %d хвілін</item>
+        <item quantity="one">Немагчыма апрацаваць кліпы даўжэйшыя за %d хвіліну</item>
+        <item quantity="few">Немагчыма апрацаваць кліпы даўжэйшыя за %d хвіліны</item>
+        <item quantity="many">Немагчыма апрацаваць кліпы даўжэйшыя за %d хвілін</item>
+    </plurals>
+    <plurals name="video_editor_tip_track_limit">
+        <item quantity="other">Вы можаце дадаць да %d трэкаў</item>
+        <item quantity="one">Вы можаце дадаць да %d трэка</item>
+        <item quantity="few">Вы можаце дадаць да %d трэкаў</item>
+        <item quantity="many">Вы можаце дадаць да %d трэкаў</item>
+    </plurals>
+    <plurals name="video_tuning_audio_limit">
+        <item quantity="other">Вы можаце апрацоўваць да %1$d хв. за раз або абрэзаць відэа і паспрабаваць зноў</item>
+        <item quantity="one">Вы можаце апрацоўваць да %1$d хв. за раз або абрэзаць відэа і паспрабаваць зноў</item>
+        <item quantity="few">Вы можаце апрацоўваць да %1$d хв. за раз або абрэзаць відэа і паспрабаваць зноў</item>
+        <item quantity="many">Вы можаце апрацоўваць да %1$d хв. за раз або абрэзаць відэа і паспрабаваць зноў</item>
+    </plurals>
+    <plurals name="vlog_audio_origin_sound">
+        <item quantity="other">Зыходны гук %1$d</item>
+        <item quantity="one">Зыходны гук %1$d</item>
+        <item quantity="few">Зыходны гук %1$d</item>
+        <item quantity="many">Зыходны гук %1$d</item>
+    </plurals>
+    <plurals name="vlog_clip_cut_fail_min_time">
+        <item quantity="other">Кліпы павінны быць не менш за %1$s секунд</item>
+        <item quantity="one">Кліпы павінны быць не менш за %1$s секунду</item>
+        <item quantity="few">Кліпы павінны быць не менш за %1$s секунды</item>
+        <item quantity="many">Кліпы павінны быць не менш за %1$s секунд</item>
+    </plurals>
+    <plurals name="vlog_filter_audio_unsupport_audio_file">
+        <item quantity="other">Адфільтраваныя %d файлаў, якія не падтрымліваюцца</item>
+        <item quantity="one">Адфільтраваны %d файл, які не падтрымліваецца</item>
+        <item quantity="few">Адфільтраваныя %d файлы, якія не падтрымліваюцца</item>
+        <item quantity="many">Адфільтраваныя %d файлаў, якія не падтрымліваюцца</item>
+    </plurals>
+    <plurals name="vlog_filter_diy_lut_import_success_toast">
+        <item quantity="other">%1$d фільтраў паспяхова імпартаваны</item>
+        <item quantity="one">%1$d фільтр паспяхова імпартаваны</item>
+        <item quantity="few">%1$d фільтра паспяхова імпартаваны</item>
+        <item quantity="many">%1$d фільтраў паспяхова імпартаваны</item>
+    </plurals>
+    <plurals name="vlog_filter_no_support_nums">
+        <item quantity="other">"Адфільтраваны %d аб'ектаў, якія не падтрымліваюцца"</item>
+        <item quantity="one">"Адфільтраваны %d аб'ект, які не падтрымліваецца"</item>
+        <item quantity="few">"Адфільтраваны %d аб'екта, якія не падтрымліваюцца"</item>
+        <item quantity="many">"Адфільтраваны %d аб'ектаў, якія не падтрымліваюцца"</item>
+    </plurals>
+    <plurals name="vlog_generate_loading_notice2">
+        <item quantity="other">Засталося каля %s хвілін. Тым часам вы можаце працягваць карыстацца іншымі функцыямі.</item>
+        <item quantity="one">Засталося каля %s хвіліны. Тым часам вы можаце працягваць карыстацца іншымі функцыямі.</item>
+        <item quantity="few">Засталося каля %s хвіліны. Тым часам вы можаце працягваць карыстацца іншымі функцыямі.</item>
+        <item quantity="many">Засталося каля %s хвілін. Тым часам вы можаце працягваць карыстацца іншымі функцыямі.</item>
+    </plurals>
+    <plurals name="vlog_import_minutes_limit">
+        <item quantity="other">"Працягласць перавышае %d хв. "</item>
+        <item quantity="one">"Працягласць перавышае %d хв. "</item>
+        <item quantity="few">"Працягласць перавышае %d хв. "</item>
+        <item quantity="many">"Працягласць перавышае %d хв. "</item>
+    </plurals>
+    <plurals name="vlog_import_minutes_no_support_nums">
+        <item quantity="other">"Адфільтраваны %d аб'ектаў, якія не падтрымліваюцца"</item>
+        <item quantity="one">"Адфільтраваны %d аб'ект, які не падтрымліваецца"</item>
+        <item quantity="few">"Адфільтраваны %d аб'екта, якія не падтрымліваюцца"</item>
+        <item quantity="many">"Адфільтраваны %d аб'ектаў, якія не падтрымліваюцца"</item>
+    </plurals>
+    <plurals name="vlog_no_support_duration">
+        <item quantity="other">Не атрымалася імпартаваць. Працягласць перавышае %d хв.</item>
+        <item quantity="one">Не атрымалася імпартаваць. Працягласць перавышае %d хв.</item>
+        <item quantity="few">Не атрымалася імпартаваць. Працягласць перавышае %d хв.</item>
+        <item quantity="many">Не атрымалася імпартаваць. Працягласць перавышае %d хв.</item>
+    </plurals>
+    <plurals name="vlog_talkback_crop_scale_value">
+        <item quantity="other">Паварот на %d градусаў</item>
+        <item quantity="one">Паварот на %d градус</item>
+        <item quantity="few">Паварот на %d градуса</item>
+        <item quantity="many">Паварот на %d градусаў</item>
+    </plurals>
+    <plurals name="vlog_template_support_count_desc">
+        <item quantity="other">%d кліпаў</item>
+        <item quantity="one">%d кліп</item>
+        <item quantity="few">%d кліпа</item>
+        <item quantity="many">%d кліпаў</item>
+    </plurals>
+	<plurals name="photo_agent_ai_points_first_sale_hint_v2">
+        <item quantity="other">Вы ўсё яшчэ можаце бясплатна стварыць яшчэ %2$d фота да %1$s</item>
+        <item quantity="one">Вы ўсё яшчэ можаце бясплатна стварыць яшчэ %2$d фота да %1$s</item>
     </plurals>
 </resources>

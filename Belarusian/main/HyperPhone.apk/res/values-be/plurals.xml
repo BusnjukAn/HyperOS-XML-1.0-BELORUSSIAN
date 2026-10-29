@@ -117,4 +117,22 @@
         <item quantity="few">"%d секунды прайшлi без падлучэння да спадарожніка.
 Вы можаце працягнуць спробы ці выйсці зараз."</item>
     </plurals>
+	<plurals name="ai_call_minute_unit">
+        <item quantity="one">%d хв.</item>
+        <item quantity="few">%d хв.</item>
+        <item quantity="many">%d хв.</item>
+        <item quantity="other">%d хв.</item>
+    </plurals>
+    <plurals name="ai_call_second_unit">
+        <item quantity="one">%d сек.</item>
+        <item quantity="few">%d сек.</item>
+        <item quantity="many">%d сек.</item>
+        <item quantity="other">%d сек.</item>
+    </plurals>
+    <plurals name="ai_call_time_format">
+        <item quantity="one">%d сек.</item>
+        <item quantity="few">%d сек.</item>
+        <item quantity="many">%d сек.</item>
+        <item quantity="other">%d сек.</item>
+    </plurals>
 </resources>

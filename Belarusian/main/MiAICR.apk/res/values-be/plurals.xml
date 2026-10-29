@@ -125,4 +125,29 @@
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
     </plurals>
+	<plurals name="aggregate_title_contact">
+        <item quantity="other">Стварыць %d кантактаў</item>
+        <item quantity="one">Стварыць %d кантакт</item>
+        <item quantity="few">Стварыць %d кантакты</item>
+    </plurals>
+    <plurals name="aggregate_title_default">
+        <item quantity="other">Знойдзена %d элементаў</item>
+        <item quantity="one">Знойдзены %d элемент</item>
+        <item quantity="few">Знойдзена %d элементы</item>
+    </plurals>
+    <plurals name="aggregate_title_document">
+        <item quantity="other">Капіяваць дадзеныя з %d пасведчанняў</item>
+        <item quantity="one">Капіяваць дадзеныя з %d пасведчання</item>
+        <item quantity="few">Капіяваць дадзеныя з %d пасведчанняў</item>
+    </plurals>
+    <plurals name="aggregate_title_flight">
+        <item quantity="other">Знайсці %d рэйсаў</item>
+        <item quantity="one">Знайсці %d рэйс</item>
+        <item quantity="few">Знайсці %d рэйсы</item>
+    </plurals>
+    <plurals name="aggregate_title_schedule">
+        <item quantity="other">Стварыць %d падзей</item>
+        <item quantity="one">Стварыць %d падзею</item>
+        <item quantity="few">Стварыць %d падзеі</item>
+    </plurals>
 </resources>

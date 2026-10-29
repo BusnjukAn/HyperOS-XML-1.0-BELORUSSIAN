@@ -1,7 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="spinner_list">
-    <item>пікс.</item>
-    <item>мм.</item>
-  </string-array>
+    <string-array name="acc_category_color_description">
+        <item>Белы</item>
+        <item>Цёмна-сіні</item>
+        <item>Светла-сіні</item>
+        <item>Чырвоны</item>
+        <item>Зялёны</item>
+        <item>Ружовы</item>
+        <item>Карычневы</item>
+        <item>Шэры</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Імпарт выявы</item>
+        <item>Празрысты фон</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Вольны час</item>
+        <item>Легкі вецер</item>
+        <item>Фантазіі</item>
+        <item>Воблака</item>
+        <item>Думкі</item>
+        <item>Пупышкі</item>
+        <item>Метамарфоза</item>
+        <item>Глыбіня</item>
+        <item>Адлюстраванні</item>
+        <item>Мінімалізм</item>
+        <item>Таямніца</item>
+        <item>Туман</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Футурыстычны геаметрычны фон</item>
+        <item>Дух гравюр старых майстроў</item>
+        <item>Пераўтварэнне фонаў у эскізы</item>
+        <item>Фоны ў стылі акварэлі</item>
+        <item>Кіберпанк рэтра</item>
+        <item>Недарэчныя вертыкальныя сегменты</item>
+        <item>Імглістае размыццё</item>
+        <item>Футурыстычнае адчуванне</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Нізкаполіганальны рэжым</item>
+        <item>Траўленне</item>
+        <item>Эскіз</item>
+        <item>Акварэль</item>
+        <item>RGB</item>
+        <item>Шторкі</item>
+        <item>Запацелае акно</item>
+        <item>Тэхналогіі</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Каляровы контур</item>
+        <item>Пункцірны контур</item>
+        <item>Флуарэсцентны контур</item>
+        <item>Каляровая цень</item>
+        <item>Электрычная хваля</item>
+        <item>Паток</item>
+        <item>Хвалі</item>
+        <item>Часцінкі</item>
+        <item>Тэкст</item>
+        <item>Крылы</item>
+        <item>Анёл</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Агульнае</item>
+        <item>Падарожжы</item>
+        <item>Праца</item>
+        <item>Дакументы</item>
+        <item>Адукацыя</item>
+        <item>Экзамены</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Сацыяльнае страхаванне</item>
+        <item>Пасведчанне аб стане здароўя</item>
+        <item>Медыцынскае страхаванне</item>
+        <item>ID</item>
+        <item>Від на жыхарства</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Адзін цунь</item>
+        <item>Два цуня</item>
+        <item>Менш за адзін цунь</item>
+        <item>Менш за два цуня</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Заява аб паступленні</item>
+        <item>Студэнцкая сетка</item>
+        <item>Вучнёўская сетка для пачатковых класаў</item>
+        <item>Профіль студэнцкай сеткі</item>
+        <item>Паступленне ў універсітэт</item>
+        <item>NCEE</item>
+        <item>Рэзюмэ</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Тэст па англійскай мове ў каледжы 1</item>
+        <item>Тэст па англійскай мове ў каледжы 2</item>
+        <item>Тэст па англійскай мове ў каледжы 3</item>
+        <item>Тэст на веданне мовы Путунхуа 1</item>
+        <item>Тэст на веданне мовы Путунхуа 2</item>
+        <item>Дыпломны тэст па англійскай мове</item>
+        <item>PET для ўніверсітэтаў</item>
+        <item>PETS узроўню 3</item>
+        <item>"Нацыянальны камп'ютэрны рэйтынгавы экзамен 1"</item>
+        <item>"Нацыянальны камп'ютэрны рэйтынгавы экзамен 2"</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Сертыфікацыя настаўнікаў пачатковых і сярэдніх школ</item>
+        <item>Сертыфікацыя настаўнікаў</item>
+        <item>Вадзіцельскае пасведчанне</item>
+        <item>Гідавы дазвол</item>
+        <item>Дазвол электроннага гіда</item>
+        <item>Нацыянальны судовы экзамен</item>
+        <item>Электронны сертыфікат канструктара першага класа</item>
+        <item>Сертыфікат канструктара другога класа</item>
+        <item>Экзамен на малодшага бухгалтара</item>
+        <item>Сертыфікаваны бухгалтар</item>
+        <item>Дазвол на працу гідам у Пекіне</item>
+        <item>Экзамен на бухгалтара сярэдняга ўзроўню</item>
+        <item>Экзамен на старшага бухгалтара</item>
+        <item>Сертыфікат па бухгалтарскай кваліфікацыі</item>
+        <item>Экзамен на сертыфікаванага бухгалтара</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>ЗША</item>
+        <item>"В'етнам"</item>
+        <item>Японія</item>
+        <item>Ганконг і Макао</item>
+        <item>Паўднёвая Карэя</item>
+        <item>Тайланд (турыстычны)</item>
+        <item>Тайланд (па прыбыцці)</item>
+        <item>Індыя</item>
+        <item>Ізраіль</item>
+        <item>Тайвань</item>
+        <item>Малайзія</item>
+        <item>Новая Зеландыя</item>
+        <item>Італія</item>
+        <item>Аргенціна</item>
+        <item>Бразілія</item>
+        <item>Ісландыя</item>
+        <item>Кенія</item>
+    </string-array>
 </resources>

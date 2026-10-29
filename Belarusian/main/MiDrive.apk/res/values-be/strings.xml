@@ -668,4 +668,16 @@
   <string name="exception_cloud_storage_is_not_enough">Недастаткова месца</string> 
   <string name="file_size_lager_than_50g">Больш, чым %d Гб</string> 
   <string name="upload_left_quota_not_enough">Не атрымалася загрузіць з-за недахопу месца ў воблачным сховішчы. Павялічце свой тарыфны план або выдаліце ​​некаторыя элементы і паспрабуйце зноўку.</string>
+  <string name="icp_record_text">Рэгістрацыйны нумар ICP: 10046444-39A</string>
+  <string name="text_input_layout_default_error">Памылка па змаўчанні</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Не ўдалося падлучыцца да Дыспетчара загрузак. Праверце стан Дыспетчара загрузак у раздзеле кіравання праграмамі.</string>
+  <string name="xiaomi_update_sdk_dialog_message">Даступная версія %1$s\nПамер: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">Даступная версія %1$s\nПамер абнаўлення (дэльта): %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_title">Даступна абнаўленне</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Назапашвальнік недаступны. Праверце SD-карту.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s КБ</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Не цяпер</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
 </resources>

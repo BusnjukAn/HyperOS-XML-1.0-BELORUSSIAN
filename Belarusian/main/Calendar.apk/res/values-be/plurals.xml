@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="anniversary_day">
-    <item quantity="other">%1$s дня</item>
+    <item quantity="other">%1$s дзён</item>
     <item quantity="one">%1$s дзень</item>
     <item quantity="few">%1$s дні</item>
     <item quantity="many">%1$s дзён</item>
@@ -25,13 +25,13 @@
     <item quantity="many">%1$s гадоў</item>
   </plurals>
   <plurals name="birthday_event_description_days_ago">
-    <item quantity="other">%1$d дня таму</item>
+    <item quantity="other">%1$d дзён таму</item>
     <item quantity="one">%1$d дзень таму</item>
     <item quantity="few">%1$d дні таму</item>
     <item quantity="many">%1$d дзён таму</item>
   </plurals>
   <plurals name="birthday_event_description_days_later">
-    <item quantity="other">Праз %1$d дня</item>
+    <item quantity="other">Праз %1$d дзён</item>
     <item quantity="one">Праз %1$d дзень</item>
     <item quantity="few">Праз %1$d дні</item>
     <item quantity="many">Праз %1$d дзён</item>
@@ -43,37 +43,37 @@
     <item quantity="many">%1$s гадоў</item>
   </plurals>
   <plurals name="countdown_day">
-    <item quantity="other">Засталося %1$s дня</item>
+    <item quantity="other">Засталося %1$s дзён</item>
     <item quantity="one">Застаўся %1$s дзень</item>
     <item quantity="few">Засталося %1$s дні</item>
     <item quantity="many">Засталося %1$s дзён</item>
   </plurals>
   <plurals name="date_calculate_days_after">
-    <item quantity="other">%1$d дня пасля</item>
+    <item quantity="other">%1$d дзён пасля</item>
     <item quantity="one">%1$d дзень пасля</item>
     <item quantity="few">%1$d дні пасля</item>
     <item quantity="many">%1$d дзён пасля</item>
   </plurals>
   <plurals name="date_calculate_days_ago">
-    <item quantity="other">%1$d дня назад</item>
-    <item quantity="one">%1$d дзень назад</item>
-    <item quantity="few">%1$d дні назад</item>
-    <item quantity="many">%1$d дзён назад</item>
+    <item quantity="other">За %1$d дзён</item>
+    <item quantity="one">За %1$d дзень</item>
+    <item quantity="few">За %1$d дні</item>
+    <item quantity="many">За %1$d дзён</item>
   </plurals>
   <plurals name="date_calculate_direction_backward">
-    <item quantity="other">%1$d дня пасля</item>
+    <item quantity="other">%1$d дзён пасля</item>
     <item quantity="one">%1$d дзень пасля</item>
     <item quantity="few">%1$d дні пасля</item>
     <item quantity="many">%1$d дзён пасля</item>
   </plurals>
   <plurals name="date_calculate_direction_forward">
-    <item quantity="other">%1$d дня назад</item>
-    <item quantity="one">%1$d дзень назад</item>
-    <item quantity="few">%1$d дні назад</item>
-    <item quantity="many">%1$d дзён назад</item>
+    <item quantity="other">За %1$d дзён</item>
+    <item quantity="one">За %1$d дзень</item>
+    <item quantity="few">За %1$d дні</item>
+    <item quantity="many">За %1$d дзён</item>
   </plurals>
   <plurals name="edit_date_calculate_days_error_hint">
-    <item quantity="other">Вы можаце ўвесці да %1$d дня</item>
+    <item quantity="other">Вы можаце ўвесці да %1$d дзён</item>
     <item quantity="one">Вы можаце ўвесці да %1$d дня</item>
     <item quantity="few">Вы можаце ўвесці да %1$d дзён</item>
     <item quantity="many">Вы можаце ўвесці да %1$d дзён</item>
@@ -91,7 +91,7 @@
     <item quantity="many">+%d</item>
   </plurals>
   <plurals name="Ndays">
-    <item quantity="other">За %d дня</item>
+    <item quantity="other">За %d дзён</item>
     <item quantity="one">За %d дзень</item>
     <item quantity="few">За %d дні</item>
     <item quantity="many">За %d дзён</item>
@@ -103,7 +103,7 @@
     <item quantity="many">Праз %1$d дзён</item>
   </plurals>
   <plurals name="Ndays_after_at">
-    <item quantity="other">Праз %1$d дня ў %2$s</item>
+    <item quantity="other">Праз %1$d дзён ў %2$s</item>
     <item quantity="one">Праз %1$d дзень у %2$s</item>
     <item quantity="few">Праз %1$d дні ў %2$s</item>
     <item quantity="many">Праз %1$d дзён у %2$s</item>
@@ -164,10 +164,10 @@
     <item quantity="many">кожныя %1$s у %2$s</item>
   </plurals>
   <plurals name="repeat_interval_frequency_day_multiple">
-    <item quantity="other">%1$dдня</item>
+    <item quantity="other">%1$d дзён</item>
     <item quantity="one">%1$d дзень</item>
     <item quantity="few">%1$d дні</item>
-    <item quantity="many">%1$dдзён</item>
+    <item quantity="many">%1$d дзён</item>
   </plurals>
   <plurals name="repeat_interval_frequency_month_multiple">
     <item quantity="other">%1$d месяца</item>
@@ -194,13 +194,13 @@
     <item quantity="many">%2$s хвілінах язды %1$s.</item>
   </plurals>
   <plurals name="weekN">
-    <item quantity="other">Тыдзень %d</item>
-    <item quantity="one">Тыдзень %d</item>
-    <item quantity="few">Тыдзень %d</item>
-    <item quantity="many">Тыдзень %d</item>
+    <item quantity="other">%d тыдзень</item>
+    <item quantity="one">%d тыдзень</item>
+    <item quantity="few">%d тыдзень</item>
+    <item quantity="many">%d тыдзень</item>
   </plurals>
   <plurals name="work_days">
-    <item quantity="other">%d працоўнага дня</item>
+    <item quantity="other">%d працоўных дзён</item>
     <item quantity="one">%d працоўны дзень</item>
     <item quantity="few">%d працоўных дні</item>
     <item quantity="many">%d працоўных дзён</item>
@@ -488,9 +488,9 @@
         <item quantity="one">Учора быў дзень нараджэння ў %1$s (%2$d – па традыцыйным кітайскім календары)</item>
     </plurals>
     <plurals name="n_day_before">
-        <item quantity="other">%d дзён таму</item>
-        <item quantity="one">%d дзень таму</item>
-        <item quantity="few">%d дні таму</item>
+        <item quantity="other">За %d дзён</item>
+        <item quantity="one">За %d дзень</item>
+        <item quantity="few">За %d дні</item>
     </plurals>
     <plurals name="n_day_later">
         <item quantity="other">Праз %d дзён</item>
@@ -507,11 +507,6 @@
         <item quantity="one">%d падзея</item>
         <item quantity="few">%d падзеі</item>
     </plurals>
-    <plurals name="miuix_indexer_selected">
-        <item quantity="other">Абрана %1$d элементаў</item>
-        <item quantity="one">Абраны %1$d элемент</item>
-        <item quantity="few">Абрана %1$d элемента</item>
-    </plurals>
     <plurals name="countdown_hour">
         <item quantity="other">Пачатак праз %1$s г.</item>
         <item quantity="one">Пачатак праз %1$s г.</item>
@@ -525,19 +520,39 @@
         <item quantity="one">%1$s г.</item>
     </plurals>
      <plurals name="Ndays_v1">
-        <item quantity="other">%d д. таму</item>
-        <item quantity="one">%d д. таму</item>
+        <item quantity="other">За %d д.</item>
+        <item quantity="one">За %d д.</item>
     </plurals>
     <plurals name="Nhours_v1">
-        <item quantity="other">%d г. таму</item>
-        <item quantity="one">%d г. таму</item>
+        <item quantity="other">За %d г.</item>
+        <item quantity="one">За %d г.</item>
     </plurals>
     <plurals name="Nminutes_v1">
-        <item quantity="other">%d хв. таму</item>
-        <item quantity="one">%d хв. таму</item>
+        <item quantity="other">За %d хв.</item>
+        <item quantity="one">За %d хв.</item>
     </plurals>
     <plurals name="Nweeks_v1">
-        <item quantity="other">%d тыд. таму</item>
-        <item quantity="one">%d тыдз. таму</item>
+        <item quantity="other">За %d тыд.</item>
+        <item quantity="one">За %d тыдз.</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Абрана %1$d элементаў</item>
+        <item quantity="one">Абраны %1$d элемент</item>
+        <item quantity="few">Абрана %1$d элемента</item>
+    </plurals>
+	<plurals name="Ndays_after_at_annver">
+        <item quantity="other">Праз %1$d дзён</item>
+        <item quantity="few">Праз %1$d дні</item>
+        <item quantity="one">Праз %1$d дзень</item>
+    </plurals>
+    <plurals name="Ndays_ago_at_annver">
+        <item quantity="other">За %1$d дзён</item>
+        <item quantity="few">За %1$d дні</item>
+        <item quantity="one">За %1$d дзень</item>
+    </plurals>
+    <plurals name="age">
+        <item quantity="other">гадоў</item>
+        <item quantity="few">гады</item>
+        <item quantity="one">год</item>
     </plurals>
 </resources>

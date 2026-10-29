@@ -25,10 +25,10 @@
         <item quantity="many">файлаў: %d</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">"Абрана %1$d аб'екта"</item>
+        <item quantity="other">"Абрана %1$d аб'ектаў"</item>
         <item quantity="one">"Абраны %1$d аб'ект"</item>
         <item quantity="few">"Абрана %1$d аб'екта"</item>
-        <item quantity="many">"Абрана %1$d аб'екта"</item>
+        <item quantity="many">"Абрана %1$d аб'ектаў"</item>
     </plurals>
     <plurals name="items_picture">
         <item quantity="other">" (%1$d файлаў)"</item>
@@ -55,12 +55,10 @@
         <item quantity="many">Пошук у дадатках па запыце \"%1$s\" (элементаў: %2$d)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">Файлы па запыце \"%1$s\" (элементаў: %2$d)</item>
-        <item quantity="zero">Файлы па запыце \"%1$s\" (элементаў: %2$d)</item>
-        <item quantity="one">Файлы па запыце \"%1$s\" (элементаў: %2$d)</item>
-        <item quantity="two">Файлы па запыце \"%1$s\" (элементаў: %2$d)</item>
-        <item quantity="few">Файлы па запыце \"%1$s\" (элементаў: %2$d)</item>
-        <item quantity="many">Файлы па запыце \"%1$s\" (элементаў: %2$d)</item>
+        <item quantity="other">"Файлы, якія змяшчаюць «%1$s» (%2$d аб'ектаў)"</item>
+        <item quantity="one">"Файлы, якія змяшчаюць «%1$s» (%2$d аб'ект)"</item>
+        <item quantity="few">"Файлы, якія змяшчаюць «%1$s» (%2$d аб'екта)"</item>
+        <item quantity="many">"Файлы, якія змяшчаюць «%1$s» (%2$d аб'ектаў)"</item>
     </plurals>
     <plurals name="search_head_hint_tag">
         <item quantity="other">Тэгі па запыце \"%1$s\" (элементаў: %2$d)</item>
@@ -538,4 +536,106 @@
         <item quantity="few">"Перададзена %s элемента"</item>
         <item quantity="many">"Перададзена %s элементаў"</item>
     </plurals>
+	<plurals name="delete_message_content">
+    <item quantity="other">Выдаленыя аб\'екты будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+    <item quantity="one">Выдаленыя аб\'екты будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дня</item>
+    <item quantity="few">Выдаленыя аб\'екты будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+    <item quantity="many">Выдаленыя аб\'екты будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+  </plurals>
+  <plurals name="delete_message_file">
+    <item quantity="other">Выдаленыя файлы будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+    <item quantity="one">Выдаленыя файлы будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дня</item>
+    <item quantity="few">Выдаленыя файлы будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+    <item quantity="many">Выдаленыя файлы будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+  </plurals>
+  <plurals name="delete_message_folder">
+    <item quantity="other">Выдаленыя тэчкі будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+    <item quantity="one">Выдаленыя тэчкі будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дня</item>
+    <item quantity="few">Выдаленыя тэчкі будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+    <item quantity="many">Выдаленыя тэчкі будуць захоўвацца ў раздзеле \"Сметнiца\" на працягу %1$d дзён</item>
+  </plurals>
+  <plurals name="delete_message_system">
+    <item quantity="other">Вылучаныя аб\'екты змяшчаюць сістэмныя файлы. Яны будуць перамешчаныя ў паздзел \"Сметнiца\", і іх можна будзе аднавіць на працягу%1$d дзён.</item>
+    <item quantity="one">Вылучаныя аб\'екты змяшчаюць сістэмныя файлы. Яны будуць перамешчаныя ў паздзел \"Сметнiца\", і іх можна будзе аднавіць на працягу%1$d дня.</item>
+    <item quantity="few">Вылучаныя аб\'екты змяшчаюць сістэмныя файлы. Яны будуць перамешчаныя ў паздзел \"Сметнiца\", і іх можна будзе аднавіць на працягу%1$d дзён.</item>
+    <item quantity="many">Вылучаныя аб\'екты змяшчаюць сістэмныя файлы. Яны будуць перамешчаныя ў паздзел \"Сметнiца\", і іх можна будзе аднавіць на працягу%1$d дзён.</item>
+  </plurals>
+  <plurals name="delete_title_cloud_files">
+    <item quantity="other">Выдаліць %1$d аб\'ектаў?</item>
+    <item quantity="one">Выдаліць %1$d аб\'ект?</item>
+    <item quantity="few">Выдаліць %1$d аб\'екты?</item>
+    <item quantity="many">Выдаліць %1$d аб\'ектаў?</item>
+  </plurals>
+  <plurals name="delete_title_file">
+    <item quantity="other">Выдаліць %1$d файлаў?</item>
+    <item quantity="one">Выдаліць %1$d файл?</item>
+    <item quantity="few">Выдаліць %1$d файлы?</item>
+    <item quantity="many">Выдаліць %1$d файлаў?</item>
+  </plurals>
+  <plurals name="delete_title_folder">
+    <item quantity="other">Выдаліць %1$d тэчак?</item>
+    <item quantity="one">Выдаліць %1$d тэчку?</item>
+    <item quantity="few">Выдаліць %1$d тэчкі?</item>
+    <item quantity="many">Выдаліць %1$d тэчак?</item>
+  </plurals>
+  <plurals name="number_of_files">
+    <item quantity="other">%1$d файлаў</item>
+    <item quantity="one">%1$d файл</item>
+    <item quantity="few">%1$d файлы</item>
+    <item quantity="many">%1$d файлаў</item>
+  </plurals>
+  <plurals name="number_of_folders">
+    <item quantity="other">%1$d тэчак</item>
+    <item quantity="one">%1$d тэчка</item>
+    <item quantity="few">%1$d тэчкі</item>
+    <item quantity="many">%1$d тэчак</item>
+  </plurals>
+  <plurals name="trash_file_delete_message">
+    <item quantity="other">%1$s файлаў будуць выдалены назаўжды. Выдаліць зараз?</item>
+    <item quantity="one">%1$s файл будзе выдалены назаўжды. Выдаліць зараз?</item>
+    <item quantity="few">%1$s файлы будуць выдалены назаўжды. Выдаліць зараз?</item>
+    <item quantity="many">%1$s файлаў будуць выдалены назаўжды. Выдаліць зараз?</item>
+  </plurals>
+  <plurals name="trash_file_delete_surplus_day">
+    <item quantity="other">%1$d дзён</item>
+    <item quantity="one">%1$d дзень</item>
+    <item quantity="few">%1$d дні</item>
+    <item quantity="many">%1$d дзён</item>
+  </plurals>
+  <plurals name="trash_message">
+    <item quantity="other">Файлы будуць захоўвацца на працягу %1$d дзён, а затым выдалены назаўжды</item>
+    <item quantity="one">Файлы будуць захоўвацца на працягу %1$d дня, а затым выдалены назаўжды</item>
+    <item quantity="few">Файлы будуць захоўвацца на працягу %1$d дзён, а затым выдалены назаўжды</item>
+    <item quantity="many">Файлы будуць захоўвацца на працягу %1$d дзён, а затым выдалены назаўжды</item>
+  </plurals>
+  <plurals name="trash_operation_delete_confirm_android">
+    <item quantity="other">Калі вы выдаліце тэчку %1$s, усе сістэмныя файлы будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="one">Калі вы выдаліце тэчку %1$s, усе сістэмныя файлы будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дня. Выдаліць зараз?</item>
+    <item quantity="few">Калі вы выдаліце тэчку %1$s, усе сістэмныя файлы будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="many">Калі вы выдаліце тэчку %1$s, усе сістэмныя файлы будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+  </plurals>
+  <plurals name="trash_operation_delete_confirm_dcim">
+    <item quantity="other">Калі вы выдаліце тэчку %1$s, усе файлы з Галерэі будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="one">Калі вы выдаліце тэчку %1$s, усе аб\'екты Галерэі будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дня. Выдаліць зараз?</item>
+    <item quantity="few">Калі вы выдаліце тэчку %1$s, усе файлы з Галерэі будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="many">Калі вы выдаліце тэчку %1$s, усе файлы з Галерэі будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+  </plurals>
+  <plurals name="trash_operation_delete_confirm_miui">
+    <item quantity="other">Калі вы выдаліце тэчку %1$s, усе файлы сістэмных праграм будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="one">Калі вы выдаліце тэчку %1$s, усе файлы сістэмных праграм будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дня. Выдаліць зараз?</item>
+    <item quantity="few">Калі вы выдаліце тэчку %1$s, усе файлы сістэмных праграм будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="many">Калі вы выдаліце тэчку %1$s, усе файлы сістэмных праграм будуць перамешчаны ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+  </plurals>
+  <plurals name="trash_operation_delete_confirm_other">
+    <item quantity="other">Калі вы выдаліце ​​тэчку %1$s, файлы, якія знаходзяцца ў ёй, будуць перамешчаныя ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="one">Калі вы выдаліце ​​тэчку %1$s, файлы, якія знаходзяцца ў ёй, будуць перамешчаныя ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дня. Выдаліць зараз?</item>
+    <item quantity="few">Калі вы выдаліце ​​тэчку %1$s, файлы, якія знаходзяцца ў ёй, будуць перамешчаныя ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+    <item quantity="many">Калі вы выдаліце ​​тэчку %1$s, файлы, якія знаходзяцца ў ёй, будуць перамешчаныя ў раздзел \"Сметнiца\" і могуць быць адноўлены на працягу %2$d дзён. Выдаліць зараз?</item>
+  </plurals>
+  <plurals name="trash_restore_error_dilog_message">
+    <item quantity="other">Тэчка недаступная. Не атрымалася аднавіць %1$d файлаў.</item>
+    <item quantity="one">Тэчка недаступная. Не атрымалася аднавіць %1$d файл.</item>
+    <item quantity="few">Тэчка недаступная. Не атрымалася аднавіць %1$d файлы.</item>
+    <item quantity="many">Тэчка недаступная. Не атрымалася аднавіць %1$d файлаў.</item>
+  </plurals>
 </resources>

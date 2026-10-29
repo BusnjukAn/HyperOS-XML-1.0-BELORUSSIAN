@@ -9,6 +9,8 @@
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d гадзіну таму</item>
         <item quantity="one">%d гадзіну таму</item>
+        <item quantity="few">%d гадзіну таму</item>
+        <item quantity="many">%d гадзіну таму</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
@@ -147,7 +149,7 @@
     <item quantity="other">Вы не стваралі рэзервовыя копіі сваіх элементаў на працягу %s тыдняў. Націсніце, каб даведацца, як уключыць аўтаматычнае рэзервовае капіяванне.</item>
     <item quantity="one">Вы не стваралі рэзервовыя копіі сваіх элементаў на працягу %s тыдня. Націсніце, каб даведацца, як уключыць аўтаматычнае рэзервовае капіяванне.</item>
   </plurals>
-  <plurals name="days_and_size_without_backup">
+    <plurals name="days_and_size_without_backup">
      <item quantity="other">%1$d дзён з моманту апошняга капіявання | Новыя дадзеныя: %2$s</item>
      <item quantity="one">%1$d дзень з моманту апошняга капіявання | Новыя дадзеныя: %2$s</item>
      <item quantity="few">%1$d дня з моманту апошняга капіявання | Новыя дадзеныя: %2$s</item>
@@ -161,5 +163,45 @@
         <item quantity="other">Абрана %1$d элементаў</item>
         <item quantity="one">Абраны %1$d элемент</item>
         <item quantity="few">Абрана %1$d элемента</item>
+    </plurals>
+	<plurals name="backup_frequence_days">
+        <item quantity="other">Кожныя %d дзён</item>
+        <item quantity="one">Кожныя %d дзень</item>
+        <item quantity="few">Кожныя %d дні</item>
+    </plurals>
+    <plurals name="backup_options_summary_format">
+        <item quantity="other">%1$d/%2$d элементаў</item>
+        <item quantity="one">%1$d/%2$d элемент</item>
+        <item quantity="few">%1$d/%2$d элемента</item>
+    </plurals>
+    <plurals name="backup_unselected_items_dialog_message">
+        <item quantity="other">Рэзервовае капіяванне адключана для %2$d элементаў, уключаючы %1$s. Каб уключыць, абярыце ў \"Рэзерваваных элементах\".</item>
+        <item quantity="one">Рэзервовае капіяванне адключана для %2$d элемента, уключаючы %1$s. Каб уключыць, абярыце ў \"Рэзерваваных элементах\".</item>
+        <item quantity="few">Рэзервовае капіяванне адключана для %2$d элементаў, уключаючы %1$s. Каб уключыць, абярыце ў \"Рэзерваваных элементах\".</item>
+    </plurals>
+    <plurals name="backup_unselected_items_dialog_title">
+        <item quantity="other">%d праграм не рэзервуюцца</item>
+        <item quantity="one">%d праграма не рэзервуецца</item>
+        <item quantity="few">%d праграмы не рэзервуюцца</item>
+    </plurals>
+    <plurals name="restore_notification_partial_result_1">
+        <item quantity="other">Адноўлена %d элементаў</item>
+        <item quantity="one">Адноўлены %d элемент</item>
+        <item quantity="few">Адноўлена %d элемента</item>
+    </plurals>
+    <plurals name="restore_notification_partial_result_2">
+        <item quantity="other">Не атрымалася аднавіць %d элементаў</item>
+        <item quantity="one">Не атрымалася аднавіць %d элемент</item>
+        <item quantity="few">Не атрымалася аднавіць %d элемента</item>
+    </plurals>
+    <plurals name="restore_progress_partial_hint_1">
+        <item quantity="other">Адноўлена %d элементаў</item>
+        <item quantity="one">Адноўлены %d элемент</item>
+        <item quantity="few">Адноўлена %d элемента</item>
+    </plurals>
+    <plurals name="restore_progress_partial_hint_2">
+        <item quantity="other">Не атрымалася аднавіць %d элементаў</item>
+        <item quantity="one">Не атрымалася аднавіць %d элемент</item>
+        <item quantity="few">Не атрымалася аднавіць %d элемента</item>
     </plurals>
 </resources>

@@ -1116,14 +1116,14 @@
   <string name="surprise_wallpaper_generate_failed_toast">Гэтая генерацыя шпалер-сюрпрызаў не атрымалася</string>
   <string name="ai_back">Назад</string>
   <string name="ai_begin">Пачаць</string>
-  <string name="ai_disable_limit_message">Больш спроб на сёння не засталося. Стварыце яшчэ шпалеры ШI заўтра!</string>
+  <string name="ai_disable_limit_message">Больш спроб на сёння не засталося. Стварыце яшчэ шпалеры AІ заўтра!</string>
   <string name="ai_edit_hint">Апішыце чаканы вынік. Добрае апісанне можа дапамагчы нашаму штучнаму інтэлекту зрабіць лепшае стварэнне з такімі зразумелымі словамі, як \"Золата\",\"Цмок\",\"Парыць\",\"Воблака\".</string>
-  <string name="ai_network_error_message">"Няма падлучэння да сеткі. Немагчыма выкарыстоўваць шпалеры ШI."</string>
+  <string name="ai_network_error_message">"Няма падлучэння да сеткі. Немагчыма выкарыстоўваць шпалеры AІ."</string>
   <string name="ai_next">Захаваць у галерэі</string>
   <string name="ai_participation">Удзел штучнага інтэлекту</string>
   <string name="ai_recommend_keyword">Стылі</string>
   <string name="ai_text_limit">"Немагчыма ўвесці больш тэксту"</string>
-  <string name="creation_ai_disable_limit_message">Больш спроб на сёння не засталося. Стварыце яшчэ шпалеры ШI заўтра!</string>
+  <string name="creation_ai_disable_limit_message">Больш спроб на сёння не засталося. Стварыце яшчэ шпалеры AІ заўтра!</string>
   <string name="creation_ai_disable_message">Гэтая функцыя даступная толькі бэта-тэстарам. Вы можаце падаць заяўку ў супольнасці Xiaomi.</string>
   <string name="creation_ai_disable_title">Патрабуюцца дазволы бэта-тэстара</string>
   <string name="creation_ai_err">Выключэнне аўтэнтыфікатара</string>
@@ -1142,9 +1142,9 @@
   <string name="prompt_add_tip">Дадаць апісанне</string>
   <string name="sensitive_preview">"Немагчыма апрацаваць шпалеры штучнага інтэлекту для адчувальнага або недапушчальнага змесціва"</string>
   <string name="sensitive_prompt">"Немагчыма апрацаваць шпалеры штучнага інтэлекту для адчувальнага або недапушчальнага змесціва"</string>
-  <string name="sst_ai_wallpaper_Activity_title">Стварэнне шпалер ШI</string>
+  <string name="sst_ai_wallpaper_Activity_title">Стварэнне шпалер AІ</string>
   <string name="sst_ai_wallpaper_desc">Намаляваныя ад рукі выявы можна выкарыстоўваць для стварэння шпалер высокай выразнасці ў розных стылях праз AIGC.</string>
-  <string name="sst_ai_wallpaper_title">Стваральнік шпалер ШI</string>
+  <string name="sst_ai_wallpaper_title">Стваральнік шпалер AІ</string>
   <string name="wallpaper_creator_empty_dlg_content">Простыя крокі, імгненнае фарміраванне. Імпартуйце выяву, намаляваную ўручную/іншую выяву, увядзіце некалькі падказак і імгненна стварыце чатыры стылізаваныя шпалеры з дапамогай вялікіх мадэляў штучнага інтэлекту. Выберыце найбольш задавальняючыя і захавайце iх ў альбом.</string>
   <string name="prompt_Theme_tip">Немагчыма атрымаць стыль тэмы. Пераканайцеся, што сетка і час пазначаны правільна.</string>
   <string name="surprise_wallpaper_can_not_open_tip">Спачатку ўключыце паварот малюнкаў</string>
@@ -1337,4 +1337,5 @@
   <string name="wallpaper_apply_lock">Устанавіць як шпалеры экрана блакавання</string>
   <string name="wallpaper_loop_close_btn_text">Адключыць карусель</string>
   <string name="wallpaper_loop_page_title">Карусель шпалер</string>
+  <string name="fmt_calendar_date_picker_header_date">dd.MM.yyyy</string>
 </resources>

@@ -75,27 +75,27 @@
     </string-array>
     <string-array name="settings_search_mi_share">
         <item>Абмен файламі</item>
-        <item>Узаемасувязь/Абмен файламі</item>
+        <item>Узаемазвязанасць/Абмен файламі</item>
         <item>Абмен файламі</item>
     </string-array>
     <string-array name="settings_search_screen_cast">
         <item>Трансляцыя</item>
-        <item>Узаемасувязь/Трансляцыя</item>
+        <item>Узаемазвязанасць/Трансляцыя</item>
         <item>Трансляцыя, Згарнуць акно, Трансляцыя з выключаным экранам</item>
     </string-array>
     <string-array name="settings_search_screen_cast_help">
         <item>Даведка</item>
-        <item>Узаемасувязь/Трансляцыя/Даведка</item>
+        <item>Узаемазвязанасць/Трансляцыя/Даведка</item>
         <item>Даведка</item>
     </string-array>
     <string-array name="settings_search_share_camera">
         <item>Агульная камера</item>
-        <item>Узаемасувязь/Агульная камера</item>
+        <item>Узаемазвязанасць/Агульная камера</item>
         <item>Агульная камера</item>
     </string-array>
     <string-array name="settings_search_upay">
         <item>Агульныя плацяжы</item>
-        <item>Узаемасувязь/Агульныя плацяжы</item>
+        <item>Узаемазвязанасць/Агульныя плацяжы</item>
         <item>Агульныя плацяжы;плацяжы паміж прыладамі</item>
     </string-array>
 </resources>

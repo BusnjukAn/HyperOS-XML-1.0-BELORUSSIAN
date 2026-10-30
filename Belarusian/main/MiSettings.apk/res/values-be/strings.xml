@@ -1510,4 +1510,23 @@
   <string name="usage_new_home_by_limit">Па абмежаваннях</string>
   <string name="calendar_date_picker_a11y_next_month">Перайсці да наступнага месяца</string>
   <string name="calendar_date_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
+  <string name="advanced_screen_paper_mode_title_eye_protection">Клопат аб зроку Xiaomi</string>
+  <string name="btn_font_delect">Выдаліць</string>
+  <string name="delete_font_failed">Не атрымалася выдаліць шрыфт</string>
+  <string name="delete_font_normal">Выдаліць %1$s зараз?</string>
+  <string name="delete_font_success">Шрыфт паспяхова выдалены</string>
+  <string name="delete_font_using">Выдаліць %1$s зараз?\nПасля гэтага сістэма вернецца да шрыфта па змаўчанні.</string>
+  <string name="font_import_failed_exist">Немагчыма імпартаваць. Гэты шрыфт ужо існуе.</string>
+  <string name="font_import_success_hint">Імпартаваныя шрыфты могуць выкарыстоўвацца ў падтрымоўваных праграмах</string>
+  <string name="fonts_manager">Кіраванне шрыфтамі</string>
+  <string name="fonts_manager_delect">Выдаліць шрыфт</string>
+  <string name="import_fonts">Імпартаваць шрыфт</string>
+  <string name="importing_font_progress">Імпарт шрыфту файлаў %s</string>
+  <string name="importing_font_with_name">Імпарт %1$s (%2$d/%3$d）</string>
+  <string name="miuix_popup_show_description">Усплывальнае акно</string>
+  <string name="no_data_currently">Дадзеныя адсутнічаюць</string>
+  <string name="system_fonts">Сістэмныя шрыфты</string>
+  <string name="text_font_preview">Заўсёды верце, што адбудзецца нешта выдатнае.\n0, 1, 2, 3, 4, 5, 6, 7, 8, 9\nAa Bb Cc Dd Ee Ff Gg</string>
+  <string name="third_party_fonts">Мае шрыфты</string>
+  <string name="time_over_today_landscape">На сёння ўжо не засталося часу</string>
 </resources>

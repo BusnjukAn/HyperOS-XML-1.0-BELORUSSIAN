@@ -664,4 +664,18 @@
         <item quantity="few">Выкарыстанне прылады больш за %d хвіліны за раз можа прывесці да перанапружання вачэй.</item>
         <item quantity="many">Выкарыстанне прылады больш за %d хвілін за раз можа прывесці да перанапружання вачэй.</item>
     </plurals>
+	<plurals name="import_complete_with_failed">
+        <item quantity="other">Гатова | Імпартавана: %1$d | Не ўдалося імпартаваць: %2$d</item>
+        <item quantity="one">Гатова | Імпартавана: %1$d | Не ўдалося імпартаваць: %2$d</item>
+    </plurals>
+    <plurals name="import_failed">
+        <item quantity="other">Немагчыма імпартаваць %1$d файлаў</item>
+        <item quantity="one">Немагчыма імпартаваць %1$d файл</item>
+        <item quantity="few">Немагчыма імпартаваць %1$d файла</item>
+    </plurals>
+    <plurals name="import_success">
+        <item quantity="other">Імпартавана %1$d файлаў шрыфтоў</item>
+        <item quantity="one">Імпартаваны %1$d файл шрыфтоў</item>
+        <item quantity="few">Імпартавана %1$d файла шрыфтоў</item>
+    </plurals>
 </resources>

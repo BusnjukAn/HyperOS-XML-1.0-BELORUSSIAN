@@ -1066,7 +1066,6 @@
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Выйсці з рэжыму рэдагавання</string>
   <string name="miuix_appcompat_accessibility_new_message">Новае апавяшчэнне</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Увайсці ў рэжым рэдагавання</string>
-  <string name="miuix_appcompat_show_dialog_description">Усплываючае акно</string>
   <string name="miuix_progressbar_loading">Секундачку…</string>
   <string name="miuix_show_password">Паказаць пароль</string>
   <string name="miuix_stretchablewidget_collapsed">Закрыта</string>
@@ -1186,11 +1185,6 @@
   <string name="hide_album_and_screenshots">Схаваць альбомы і скрыншоты</string>
   <string name="hide_system_and_app_files">Схаваць сістэмныя файлы і файлы праграм</string>
   <string name="menu_item_trash">Сметнiца</string>
-  <string name="miuix_edit_dialog_fragment_empty_arg_title">Няма аргументаў</string>
-  <string name="miuix_item_view_accessibility_unselected">Не абрана</string>
-  <string name="miuix_navigator_category_group_collapsed">Згорнута</string>
-  <string name="miuix_navigator_category_group_expanded">Разгорнута</string>
-  <string name="miuix_pairing_dialog_closable_icon_description">Закрыць</string>
   <string name="miuix_popup_show_description">Усплывальнае акно</string>
   <string name="my_pad">Мой планшэт</string>
   <string name="my_phone">Мой тэлефон</string>

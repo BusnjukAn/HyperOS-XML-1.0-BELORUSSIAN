@@ -421,14 +421,6 @@
         <item quantity="few"><Data>&lt;font color=#0097FF>%d&lt;/font> набору дублікатаў файлаў</Data></item>
         <item quantity="one"><Data>&lt;font color=#0097FF>%d&lt;/font> набор дублікатаў файлаў</Data></item>
     </plurals>
-    <plurals name="wechat_video_time_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="wechat_video_time_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="summary_delete_apk">
         <item quantity="other">Назаўсёды выдаліць %d абраных праграм?</item>
         <item quantity="one">Назаўсёды выдаліць %d абраную праграму?</item>
